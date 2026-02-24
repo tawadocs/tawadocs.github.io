@@ -5810,26 +5810,26 @@
     ]
   },
   {
-    "word": "namako",
+    "word": "nàmàko",
+    "id": "namako",
     "definitions": [
       {
         "text": "spice",
-        "frequency": 82
+        "frequency": 100
       },
       {
         "text": "extra",
-        "frequency": 65
+        "frequency": 100
       },
       {
         "text": "additional",
-        "frequency": 50
+        "frequency": 100
       },
       {
         "text": "adornment",
-        "frequency": 50
+        "frequency": 100
       }
-    ],
-    "id": "namako"
+    ]
   },
   {
     "word": "nameko",
@@ -6694,6 +6694,92 @@
       }
     ],
     "id": "palisa luka"
+  },
+  {
+    "word": "pamya",
+    "id": "sitelen",
+    "definitions": [
+      {
+        "text": "picture",
+        "frequency": 100
+      },
+      {
+        "text": "image",
+        "frequency": 100
+      },
+      {
+        "text": "graphic",
+        "frequency": 100
+      },
+      {
+        "text": "symbol",
+        "frequency": 100
+      },
+      {
+        "text": "drawing",
+        "frequency": 100
+      },
+      {
+        "text": "illustration",
+        "frequency": 100
+      },
+      {
+        "text": "photo",
+        "frequency": 100
+      },
+      {
+        "text": "illustrate",
+        "frequency": 100
+      },
+      {
+        "text": "writing",
+        "frequency": 100
+      },
+      {
+        "text": "painting",
+        "frequency": 100
+      },
+      {
+        "text": "write",
+        "frequency": 100
+      },
+      {
+        "text": "written",
+        "frequency": 100
+      },
+      {
+        "text": "depict",
+        "frequency": 100
+      },
+      {
+        "text": "draw",
+        "frequency": 100
+      },
+      {
+        "text": "photograph",
+        "frequency": 100
+      },
+      {
+        "text": "portrait",
+        "frequency": 100
+      },
+      {
+        "text": "icon",
+        "frequency": 100
+      },
+      {
+        "text": "representation",
+        "frequency": 100
+      },
+      {
+        "text": "mark",
+        "frequency": 100
+      },
+      {
+        "text": "portray",
+        "frequency": 100
+      }
+    ]
   },
   {
     "word": "pan linja",
@@ -7912,92 +7998,6 @@
         "frequency": 100
       }
     ]
-  },
-  {
-    "word": "sitelen",
-    "definitions": [
-      {
-        "text": "picture",
-        "frequency": 100
-      },
-      {
-        "text": "image",
-        "frequency": 97
-      },
-      {
-        "text": "graphic",
-        "frequency": 93
-      },
-      {
-        "text": "symbol",
-        "frequency": 89
-      },
-      {
-        "text": "drawing",
-        "frequency": 88
-      },
-      {
-        "text": "illustration",
-        "frequency": 86
-      },
-      {
-        "text": "photo",
-        "frequency": 85
-      },
-      {
-        "text": "illustrate",
-        "frequency": 75
-      },
-      {
-        "text": "writing",
-        "frequency": 75
-      },
-      {
-        "text": "painting",
-        "frequency": 75
-      },
-      {
-        "text": "write",
-        "frequency": 75
-      },
-      {
-        "text": "written",
-        "frequency": 73
-      },
-      {
-        "text": "depict",
-        "frequency": 68
-      },
-      {
-        "text": "draw",
-        "frequency": 67
-      },
-      {
-        "text": "photograph",
-        "frequency": 64
-      },
-      {
-        "text": "portrait",
-        "frequency": 55
-      },
-      {
-        "text": "icon",
-        "frequency": 53
-      },
-      {
-        "text": "representation",
-        "frequency": 50
-      },
-      {
-        "text": "mark",
-        "frequency": 47
-      },
-      {
-        "text": "portray",
-        "frequency": 45
-      }
-    ],
-    "id": "sitelen"
   },
   {
     "word": "sitelen esun",
