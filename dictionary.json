@@ -1,6 +1,7 @@
 [
   {
     "word": "a",
+    "id": "a",
     "definitions": [
       {
         "text": "ah",
@@ -42,8 +43,7 @@
         "text": "huh",
         "frequency": 100
       }
-    ],
-    "id": "a"
+    ]
   },
   {
     "word": "akesi",
