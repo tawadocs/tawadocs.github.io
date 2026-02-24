@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>lipu nimi</title>
+<link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;800&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #0b0e11;
+    --card-bg: #161b22;
+    --card-hover: #1c212a;
+    --text-main: #e2e8f0;
+    --text-muted: #94a3b8;
+    --accent: #818cf8; 
+    --border: rgba(255, 255, 255, 0.06);
+    --border-hover: rgba(255, 255, 255, 0.12);
+    --sidebar-bg: #0f1319;
+  }
+  
+  body { 
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    background-color: var(--bg);
+    color: var(--text-main);
+    margin: 0; padding: 4rem 2rem;
+    line-height: 1.6;
+  }
+
+  header { max-width: 900px; margin: 0 auto 3rem; display: flex; justify-content: space-between; align-items: center; }
+  
+  /* NEW: Clickable Title Styling */
+  .logo-link { 
+    text-decoration: none; 
+    transition: opacity 0.2s ease; 
+    cursor: pointer; 
+  }
+  .logo-link:hover { opacity: 0.7; }
+  
+  h1 { font-size: 1.6rem; font-weight: 800; letter-spacing: -0.03em; color: white; margin: 0; }
+
+  #search { 
+    display: block; width: 100%; max-width: 600px; margin: 0 auto 4rem;
+    padding: 1rem 1.5rem; background: var(--card-bg); border: 1px solid var(--border);
+    border-radius: 12px; color: white; outline: none; font-size: 1.05rem;
+    transition: all 0.3s ease; box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  }
+  #search::placeholder { color: #64748b; }
+  #search:focus { border-color: var(--accent); box-shadow: 0 0 0 3px rgba(129, 140, 248, 0.15); }
+
+  #results {
+    display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+    gap: 1.25rem; max-width: 900px; margin: 0 auto;
+  }
+
+  .entry { 
+    background: var(--card-bg); border: 1px solid var(--border);
+    border-radius: 14px; padding: 1.25rem 1.5rem; cursor: pointer;
+    transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+  }
+  .entry:hover { transform: translateY(-3px); background: var(--card-hover); border-color: var(--border-hover); }
+
+  .word-title { font-size: 1.25rem; font-weight: 600; color: var(--accent); margin-bottom: 0.4rem; letter-spacing: -0.01em; }
+  .def-preview { font-size: 0.9rem; color: var(--text-muted); line-height: 1.5; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+
+  #modal-overlay {
+    position: fixed; top: 0; left: 0; width: 100%; height: 100%;
+    background: rgba(5, 7, 10, 0.6); 
+    backdrop-filter: blur(4px);
+    z-index: 1000;
+    opacity: 0; visibility: hidden;
+    transition: all 0.3s ease;
+    display: none;
+  }
+
+  #modal-overlay.active { opacity: 1; visibility: visible; }
+
+  #modal {
+    position: absolute; right: 0; top: 0;
+    background: var(--sidebar-bg); 
+    width: 100%; max-width: 450px; height: 100vh;
+    padding: 2.5rem; border-left: 1px solid var(--border);
+    box-shadow: -10px 0 40px rgba(0,0,0,0.5);
+    display: flex; flex-direction: column;
+    transform: translateX(100%);
+    transition: transform 0.35s cubic-bezier(0.16, 1, 0.3, 1);
+    box-sizing: border-box;
+  }
+
+  #modal-overlay.active #modal { transform: translateX(0); }
+
+  .modal-close { 
+    align-self: flex-end; cursor: pointer; color: var(--text-muted); 
+    font-size: 1.8rem; line-height: 1; transition: 0.2s; margin-bottom: 1rem;
+  }
+  .modal-close:hover { color: white; }
+  
+  #modal-content { display: flex; flex-direction: column; flex-grow: 1; height: 100%; }
+
+  .editable-title { 
+    font-size: 2.2rem; font-weight: 800; color: white; margin-bottom: 0.5rem;
+    border: none; background: transparent; outline: none; width: 100%;
+    letter-spacing: -0.03em; font-family: inherit;
+  }
+  .editable-title::placeholder { color: #334155; }
+
+  .editable-defs { 
+    font-size: 1.05rem; line-height: 1.7; color: var(--text-main); 
+    padding: 1rem 0; border: none; background: transparent; 
+    outline: none; width: 100%; resize: none; 
+    flex-grow: 1; font-family: inherit; overflow-y: auto;
+  }
+  .editable-defs::placeholder { color: #475569; }
+
+  .modal-divider { height: 1px; background: var(--border); margin: 1.5rem 0; flex-shrink: 0; }
+
+  .actions { display: flex; justify-content: space-between; align-items: center; flex-shrink: 0; padding-top: 1rem; }
+  
+  .btn-save { 
+    background: white; color: black; border: none; padding: 0.7rem 1.5rem; 
+    border-radius: 8px; font-weight: 600; font-size: 0.95rem; cursor: pointer; transition: 0.2s;
+  }
+  .btn-save:hover { background: var(--accent); color: white; }
+
+  .btn-delete { color: #ef4444; background: transparent; border: none; font-weight: 500; font-size: 0.95rem; cursor: pointer; opacity: 0.8; transition: 0.2s; padding: 0.7rem 0; }
+  .btn-delete:hover { opacity: 1; text-decoration: underline; }
+
+  .btn-add { background: var(--card-bg); color: white; border: 1px solid var(--border); padding: 0.6rem 1.2rem; border-radius: 8px; font-size: 0.9rem; font-weight: 600; cursor: pointer; transition: 0.2s; }
+  .btn-add:hover { background: white; color: black; border-color: white; }
+</style>
+</head>
+<body>
+
+<header>
+  <a onclick="goHome()" class="logo-link">
+    <h1>ribuganááną</h1>
+  </a>
+  <a href="index.html" class="logo-link">
+    <h1>asaĉ</h1>
+  </a>
+  <button class="btn-add" onclick="openNewWordModal()">+ New Entry</button>
+</header>
+
+<input type="text" id="search" placeholder="Search the lexicon..." autocomplete="off" />
+<div id="results"></div>
+
+<div id="modal-overlay" onclick="closeModal()">
+  <div id="modal" onclick="event.stopPropagation()">
+    <span class="modal-close" onclick="closeModal()">×</span>
+    <div id="modal-content"></div>
+  </div>
+</div>
+
+<script>
+let currentDictionary = [];
+
+// NEW: Function to clear search and reset view
+function goHome() {
+  document.getElementById('search').value = '';
+  closeModal();
+  loadWords('');
+}
+
+async function loadWords(query = '') {
+  try {
+    const res = await fetch(`/search?q=${query}`);
+    currentDictionary = await res.json();
+  } catch (e) {
+    console.error("Failed to load words", e);
+  }
+  
+  document.getElementById('results').innerHTML = currentDictionary.map(entry => `
+    <div class="entry" onclick="openModal('${entry.word}')">
+      <div class="word-title">${entry.word}</div>
+      <div class="def-preview">${entry.definitions.map(d => d.text).join(', ')}</div>
+    </div>
+  `).join('');
+}
+
+function openModal(word) {
+  const entry = currentDictionary.find(e => e.word === word) || { word: '', definitions: [] };
+  const defString = entry.definitions.map(d => d.text).join(', ');
+  
+  const modalContent = document.getElementById('modal-content');
+  modalContent.innerHTML = `
+    <input type="text" id="edit-word" class="editable-title" value="${entry.word}" placeholder="Word">
+    <textarea id="edit-defs" class="editable-defs" placeholder="Type definitions here... (separate with commas)">${defString}</textarea>
+    <div class="modal-divider"></div>
+    <div class="actions">
+      <button onclick="deleteWord('${word}')" class="btn-delete">Delete</button>
+      <button class="btn-save" onclick="saveWord('${word}')">Save changes</button>
+    </div>
+  `;
+
+  const overlay = document.getElementById('modal-overlay');
+  overlay.style.display = 'block'; 
+  void overlay.offsetWidth; 
+  overlay.classList.add('active');
+}
+
+function openNewWordModal() { openModal('_new'); }
+
+function closeModal() { 
+  const overlay = document.getElementById('modal-overlay');
+  overlay.classList.remove('active');
+  setTimeout(() => {
+    overlay.style.display = 'none';
+  }, 350); 
+}
+
+async function saveWord(originalWord) {
+  const newWord = document.getElementById('edit-word').value.trim();
+  const defString = document.getElementById('edit-defs').value;
+  if (!newWord) return;
+
+  const defs = defString.split(',')
+    .map(text => ({ text: text.trim(), frequency: 100 }))
+    .filter(d => d.text);
+
+  try {
+    await fetch(`/word/${originalWord}`, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ word: newWord, definitions: defs })
+    });
+  } catch (e) {}
+  
+  closeModal();
+  loadWords(document.getElementById('search').value);
+}
+
+async function deleteWord(word) {
+  if (word === '_new') return closeModal();
+  if (!confirm(`Remove "${word}" from the lexicon?`)) return;
+  
+  try {
+    await fetch(`/word/${word}`, { method: 'DELETE' });
+  } catch (e) {}
+  
+  closeModal();
+  loadWords();
+}
+
+document.getElementById('search').addEventListener('input', (e) => loadWords(e.target.value));
+loadWords();
+</script>
+</body>
+</html>
