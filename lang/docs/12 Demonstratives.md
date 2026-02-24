@@ -13,7 +13,7 @@
 	* don't use it:
 		* if the demonstrative is marking general position
 * Some examples to help you understand:
-	* *asaryã* -> `house-this.PROX.MOD`
+	* *asaryą* -> `house-this.PROX.MOD`
 		* "**This** house"
 	* *ryo ni asaĉ* -> `this.PROX TOP house-N.PLAT`
 		* "**This is** a house"

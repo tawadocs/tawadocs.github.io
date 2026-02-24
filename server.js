@@ -6,8 +6,8 @@ const bodyParser = require('body-parser');
 const app = express();
 const PORT = 3000;
 const DICTIONARY_PATH = path.join(__dirname, 'dictionary.json');
-const DOCS_PATH = path.join(__dirname, 'docs');
-const MP_DOCS_PATH = path.join(__dirname, 'docs-mp');
+const DOCS_PATH = path.join(__dirname, 'lang/docs');
+const MP_DOCS_PATH = path.join(__dirname, 'lang/docs-mp');
 
 app.use(bodyParser.json());
 app.use(express.static('public'));
