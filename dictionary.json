@@ -226,6 +226,38 @@
     ]
   },
   {
+    "word": "atora",
+    "id": "atora",
+    "definitions": [
+      {
+        "text": "apple",
+        "frequency": 100
+      },
+      {
+        "text": "green juicy fruit",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "azuru",
+    "id": "laso",
+    "definitions": [
+      {
+        "text": "blue",
+        "frequency": 100
+      },
+      {
+        "text": "teal",
+        "frequency": 100
+      },
+      {
+        "text": "green",
+        "frequency": 100
+      }
+    ]
+  },
+  {
     "word": "ba",
     "id": "ba",
     "definitions": [
@@ -716,6 +748,62 @@
     ]
   },
   {
+    "word": "gaida",
+    "id": "open",
+    "definitions": [
+      {
+        "text": "open",
+        "frequency": 100
+      },
+      {
+        "text": "begin",
+        "frequency": 100
+      },
+      {
+        "text": "start",
+        "frequency": 100
+      },
+      {
+        "text": "beginning",
+        "frequency": 100
+      },
+      {
+        "text": "initiate",
+        "frequency": 100
+      },
+      {
+        "text": "starting",
+        "frequency": 100
+      },
+      {
+        "text": "opening",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "ganáán",
+    "id": "nimi",
+    "definitions": [
+      {
+        "text": "word",
+        "frequency": 100
+      },
+      {
+        "text": "name",
+        "frequency": 100
+      },
+      {
+        "text": "term",
+        "frequency": 100
+      },
+      {
+        "text": "title",
+        "frequency": 100
+      }
+    ]
+  },
+  {
     "word": "garibàn",
     "id": "nasa",
     "definitions": [
@@ -768,11 +856,63 @@
     ]
   },
   {
+    "word": "haha",
+    "id": "musi",
+    "definitions": [
+      {
+        "text": "entertainment",
+        "frequency": 100
+      },
+      {
+        "text": "fun",
+        "frequency": 100
+      },
+      {
+        "text": "funny",
+        "frequency": 100
+      },
+      {
+        "text": "play",
+        "frequency": 100
+      },
+      {
+        "text": "game",
+        "frequency": 100
+      },
+      {
+        "text": "comedy",
+        "frequency": 100
+      },
+      {
+        "text": "art",
+        "frequency": 100
+      },
+      {
+        "text": "artistic",
+        "frequency": 100
+      }
+    ]
+  },
+  {
     "word": "hahakari",
     "id": "yupekosi",
     "definitions": [
       {
         "text": "absurdity",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "hana",
+    "id": "nena",
+    "definitions": [
+      {
+        "text": "hill",
+        "frequency": 100
+      },
+      {
+        "text": "nose",
         "frequency": 100
       }
     ]
@@ -848,6 +988,36 @@
     ]
   },
   {
+    "word": "haruma",
+    "id": "lupa",
+    "definitions": [
+      {
+        "text": "hole",
+        "frequency": 100
+      },
+      {
+        "text": "door",
+        "frequency": 100
+      },
+      {
+        "text": "orifice",
+        "frequency": 100
+      },
+      {
+        "text": "pit",
+        "frequency": 100
+      },
+      {
+        "text": "window",
+        "frequency": 100
+      },
+      {
+        "text": "gate",
+        "frequency": 100
+      }
+    ]
+  },
+  {
     "word": "haŝiru",
     "id": "jan lili",
     "definitions": [
@@ -875,6 +1045,116 @@
       },
       {
         "text": "fondle",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "hatakanq",
+    "id": "monsi",
+    "definitions": [
+      {
+        "text": "butt",
+        "frequency": 100
+      },
+      {
+        "text": "back (anatomy)",
+        "frequency": 100
+      },
+      {
+        "text": "ass",
+        "frequency": 100
+      },
+      {
+        "text": "let go",
+        "frequency": 100
+      },
+      {
+        "text": "push",
+        "frequency": 100
+      },
+      {
+        "text": "push away",
+        "frequency": 100
+      },
+      {
+        "text": "release",
+        "frequency": 100
+      },
+      {
+        "text": "spoil",
+        "frequency": 100
+      },
+      {
+        "text": "uglify",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "haus",
+    "id": "misikeke",
+    "definitions": [
+      {
+        "text": "medication",
+        "frequency": 100
+      },
+      {
+        "text": "medicine",
+        "frequency": 100
+      },
+      {
+        "text": "doctor",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "hiako",
+    "id": "len",
+    "definitions": [
+      {
+        "text": "clothing",
+        "frequency": 100
+      },
+      {
+        "text": "cloth",
+        "frequency": 100
+      },
+      {
+        "text": "clothes",
+        "frequency": 100
+      },
+      {
+        "text": "fabric",
+        "frequency": 100
+      },
+      {
+        "text": "outfit",
+        "frequency": 100
+      },
+      {
+        "text": "privacy",
+        "frequency": 100
+      },
+      {
+        "text": "cover",
+        "frequency": 100
+      },
+      {
+        "text": "dress",
+        "frequency": 100
+      },
+      {
+        "text": "jacket",
+        "frequency": 100
+      },
+      {
+        "text": "wear",
+        "frequency": 100
+      },
+      {
+        "text": "shirt",
         "frequency": 100
       }
     ]
@@ -935,6 +1215,50 @@
       },
       {
         "text": "being",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "honĉa",
+    "id": "meli",
+    "definitions": [
+      {
+        "text": "female",
+        "frequency": 100
+      },
+      {
+        "text": "lady",
+        "frequency": 100
+      },
+      {
+        "text": "woman",
+        "frequency": 100
+      },
+      {
+        "text": "girl",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "honĉe",
+    "id": "mije",
+    "definitions": [
+      {
+        "text": "male",
+        "frequency": 100
+      },
+      {
+        "text": "man",
+        "frequency": 100
+      },
+      {
+        "text": "husband",
+        "frequency": 100
+      },
+      {
+        "text": "cisgender man",
         "frequency": 100
       }
     ]
@@ -1404,6 +1728,52 @@
     "id": "ilo utala"
   },
   {
+    "word": "imo",
+    "id": "sama",
+    "definitions": [
+      {
+        "text": "equal",
+        "frequency": 100
+      },
+      {
+        "text": "alike",
+        "frequency": 100
+      },
+      {
+        "text": "similar",
+        "frequency": 100
+      },
+      {
+        "text": "equivalent",
+        "frequency": 100
+      },
+      {
+        "text": "as",
+        "frequency": 100
+      },
+      {
+        "text": "similarly",
+        "frequency": 100
+      },
+      {
+        "text": "equality",
+        "frequency": 100
+      },
+      {
+        "text": "equally",
+        "frequency": 100
+      },
+      {
+        "text": "like",
+        "frequency": 100
+      },
+      {
+        "text": "identical",
+        "frequency": 100
+      }
+    ]
+  },
+  {
     "word": "insa pi ma tomo",
     "definitions": [
       {
@@ -1412,6 +1782,202 @@
       }
     ],
     "id": "insa pi ma tomo"
+  },
+  {
+    "word": "irime",
+    "id": "pali",
+    "definitions": [
+      {
+        "text": "do",
+        "frequency": 100
+      },
+      {
+        "text": "work",
+        "frequency": 100
+      },
+      {
+        "text": "construct",
+        "frequency": 100
+      },
+      {
+        "text": "produce",
+        "frequency": 100
+      },
+      {
+        "text": "make",
+        "frequency": 100
+      },
+      {
+        "text": "activity",
+        "frequency": 100
+      },
+      {
+        "text": "job",
+        "frequency": 100
+      },
+      {
+        "text": "build",
+        "frequency": 100
+      },
+      {
+        "text": "production",
+        "frequency": 100
+      },
+      {
+        "text": "working",
+        "frequency": 100
+      },
+      {
+        "text": "labour",
+        "frequency": 100
+      },
+      {
+        "text": "action",
+        "frequency": 100
+      },
+      {
+        "text": "task",
+        "frequency": 100
+      },
+      {
+        "text": "create",
+        "frequency": 100
+      },
+      {
+        "text": "function",
+        "frequency": 100
+      },
+      {
+        "text": "occupation",
+        "frequency": 100
+      },
+      {
+        "text": "operating",
+        "frequency": 100
+      },
+      {
+        "text": "project",
+        "frequency": 100
+      },
+      {
+        "text": "execute",
+        "frequency": 100
+      },
+      {
+        "text": "manufacturing",
+        "frequency": 100
+      },
+      {
+        "text": "craft",
+        "frequency": 100
+      },
+      {
+        "text": "develop",
+        "frequency": 100
+      },
+      {
+        "text": "generate",
+        "frequency": 100
+      },
+      {
+        "text": "compose",
+        "frequency": 100
+      },
+      {
+        "text": "assemble",
+        "frequency": 100
+      },
+      {
+        "text": "act",
+        "frequency": 100
+      },
+      {
+        "text": "profession",
+        "frequency": 100
+      },
+      {
+        "text": "assignment",
+        "frequency": 100
+      },
+      {
+        "text": "creation",
+        "frequency": 100
+      },
+      {
+        "text": "enact",
+        "frequency": 100
+      },
+      {
+        "text": "commit",
+        "frequency": 100
+      },
+      {
+        "text": "perform",
+        "frequency": 100
+      },
+      {
+        "text": "operation",
+        "frequency": 100
+      },
+      {
+        "text": "service",
+        "frequency": 100
+      },
+      {
+        "text": "effort",
+        "frequency": 100
+      },
+      {
+        "text": "implement",
+        "frequency": 100
+      },
+      {
+        "text": "operate",
+        "frequency": 100
+      },
+      {
+        "text": "accomplish",
+        "frequency": 100
+      },
+      {
+        "text": "implementation",
+        "frequency": 100
+      },
+      {
+        "text": "processing",
+        "frequency": 100
+      },
+      {
+        "text": "behaviour",
+        "frequency": 100
+      },
+      {
+        "text": "behave",
+        "frequency": 100
+      },
+      {
+        "text": "career",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "itagi",
+    "id": "itagi",
+    "definitions": [
+      {
+        "text": "idea",
+        "frequency": 100
+      },
+      {
+        "text": "realisable thing",
+        "frequency": 100
+      },
+      {
+        "text": "probable thing",
+        "frequency": 100
+      }
+    ]
   },
   {
     "word": "iyuko",
@@ -2666,6 +3232,90 @@
     "id": "kama telo"
   },
   {
+    "word": "kamo",
+    "id": "moku",
+    "definitions": [
+      {
+        "text": "eating",
+        "frequency": 100
+      },
+      {
+        "text": "eat",
+        "frequency": 100
+      },
+      {
+        "text": "food",
+        "frequency": 100
+      },
+      {
+        "text": "consume",
+        "frequency": 100
+      },
+      {
+        "text": "dining",
+        "frequency": 100
+      },
+      {
+        "text": "consumption",
+        "frequency": 100
+      },
+      {
+        "text": "meal",
+        "frequency": 100
+      },
+      {
+        "text": "swallow",
+        "frequency": 100
+      },
+      {
+        "text": "nutrition",
+        "frequency": 100
+      },
+      {
+        "text": "dinner",
+        "frequency": 100
+      },
+      {
+        "text": "drinking",
+        "frequency": 100
+      },
+      {
+        "text": "chew",
+        "frequency": 100
+      },
+      {
+        "text": "groceries",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "kamonq",
+    "id": "kamonq",
+    "definitions": [
+      {
+        "text": "inedible",
+        "frequency": 100
+      },
+      {
+        "text": "vomit",
+        "frequency": 100
+      },
+      {
+        "text": "puke",
+        "frequency": 100
+      },
+      {
+        "text": "non-food",
+        "frequency": 100
+      },
+      {
+        "text": "toxic",
+        "frequency": 100
+      }
+    ]
+  },
+  {
     "word": "kara",
     "id": "ko",
     "definitions": [
@@ -2902,6 +3552,36 @@
       }
     ],
     "id": "kin la"
+  },
+  {
+    "word": "kita",
+    "id": "olin",
+    "definitions": [
+      {
+        "text": "like",
+        "frequency": 100
+      },
+      {
+        "text": "loving",
+        "frequency": 100
+      },
+      {
+        "text": "love",
+        "frequency": 100
+      },
+      {
+        "text": "romance",
+        "frequency": 100
+      },
+      {
+        "text": "romantic",
+        "frequency": 100
+      },
+      {
+        "text": "compassion",
+        "frequency": 100
+      }
+    ]
   },
   {
     "word": "kitei",
@@ -3264,6 +3944,126 @@
     "id": "ko pan"
   },
   {
+    "word": "kóma",
+    "id": "mun",
+    "definitions": [
+      {
+        "text": "moon",
+        "frequency": 100
+      },
+      {
+        "text": "celestial body",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "komuni",
+    "id": "lawa",
+    "definitions": [
+      {
+        "text": "govern",
+        "frequency": 100
+      },
+      {
+        "text": "head",
+        "frequency": 100
+      },
+      {
+        "text": "authority",
+        "frequency": 100
+      },
+      {
+        "text": "control",
+        "frequency": 100
+      },
+      {
+        "text": "ruling",
+        "frequency": 100
+      },
+      {
+        "text": "regulatory",
+        "frequency": 100
+      },
+      {
+        "text": "leading",
+        "frequency": 100
+      },
+      {
+        "text": "manage",
+        "frequency": 100
+      },
+      {
+        "text": "administrative",
+        "frequency": 100
+      },
+      {
+        "text": "leadership",
+        "frequency": 100
+      },
+      {
+        "text": "rule",
+        "frequency": 100
+      },
+      {
+        "text": "law",
+        "frequency": 100
+      },
+      {
+        "text": "lead",
+        "frequency": 100
+      },
+      {
+        "text": "management",
+        "frequency": 100
+      },
+      {
+        "text": "legal",
+        "frequency": 100
+      },
+      {
+        "text": "mind",
+        "frequency": 100
+      },
+      {
+        "text": "enforce",
+        "frequency": 100
+      },
+      {
+        "text": "judicial",
+        "frequency": 100
+      },
+      {
+        "text": "oversee",
+        "frequency": 100
+      },
+      {
+        "text": "conduct",
+        "frequency": 100
+      },
+      {
+        "text": "official",
+        "frequency": 100
+      },
+      {
+        "text": "regulate",
+        "frequency": 100
+      },
+      {
+        "text": "brain",
+        "frequency": 100
+      },
+      {
+        "text": "policy",
+        "frequency": 100
+      },
+      {
+        "text": "administer",
+        "frequency": 100
+      }
+    ]
+  },
+  {
     "word": "kon tawa",
     "definitions": [
       {
@@ -3272,6 +4072,90 @@
       }
     ],
     "id": "kon tawa"
+  },
+  {
+    "word": "konq",
+    "id": "tenpo pimeja",
+    "definitions": [
+      {
+        "text": "night",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "konqryą",
+    "id": "tenpo pimeja ni",
+    "definitions": [
+      {
+        "text": "tonight",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "koro",
+    "id": "moli",
+    "definitions": [
+      {
+        "text": "death",
+        "frequency": 100
+      },
+      {
+        "text": "killing",
+        "frequency": 100
+      },
+      {
+        "text": "dead",
+        "frequency": 100
+      },
+      {
+        "text": "die",
+        "frequency": 100
+      },
+      {
+        "text": "dying",
+        "frequency": 100
+      },
+      {
+        "text": "kill",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "kugi",
+    "id": "selo",
+    "definitions": [
+      {
+        "text": "skin",
+        "frequency": 100
+      },
+      {
+        "text": "boundary",
+        "frequency": 100
+      },
+      {
+        "text": "surface",
+        "frequency": 100
+      },
+      {
+        "text": "peel",
+        "frequency": 100
+      },
+      {
+        "text": "outer",
+        "frequency": 100
+      },
+      {
+        "text": "shape",
+        "frequency": 100
+      },
+      {
+        "text": "layer",
+        "frequency": 100
+      }
+    ]
   },
   {
     "word": "kulupu ilo",
@@ -3350,6 +4234,32 @@
     "id": "kulupu utala telo"
   },
   {
+    "word": "kuru",
+    "id": "pimeja",
+    "definitions": [
+      {
+        "text": "black",
+        "frequency": 100
+      },
+      {
+        "text": "dark",
+        "frequency": 100
+      },
+      {
+        "text": "darkness",
+        "frequency": 100
+      },
+      {
+        "text": "shadow",
+        "frequency": 100
+      },
+      {
+        "text": "shade",
+        "frequency": 100
+      }
+    ]
+  },
+  {
     "word": "lape ala",
     "definitions": [
       {
@@ -3358,24 +4268,6 @@
       }
     ],
     "id": "lape ala"
-  },
-  {
-    "word": "laso",
-    "definitions": [
-      {
-        "text": "blue",
-        "frequency": 81
-      },
-      {
-        "text": "teal",
-        "frequency": 71
-      },
-      {
-        "text": "green",
-        "frequency": 47
-      }
-    ],
-    "id": "laso"
   },
   {
     "word": "laso kasi",
@@ -3396,180 +4288,6 @@
       }
     ],
     "id": "laso loje"
-  },
-  {
-    "word": "lawa",
-    "definitions": [
-      {
-        "text": "govern",
-        "frequency": 100
-      },
-      {
-        "text": "head",
-        "frequency": 100
-      },
-      {
-        "text": "authority",
-        "frequency": 79
-      },
-      {
-        "text": "control",
-        "frequency": 77
-      },
-      {
-        "text": "ruling",
-        "frequency": 75
-      },
-      {
-        "text": "regulatory",
-        "frequency": 70
-      },
-      {
-        "text": "leading",
-        "frequency": 70
-      },
-      {
-        "text": "manage",
-        "frequency": 65
-      },
-      {
-        "text": "administrative",
-        "frequency": 64
-      },
-      {
-        "text": "leadership",
-        "frequency": 63
-      },
-      {
-        "text": "rule",
-        "frequency": 60
-      },
-      {
-        "text": "law",
-        "frequency": 60
-      },
-      {
-        "text": "lead",
-        "frequency": 57
-      },
-      {
-        "text": "management",
-        "frequency": 54
-      },
-      {
-        "text": "legal",
-        "frequency": 50
-      },
-      {
-        "text": "mind",
-        "frequency": 50
-      },
-      {
-        "text": "enforce",
-        "frequency": 50
-      },
-      {
-        "text": "judicial",
-        "frequency": 50
-      },
-      {
-        "text": "oversee",
-        "frequency": 50
-      },
-      {
-        "text": "conduct",
-        "frequency": 47
-      },
-      {
-        "text": "official",
-        "frequency": 47
-      },
-      {
-        "text": "regulate",
-        "frequency": 45
-      },
-      {
-        "text": "brain",
-        "frequency": 45
-      },
-      {
-        "text": "policy",
-        "frequency": 44
-      },
-      {
-        "text": "administer",
-        "frequency": 44
-      }
-    ],
-    "id": "lawa"
-  },
-  {
-    "word": "leko",
-    "definitions": [
-      {
-        "text": "square",
-        "frequency": 64
-      },
-      {
-        "text": "cube",
-        "frequency": 50
-      },
-      {
-        "text": "block",
-        "frequency": 43
-      }
-    ],
-    "id": "leko"
-  },
-  {
-    "word": "len",
-    "definitions": [
-      {
-        "text": "clothing",
-        "frequency": 100
-      },
-      {
-        "text": "cloth",
-        "frequency": 100
-      },
-      {
-        "text": "clothes",
-        "frequency": 93
-      },
-      {
-        "text": "fabric",
-        "frequency": 92
-      },
-      {
-        "text": "outfit",
-        "frequency": 74
-      },
-      {
-        "text": "privacy",
-        "frequency": 67
-      },
-      {
-        "text": "cover",
-        "frequency": 64
-      },
-      {
-        "text": "dress",
-        "frequency": 58
-      },
-      {
-        "text": "jacket",
-        "frequency": 47
-      },
-      {
-        "text": "wear",
-        "frequency": 45
-      },
-      {
-        "text": "shirt",
-        "frequency": 42
-      }
-    ],
-    "id": "len"
   },
   {
     "word": "len ala",
@@ -3620,28 +4338,6 @@
     "id": "len luka"
   },
   {
-    "word": "len noka",
-    "definitions": [
-      {
-        "text": "boot",
-        "frequency": 75
-      },
-      {
-        "text": "shoe",
-        "frequency": 71
-      },
-      {
-        "text": "sock",
-        "frequency": 67
-      },
-      {
-        "text": "pants",
-        "frequency": 56
-      }
-    ],
-    "id": "len noka"
-  },
-  {
     "word": "len pi weka telo",
     "definitions": [
       {
@@ -3660,150 +4356,6 @@
       }
     ],
     "id": "len sinpin"
-  },
-  {
-    "word": "lete",
-    "definitions": [
-      {
-        "text": "cold",
-        "frequency": 100
-      },
-      {
-        "text": "raw",
-        "frequency": 58
-      },
-      {
-        "text": "frozen",
-        "frequency": 45
-      }
-    ],
-    "id": "lete"
-  },
-  {
-    "word": "lili",
-    "definitions": [
-      {
-        "text": "small",
-        "frequency": 100
-      },
-      {
-        "text": "little",
-        "frequency": 100
-      },
-      {
-        "text": "short",
-        "frequency": 91
-      },
-      {
-        "text": "slight",
-        "frequency": 91
-      },
-      {
-        "text": "reduce",
-        "frequency": 83
-      },
-      {
-        "text": "junior",
-        "frequency": 83
-      },
-      {
-        "text": "slightly",
-        "frequency": 80
-      },
-      {
-        "text": "minimize",
-        "frequency": 75
-      },
-      {
-        "text": "narrow",
-        "frequency": 71
-      },
-      {
-        "text": "bit",
-        "frequency": 69
-      },
-      {
-        "text": "minor",
-        "frequency": 69
-      },
-      {
-        "text": "partly",
-        "frequency": 67
-      },
-      {
-        "text": "reduction",
-        "frequency": 64
-      },
-      {
-        "text": "brief",
-        "frequency": 63
-      },
-      {
-        "text": "young",
-        "frequency": 62
-      },
-      {
-        "text": "fewer",
-        "frequency": 60
-      },
-      {
-        "text": "less",
-        "frequency": 59
-      },
-      {
-        "text": "diminish",
-        "frequency": 57
-      },
-      {
-        "text": "tiny",
-        "frequency": 56
-      },
-      {
-        "text": "barely",
-        "frequency": 54
-      },
-      {
-        "text": "decrease",
-        "frequency": 53
-      },
-      {
-        "text": "minimal",
-        "frequency": 53
-      },
-      {
-        "text": "somewhat",
-        "frequency": 50
-      },
-      {
-        "text": "partially",
-        "frequency": 50
-      },
-      {
-        "text": "thin",
-        "frequency": 45
-      },
-      {
-        "text": "inch",
-        "frequency": 45
-      },
-      {
-        "text": "shallow",
-        "frequency": 45
-      },
-      {
-        "text": "subtle",
-        "frequency": 44
-      },
-      {
-        "text": "lightly",
-        "frequency": 42
-      },
-      {
-        "text": "kinda",
-        "frequency": 41
-      }
-    ],
-    "id": "lili"
   },
   {
     "word": "linja kiwen",
@@ -3896,16 +4448,6 @@
     "id": "lipu tenpo"
   },
   {
-    "word": "loje",
-    "definitions": [
-      {
-        "text": "red",
-        "frequency": 95
-      }
-    ],
-    "id": "loje"
-  },
-  {
     "word": "loje laso",
     "definitions": [
       {
@@ -3914,140 +4456,6 @@
       }
     ],
     "id": "loje laso"
-  },
-  {
-    "word": "lon",
-    "definitions": [
-      {
-        "text": "at",
-        "frequency": 100
-      },
-      {
-        "text": "existing",
-        "frequency": 100
-      },
-      {
-        "text": "real",
-        "frequency": 100
-      },
-      {
-        "text": "exist",
-        "frequency": 100
-      },
-      {
-        "text": "located",
-        "frequency": 93
-      },
-      {
-        "text": "presence",
-        "frequency": 89
-      },
-      {
-        "text": "yep",
-        "frequency": 87
-      },
-      {
-        "text": "existence",
-        "frequency": 87
-      },
-      {
-        "text": "actual",
-        "frequency": 86
-      },
-      {
-        "text": "on",
-        "frequency": 83
-      },
-      {
-        "text": "true",
-        "frequency": 81
-      },
-      {
-        "text": "living",
-        "frequency": 73
-      },
-      {
-        "text": "yes",
-        "frequency": 71
-      },
-      {
-        "text": "truth",
-        "frequency": 67
-      },
-      {
-        "text": "reality",
-        "frequency": 64
-      },
-      {
-        "text": "physical",
-        "frequency": 62
-      },
-      {
-        "text": "yeah",
-        "frequency": 62
-      },
-      {
-        "text": "upon",
-        "frequency": 60
-      },
-      {
-        "text": "genuine",
-        "frequency": 60
-      },
-      {
-        "text": "truly",
-        "frequency": 60
-      },
-      {
-        "text": "in",
-        "frequency": 57
-      },
-      {
-        "text": "alive",
-        "frequency": 56
-      },
-      {
-        "text": "position",
-        "frequency": 55
-      },
-      {
-        "text": "accurate",
-        "frequency": 52
-      },
-      {
-        "text": "exactly",
-        "frequency": 50
-      },
-      {
-        "text": "occupy",
-        "frequency": 50
-      },
-      {
-        "text": "live",
-        "frequency": 47
-      },
-      {
-        "text": "attendance",
-        "frequency": 46
-      },
-      {
-        "text": "certainly",
-        "frequency": 45
-      },
-      {
-        "text": "indeed",
-        "frequency": 42
-      },
-      {
-        "text": "attend",
-        "frequency": 42
-      },
-      {
-        "text": "right (not wrong)",
-        "frequency": 41
-      }
-    ],
-    "id": "lon"
   },
   {
     "word": "lon ala",
@@ -4210,28 +4618,6 @@
     "id": "lon sinpin"
   },
   {
-    "word": "luka",
-    "definitions": [
-      {
-        "text": "hand",
-        "frequency": 100
-      },
-      {
-        "text": "arm",
-        "frequency": 68
-      },
-      {
-        "text": "five",
-        "frequency": 64
-      },
-      {
-        "text": "wrist",
-        "frequency": 50
-      }
-    ],
-    "id": "luka"
-  },
-  {
     "word": "luka luka tu",
     "definitions": [
       {
@@ -4288,36 +4674,6 @@
       }
     ],
     "id": "lukin lili"
-  },
-  {
-    "word": "lupa",
-    "definitions": [
-      {
-        "text": "hole",
-        "frequency": 94
-      },
-      {
-        "text": "door",
-        "frequency": 87
-      },
-      {
-        "text": "orifice",
-        "frequency": 79
-      },
-      {
-        "text": "pit",
-        "frequency": 77
-      },
-      {
-        "text": "window",
-        "frequency": 57
-      },
-      {
-        "text": "gate",
-        "frequency": 45
-      }
-    ],
-    "id": "lupa"
   },
   {
     "word": "lupa ma",
@@ -4442,6 +4798,16 @@
       }
     ],
     "id": "ma utala"
+  },
+  {
+    "word": "mafo",
+    "id": "loje",
+    "definitions": [
+      {
+        "text": "red",
+        "frequency": 100
+      }
+    ]
   },
   {
     "word": "mama mama",
@@ -4596,28 +4962,6 @@
     "id": "mani tomo"
   },
   {
-    "word": "meli",
-    "definitions": [
-      {
-        "text": "female",
-        "frequency": 100
-      },
-      {
-        "text": "lady",
-        "frequency": 79
-      },
-      {
-        "text": "woman",
-        "frequency": 77
-      },
-      {
-        "text": "girl",
-        "frequency": 50
-      }
-    ],
-    "id": "meli"
-  },
-  {
     "word": "meli olin",
     "definitions": [
       {
@@ -4628,24 +4972,6 @@
     "id": "meli olin"
   },
   {
-    "word": "meso",
-    "definitions": [
-      {
-        "text": "average",
-        "frequency": 53
-      },
-      {
-        "text": "moderate",
-        "frequency": 50
-      },
-      {
-        "text": "medium",
-        "frequency": 47
-      }
-    ],
-    "id": "meso"
-  },
-  {
     "word": "mhuru",
     "id": "jelo",
     "definitions": [
@@ -4654,40 +4980,6 @@
         "frequency": 100
       }
     ]
-  },
-  {
-    "word": "mi",
-    "definitions": [
-      {
-        "text": "me",
-        "frequency": 100
-      },
-      {
-        "text": "I",
-        "frequency": 100
-      },
-      {
-        "text": "my",
-        "frequency": 100
-      },
-      {
-        "text": "mine",
-        "frequency": 63
-      },
-      {
-        "text": "our",
-        "frequency": 63
-      },
-      {
-        "text": "myself",
-        "frequency": 47
-      },
-      {
-        "text": "us",
-        "frequency": 43
-      }
-    ],
-    "id": "mi"
   },
   {
     "word": "mi la",
@@ -4738,45 +5030,19 @@
     "id": "mi tawa"
   },
   {
-    "word": "mije",
-    "definitions": [
-      {
-        "text": "male",
-        "frequency": 94
-      },
-      {
-        "text": "man",
-        "frequency": 90
-      },
-      {
-        "text": "husband",
-        "frequency": 55
-      },
-      {
-        "text": "cisgender man",
-        "frequency": 50
-      }
-    ],
-    "id": "mije"
-  },
-  {
     "word": "miri",
-    "id": "suwi",
+    "id": "meso",
     "definitions": [
       {
-        "text": "sweet",
+        "text": "average",
         "frequency": 100
       },
       {
-        "text": "cute",
+        "text": "moderate",
         "frequency": 100
       },
       {
-        "text": "candy",
-        "frequency": 100
-      },
-      {
-        "text": "sugar",
+        "text": "medium",
         "frequency": 100
       }
     ]
@@ -4804,18 +5070,38 @@
     ]
   },
   {
-    "word": "misikeke",
+    "word": "miu",
+    "id": "mu",
     "definitions": [
       {
-        "text": "medication",
-        "frequency": 46
+        "text": "woof",
+        "frequency": 100
       },
       {
-        "text": "medicine",
-        "frequency": 42
+        "text": "meow",
+        "frequency": 100
+      },
+      {
+        "text": "animal vocalization",
+        "frequency": 100
+      },
+      {
+        "text": "ribbit",
+        "frequency": 100
+      },
+      {
+        "text": "purr",
+        "frequency": 100
+      },
+      {
+        "text": "neigh",
+        "frequency": 100
+      },
+      {
+        "text": "cock-a-doodle-doo",
+        "frequency": 100
       }
-    ],
-    "id": "misikeke"
+    ]
   },
   {
     "word": "miyo",
@@ -4830,64 +5116,6 @@
         "frequency": 100
       }
     ]
-  },
-  {
-    "word": "moku",
-    "definitions": [
-      {
-        "text": "eating",
-        "frequency": 100
-      },
-      {
-        "text": "eat",
-        "frequency": 100
-      },
-      {
-        "text": "food",
-        "frequency": 100
-      },
-      {
-        "text": "consume",
-        "frequency": 97
-      },
-      {
-        "text": "dining",
-        "frequency": 88
-      },
-      {
-        "text": "consumption",
-        "frequency": 83
-      },
-      {
-        "text": "meal",
-        "frequency": 83
-      },
-      {
-        "text": "swallow",
-        "frequency": 68
-      },
-      {
-        "text": "nutrition",
-        "frequency": 50
-      },
-      {
-        "text": "dinner",
-        "frequency": 50
-      },
-      {
-        "text": "drinking",
-        "frequency": 47
-      },
-      {
-        "text": "chew",
-        "frequency": 44
-      },
-      {
-        "text": "groceries",
-        "frequency": 43
-      }
-    ],
-    "id": "moku"
   },
   {
     "word": "moku lili",
@@ -4920,36 +5148,6 @@
     "id": "moku telo"
   },
   {
-    "word": "moli",
-    "definitions": [
-      {
-        "text": "death",
-        "frequency": 100
-      },
-      {
-        "text": "killing",
-        "frequency": 100
-      },
-      {
-        "text": "dead",
-        "frequency": 94
-      },
-      {
-        "text": "die",
-        "frequency": 75
-      },
-      {
-        "text": "dying",
-        "frequency": 69
-      },
-      {
-        "text": "kill",
-        "frequency": 64
-      }
-    ],
-    "id": "moli"
-  },
-  {
     "word": "moli telo",
     "definitions": [
       {
@@ -4958,46 +5156,6 @@
       }
     ],
     "id": "moli telo"
-  },
-  {
-    "word": "monsi",
-    "definitions": [
-      {
-        "text": "butt",
-        "frequency": 93
-      },
-      {
-        "text": "back (anatomy)",
-        "frequency": 73
-      },
-      {
-        "text": "ass",
-        "frequency": 67
-      }
-    ],
-    "id": "monsi"
-  },
-  {
-    "word": "monsuta",
-    "definitions": [
-      {
-        "text": "scary",
-        "frequency": 60
-      },
-      {
-        "text": "fear",
-        "frequency": 59
-      },
-      {
-        "text": "monster",
-        "frequency": 58
-      },
-      {
-        "text": "horror",
-        "frequency": 42
-      }
-    ],
-    "id": "monsuta"
   },
   {
     "word": "moto",
@@ -5074,92 +5232,6 @@
     ]
   },
   {
-    "word": "mu",
-    "definitions": [
-      {
-        "text": "woof",
-        "frequency": 100
-      },
-      {
-        "text": "meow",
-        "frequency": 100
-      },
-      {
-        "text": "animal vocalization",
-        "frequency": 93
-      },
-      {
-        "text": "ribbit",
-        "frequency": 93
-      },
-      {
-        "text": "purr",
-        "frequency": 92
-      },
-      {
-        "text": "neigh",
-        "frequency": 88
-      },
-      {
-        "text": "cock-a-doodle-doo",
-        "frequency": 58
-      }
-    ],
-    "id": "mu"
-  },
-  {
-    "word": "mun",
-    "definitions": [
-      {
-        "text": "moon",
-        "frequency": 95
-      },
-      {
-        "text": "celestial body",
-        "frequency": 80
-      }
-    ],
-    "id": "mun"
-  },
-  {
-    "word": "musi",
-    "definitions": [
-      {
-        "text": "entertainment",
-        "frequency": 100
-      },
-      {
-        "text": "fun",
-        "frequency": 100
-      },
-      {
-        "text": "funny",
-        "frequency": 91
-      },
-      {
-        "text": "play",
-        "frequency": 87
-      },
-      {
-        "text": "game",
-        "frequency": 86
-      },
-      {
-        "text": "comedy",
-        "frequency": 83
-      },
-      {
-        "text": "art",
-        "frequency": 58
-      },
-      {
-        "text": "artistic",
-        "frequency": 50
-      }
-    ],
-    "id": "musi"
-  },
-  {
     "word": "musi ala",
     "definitions": [
       {
@@ -5184,84 +5256,6 @@
     "id": "musi supa"
   },
   {
-    "word": "mute",
-    "definitions": [
-      {
-        "text": "plenty",
-        "frequency": 100
-      },
-      {
-        "text": "many",
-        "frequency": 100
-      },
-      {
-        "text": "much",
-        "frequency": 100
-      },
-      {
-        "text": "multiple",
-        "frequency": 100
-      },
-      {
-        "text": "very",
-        "frequency": 93
-      },
-      {
-        "text": "lots",
-        "frequency": 92
-      },
-      {
-        "text": "several",
-        "frequency": 86
-      },
-      {
-        "text": "numerous",
-        "frequency": 80
-      },
-      {
-        "text": "various",
-        "frequency": 75
-      },
-      {
-        "text": "most",
-        "frequency": 70
-      },
-      {
-        "text": "quantity",
-        "frequency": 64
-      },
-      {
-        "text": "twenty",
-        "frequency": 59
-      },
-      {
-        "text": "fifty",
-        "frequency": 55
-      },
-      {
-        "text": "thousand",
-        "frequency": 50
-      },
-      {
-        "text": "nine",
-        "frequency": 50
-      },
-      {
-        "text": "majority",
-        "frequency": 48
-      },
-      {
-        "text": "incredibly",
-        "frequency": 45
-      },
-      {
-        "text": "million",
-        "frequency": 44
-      }
-    ],
-    "id": "mute"
-  },
-  {
     "word": "mute ike",
     "definitions": [
       {
@@ -5282,14 +5276,82 @@
     "id": "mute pona"
   },
   {
-    "word": "n",
+    "word": "myo",
+    "id": "mute",
     "definitions": [
       {
-        "text": "um",
-        "frequency": 47
+        "text": "plenty",
+        "frequency": 100
+      },
+      {
+        "text": "many",
+        "frequency": 100
+      },
+      {
+        "text": "much",
+        "frequency": 100
+      },
+      {
+        "text": "multiple",
+        "frequency": 100
+      },
+      {
+        "text": "very",
+        "frequency": 100
+      },
+      {
+        "text": "lots",
+        "frequency": 100
+      },
+      {
+        "text": "several",
+        "frequency": 100
+      },
+      {
+        "text": "numerous",
+        "frequency": 100
+      },
+      {
+        "text": "various",
+        "frequency": 100
+      },
+      {
+        "text": "most",
+        "frequency": 100
+      },
+      {
+        "text": "quantity",
+        "frequency": 100
+      },
+      {
+        "text": "twenty",
+        "frequency": 100
+      },
+      {
+        "text": "fifty",
+        "frequency": 100
+      },
+      {
+        "text": "thousand",
+        "frequency": 100
+      },
+      {
+        "text": "nine",
+        "frequency": 100
+      },
+      {
+        "text": "majority",
+        "frequency": 100
+      },
+      {
+        "text": "incredibly",
+        "frequency": 100
+      },
+      {
+        "text": "million",
+        "frequency": 100
       }
-    ],
-    "id": "n"
+    ]
   },
   {
     "word": "namako",
@@ -5312,6 +5374,120 @@
       }
     ],
     "id": "namako"
+  },
+  {
+    "word": "nameko",
+    "id": "pakala",
+    "definitions": [
+      {
+        "text": "destruction",
+        "frequency": 100
+      },
+      {
+        "text": "broken",
+        "frequency": 100
+      },
+      {
+        "text": "mistake",
+        "frequency": 100
+      },
+      {
+        "text": "damage",
+        "frequency": 100
+      },
+      {
+        "text": "damn",
+        "frequency": 100
+      },
+      {
+        "text": "goddamn",
+        "frequency": 100
+      },
+      {
+        "text": "ruin",
+        "frequency": 100
+      },
+      {
+        "text": "burst",
+        "frequency": 100
+      },
+      {
+        "text": "accident",
+        "frequency": 100
+      },
+      {
+        "text": "destroy",
+        "frequency": 100
+      },
+      {
+        "text": "heck",
+        "frequency": 100
+      },
+      {
+        "text": "error",
+        "frequency": 100
+      },
+      {
+        "text": "hurt",
+        "frequency": 100
+      },
+      {
+        "text": "crash",
+        "frequency": 100
+      },
+      {
+        "text": "injure",
+        "frequency": 100
+      },
+      {
+        "text": "harm",
+        "frequency": 100
+      },
+      {
+        "text": "fail",
+        "frequency": 100
+      },
+      {
+        "text": "break",
+        "frequency": 100
+      },
+      {
+        "text": "failure",
+        "frequency": 100
+      },
+      {
+        "text": "fault",
+        "frequency": 100
+      },
+      {
+        "text": "injury",
+        "frequency": 100
+      },
+      {
+        "text": "flaw",
+        "frequency": 100
+      },
+      {
+        "text": "crack",
+        "frequency": 100
+      },
+      {
+        "text": "collapse",
+        "frequency": 100
+      },
+      {
+        "text": "snap",
+        "frequency": 100
+      },
+      {
+        "text": "fuck",
+        "frequency": 100
+      },
+      {
+        "text": "fucking",
+        "frequency": 100
+      }
+    ]
   },
   {
     "word": "nampa",
@@ -5526,120 +5702,6 @@
     ]
   },
   {
-    "word": "nasin",
-    "definitions": [
-      {
-        "text": "road",
-        "frequency": 100
-      },
-      {
-        "text": "way",
-        "frequency": 100
-      },
-      {
-        "text": "doctrine",
-        "frequency": 92
-      },
-      {
-        "text": "method",
-        "frequency": 91
-      },
-      {
-        "text": "path",
-        "frequency": 83
-      },
-      {
-        "text": "manner",
-        "frequency": 80
-      },
-      {
-        "text": "avenue",
-        "frequency": 80
-      },
-      {
-        "text": "route",
-        "frequency": 75
-      },
-      {
-        "text": "direction",
-        "frequency": 73
-      },
-      {
-        "text": "street",
-        "frequency": 71
-      },
-      {
-        "text": "orientation",
-        "frequency": 70
-      },
-      {
-        "text": "trail",
-        "frequency": 70
-      },
-      {
-        "text": "mode",
-        "frequency": 69
-      },
-      {
-        "text": "technique",
-        "frequency": 67
-      },
-      {
-        "text": "layout",
-        "frequency": 56
-      },
-      {
-        "text": "system",
-        "frequency": 56
-      },
-      {
-        "text": "course",
-        "frequency": 55
-      },
-      {
-        "text": "passage",
-        "frequency": 54
-      },
-      {
-        "text": "process",
-        "frequency": 54
-      },
-      {
-        "text": "track",
-        "frequency": 53
-      },
-      {
-        "text": "format",
-        "frequency": 52
-      },
-      {
-        "text": "ideology",
-        "frequency": 50
-      },
-      {
-        "text": "tactic",
-        "frequency": 48
-      },
-      {
-        "text": "custom",
-        "frequency": 45
-      },
-      {
-        "text": "aisle",
-        "frequency": 44
-      },
-      {
-        "text": "journey",
-        "frequency": 44
-      },
-      {
-        "text": "lane",
-        "frequency": 43
-      }
-    ],
-    "id": "nasin"
-  },
-  {
     "word": "nasin len",
     "definitions": [
       {
@@ -5700,6 +5762,44 @@
     "id": "nasin toki"
   },
   {
+    "word": "naŝita",
+    "id": "seli",
+    "definitions": [
+      {
+        "text": "heat",
+        "frequency": 100
+      },
+      {
+        "text": "fire",
+        "frequency": 100
+      },
+      {
+        "text": "hot",
+        "frequency": 100
+      },
+      {
+        "text": "burning",
+        "frequency": 100
+      },
+      {
+        "text": "flame",
+        "frequency": 100
+      },
+      {
+        "text": "burn",
+        "frequency": 100
+      },
+      {
+        "text": "warm",
+        "frequency": 100
+      },
+      {
+        "text": "warming",
+        "frequency": 100
+      }
+    ]
+  },
+  {
     "word": "nasu",
     "id": "lukin",
     "definitions": [
@@ -5754,18 +5854,22 @@
     ]
   },
   {
-    "word": "nena",
+    "word": "natse",
+    "id": "leko",
     "definitions": [
       {
-        "text": "hill",
-        "frequency": 67
+        "text": "square",
+        "frequency": 100
       },
       {
-        "text": "nose",
-        "frequency": 50
+        "text": "cube",
+        "frequency": 100
+      },
+      {
+        "text": "block",
+        "frequency": 100
       }
-    ],
-    "id": "nena"
+    ]
   },
   {
     "word": "nena suli",
@@ -5778,28 +5882,6 @@
     "id": "nena suli"
   },
   {
-    "word": "ni",
-    "definitions": [
-      {
-        "text": "this",
-        "frequency": 100
-      },
-      {
-        "text": "that",
-        "frequency": 86
-      },
-      {
-        "text": "these",
-        "frequency": 83
-      },
-      {
-        "text": "those",
-        "frequency": 77
-      }
-    ],
-    "id": "ni"
-  },
-  {
     "word": "ni la",
     "definitions": [
       {
@@ -5808,28 +5890,6 @@
       }
     ],
     "id": "ni la"
-  },
-  {
-    "word": "nimi",
-    "definitions": [
-      {
-        "text": "word",
-        "frequency": 100
-      },
-      {
-        "text": "name",
-        "frequency": 100
-      },
-      {
-        "text": "term",
-        "frequency": 55
-      },
-      {
-        "text": "title",
-        "frequency": 50
-      }
-    ],
-    "id": "nimi"
   },
   {
     "word": "nimi ijo",
@@ -5952,32 +6012,6 @@
     ]
   },
   {
-    "word": "noka",
-    "definitions": [
-      {
-        "text": "leg",
-        "frequency": 93
-      },
-      {
-        "text": "foot",
-        "frequency": 67
-      },
-      {
-        "text": "lap",
-        "frequency": 55
-      },
-      {
-        "text": "ankle",
-        "frequency": 50
-      },
-      {
-        "text": "kick",
-        "frequency": 43
-      }
-    ],
-    "id": "noka"
-  },
-  {
     "word": "nukáán",
     "id": "kule",
     "definitions": [
@@ -6062,20 +6096,6 @@
     ]
   },
   {
-    "word": "o",
-    "definitions": [
-      {
-        "text": "hey",
-        "frequency": 50
-      },
-      {
-        "text": "shall",
-        "frequency": 42
-      }
-    ],
-    "id": "o"
-  },
-  {
     "word": "o kama pona",
     "definitions": [
       {
@@ -6084,32 +6104,6 @@
       }
     ],
     "id": "o kama pona"
-  },
-  {
-    "word": "olin",
-    "definitions": [
-      {
-        "text": "loving",
-        "frequency": 100
-      },
-      {
-        "text": "love",
-        "frequency": 96
-      },
-      {
-        "text": "romance",
-        "frequency": 69
-      },
-      {
-        "text": "romantic",
-        "frequency": 60
-      },
-      {
-        "text": "compassion",
-        "frequency": 50
-      }
-    ],
-    "id": "olin"
   },
   {
     "word": "omuko",
@@ -6124,60 +6118,6 @@
         "frequency": 100
       }
     ]
-  },
-  {
-    "word": "ona",
-    "definitions": [
-      {
-        "text": "its",
-        "frequency": 100
-      },
-      {
-        "text": "her",
-        "frequency": 95
-      },
-      {
-        "text": "them",
-        "frequency": 90
-      },
-      {
-        "text": "their",
-        "frequency": 83
-      },
-      {
-        "text": "he",
-        "frequency": 80
-      },
-      {
-        "text": "she",
-        "frequency": 80
-      },
-      {
-        "text": "him",
-        "frequency": 80
-      },
-      {
-        "text": "they",
-        "frequency": 79
-      },
-      {
-        "text": "it",
-        "frequency": 73
-      },
-      {
-        "text": "his",
-        "frequency": 73
-      },
-      {
-        "text": "themselves",
-        "frequency": 53
-      },
-      {
-        "text": "itself",
-        "frequency": 47
-      }
-    ],
-    "id": "ona"
   },
   {
     "word": "ona sama",
@@ -6196,332 +6136,6 @@
       }
     ],
     "id": "ona sama"
-  },
-  {
-    "word": "open",
-    "definitions": [
-      {
-        "text": "open",
-        "frequency": 100
-      },
-      {
-        "text": "begin",
-        "frequency": 100
-      },
-      {
-        "text": "start",
-        "frequency": 91
-      },
-      {
-        "text": "beginning",
-        "frequency": 82
-      },
-      {
-        "text": "initiate",
-        "frequency": 73
-      },
-      {
-        "text": "starting",
-        "frequency": 69
-      },
-      {
-        "text": "opening",
-        "frequency": 60
-      }
-    ],
-    "id": "open"
-  },
-  {
-    "word": "pakala",
-    "definitions": [
-      {
-        "text": "destruction",
-        "frequency": 100
-      },
-      {
-        "text": "broken",
-        "frequency": 100
-      },
-      {
-        "text": "mistake",
-        "frequency": 82
-      },
-      {
-        "text": "damage",
-        "frequency": 81
-      },
-      {
-        "text": "damn",
-        "frequency": 79
-      },
-      {
-        "text": "goddamn",
-        "frequency": 75
-      },
-      {
-        "text": "ruin",
-        "frequency": 75
-      },
-      {
-        "text": "burst",
-        "frequency": 75
-      },
-      {
-        "text": "accident",
-        "frequency": 73
-      },
-      {
-        "text": "destroy",
-        "frequency": 71
-      },
-      {
-        "text": "heck",
-        "frequency": 67
-      },
-      {
-        "text": "error",
-        "frequency": 67
-      },
-      {
-        "text": "hurt",
-        "frequency": 67
-      },
-      {
-        "text": "crash",
-        "frequency": 65
-      },
-      {
-        "text": "injure",
-        "frequency": 65
-      },
-      {
-        "text": "harm",
-        "frequency": 64
-      },
-      {
-        "text": "fail",
-        "frequency": 64
-      },
-      {
-        "text": "break",
-        "frequency": 63
-      },
-      {
-        "text": "failure",
-        "frequency": 57
-      },
-      {
-        "text": "fault",
-        "frequency": 57
-      },
-      {
-        "text": "injury",
-        "frequency": 55
-      },
-      {
-        "text": "flaw",
-        "frequency": 53
-      },
-      {
-        "text": "crack",
-        "frequency": 52
-      },
-      {
-        "text": "collapse",
-        "frequency": 50
-      },
-      {
-        "text": "snap",
-        "frequency": 48
-      },
-      {
-        "text": "fuck",
-        "frequency": 47
-      },
-      {
-        "text": "fucking",
-        "frequency": 42
-      }
-    ],
-    "id": "pakala"
-  },
-  {
-    "word": "pali",
-    "definitions": [
-      {
-        "text": "do",
-        "frequency": 100
-      },
-      {
-        "text": "work",
-        "frequency": 100
-      },
-      {
-        "text": "construct",
-        "frequency": 94
-      },
-      {
-        "text": "produce",
-        "frequency": 93
-      },
-      {
-        "text": "make",
-        "frequency": 93
-      },
-      {
-        "text": "activity",
-        "frequency": 93
-      },
-      {
-        "text": "job",
-        "frequency": 92
-      },
-      {
-        "text": "build",
-        "frequency": 92
-      },
-      {
-        "text": "production",
-        "frequency": 91
-      },
-      {
-        "text": "working",
-        "frequency": 90
-      },
-      {
-        "text": "labour",
-        "frequency": 90
-      },
-      {
-        "text": "action",
-        "frequency": 87
-      },
-      {
-        "text": "task",
-        "frequency": 86
-      },
-      {
-        "text": "create",
-        "frequency": 84
-      },
-      {
-        "text": "function",
-        "frequency": 83
-      },
-      {
-        "text": "occupation",
-        "frequency": 81
-      },
-      {
-        "text": "operating",
-        "frequency": 69
-      },
-      {
-        "text": "project",
-        "frequency": 67
-      },
-      {
-        "text": "execute",
-        "frequency": 67
-      },
-      {
-        "text": "manufacturing",
-        "frequency": 64
-      },
-      {
-        "text": "craft",
-        "frequency": 64
-      },
-      {
-        "text": "develop",
-        "frequency": 60
-      },
-      {
-        "text": "generate",
-        "frequency": 60
-      },
-      {
-        "text": "compose",
-        "frequency": 58
-      },
-      {
-        "text": "assemble",
-        "frequency": 58
-      },
-      {
-        "text": "act",
-        "frequency": 57
-      },
-      {
-        "text": "profession",
-        "frequency": 55
-      },
-      {
-        "text": "assignment",
-        "frequency": 53
-      },
-      {
-        "text": "creation",
-        "frequency": 50
-      },
-      {
-        "text": "enact",
-        "frequency": 50
-      },
-      {
-        "text": "commit",
-        "frequency": 50
-      },
-      {
-        "text": "perform",
-        "frequency": 50
-      },
-      {
-        "text": "operation",
-        "frequency": 50
-      },
-      {
-        "text": "service",
-        "frequency": 48
-      },
-      {
-        "text": "effort",
-        "frequency": 48
-      },
-      {
-        "text": "implement",
-        "frequency": 47
-      },
-      {
-        "text": "operate",
-        "frequency": 47
-      },
-      {
-        "text": "accomplish",
-        "frequency": 47
-      },
-      {
-        "text": "implementation",
-        "frequency": 45
-      },
-      {
-        "text": "processing",
-        "frequency": 43
-      },
-      {
-        "text": "behaviour",
-        "frequency": 43
-      },
-      {
-        "text": "behave",
-        "frequency": 43
-      },
-      {
-        "text": "career",
-        "frequency": 41
-      }
-    ],
-    "id": "pali"
   },
   {
     "word": "pali ala",
@@ -7072,32 +6686,6 @@
     "id": "pilin wawa"
   },
   {
-    "word": "pimeja",
-    "definitions": [
-      {
-        "text": "black",
-        "frequency": 100
-      },
-      {
-        "text": "dark",
-        "frequency": 100
-      },
-      {
-        "text": "darkness",
-        "frequency": 100
-      },
-      {
-        "text": "shadow",
-        "frequency": 50
-      },
-      {
-        "text": "shade",
-        "frequency": 47
-      }
-    ],
-    "id": "pimeja"
-  },
-  {
     "word": "pini ala",
     "definitions": [
       {
@@ -7220,6 +6808,172 @@
     "id": "poki"
   },
   {
+    "word": "poki",
+    "id": "suli",
+    "definitions": [
+      {
+        "text": "importance",
+        "frequency": 100
+      },
+      {
+        "text": "big",
+        "frequency": 100
+      },
+      {
+        "text": "large",
+        "frequency": 100
+      },
+      {
+        "text": "important",
+        "frequency": 100
+      },
+      {
+        "text": "significant",
+        "frequency": 100
+      },
+      {
+        "text": "matter (v)",
+        "frequency": 100
+      },
+      {
+        "text": "significantly",
+        "frequency": 100
+      },
+      {
+        "text": "grand",
+        "frequency": 100
+      },
+      {
+        "text": "huge",
+        "frequency": 100
+      },
+      {
+        "text": "vast",
+        "frequency": 100
+      },
+      {
+        "text": "weight",
+        "frequency": 100
+      },
+      {
+        "text": "tall",
+        "frequency": 100
+      },
+      {
+        "text": "crucial",
+        "frequency": 100
+      },
+      {
+        "text": "prominent",
+        "frequency": 100
+      },
+      {
+        "text": "extensive",
+        "frequency": 100
+      },
+      {
+        "text": "fat",
+        "frequency": 100
+      },
+      {
+        "text": "broad",
+        "frequency": 100
+      },
+      {
+        "text": "long",
+        "frequency": 100
+      },
+      {
+        "text": "substantial",
+        "frequency": 100
+      },
+      {
+        "text": "significance",
+        "frequency": 100
+      },
+      {
+        "text": "size",
+        "frequency": 100
+      },
+      {
+        "text": "giant",
+        "frequency": 100
+      },
+      {
+        "text": "heavy",
+        "frequency": 100
+      },
+      {
+        "text": "wide",
+        "frequency": 100
+      },
+      {
+        "text": "extended",
+        "frequency": 100
+      },
+      {
+        "text": "considerable",
+        "frequency": 100
+      },
+      {
+        "text": "thick",
+        "frequency": 100
+      },
+      {
+        "text": "major",
+        "frequency": 100
+      },
+      {
+        "text": "tremendous",
+        "frequency": 100
+      },
+      {
+        "text": "extent",
+        "frequency": 100
+      },
+      {
+        "text": "magnitude",
+        "frequency": 100
+      },
+      {
+        "text": "great",
+        "frequency": 100
+      },
+      {
+        "text": "length",
+        "frequency": 100
+      },
+      {
+        "text": "vital",
+        "frequency": 100
+      },
+      {
+        "text": "height",
+        "frequency": 100
+      },
+      {
+        "text": "importantly",
+        "frequency": 100
+      },
+      {
+        "text": "greatly",
+        "frequency": 100
+      },
+      {
+        "text": "severe",
+        "frequency": 100
+      },
+      {
+        "text": "dramatically",
+        "frequency": 100
+      },
+      {
+        "text": "mass",
+        "frequency": 100
+      }
+    ]
+  },
+  {
     "word": "poki len",
     "definitions": [
       {
@@ -7288,6 +7042,132 @@
       }
     ],
     "id": "poki wawa"
+  },
+  {
+    "word": "pokinq",
+    "id": "lili",
+    "definitions": [
+      {
+        "text": "small",
+        "frequency": 100
+      },
+      {
+        "text": "little",
+        "frequency": 100
+      },
+      {
+        "text": "short",
+        "frequency": 100
+      },
+      {
+        "text": "slight",
+        "frequency": 100
+      },
+      {
+        "text": "reduce",
+        "frequency": 100
+      },
+      {
+        "text": "junior",
+        "frequency": 100
+      },
+      {
+        "text": "slightly",
+        "frequency": 100
+      },
+      {
+        "text": "minimize",
+        "frequency": 100
+      },
+      {
+        "text": "narrow",
+        "frequency": 100
+      },
+      {
+        "text": "bit",
+        "frequency": 100
+      },
+      {
+        "text": "minor",
+        "frequency": 100
+      },
+      {
+        "text": "partly",
+        "frequency": 100
+      },
+      {
+        "text": "reduction",
+        "frequency": 100
+      },
+      {
+        "text": "brief",
+        "frequency": 100
+      },
+      {
+        "text": "young",
+        "frequency": 100
+      },
+      {
+        "text": "fewer",
+        "frequency": 100
+      },
+      {
+        "text": "less",
+        "frequency": 100
+      },
+      {
+        "text": "diminish",
+        "frequency": 100
+      },
+      {
+        "text": "tiny",
+        "frequency": 100
+      },
+      {
+        "text": "barely",
+        "frequency": 100
+      },
+      {
+        "text": "decrease",
+        "frequency": 100
+      },
+      {
+        "text": "minimal",
+        "frequency": 100
+      },
+      {
+        "text": "somewhat",
+        "frequency": 100
+      },
+      {
+        "text": "partially",
+        "frequency": 100
+      },
+      {
+        "text": "thin",
+        "frequency": 100
+      },
+      {
+        "text": "inch",
+        "frequency": 100
+      },
+      {
+        "text": "shallow",
+        "frequency": 100
+      },
+      {
+        "text": "subtle",
+        "frequency": 100
+      },
+      {
+        "text": "lightly",
+        "frequency": 100
+      },
+      {
+        "text": "kinda",
+        "frequency": 100
+      }
+    ]
   },
   {
     "word": "pona a",
@@ -7416,6 +7296,24 @@
     ]
   },
   {
+    "word": "rete",
+    "id": "lete",
+    "definitions": [
+      {
+        "text": "cold",
+        "frequency": 100
+      },
+      {
+        "text": "raw",
+        "frequency": 100
+      },
+      {
+        "text": "frozen",
+        "frequency": 100
+      }
+    ]
+  },
+  {
     "word": "ribu",
     "id": "lipu",
     "definitions": [
@@ -7486,52 +7384,6 @@
     ]
   },
   {
-    "word": "sama",
-    "definitions": [
-      {
-        "text": "equal",
-        "frequency": 100
-      },
-      {
-        "text": "alike",
-        "frequency": 100
-      },
-      {
-        "text": "similar",
-        "frequency": 90
-      },
-      {
-        "text": "equivalent",
-        "frequency": 87
-      },
-      {
-        "text": "as",
-        "frequency": 80
-      },
-      {
-        "text": "similarly",
-        "frequency": 62
-      },
-      {
-        "text": "equality",
-        "frequency": 55
-      },
-      {
-        "text": "equally",
-        "frequency": 54
-      },
-      {
-        "text": "like",
-        "frequency": 47
-      },
-      {
-        "text": "identical",
-        "frequency": 45
-      }
-    ],
-    "id": "sama"
-  },
-  {
     "word": "sama ala",
     "definitions": [
       {
@@ -7570,76 +7422,26 @@
     ]
   },
   {
-    "word": "seli",
+    "word": "sawa",
+    "id": "suwi",
     "definitions": [
       {
-        "text": "heat",
+        "text": "sweet",
         "frequency": 100
       },
       {
-        "text": "fire",
+        "text": "cute",
         "frequency": 100
       },
       {
-        "text": "hot",
-        "frequency": 92
+        "text": "candy",
+        "frequency": 100
       },
       {
-        "text": "burning",
-        "frequency": 85
-      },
-      {
-        "text": "flame",
-        "frequency": 83
-      },
-      {
-        "text": "burn",
-        "frequency": 70
-      },
-      {
-        "text": "warm",
-        "frequency": 65
-      },
-      {
-        "text": "warming",
-        "frequency": 58
+        "text": "sugar",
+        "frequency": 100
       }
-    ],
-    "id": "seli"
-  },
-  {
-    "word": "selo",
-    "definitions": [
-      {
-        "text": "skin",
-        "frequency": 83
-      },
-      {
-        "text": "boundary",
-        "frequency": 65
-      },
-      {
-        "text": "surface",
-        "frequency": 60
-      },
-      {
-        "text": "peel",
-        "frequency": 50
-      },
-      {
-        "text": "outer",
-        "frequency": 50
-      },
-      {
-        "text": "shape",
-        "frequency": 44
-      },
-      {
-        "text": "layer",
-        "frequency": 42
-      }
-    ],
-    "id": "selo"
+    ]
   },
   {
     "word": "selo kiwen",
@@ -7678,6 +7480,32 @@
       }
     ],
     "id": "seme"
+  },
+  {
+    "word": "ŝetan",
+    "id": "monsuta",
+    "definitions": [
+      {
+        "text": "scary",
+        "frequency": 100
+      },
+      {
+        "text": "fear",
+        "frequency": 100
+      },
+      {
+        "text": "monster",
+        "frequency": 100
+      },
+      {
+        "text": "horror",
+        "frequency": 100
+      },
+      {
+        "text": "devil",
+        "frequency": 100
+      }
+    ]
   },
   {
     "word": "ŝi",
@@ -8054,6 +7882,20 @@
     "id": "sitelen tawa sona"
   },
   {
+    "word": "so",
+    "id": "ona",
+    "definitions": [
+      {
+        "text": "he",
+        "frequency": 100
+      },
+      {
+        "text": "him",
+        "frequency": 100
+      }
+    ]
+  },
+  {
     "word": "soko",
     "definitions": [
       {
@@ -8288,6 +8130,44 @@
     "id": "soweli tawa"
   },
   {
+    "word": "su",
+    "id": "mi",
+    "definitions": [
+      {
+        "text": "me",
+        "frequency": 100
+      },
+      {
+        "text": "I",
+        "frequency": 100
+      },
+      {
+        "text": "my",
+        "frequency": 100
+      },
+      {
+        "text": "mine",
+        "frequency": 100
+      },
+      {
+        "text": "our",
+        "frequency": 100
+      },
+      {
+        "text": "myself",
+        "frequency": 100
+      },
+      {
+        "text": "us",
+        "frequency": 100
+      },
+      {
+        "text": "(number) one",
+        "frequency": 100
+      }
+    ]
+  },
+  {
     "word": "subeko",
     "id": "ale",
     "definitions": [
@@ -8468,172 +8348,6 @@
     ]
   },
   {
-    "word": "suli",
-    "definitions": [
-      {
-        "text": "importance",
-        "frequency": 100
-      },
-      {
-        "text": "big",
-        "frequency": 100
-      },
-      {
-        "text": "large",
-        "frequency": 100
-      },
-      {
-        "text": "important",
-        "frequency": 92
-      },
-      {
-        "text": "significant",
-        "frequency": 87
-      },
-      {
-        "text": "matter (v)",
-        "frequency": 86
-      },
-      {
-        "text": "significantly",
-        "frequency": 80
-      },
-      {
-        "text": "grand",
-        "frequency": 80
-      },
-      {
-        "text": "huge",
-        "frequency": 79
-      },
-      {
-        "text": "vast",
-        "frequency": 77
-      },
-      {
-        "text": "weight",
-        "frequency": 77
-      },
-      {
-        "text": "tall",
-        "frequency": 77
-      },
-      {
-        "text": "crucial",
-        "frequency": 75
-      },
-      {
-        "text": "prominent",
-        "frequency": 73
-      },
-      {
-        "text": "extensive",
-        "frequency": 73
-      },
-      {
-        "text": "fat",
-        "frequency": 70
-      },
-      {
-        "text": "broad",
-        "frequency": 70
-      },
-      {
-        "text": "long",
-        "frequency": 69
-      },
-      {
-        "text": "substantial",
-        "frequency": 69
-      },
-      {
-        "text": "significance",
-        "frequency": 67
-      },
-      {
-        "text": "size",
-        "frequency": 67
-      },
-      {
-        "text": "giant",
-        "frequency": 65
-      },
-      {
-        "text": "heavy",
-        "frequency": 65
-      },
-      {
-        "text": "wide",
-        "frequency": 64
-      },
-      {
-        "text": "extended",
-        "frequency": 64
-      },
-      {
-        "text": "considerable",
-        "frequency": 63
-      },
-      {
-        "text": "thick",
-        "frequency": 62
-      },
-      {
-        "text": "major",
-        "frequency": 60
-      },
-      {
-        "text": "tremendous",
-        "frequency": 56
-      },
-      {
-        "text": "extent",
-        "frequency": 55
-      },
-      {
-        "text": "magnitude",
-        "frequency": 54
-      },
-      {
-        "text": "great",
-        "frequency": 53
-      },
-      {
-        "text": "length",
-        "frequency": 50
-      },
-      {
-        "text": "vital",
-        "frequency": 50
-      },
-      {
-        "text": "height",
-        "frequency": 50
-      },
-      {
-        "text": "importantly",
-        "frequency": 47
-      },
-      {
-        "text": "greatly",
-        "frequency": 47
-      },
-      {
-        "text": "severe",
-        "frequency": 44
-      },
-      {
-        "text": "dramatically",
-        "frequency": 42
-      },
-      {
-        "text": "mass",
-        "frequency": 42
-      }
-    ],
-    "id": "suli"
-  },
-  {
     "word": "suli la",
     "definitions": [
       {
@@ -8672,6 +8386,120 @@
       }
     ],
     "id": "supa monsi"
+  },
+  {
+    "word": "taĉi",
+    "id": "nasin",
+    "definitions": [
+      {
+        "text": "road",
+        "frequency": 100
+      },
+      {
+        "text": "way",
+        "frequency": 100
+      },
+      {
+        "text": "doctrine",
+        "frequency": 100
+      },
+      {
+        "text": "method",
+        "frequency": 100
+      },
+      {
+        "text": "path",
+        "frequency": 100
+      },
+      {
+        "text": "manner",
+        "frequency": 100
+      },
+      {
+        "text": "avenue",
+        "frequency": 100
+      },
+      {
+        "text": "route",
+        "frequency": 100
+      },
+      {
+        "text": "direction",
+        "frequency": 100
+      },
+      {
+        "text": "street",
+        "frequency": 100
+      },
+      {
+        "text": "orientation",
+        "frequency": 100
+      },
+      {
+        "text": "trail",
+        "frequency": 100
+      },
+      {
+        "text": "mode",
+        "frequency": 100
+      },
+      {
+        "text": "technique",
+        "frequency": 100
+      },
+      {
+        "text": "layout",
+        "frequency": 100
+      },
+      {
+        "text": "system",
+        "frequency": 100
+      },
+      {
+        "text": "course",
+        "frequency": 100
+      },
+      {
+        "text": "passage",
+        "frequency": 100
+      },
+      {
+        "text": "process",
+        "frequency": 100
+      },
+      {
+        "text": "track",
+        "frequency": 100
+      },
+      {
+        "text": "format",
+        "frequency": 100
+      },
+      {
+        "text": "ideology",
+        "frequency": 100
+      },
+      {
+        "text": "tactic",
+        "frequency": 100
+      },
+      {
+        "text": "custom",
+        "frequency": 100
+      },
+      {
+        "text": "aisle",
+        "frequency": 100
+      },
+      {
+        "text": "journey",
+        "frequency": 100
+      },
+      {
+        "text": "lane",
+        "frequency": 100
+      }
+    ]
   },
   {
     "word": "taka",
@@ -9280,26 +9108,6 @@
     "id": "tenpo pi pali ala"
   },
   {
-    "word": "tenpo pimeja",
-    "definitions": [
-      {
-        "text": "night",
-        "frequency": 70
-      }
-    ],
-    "id": "tenpo pimeja"
-  },
-  {
-    "word": "tenpo pimeja ni",
-    "definitions": [
-      {
-        "text": "tonight",
-        "frequency": 60
-      }
-    ],
-    "id": "tenpo pimeja ni"
-  },
-  {
     "word": "tenpo pini",
     "definitions": [
       {
@@ -9434,6 +9242,76 @@
       }
     ],
     "id": "tenpo suno pini"
+  },
+  {
+    "word": "tete",
+    "id": "noka",
+    "definitions": [
+      {
+        "text": "leg",
+        "frequency": 100
+      },
+      {
+        "text": "foot",
+        "frequency": 100
+      },
+      {
+        "text": "lap",
+        "frequency": 100
+      },
+      {
+        "text": "ankle",
+        "frequency": 100
+      },
+      {
+        "text": "kick",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "tete",
+    "id": "luka",
+    "definitions": [
+      {
+        "text": "hand",
+        "frequency": 100
+      },
+      {
+        "text": "arm",
+        "frequency": 100
+      },
+      {
+        "text": "five",
+        "frequency": 100
+      },
+      {
+        "text": "wrist",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "tetenqhiaką",
+    "id": "len noka",
+    "definitions": [
+      {
+        "text": "boot",
+        "frequency": 100
+      },
+      {
+        "text": "shoe",
+        "frequency": 100
+      },
+      {
+        "text": "sock",
+        "frequency": 100
+      },
+      {
+        "text": "pants",
+        "frequency": 100
+      }
+    ]
   },
   {
     "word": "toki ike",
@@ -10230,6 +10108,140 @@
     "id": "unpa"
   },
   {
+    "word": "uns",
+    "id": "lon",
+    "definitions": [
+      {
+        "text": "at",
+        "frequency": 100
+      },
+      {
+        "text": "existing",
+        "frequency": 100
+      },
+      {
+        "text": "real",
+        "frequency": 100
+      },
+      {
+        "text": "exist",
+        "frequency": 100
+      },
+      {
+        "text": "located",
+        "frequency": 100
+      },
+      {
+        "text": "presence",
+        "frequency": 100
+      },
+      {
+        "text": "yep",
+        "frequency": 100
+      },
+      {
+        "text": "existence",
+        "frequency": 100
+      },
+      {
+        "text": "actual",
+        "frequency": 100
+      },
+      {
+        "text": "on",
+        "frequency": 100
+      },
+      {
+        "text": "true",
+        "frequency": 100
+      },
+      {
+        "text": "living",
+        "frequency": 100
+      },
+      {
+        "text": "yes",
+        "frequency": 100
+      },
+      {
+        "text": "truth",
+        "frequency": 100
+      },
+      {
+        "text": "reality",
+        "frequency": 100
+      },
+      {
+        "text": "physical",
+        "frequency": 100
+      },
+      {
+        "text": "yeah",
+        "frequency": 100
+      },
+      {
+        "text": "upon",
+        "frequency": 100
+      },
+      {
+        "text": "genuine",
+        "frequency": 100
+      },
+      {
+        "text": "truly",
+        "frequency": 100
+      },
+      {
+        "text": "in",
+        "frequency": 100
+      },
+      {
+        "text": "alive",
+        "frequency": 100
+      },
+      {
+        "text": "position",
+        "frequency": 100
+      },
+      {
+        "text": "accurate",
+        "frequency": 100
+      },
+      {
+        "text": "exactly",
+        "frequency": 100
+      },
+      {
+        "text": "occupy",
+        "frequency": 100
+      },
+      {
+        "text": "live",
+        "frequency": 100
+      },
+      {
+        "text": "attendance",
+        "frequency": 100
+      },
+      {
+        "text": "certainly",
+        "frequency": 100
+      },
+      {
+        "text": "indeed",
+        "frequency": 100
+      },
+      {
+        "text": "attend",
+        "frequency": 100
+      },
+      {
+        "text": "right (not wrong)",
+        "frequency": 100
+      }
+    ]
+  },
+  {
     "word": "uta",
     "definitions": [
       {
@@ -10708,6 +10720,16 @@
       }
     ],
     "id": "wile sona"
+  },
+  {
+    "word": "yád",
+    "id": "n",
+    "definitions": [
+      {
+        "text": "see Grammar:15",
+        "frequency": 100
+      }
+    ]
   },
   {
     "word": "zu",

@@ -87,8 +87,8 @@
 | Particle | IPA      | English equivalent                     | Gloss             |
 | -------- | -------- | -------------------------------------- | ----------------- |
 | subį     | `subĩ`  | *should*                               | `desire.IRR.VLNK` |
-| anisį    | `aɲisĩ` | *should have, should need, would need* | `need.IRR.VLNK`   |
-| nasį     | `nasĩ`  | *could*                                | `can.IRR.VLNK`    |
+| aniŝį   | `aɲiɕĩ` | *should have, should need, would need* | `need.IRR.VLNK`   |
+| naŝį    | `naɕĩ`  | *could*                                | `can.IRR.VLNK`    |
 | akį      | `akĩ`   | *would be able to*                     | `manage.IRR.VLNK` |
 | merį     | `meɺĩ`  | *might*                                | `try.IRR.VLNK`    |
 | ŝireį   | `ɕiɺeĩ` | *would know how to, would understand*  | `know.IRR.VLNK`   |

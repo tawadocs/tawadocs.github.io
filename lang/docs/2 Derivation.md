@@ -29,14 +29,14 @@
 				* ~"How did my cake taste?"
 
 ## 2.2 Semantic particles
-| Particle | IPA         | Gloss      |
-| -------- | ----------- | ---------- |
-| ku       | `[ku]`      | FIG        |
-| kunh     | `[kun̼]`    | LIT        |
-| ŝite    | `[ɕite]`    | EV.REL     |
-| mas      | `[mas]`     | AG         |
-| itagią   | `[itagiã]` | idea-MOD   |
-| nampą    | `[nampã]`  | number-MOD |
+| Particle | IPA       | Gloss  |
+| -------- | --------- | ------ |
+| ku       | `[ku]`    | FIG    |
+| kunh     | `[kun̼]`  | LIT    |
+| ŝite    | `[ɕite]`  | EV.REL |
+| mas      | `[mas]`   | AG     |
+| taĉi    | `[taĉi]` | path   |
+| nampa    | `[nampa]` | number |
 * *ku* and *kunh* discriminate figurative and literal statements:
 	* *deku zuǫ* `REC-FIG 2SG-OBJ`: I get you (fig.)
 		* here, it means that the speaker emotionally understands the listener
@@ -51,13 +51,13 @@
 	* *rumas* `CAUS.V.PLAT-AG`: causer (e.g., one who caused something)
 		* in a sentence: *so ni rumasíl no iinqpyą* `3SG.M TOP CAUS.V.PLAT-AG-DEF GEN good-INV-COLL.MOD`
 			* "He is the one who causes all bad things (to happen)"
-* *itagią* is a modifier form of *itagi* (a realisable thing), used primarily to turn a word into a theory, worldview, or ideology:
-	* *umàtsuitagią* `community-idea-MOD`: a community ideology or theory (e.g., communitarianism, communism, etc.), often used to refer to communism
-	* *honĉaitagią* `person-F.PLAT-idea-MOD`: a woman's ideology or theory (e.g., feminism)
-* *nampą* is similar to *itagią* in that it is a modifier form of *nampa* (number, amount); it is used to turn a word, often a grammatical particle, into a number:
-	* *zunampą* `2SG-number-MOD`: two / second
-	* there is no restriction or strict rules regarding *nampą*'s use, other than that it should be understandable by context
-		* e.g., if a group associates *delika* (lose) with 'zero,' then *delikanampą* means 0 (for them, as other groups might not associate *delika* with zero)
+* *taĉi* is a modifier form of *taĉi* (a realisable thing), used primarily to turn a word into a theory, worldview, or ideology:
+	* *umataĉi* `community-idea`: a community ideology or theory (e.g., communitarianism, communism, etc.), often used to refer to communism
+	* *honĉataĉi* `person-F.PLAT-idea`: a woman's ideology or theory (e.g., feminism)
+* *nampa* is similar to *taĉi* in that it is a modifier form of *nampa* (number, amount); it is used to turn a word, often a grammatical particle, into a number:
+	* *nampa zu / zunampa* `number 2SG / 2SG-number`: two / second
+	* there is no restriction or strict rules regarding *nampa*'s use, other than that it should be understandable by context
+		* e.g., if a group associates *zelika* (lose) with 'zero,' then *zelikanampa* means 0 (for them, as other groups might not associate *zelika* with zero)
 
 ## 2.3 Explanation
 * These affixes are not necessary or essential to use
