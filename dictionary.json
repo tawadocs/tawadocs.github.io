@@ -208,6 +208,24 @@
     ]
   },
   {
+    "word": "aŝi",
+    "id": "sin",
+    "definitions": [
+      {
+        "text": "new",
+        "frequency": 100
+      },
+      {
+        "text": "newly",
+        "frequency": 100
+      },
+      {
+        "text": "fresh",
+        "frequency": 100
+      }
+    ]
+  },
+  {
     "word": "ato",
     "id": "anu",
     "definitions": [
@@ -263,6 +281,68 @@
     "definitions": [
       {
         "text": "sweet fruits",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "baka",
+    "id": "sike",
+    "definitions": [
+      {
+        "text": "circle",
+        "frequency": 100
+      },
+      {
+        "text": "round",
+        "frequency": 100
+      },
+      {
+        "text": "sphere",
+        "frequency": 100
+      },
+      {
+        "text": "ball",
+        "frequency": 100
+      },
+      {
+        "text": "loop",
+        "frequency": 100
+      },
+      {
+        "text": "cycle",
+        "frequency": 100
+      },
+      {
+        "text": "wheel",
+        "frequency": 100
+      },
+      {
+        "text": "disc",
+        "frequency": 100
+      },
+      {
+        "text": "globe",
+        "frequency": 100
+      },
+      {
+        "text": "circuit",
+        "frequency": 100
+      },
+      {
+        "text": "innocent",
+        "frequency": 100
+      },
+      {
+        "text": "fool",
+        "frequency": 100
+      },
+      {
+        "text": "virgin",
+        "frequency": 100
+      },
+      {
+        "text": "innocence",
         "frequency": 100
       }
     ]
@@ -384,6 +464,108 @@
     ]
   },
   {
+    "word": "denh",
+    "id": "pana",
+    "definitions": [
+      {
+        "text": "give",
+        "frequency": 100
+      },
+      {
+        "text": "put",
+        "frequency": 100
+      },
+      {
+        "text": "deliver",
+        "frequency": 100
+      },
+      {
+        "text": "grant",
+        "frequency": 100
+      },
+      {
+        "text": "delivery",
+        "frequency": 100
+      },
+      {
+        "text": "send",
+        "frequency": 100
+      },
+      {
+        "text": "submit",
+        "frequency": 100
+      },
+      {
+        "text": "provide",
+        "frequency": 100
+      },
+      {
+        "text": "transfer",
+        "frequency": 100
+      },
+      {
+        "text": "distribute",
+        "frequency": 100
+      },
+      {
+        "text": "distribution",
+        "frequency": 100
+      },
+      {
+        "text": "donate",
+        "frequency": 100
+      },
+      {
+        "text": "appoint",
+        "frequency": 100
+      },
+      {
+        "text": "contribute",
+        "frequency": 100
+      },
+      {
+        "text": "output",
+        "frequency": 100
+      },
+      {
+        "text": "yield",
+        "frequency": 100
+      },
+      {
+        "text": "publishing",
+        "frequency": 100
+      },
+      {
+        "text": "given",
+        "frequency": 100
+      },
+      {
+        "text": "share",
+        "frequency": 100
+      },
+      {
+        "text": "deploy",
+        "frequency": 100
+      },
+      {
+        "text": "offering",
+        "frequency": 100
+      },
+      {
+        "text": "assign",
+        "frequency": 100
+      },
+      {
+        "text": "deposit",
+        "frequency": 100
+      },
+      {
+        "text": "convey",
+        "frequency": 100
+      }
+    ]
+  },
+  {
     "word": "ę",
     "id": "en",
     "definitions": [
@@ -463,6 +645,150 @@
       },
       {
         "text": "section",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "fihon",
+    "id": "soweli",
+    "definitions": [
+      {
+        "text": "animal",
+        "frequency": 100
+      },
+      {
+        "text": "deer",
+        "frequency": 100
+      },
+      {
+        "text": "creature",
+        "frequency": 100
+      },
+      {
+        "text": "dog",
+        "frequency": 100
+      },
+      {
+        "text": "cat",
+        "frequency": 100
+      },
+      {
+        "text": "llama",
+        "frequency": 100
+      },
+      {
+        "text": "goat",
+        "frequency": 100
+      },
+      {
+        "text": "Musteloidea",
+        "frequency": 100
+      },
+      {
+        "text": "beast",
+        "frequency": 100
+      },
+      {
+        "text": "lion",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "fiyui",
+    "id": "weka",
+    "definitions": [
+      {
+        "text": "rid",
+        "frequency": 100
+      },
+      {
+        "text": "removal",
+        "frequency": 100
+      },
+      {
+        "text": "remove",
+        "frequency": 100
+      },
+      {
+        "text": "eliminate",
+        "frequency": 100
+      },
+      {
+        "text": "apart",
+        "frequency": 100
+      },
+      {
+        "text": "omit",
+        "frequency": 100
+      },
+      {
+        "text": "missing",
+        "frequency": 100
+      },
+      {
+        "text": "away",
+        "frequency": 100
+      },
+      {
+        "text": "absence",
+        "frequency": 100
+      },
+      {
+        "text": "loss",
+        "frequency": 100
+      },
+      {
+        "text": "delete",
+        "frequency": 100
+      },
+      {
+        "text": "dismiss",
+        "frequency": 100
+      },
+      {
+        "text": "distant",
+        "frequency": 100
+      },
+      {
+        "text": "leave",
+        "frequency": 100
+      },
+      {
+        "text": "abandon",
+        "frequency": 100
+      },
+      {
+        "text": "far",
+        "frequency": 100
+      },
+      {
+        "text": "vanish",
+        "frequency": 100
+      },
+      {
+        "text": "disappear",
+        "frequency": 100
+      },
+      {
+        "text": "avoid",
+        "frequency": 100
+      },
+      {
+        "text": "out",
+        "frequency": 100
+      },
+      {
+        "text": "exclude",
+        "frequency": 100
+      },
+      {
+        "text": "escape",
+        "frequency": 100
+      },
+      {
+        "text": "distance",
         "frequency": 100
       }
     ]
@@ -660,6 +986,28 @@
     ]
   },
   {
+    "word": "fofvóóf",
+    "id": "uta",
+    "definitions": [
+      {
+        "text": "mouth",
+        "frequency": 100
+      },
+      {
+        "text": "lip",
+        "frequency": 100
+      },
+      {
+        "text": "kiss",
+        "frequency": 100
+      },
+      {
+        "text": "jaw",
+        "frequency": 100
+      }
+    ]
+  },
+  {
     "word": "foŝo",
     "id": "foŝo",
     "definitions": [
@@ -685,6 +1033,24 @@
       },
       {
         "text": "man",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "fuyu",
+    "id": "seme",
+    "definitions": [
+      {
+        "text": "what",
+        "frequency": 100
+      },
+      {
+        "text": "which",
+        "frequency": 100
+      },
+      {
+        "text": "huh",
         "frequency": 100
       }
     ]
@@ -1087,6 +1453,28 @@
       },
       {
         "text": "uglify",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "hategu",
+    "id": "unpa",
+    "definitions": [
+      {
+        "text": "sex",
+        "frequency": 100
+      },
+      {
+        "text": "sexual",
+        "frequency": 100
+      },
+      {
+        "text": "sexually",
+        "frequency": 100
+      },
+      {
+        "text": "fucking",
         "frequency": 100
       }
     ]
@@ -4810,6 +5198,36 @@
     ]
   },
   {
+    "word": "maku",
+    "id": "palisa",
+    "definitions": [
+      {
+        "text": "stick",
+        "frequency": 100
+      },
+      {
+        "text": "rod",
+        "frequency": 100
+      },
+      {
+        "text": "stake",
+        "frequency": 100
+      },
+      {
+        "text": "pole",
+        "frequency": 100
+      },
+      {
+        "text": "branch",
+        "frequency": 100
+      },
+      {
+        "text": "staff",
+        "frequency": 100
+      }
+    ]
+  },
+  {
     "word": "mama mama",
     "definitions": [
       {
@@ -5028,6 +5446,32 @@
       }
     ],
     "id": "mi tawa"
+  },
+  {
+    "word": "mina",
+    "id": "tan",
+    "definitions": [
+      {
+        "text": "from",
+        "frequency": 100
+      },
+      {
+        "text": "reason",
+        "frequency": 100
+      },
+      {
+        "text": "because of",
+        "frequency": 100
+      },
+      {
+        "text": "by",
+        "frequency": 100
+      },
+      {
+        "text": "source",
+        "frequency": 100
+      }
+    ]
   },
   {
     "word": "miri",
@@ -6230,36 +6674,6 @@
     "id": "pali sin"
   },
   {
-    "word": "palisa",
-    "definitions": [
-      {
-        "text": "stick",
-        "frequency": 100
-      },
-      {
-        "text": "rod",
-        "frequency": 94
-      },
-      {
-        "text": "stake",
-        "frequency": 80
-      },
-      {
-        "text": "pole",
-        "frequency": 67
-      },
-      {
-        "text": "branch",
-        "frequency": 60
-      },
-      {
-        "text": "staff",
-        "frequency": 41
-      }
-    ],
-    "id": "palisa"
-  },
-  {
     "word": "palisa luka",
     "definitions": [
       {
@@ -6268,28 +6682,6 @@
       }
     ],
     "id": "palisa luka"
-  },
-  {
-    "word": "pan",
-    "definitions": [
-      {
-        "text": "bread",
-        "frequency": 100
-      },
-      {
-        "text": "grain",
-        "frequency": 81
-      },
-      {
-        "text": "wheat",
-        "frequency": 67
-      },
-      {
-        "text": "rice",
-        "frequency": 53
-      }
-    ],
-    "id": "pan"
   },
   {
     "word": "pan linja",
@@ -6310,108 +6702,6 @@
       }
     ],
     "id": "pan suwi"
-  },
-  {
-    "word": "pana",
-    "definitions": [
-      {
-        "text": "give",
-        "frequency": 100
-      },
-      {
-        "text": "put",
-        "frequency": 93
-      },
-      {
-        "text": "deliver",
-        "frequency": 90
-      },
-      {
-        "text": "grant",
-        "frequency": 85
-      },
-      {
-        "text": "delivery",
-        "frequency": 82
-      },
-      {
-        "text": "send",
-        "frequency": 80
-      },
-      {
-        "text": "submit",
-        "frequency": 78
-      },
-      {
-        "text": "provide",
-        "frequency": 73
-      },
-      {
-        "text": "transfer",
-        "frequency": 71
-      },
-      {
-        "text": "distribute",
-        "frequency": 65
-      },
-      {
-        "text": "distribution",
-        "frequency": 58
-      },
-      {
-        "text": "donate",
-        "frequency": 57
-      },
-      {
-        "text": "appoint",
-        "frequency": 55
-      },
-      {
-        "text": "contribute",
-        "frequency": 53
-      },
-      {
-        "text": "output",
-        "frequency": 52
-      },
-      {
-        "text": "yield",
-        "frequency": 50
-      },
-      {
-        "text": "publishing",
-        "frequency": 50
-      },
-      {
-        "text": "given",
-        "frequency": 50
-      },
-      {
-        "text": "share",
-        "frequency": 50
-      },
-      {
-        "text": "deploy",
-        "frequency": 47
-      },
-      {
-        "text": "offering",
-        "frequency": 47
-      },
-      {
-        "text": "assign",
-        "frequency": 47
-      },
-      {
-        "text": "deposit",
-        "frequency": 45
-      },
-      {
-        "text": "convey",
-        "frequency": 44
-      }
-    ],
-    "id": "pana"
   },
   {
     "word": "pana e sona",
@@ -7384,6 +7674,110 @@
     ]
   },
   {
+    "word": "roĉi",
+    "id": "pan",
+    "definitions": [
+      {
+        "text": "bread",
+        "frequency": 100
+      },
+      {
+        "text": "grain",
+        "frequency": 100
+      },
+      {
+        "text": "wheat",
+        "frequency": 100
+      },
+      {
+        "text": "rice",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "ŝahada",
+    "id": "utala",
+    "definitions": [
+      {
+        "text": "fight",
+        "frequency": 100
+      },
+      {
+        "text": "fighting",
+        "frequency": 100
+      },
+      {
+        "text": "battle",
+        "frequency": 100
+      },
+      {
+        "text": "combat",
+        "frequency": 100
+      },
+      {
+        "text": "conflict",
+        "frequency": 100
+      },
+      {
+        "text": "contend",
+        "frequency": 100
+      },
+      {
+        "text": "assault",
+        "frequency": 100
+      },
+      {
+        "text": "attack",
+        "frequency": 100
+      },
+      {
+        "text": "versus",
+        "frequency": 100
+      },
+      {
+        "text": "violent",
+        "frequency": 100
+      },
+      {
+        "text": "compete",
+        "frequency": 100
+      },
+      {
+        "text": "challenge",
+        "frequency": 100
+      },
+      {
+        "text": "violence",
+        "frequency": 100
+      },
+      {
+        "text": "hit",
+        "frequency": 100
+      },
+      {
+        "text": "struggle",
+        "frequency": 100
+      },
+      {
+        "text": "war",
+        "frequency": 100
+      },
+      {
+        "text": "contest",
+        "frequency": 100
+      },
+      {
+        "text": "oppose",
+        "frequency": 100
+      },
+      {
+        "text": "dispute",
+        "frequency": 100
+      }
+    ]
+  },
+  {
     "word": "sama ala",
     "definitions": [
       {
@@ -7464,24 +7858,6 @@
     "id": "selo soweli"
   },
   {
-    "word": "seme",
-    "definitions": [
-      {
-        "text": "what",
-        "frequency": 100
-      },
-      {
-        "text": "which",
-        "frequency": 69
-      },
-      {
-        "text": "huh",
-        "frequency": 44
-      }
-    ],
-    "id": "seme"
-  },
-  {
     "word": "ŝetan",
     "id": "monsuta",
     "definitions": [
@@ -7528,52 +7904,6 @@
     "id": "sijelo pona"
   },
   {
-    "word": "sike",
-    "definitions": [
-      {
-        "text": "circle",
-        "frequency": 100
-      },
-      {
-        "text": "round",
-        "frequency": 100
-      },
-      {
-        "text": "sphere",
-        "frequency": 82
-      },
-      {
-        "text": "ball",
-        "frequency": 77
-      },
-      {
-        "text": "loop",
-        "frequency": 71
-      },
-      {
-        "text": "cycle",
-        "frequency": 70
-      },
-      {
-        "text": "wheel",
-        "frequency": 64
-      },
-      {
-        "text": "disc",
-        "frequency": 59
-      },
-      {
-        "text": "globe",
-        "frequency": 55
-      },
-      {
-        "text": "circuit",
-        "frequency": 46
-      }
-    ],
-    "id": "sike"
-  },
-  {
     "word": "sike kon",
     "definitions": [
       {
@@ -7602,42 +7932,6 @@
       }
     ],
     "id": "sike mama"
-  },
-  {
-    "word": "sin",
-    "definitions": [
-      {
-        "text": "new",
-        "frequency": 100
-      },
-      {
-        "text": "newly",
-        "frequency": 92
-      },
-      {
-        "text": "fresh",
-        "frequency": 87
-      }
-    ],
-    "id": "sin"
-  },
-  {
-    "word": "sinpin",
-    "definitions": [
-      {
-        "text": "front",
-        "frequency": 92
-      },
-      {
-        "text": "face (n)",
-        "frequency": 62
-      },
-      {
-        "text": "wall",
-        "frequency": 50
-      }
-    ],
-    "id": "sinpin"
   },
   {
     "word": "ŝire",
@@ -8038,52 +8332,6 @@
         "frequency": 100
       }
     ]
-  },
-  {
-    "word": "soweli",
-    "definitions": [
-      {
-        "text": "animal",
-        "frequency": 95
-      },
-      {
-        "text": "deer",
-        "frequency": 87
-      },
-      {
-        "text": "creature",
-        "frequency": 71
-      },
-      {
-        "text": "dog",
-        "frequency": 67
-      },
-      {
-        "text": "cat",
-        "frequency": 61
-      },
-      {
-        "text": "llama",
-        "frequency": 58
-      },
-      {
-        "text": "goat",
-        "frequency": 56
-      },
-      {
-        "text": "Musteloidea",
-        "frequency": 50
-      },
-      {
-        "text": "beast",
-        "frequency": 43
-      },
-      {
-        "text": "lion",
-        "frequency": 42
-      }
-    ],
-    "id": "soweli"
   },
   {
     "word": "soweli len",
@@ -8546,32 +8794,6 @@
         "frequency": 100
       }
     ]
-  },
-  {
-    "word": "tan",
-    "definitions": [
-      {
-        "text": "from",
-        "frequency": 93
-      },
-      {
-        "text": "reason",
-        "frequency": 86
-      },
-      {
-        "text": "because of",
-        "frequency": 80
-      },
-      {
-        "text": "by",
-        "frequency": 70
-      },
-      {
-        "text": "source",
-        "frequency": 64
-      }
-    ],
-    "id": "tan"
   },
   {
     "word": "tan seme",
@@ -10086,28 +10308,6 @@
     ]
   },
   {
-    "word": "unpa",
-    "definitions": [
-      {
-        "text": "sex",
-        "frequency": 100
-      },
-      {
-        "text": "sexual",
-        "frequency": 95
-      },
-      {
-        "text": "sexually",
-        "frequency": 92
-      },
-      {
-        "text": "fucking",
-        "frequency": 42
-      }
-    ],
-    "id": "unpa"
-  },
-  {
     "word": "uns",
     "id": "lon",
     "definitions": [
@@ -10240,110 +10440,6 @@
         "frequency": 100
       }
     ]
-  },
-  {
-    "word": "uta",
-    "definitions": [
-      {
-        "text": "mouth",
-        "frequency": 100
-      },
-      {
-        "text": "lip",
-        "frequency": 47
-      },
-      {
-        "text": "kiss",
-        "frequency": 44
-      },
-      {
-        "text": "jaw",
-        "frequency": 42
-      }
-    ],
-    "id": "uta"
-  },
-  {
-    "word": "utala",
-    "definitions": [
-      {
-        "text": "fight",
-        "frequency": 100
-      },
-      {
-        "text": "fighting",
-        "frequency": 100
-      },
-      {
-        "text": "battle",
-        "frequency": 100
-      },
-      {
-        "text": "combat",
-        "frequency": 94
-      },
-      {
-        "text": "conflict",
-        "frequency": 93
-      },
-      {
-        "text": "contend",
-        "frequency": 90
-      },
-      {
-        "text": "assault",
-        "frequency": 88
-      },
-      {
-        "text": "attack",
-        "frequency": 82
-      },
-      {
-        "text": "versus",
-        "frequency": 69
-      },
-      {
-        "text": "violent",
-        "frequency": 67
-      },
-      {
-        "text": "compete",
-        "frequency": 67
-      },
-      {
-        "text": "challenge",
-        "frequency": 64
-      },
-      {
-        "text": "violence",
-        "frequency": 63
-      },
-      {
-        "text": "hit",
-        "frequency": 63
-      },
-      {
-        "text": "struggle",
-        "frequency": 60
-      },
-      {
-        "text": "war",
-        "frequency": 58
-      },
-      {
-        "text": "contest",
-        "frequency": 56
-      },
-      {
-        "text": "oppose",
-        "frequency": 50
-      },
-      {
-        "text": "dispute",
-        "frequency": 50
-      }
-    ],
-    "id": "utala"
   },
   {
     "word": "utala ala",
@@ -10566,104 +10662,6 @@
       }
     ],
     "id": "wawa ala"
-  },
-  {
-    "word": "weka",
-    "definitions": [
-      {
-        "text": "rid",
-        "frequency": 100
-      },
-      {
-        "text": "removal",
-        "frequency": 100
-      },
-      {
-        "text": "remove",
-        "frequency": 93
-      },
-      {
-        "text": "eliminate",
-        "frequency": 80
-      },
-      {
-        "text": "apart",
-        "frequency": 80
-      },
-      {
-        "text": "omit",
-        "frequency": 80
-      },
-      {
-        "text": "missing",
-        "frequency": 73
-      },
-      {
-        "text": "away",
-        "frequency": 73
-      },
-      {
-        "text": "absence",
-        "frequency": 71
-      },
-      {
-        "text": "loss",
-        "frequency": 69
-      },
-      {
-        "text": "delete",
-        "frequency": 67
-      },
-      {
-        "text": "dismiss",
-        "frequency": 67
-      },
-      {
-        "text": "distant",
-        "frequency": 64
-      },
-      {
-        "text": "leave",
-        "frequency": 64
-      },
-      {
-        "text": "abandon",
-        "frequency": 63
-      },
-      {
-        "text": "far",
-        "frequency": 60
-      },
-      {
-        "text": "vanish",
-        "frequency": 60
-      },
-      {
-        "text": "disappear",
-        "frequency": 47
-      },
-      {
-        "text": "avoid",
-        "frequency": 47
-      },
-      {
-        "text": "out",
-        "frequency": 45
-      },
-      {
-        "text": "exclude",
-        "frequency": 45
-      },
-      {
-        "text": "escape",
-        "frequency": 42
-      },
-      {
-        "text": "distance",
-        "frequency": 42
-      }
-    ],
-    "id": "weka"
   },
   {
     "word": "weka sona",
