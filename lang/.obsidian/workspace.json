@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5592922626596b18",
+        "id": "9541359fb01f7dd3",
         "type": "tabs",
         "children": [
           {
-            "id": "16fbb44230f5b300",
+            "id": "1e3e6dacbbfd14fb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/4 Modifiers.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "4 Modifiers"
+              "title": "New tab"
             }
           }
         ]
@@ -180,10 +176,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "16fbb44230f5b300",
+  "active": "1e3e6dacbbfd14fb",
   "lastOpenFiles": [
-    "docs/3 Basic syntax.md",
     "docs/4 Modifiers.md",
+    "docs/3 Basic syntax.md",
     "docs/7 Nouns and verbs.md",
     "docs/18 Modifiers.md",
     "docs-mp/1 Phonology.md"

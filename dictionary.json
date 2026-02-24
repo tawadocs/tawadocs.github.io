@@ -46,7 +46,68 @@
     ]
   },
   {
-    "word": "ante",
+    "word": "antaka",
+    "id": "kijetesantakalu",
+    "definitions": [
+      {
+        "text": "procyonid",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "ao",
+    "id": "jo",
+    "definitions": [
+      {
+        "text": "have",
+        "frequency": 100
+      },
+      {
+        "text": "possess",
+        "frequency": 100
+      },
+      {
+        "text": "carry",
+        "frequency": 100
+      },
+      {
+        "text": "contain",
+        "frequency": 100
+      },
+      {
+        "text": "own",
+        "frequency": 100
+      },
+      {
+        "text": "hold",
+        "frequency": 100
+      },
+      {
+        "text": "possession",
+        "frequency": 100
+      },
+      {
+        "text": "ownership",
+        "frequency": 100
+      },
+      {
+        "text": "consist",
+        "frequency": 100
+      },
+      {
+        "text": "include",
+        "frequency": 100
+      },
+      {
+        "text": "comprise",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "arene",
+    "id": "ante",
     "definitions": [
       {
         "text": "changing",
@@ -62,90 +123,89 @@
       },
       {
         "text": "alter",
-        "frequency": 94
+        "frequency": 100
       },
       {
         "text": "modify",
-        "frequency": 90
+        "frequency": 100
       },
       {
         "text": "alternative",
-        "frequency": 76
+        "frequency": 100
       },
       {
         "text": "change",
-        "frequency": 75
+        "frequency": 100
       },
       {
         "text": "convert",
-        "frequency": 75
+        "frequency": 100
       },
       {
         "text": "edit",
-        "frequency": 73
+        "frequency": 100
       },
       {
         "text": "difference",
-        "frequency": 71
+        "frequency": 100
       },
       {
         "text": "transformation",
-        "frequency": 70
+        "frequency": 100
       },
       {
         "text": "distinct",
-        "frequency": 69
+        "frequency": 100
       },
       {
         "text": "differently",
-        "frequency": 69
+        "frequency": 100
       },
       {
         "text": "vary",
-        "frequency": 67
+        "frequency": 100
       },
       {
         "text": "transform",
-        "frequency": 60
+        "frequency": 100
       },
       {
         "text": "variation",
-        "frequency": 60
+        "frequency": 100
       },
       {
         "text": "contrast",
-        "frequency": 55
+        "frequency": 100
       },
       {
         "text": "distinction",
-        "frequency": 55
+        "frequency": 100
       },
       {
         "text": "replace",
-        "frequency": 50
+        "frequency": 100
       },
       {
         "text": "switch",
-        "frequency": 50
+        "frequency": 100
       },
       {
         "text": "another",
-        "frequency": 47
+        "frequency": 100
       },
       {
         "text": "else",
-        "frequency": 47
+        "frequency": 100
       },
       {
         "text": "conversion",
-        "frequency": 46
+        "frequency": 100
       },
       {
         "text": "adjustment",
-        "frequency": 42
+        "frequency": 100
       }
-    ],
-    "id": "ante"
+    ]
   },
   {
     "word": "ato",
@@ -206,6 +266,106 @@
     ]
   },
   {
+    "word": "ĉika",
+    "id": "insa",
+    "definitions": [
+      {
+        "text": "internal",
+        "frequency": 100
+      },
+      {
+        "text": "inner",
+        "frequency": 100
+      },
+      {
+        "text": "interior",
+        "frequency": 100
+      },
+      {
+        "text": "centre",
+        "frequency": 100
+      },
+      {
+        "text": "guts",
+        "frequency": 100
+      },
+      {
+        "text": "core",
+        "frequency": 100
+      },
+      {
+        "text": "central",
+        "frequency": 100
+      },
+      {
+        "text": "inside",
+        "frequency": 100
+      },
+      {
+        "text": "middle",
+        "frequency": 100
+      },
+      {
+        "text": "belly",
+        "frequency": 100
+      },
+      {
+        "text": "stomach",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "daka",
+    "id": "lanpan",
+    "definitions": [
+      {
+        "text": "steal",
+        "frequency": 100
+      },
+      {
+        "text": "seize",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "dakai",
+    "id": "poka",
+    "definitions": [
+      {
+        "text": "side",
+        "frequency": 100
+      },
+      {
+        "text": "hip",
+        "frequency": 100
+      },
+      {
+        "text": "beside",
+        "frequency": 100
+      },
+      {
+        "text": "aside",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "ę",
+    "id": "en",
+    "definitions": [
+      {
+        "text": "and",
+        "frequency": 100
+      },
+      {
+        "text": "plus",
+        "frequency": 100
+      }
+    ]
+  },
+  {
     "word": "eauca",
     "id": "kili",
     "definitions": [
@@ -228,20 +388,6 @@
     ]
   },
   {
-    "word": "en",
-    "definitions": [
-      {
-        "text": "and",
-        "frequency": 50
-      },
-      {
-        "text": "plus",
-        "frequency": 50
-      }
-    ],
-    "id": "en"
-  },
-  {
     "word": "epiku",
     "definitions": [
       {
@@ -252,74 +398,234 @@
     "id": "epiku"
   },
   {
-    "word": "esun",
+    "word": "fajaru",
+    "id": "kipisi",
     "definitions": [
       {
-        "text": "trading",
-        "frequency": 91
+        "text": "split",
+        "frequency": 100
       },
       {
-        "text": "trade",
-        "frequency": 88
+        "text": "division",
+        "frequency": 100
       },
       {
-        "text": "shopping",
-        "frequency": 88
+        "text": "slice",
+        "frequency": 100
       },
       {
-        "text": "deal",
-        "frequency": 75
+        "text": "cut",
+        "frequency": 100
       },
       {
-        "text": "commerce",
-        "frequency": 69
+        "text": "divide",
+        "frequency": 100
       },
       {
-        "text": "sales",
-        "frequency": 67
+        "text": "chop",
+        "frequency": 100
       },
       {
-        "text": "purchase",
-        "frequency": 67
+        "text": "segment",
+        "frequency": 100
       },
       {
-        "text": "buy",
-        "frequency": 65
-      },
-      {
-        "text": "transaction",
-        "frequency": 64
-      },
-      {
-        "text": "market",
-        "frequency": 62
-      },
-      {
-        "text": "sale",
-        "frequency": 60
-      },
-      {
-        "text": "exchange",
-        "frequency": 58
-      },
-      {
-        "text": "sell",
-        "frequency": 57
-      },
-      {
-        "text": "retail",
-        "frequency": 56
-      },
-      {
-        "text": "business",
-        "frequency": 48
-      },
-      {
-        "text": "shop",
-        "frequency": 46
+        "text": "section",
+        "frequency": 100
       }
-    ],
-    "id": "esun"
+    ]
+  },
+  {
+    "word": "fofnnai",
+    "id": "kute",
+    "definitions": [
+      {
+        "text": "hear",
+        "frequency": 100
+      },
+      {
+        "text": "listen",
+        "frequency": 100
+      },
+      {
+        "text": "ear",
+        "frequency": 100
+      },
+      {
+        "text": "hearing",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "fofo",
+    "id": "toki",
+    "definitions": [
+      {
+        "text": "speech",
+        "frequency": 100
+      },
+      {
+        "text": "talk",
+        "frequency": 100
+      },
+      {
+        "text": "conversation",
+        "frequency": 100
+      },
+      {
+        "text": "say",
+        "frequency": 100
+      },
+      {
+        "text": "communicate",
+        "frequency": 100
+      },
+      {
+        "text": "speak",
+        "frequency": 100
+      },
+      {
+        "text": "communication",
+        "frequency": 100
+      },
+      {
+        "text": "hello",
+        "frequency": 100
+      },
+      {
+        "text": "language",
+        "frequency": 100
+      },
+      {
+        "text": "tell",
+        "frequency": 100
+      },
+      {
+        "text": "statement",
+        "frequency": 100
+      },
+      {
+        "text": "hi",
+        "frequency": 100
+      },
+      {
+        "text": "discuss",
+        "frequency": 100
+      },
+      {
+        "text": "discussion",
+        "frequency": 100
+      },
+      {
+        "text": "discourse",
+        "frequency": 100
+      },
+      {
+        "text": "mention",
+        "frequency": 100
+      },
+      {
+        "text": "comment",
+        "frequency": 100
+      },
+      {
+        "text": "refer",
+        "frequency": 100
+      },
+      {
+        "text": "message",
+        "frequency": 100
+      },
+      {
+        "text": "express",
+        "frequency": 100
+      },
+      {
+        "text": "remark",
+        "frequency": 100
+      },
+      {
+        "text": "dialogue",
+        "frequency": 100
+      },
+      {
+        "text": "reporting",
+        "frequency": 100
+      },
+      {
+        "text": "call",
+        "frequency": 100
+      },
+      {
+        "text": "narrative",
+        "frequency": 100
+      },
+      {
+        "text": "commentary",
+        "frequency": 100
+      },
+      {
+        "text": "disclose",
+        "frequency": 100
+      },
+      {
+        "text": "respond",
+        "frequency": 100
+      },
+      {
+        "text": "contact",
+        "frequency": 100
+      },
+      {
+        "text": "verbal",
+        "frequency": 100
+      },
+      {
+        "text": "admit",
+        "frequency": 100
+      },
+      {
+        "text": "proposal",
+        "frequency": 100
+      },
+      {
+        "text": "tale",
+        "frequency": 100
+      },
+      {
+        "text": "story",
+        "frequency": 100
+      },
+      {
+        "text": "declare",
+        "frequency": 100
+      },
+      {
+        "text": "interview",
+        "frequency": 100
+      },
+      {
+        "text": "answer",
+        "frequency": 100
+      },
+      {
+        "text": "testify",
+        "frequency": 100
+      },
+      {
+        "text": "report",
+        "frequency": 100
+      },
+      {
+        "text": "expression",
+        "frequency": 100
+      },
+      {
+        "text": "phrase",
+        "frequency": 100
+      }
+    ]
   },
   {
     "word": "foŝo",
@@ -347,6 +653,98 @@
       },
       {
         "text": "man",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "gade",
+    "id": "jaki",
+    "definitions": [
+      {
+        "text": "dirty",
+        "frequency": 100
+      },
+      {
+        "text": "trash",
+        "frequency": 100
+      },
+      {
+        "text": "gross",
+        "frequency": 100
+      },
+      {
+        "text": "garbage",
+        "frequency": 100
+      },
+      {
+        "text": "mess",
+        "frequency": 100
+      },
+      {
+        "text": "disgusting",
+        "frequency": 100
+      },
+      {
+        "text": "junk",
+        "frequency": 100
+      },
+      {
+        "text": "bacteria",
+        "frequency": 100
+      },
+      {
+        "text": "nasty",
+        "frequency": 100
+      },
+      {
+        "text": "crap",
+        "frequency": 100
+      },
+      {
+        "text": "waste",
+        "frequency": 100
+      },
+      {
+        "text": "toxic",
+        "frequency": 100
+      },
+      {
+        "text": "infection",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "garibàn",
+    "id": "nasa",
+    "definitions": [
+      {
+        "text": "weird",
+        "frequency": 100
+      },
+      {
+        "text": "strange",
+        "frequency": 100
+      },
+      {
+        "text": "unusual",
+        "frequency": 100
+      },
+      {
+        "text": "odd",
+        "frequency": 100
+      },
+      {
+        "text": "drunk",
+        "frequency": 100
+      },
+      {
+        "text": "silly",
+        "frequency": 100
+      },
+      {
+        "text": "wild",
         "frequency": 100
       }
     ]
@@ -380,6 +778,76 @@
     ]
   },
   {
+    "word": "hari",
+    "id": "esun",
+    "definitions": [
+      {
+        "text": "trading",
+        "frequency": 100
+      },
+      {
+        "text": "trade",
+        "frequency": 100
+      },
+      {
+        "text": "shopping",
+        "frequency": 100
+      },
+      {
+        "text": "deal",
+        "frequency": 100
+      },
+      {
+        "text": "commerce",
+        "frequency": 100
+      },
+      {
+        "text": "sales",
+        "frequency": 100
+      },
+      {
+        "text": "purchase",
+        "frequency": 100
+      },
+      {
+        "text": "buy",
+        "frequency": 100
+      },
+      {
+        "text": "transaction",
+        "frequency": 100
+      },
+      {
+        "text": "market",
+        "frequency": 100
+      },
+      {
+        "text": "sale",
+        "frequency": 100
+      },
+      {
+        "text": "exchange",
+        "frequency": 100
+      },
+      {
+        "text": "sell",
+        "frequency": 100
+      },
+      {
+        "text": "retail",
+        "frequency": 100
+      },
+      {
+        "text": "business",
+        "frequency": 100
+      },
+      {
+        "text": "shop",
+        "frequency": 100
+      }
+    ]
+  },
+  {
     "word": "haŝiru",
     "id": "jan lili",
     "definitions": [
@@ -389,6 +857,84 @@
       },
       {
         "text": "baby",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "hataka",
+    "id": "kokosila",
+    "definitions": [
+      {
+        "text": "beautify",
+        "frequency": 100
+      },
+      {
+        "text": "face",
+        "frequency": 100
+      },
+      {
+        "text": "fondle",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "hiro",
+    "id": "walo",
+    "definitions": [
+      {
+        "text": "white",
+        "frequency": 100
+      },
+      {
+        "text": "pale",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "hon",
+    "id": "jan",
+    "definitions": [
+      {
+        "text": "person",
+        "frequency": 100
+      },
+      {
+        "text": "human",
+        "frequency": 100
+      },
+      {
+        "text": "people",
+        "frequency": 100
+      },
+      {
+        "text": "anybody",
+        "frequency": 100
+      },
+      {
+        "text": "dude",
+        "frequency": 100
+      },
+      {
+        "text": "anyone",
+        "frequency": 100
+      },
+      {
+        "text": "somebody",
+        "frequency": 100
+      },
+      {
+        "text": "character",
+        "frequency": 100
+      },
+      {
+        "text": "guy",
+        "frequency": 100
+      },
+      {
+        "text": "being",
         "frequency": 100
       }
     ]
@@ -858,56 +1404,6 @@
     "id": "ilo utala"
   },
   {
-    "word": "insa",
-    "definitions": [
-      {
-        "text": "internal",
-        "frequency": 100
-      },
-      {
-        "text": "inner",
-        "frequency": 100
-      },
-      {
-        "text": "interior",
-        "frequency": 93
-      },
-      {
-        "text": "centre",
-        "frequency": 91
-      },
-      {
-        "text": "guts",
-        "frequency": 71
-      },
-      {
-        "text": "core",
-        "frequency": 67
-      },
-      {
-        "text": "central",
-        "frequency": 60
-      },
-      {
-        "text": "inside",
-        "frequency": 58
-      },
-      {
-        "text": "middle",
-        "frequency": 56
-      },
-      {
-        "text": "belly",
-        "frequency": 54
-      },
-      {
-        "text": "stomach",
-        "frequency": 41
-      }
-    ],
-    "id": "insa"
-  },
-  {
     "word": "insa pi ma tomo",
     "definitions": [
       {
@@ -918,62 +1414,22 @@
     "id": "insa pi ma tomo"
   },
   {
-    "word": "jaki",
+    "word": "iyuko",
+    "id": "iyuko",
     "definitions": [
       {
-        "text": "dirty",
-        "frequency": 93
+        "text": "sound",
+        "frequency": 100
       },
       {
-        "text": "trash",
-        "frequency": 89
+        "text": "noise",
+        "frequency": 100
       },
       {
-        "text": "gross",
-        "frequency": 87
-      },
-      {
-        "text": "garbage",
-        "frequency": 86
-      },
-      {
-        "text": "mess",
-        "frequency": 82
-      },
-      {
-        "text": "disgusting",
-        "frequency": 79
-      },
-      {
-        "text": "junk",
-        "frequency": 75
-      },
-      {
-        "text": "bacteria",
-        "frequency": 67
-      },
-      {
-        "text": "nasty",
-        "frequency": 62
-      },
-      {
-        "text": "crap",
-        "frequency": 47
-      },
-      {
-        "text": "waste",
-        "frequency": 47
-      },
-      {
-        "text": "toxic",
-        "frequency": 47
-      },
-      {
-        "text": "infection",
-        "frequency": 44
+        "text": "tone",
+        "frequency": 100
       }
-    ],
-    "id": "jaki"
+    ]
   },
   {
     "word": "jaki ala",
@@ -984,52 +1440,6 @@
       }
     ],
     "id": "jaki ala"
-  },
-  {
-    "word": "jan",
-    "definitions": [
-      {
-        "text": "person",
-        "frequency": 100
-      },
-      {
-        "text": "human",
-        "frequency": 93
-      },
-      {
-        "text": "people",
-        "frequency": 82
-      },
-      {
-        "text": "anybody",
-        "frequency": 62
-      },
-      {
-        "text": "dude",
-        "frequency": 61
-      },
-      {
-        "text": "anyone",
-        "frequency": 56
-      },
-      {
-        "text": "somebody",
-        "frequency": 50
-      },
-      {
-        "text": "character",
-        "frequency": 50
-      },
-      {
-        "text": "guy",
-        "frequency": 43
-      },
-      {
-        "text": "being",
-        "frequency": 42
-      }
-    ],
-    "id": "jan"
   },
   {
     "word": "jan ala",
@@ -1844,26 +2254,6 @@
     "id": "jan utala"
   },
   {
-    "word": "jasima",
-    "definitions": [
-      {
-        "text": "reflect",
-        "frequency": 59
-      }
-    ],
-    "id": "jasima"
-  },
-  {
-    "word": "jelo",
-    "definitions": [
-      {
-        "text": "yellow",
-        "frequency": 94
-      }
-    ],
-    "id": "jelo"
-  },
-  {
     "word": "jimei",
     "id": "ma",
     "definitions": [
@@ -2000,56 +2390,6 @@
     ]
   },
   {
-    "word": "jo",
-    "definitions": [
-      {
-        "text": "have",
-        "frequency": 100
-      },
-      {
-        "text": "possess",
-        "frequency": 95
-      },
-      {
-        "text": "carry",
-        "frequency": 90
-      },
-      {
-        "text": "contain",
-        "frequency": 75
-      },
-      {
-        "text": "own",
-        "frequency": 73
-      },
-      {
-        "text": "hold",
-        "frequency": 71
-      },
-      {
-        "text": "possession",
-        "frequency": 68
-      },
-      {
-        "text": "ownership",
-        "frequency": 67
-      },
-      {
-        "text": "consist",
-        "frequency": 42
-      },
-      {
-        "text": "include",
-        "frequency": 42
-      },
-      {
-        "text": "comprise",
-        "frequency": 41
-      }
-    ],
-    "id": "jo"
-  },
-  {
     "word": "jo ala",
     "definitions": [
       {
@@ -2078,24 +2418,6 @@
       }
     ],
     "id": "kala suli"
-  },
-  {
-    "word": "kalama",
-    "definitions": [
-      {
-        "text": "sound",
-        "frequency": 100
-      },
-      {
-        "text": "noise",
-        "frequency": 79
-      },
-      {
-        "text": "tone",
-        "frequency": 50
-      }
-    ],
-    "id": "kalama"
   },
   {
     "word": "kalama ala",
@@ -2400,6 +2722,48 @@
     ]
   },
   {
+    "word": "kari",
+    "id": "mama",
+    "definitions": [
+      {
+        "text": "parent",
+        "frequency": 100
+      },
+      {
+        "text": "parental",
+        "frequency": 100
+      },
+      {
+        "text": "mama",
+        "frequency": 100
+      },
+      {
+        "text": "mommy",
+        "frequency": 100
+      },
+      {
+        "text": "mom",
+        "frequency": 100
+      },
+      {
+        "text": "creator",
+        "frequency": 100
+      },
+      {
+        "text": "mother",
+        "frequency": 100
+      },
+      {
+        "text": "foster",
+        "frequency": 100
+      },
+      {
+        "text": "originator",
+        "frequency": 100
+      }
+    ]
+  },
+  {
     "word": "kasi kule",
     "definitions": [
       {
@@ -2438,92 +2802,6 @@
       }
     ],
     "id": "kasi telo"
-  },
-  {
-    "word": "ken",
-    "definitions": [
-      {
-        "text": "able",
-        "frequency": 100
-      },
-      {
-        "text": "potential",
-        "frequency": 94
-      },
-      {
-        "text": "ability",
-        "frequency": 93
-      },
-      {
-        "text": "capability",
-        "frequency": 92
-      },
-      {
-        "text": "capable",
-        "frequency": 90
-      },
-      {
-        "text": "may",
-        "frequency": 88
-      },
-      {
-        "text": "possible",
-        "frequency": 86
-      },
-      {
-        "text": "could",
-        "frequency": 81
-      },
-      {
-        "text": "eligible",
-        "frequency": 80
-      },
-      {
-        "text": "can",
-        "frequency": 79
-      },
-      {
-        "text": "possibility",
-        "frequency": 75
-      },
-      {
-        "text": "permission",
-        "frequency": 69
-      },
-      {
-        "text": "likelihood",
-        "frequency": 60
-      },
-      {
-        "text": "chance",
-        "frequency": 57
-      },
-      {
-        "text": "probability",
-        "frequency": 56
-      },
-      {
-        "text": "maybe",
-        "frequency": 53
-      },
-      {
-        "text": "opportunity",
-        "frequency": 53
-      },
-      {
-        "text": "available",
-        "frequency": 53
-      },
-      {
-        "text": "possibly",
-        "frequency": 50
-      },
-      {
-        "text": "odds",
-        "frequency": 45
-      }
-    ],
-    "id": "ken"
   },
   {
     "word": "ken ala",
@@ -2606,28 +2884,6 @@
     "id": "ken tawa"
   },
   {
-    "word": "kepeken",
-    "definitions": [
-      {
-        "text": "use",
-        "frequency": 93
-      },
-      {
-        "text": "utilize",
-        "frequency": 75
-      },
-      {
-        "text": "via",
-        "frequency": 60
-      },
-      {
-        "text": "employ",
-        "frequency": 50
-      }
-    ],
-    "id": "kepeken"
-  },
-  {
     "word": "kepeken tenpo lili",
     "definitions": [
       {
@@ -2638,30 +2894,6 @@
     "id": "kepeken tenpo lili"
   },
   {
-    "word": "kijetesantakalu",
-    "definitions": [
-      {
-        "text": "procyonid",
-        "frequency": 53
-      }
-    ],
-    "id": "kijetesantakalu"
-  },
-  {
-    "word": "kin",
-    "definitions": [
-      {
-        "text": "also",
-        "frequency": 79
-      },
-      {
-        "text": "too",
-        "frequency": 73
-      }
-    ],
-    "id": "kin"
-  },
-  {
     "word": "kin la",
     "definitions": [
       {
@@ -2670,44 +2902,6 @@
       }
     ],
     "id": "kin la"
-  },
-  {
-    "word": "kipisi",
-    "definitions": [
-      {
-        "text": "split",
-        "frequency": 69
-      },
-      {
-        "text": "division",
-        "frequency": 65
-      },
-      {
-        "text": "slice",
-        "frequency": 62
-      },
-      {
-        "text": "cut",
-        "frequency": 56
-      },
-      {
-        "text": "divide",
-        "frequency": 55
-      },
-      {
-        "text": "chop",
-        "frequency": 50
-      },
-      {
-        "text": "segment",
-        "frequency": 50
-      },
-      {
-        "text": "section",
-        "frequency": 42
-      }
-    ],
-    "id": "kipisi"
   },
   {
     "word": "kitei",
@@ -2755,6 +2949,64 @@
       },
       {
         "text": "anything",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "kiuko",
+    "id": "kon",
+    "definitions": [
+      {
+        "text": "air",
+        "frequency": 100
+      },
+      {
+        "text": "soul",
+        "frequency": 100
+      },
+      {
+        "text": "spirit",
+        "frequency": 100
+      },
+      {
+        "text": "gas",
+        "frequency": 100
+      },
+      {
+        "text": "essence",
+        "frequency": 100
+      },
+      {
+        "text": "atmosphere",
+        "frequency": 100
+      },
+      {
+        "text": "oxygen",
+        "frequency": 100
+      },
+      {
+        "text": "breathe",
+        "frequency": 100
+      },
+      {
+        "text": "breath",
+        "frequency": 100
+      },
+      {
+        "text": "meaning",
+        "frequency": 100
+      },
+      {
+        "text": "intangible",
+        "frequency": 100
+      },
+      {
+        "text": "invisible entity",
+        "frequency": 100
+      },
+      {
+        "text": "breathing",
         "frequency": 100
       }
     ]
@@ -2980,6 +3232,28 @@
     ]
   },
   {
+    "word": "kó",
+    "id": "tenpo suno",
+    "definitions": [
+      {
+        "text": "day",
+        "frequency": 100
+      },
+      {
+        "text": "event",
+        "frequency": 100
+      },
+      {
+        "text": "incidence",
+        "frequency": 100
+      },
+      {
+        "text": "occurrence",
+        "frequency": 100
+      }
+    ]
+  },
+  {
     "word": "ko pan",
     "definitions": [
       {
@@ -2990,74 +3264,6 @@
     "id": "ko pan"
   },
   {
-    "word": "kokosila",
-    "definitions": [
-      {
-        "text": "speak another language in a Toki Pona only environment",
-        "frequency": 50
-      }
-    ],
-    "id": "kokosila"
-  },
-  {
-    "word": "kon",
-    "definitions": [
-      {
-        "text": "air",
-        "frequency": 100
-      },
-      {
-        "text": "soul",
-        "frequency": 100
-      },
-      {
-        "text": "spirit",
-        "frequency": 86
-      },
-      {
-        "text": "gas",
-        "frequency": 83
-      },
-      {
-        "text": "essence",
-        "frequency": 65
-      },
-      {
-        "text": "atmosphere",
-        "frequency": 64
-      },
-      {
-        "text": "oxygen",
-        "frequency": 60
-      },
-      {
-        "text": "breathe",
-        "frequency": 60
-      },
-      {
-        "text": "breath",
-        "frequency": 57
-      },
-      {
-        "text": "meaning",
-        "frequency": 55
-      },
-      {
-        "text": "intangible",
-        "frequency": 53
-      },
-      {
-        "text": "invisible entity",
-        "frequency": 45
-      },
-      {
-        "text": "breathing",
-        "frequency": 45
-      }
-    ],
-    "id": "kon"
-  },
-  {
     "word": "kon tawa",
     "definitions": [
       {
@@ -3066,16 +3272,6 @@
       }
     ],
     "id": "kon tawa"
-  },
-  {
-    "word": "kule",
-    "definitions": [
-      {
-        "text": "colour",
-        "frequency": 100
-      }
-    ],
-    "id": "kule"
   },
   {
     "word": "kulupu ilo",
@@ -3152,78 +3348,6 @@
       }
     ],
     "id": "kulupu utala telo"
-  },
-  {
-    "word": "kute",
-    "definitions": [
-      {
-        "text": "hear",
-        "frequency": 100
-      },
-      {
-        "text": "listen",
-        "frequency": 93
-      },
-      {
-        "text": "ear",
-        "frequency": 90
-      },
-      {
-        "text": "hearing",
-        "frequency": 89
-      }
-    ],
-    "id": "kute"
-  },
-  {
-    "word": "la",
-    "definitions": [
-      {
-        "text": "if",
-        "frequency": 88
-      },
-      {
-        "text": "while",
-        "frequency": 48
-      },
-      {
-        "text": "depending",
-        "frequency": 43
-      }
-    ],
-    "id": "la"
-  },
-  {
-    "word": "lanpan",
-    "definitions": [
-      {
-        "text": "steal",
-        "frequency": 48
-      },
-      {
-        "text": "seize",
-        "frequency": 42
-      }
-    ],
-    "id": "lanpan"
-  },
-  {
-    "word": "lape",
-    "definitions": [
-      {
-        "text": "sleep",
-        "frequency": 100
-      },
-      {
-        "text": "asleep",
-        "frequency": 80
-      },
-      {
-        "text": "rest",
-        "frequency": 58
-      }
-    ],
-    "id": "lape"
   },
   {
     "word": "lape ala",
@@ -3792,16 +3916,6 @@
     "id": "loje laso"
   },
   {
-    "word": "loje walo",
-    "definitions": [
-      {
-        "text": "pink",
-        "frequency": 71
-      }
-    ],
-    "id": "loje walo"
-  },
-  {
     "word": "lon",
     "definitions": [
       {
@@ -4330,48 +4444,6 @@
     "id": "ma utala"
   },
   {
-    "word": "mama",
-    "definitions": [
-      {
-        "text": "parent",
-        "frequency": 100
-      },
-      {
-        "text": "parental",
-        "frequency": 90
-      },
-      {
-        "text": "mama",
-        "frequency": 88
-      },
-      {
-        "text": "mommy",
-        "frequency": 80
-      },
-      {
-        "text": "mom",
-        "frequency": 75
-      },
-      {
-        "text": "creator",
-        "frequency": 53
-      },
-      {
-        "text": "mother",
-        "frequency": 50
-      },
-      {
-        "text": "foster",
-        "frequency": 44
-      },
-      {
-        "text": "originator",
-        "frequency": 43
-      }
-    ],
-    "id": "mama"
-  },
-  {
     "word": "mama mama",
     "definitions": [
       {
@@ -4574,6 +4646,16 @@
     "id": "meso"
   },
   {
+    "word": "mhuru",
+    "id": "jelo",
+    "definitions": [
+      {
+        "text": "yellow",
+        "frequency": 100
+      }
+    ]
+  },
+  {
     "word": "mi",
     "definitions": [
       {
@@ -4695,6 +4777,28 @@
       },
       {
         "text": "sugar",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "miro",
+    "id": "jasima",
+    "definitions": [
+      {
+        "text": "reflect",
+        "frequency": 100
+      },
+      {
+        "text": "resound",
+        "frequency": 100
+      },
+      {
+        "text": "sound",
+        "frequency": 100
+      },
+      {
+        "text": "mirror",
         "frequency": 100
       }
     ]
@@ -5422,40 +5526,6 @@
     ]
   },
   {
-    "word": "nasa",
-    "definitions": [
-      {
-        "text": "weird",
-        "frequency": 100
-      },
-      {
-        "text": "strange",
-        "frequency": 88
-      },
-      {
-        "text": "unusual",
-        "frequency": 88
-      },
-      {
-        "text": "odd",
-        "frequency": 83
-      },
-      {
-        "text": "drunk",
-        "frequency": 64
-      },
-      {
-        "text": "silly",
-        "frequency": 58
-      },
-      {
-        "text": "wild",
-        "frequency": 50
-      }
-    ],
-    "id": "nasa"
-  },
-  {
     "word": "nasin",
     "definitions": [
       {
@@ -5906,6 +5976,16 @@
       }
     ],
     "id": "noka"
+  },
+  {
+    "word": "nukáán",
+    "id": "kule",
+    "definitions": [
+      {
+        "text": "prototypical sense",
+        "frequency": 100
+      }
+    ]
   },
   {
     "word": "nuko",
@@ -7070,28 +7150,6 @@
     "id": "pipi"
   },
   {
-    "word": "poka",
-    "definitions": [
-      {
-        "text": "side",
-        "frequency": 100
-      },
-      {
-        "text": "hip",
-        "frequency": 67
-      },
-      {
-        "text": "beside",
-        "frequency": 57
-      },
-      {
-        "text": "aside",
-        "frequency": 45
-      }
-    ],
-    "id": "poka"
-  },
-  {
     "word": "poki",
     "definitions": [
       {
@@ -7335,6 +7393,24 @@
       },
       {
         "text": "neither",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "rawa",
+    "id": "lape",
+    "definitions": [
+      {
+        "text": "sleep",
+        "frequency": 100
+      },
+      {
+        "text": "asleep",
+        "frequency": 100
+      },
+      {
+        "text": "rest",
         "frequency": 100
       }
     ]
@@ -7602,6 +7678,16 @@
       }
     ],
     "id": "seme"
+  },
+  {
+    "word": "ŝi",
+    "id": "la",
+    "definitions": [
+      {
+        "text": "see Grammar:16",
+        "frequency": 100
+      }
+    ]
   },
   {
     "word": "sijelo pona",
@@ -9310,16 +9396,6 @@
     "id": "tenpo suli"
   },
   {
-    "word": "tenpo suno",
-    "definitions": [
-      {
-        "text": "day",
-        "frequency": 80
-      }
-    ],
-    "id": "tenpo suno"
-  },
-  {
     "word": "tenpo suno kama",
     "definitions": [
       {
@@ -9358,176 +9434,6 @@
       }
     ],
     "id": "tenpo suno pini"
-  },
-  {
-    "word": "toki",
-    "definitions": [
-      {
-        "text": "speech",
-        "frequency": 100
-      },
-      {
-        "text": "talk",
-        "frequency": 100
-      },
-      {
-        "text": "conversation",
-        "frequency": 100
-      },
-      {
-        "text": "say",
-        "frequency": 100
-      },
-      {
-        "text": "communicate",
-        "frequency": 100
-      },
-      {
-        "text": "speak",
-        "frequency": 100
-      },
-      {
-        "text": "communication",
-        "frequency": 100
-      },
-      {
-        "text": "hello",
-        "frequency": 100
-      },
-      {
-        "text": "language",
-        "frequency": 94
-      },
-      {
-        "text": "tell",
-        "frequency": 93
-      },
-      {
-        "text": "statement",
-        "frequency": 92
-      },
-      {
-        "text": "hi",
-        "frequency": 88
-      },
-      {
-        "text": "discuss",
-        "frequency": 83
-      },
-      {
-        "text": "discussion",
-        "frequency": 82
-      },
-      {
-        "text": "discourse",
-        "frequency": 75
-      },
-      {
-        "text": "mention",
-        "frequency": 73
-      },
-      {
-        "text": "comment",
-        "frequency": 67
-      },
-      {
-        "text": "refer",
-        "frequency": 62
-      },
-      {
-        "text": "message",
-        "frequency": 61
-      },
-      {
-        "text": "express",
-        "frequency": 60
-      },
-      {
-        "text": "remark",
-        "frequency": 60
-      },
-      {
-        "text": "dialogue",
-        "frequency": 60
-      },
-      {
-        "text": "reporting",
-        "frequency": 56
-      },
-      {
-        "text": "call",
-        "frequency": 56
-      },
-      {
-        "text": "narrative",
-        "frequency": 53
-      },
-      {
-        "text": "commentary",
-        "frequency": 50
-      },
-      {
-        "text": "disclose",
-        "frequency": 50
-      },
-      {
-        "text": "respond",
-        "frequency": 50
-      },
-      {
-        "text": "contact",
-        "frequency": 50
-      },
-      {
-        "text": "verbal",
-        "frequency": 47
-      },
-      {
-        "text": "admit",
-        "frequency": 47
-      },
-      {
-        "text": "proposal",
-        "frequency": 47
-      },
-      {
-        "text": "tale",
-        "frequency": 46
-      },
-      {
-        "text": "story",
-        "frequency": 44
-      },
-      {
-        "text": "declare",
-        "frequency": 44
-      },
-      {
-        "text": "interview",
-        "frequency": 44
-      },
-      {
-        "text": "answer",
-        "frequency": 43
-      },
-      {
-        "text": "testify",
-        "frequency": 43
-      },
-      {
-        "text": "report",
-        "frequency": 42
-      },
-      {
-        "text": "expression",
-        "frequency": 42
-      },
-      {
-        "text": "phrase",
-        "frequency": 41
-      }
-    ],
-    "id": "toki"
   },
   {
     "word": "toki ike",
@@ -10280,6 +10186,28 @@
     ]
   },
   {
+    "word": "un",
+    "id": "kepeken",
+    "definitions": [
+      {
+        "text": "use",
+        "frequency": 100
+      },
+      {
+        "text": "utilize",
+        "frequency": 100
+      },
+      {
+        "text": "via",
+        "frequency": 100
+      },
+      {
+        "text": "employ",
+        "frequency": 100
+      }
+    ]
+  },
+  {
     "word": "unpa",
     "definitions": [
       {
@@ -10416,18 +10344,18 @@
     "id": "utala ala"
   },
   {
-    "word": "walo",
+    "word": "wa",
+    "id": "kin",
     "definitions": [
       {
-        "text": "white",
+        "text": "also",
         "frequency": 100
       },
       {
-        "text": "pale",
-        "frequency": 74
+        "text": "too",
+        "frequency": 100
       }
-    ],
-    "id": "walo"
+    ]
   },
   {
     "word": "wan",
