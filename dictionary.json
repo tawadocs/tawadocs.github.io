@@ -392,6 +392,36 @@
     "id": "esun"
   },
   {
+    "word": "foŝo",
+    "id": "foŝo",
+    "definitions": [
+      {
+        "text": "friend",
+        "frequency": 100
+      },
+      {
+        "text": "brother",
+        "frequency": 100
+      },
+      {
+        "text": "mate",
+        "frequency": 100
+      },
+      {
+        "text": "lad",
+        "frequency": 100
+      },
+      {
+        "text": "boy",
+        "frequency": 100
+      },
+      {
+        "text": "man",
+        "frequency": 100
+      }
+    ]
+  },
+  {
     "word": "haŝiru",
     "id": "jan lili",
     "definitions": [

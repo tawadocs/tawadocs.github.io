@@ -63,22 +63,41 @@ app.delete('/word/:word', (req, res) => {
   res.json({ success: true });
 });
 
-// --- SEMANTIC SPACE ROUTE ---
+// --- SEMANTIC SPACE ROUTE (With Append Logic) ---
 app.post('/semantic-space/:id', (req, res) => {
   const { id } = req.params;
   const { text } = req.body;
+  const SS_PATH = path.join(__dirname, 'public/ss.html');
+  
+  if (!fs.existsSync(SS_PATH)) {
+    fs.writeFileSync(SS_PATH, '<!DOCTYPE html><html><body></body></html>');
+  }
+
   let html = fs.readFileSync(SS_PATH, 'utf8');
 
-  // Regex finds <summary id="word"> and the following <p>
+  // 1. Try to Update existing entry
   const regex = new RegExp(`(<summary id="${id}">.*?</summary>\\s*<p>)(.*?)(</p>)`, 's');
   
   if (regex.test(html)) {
     html = html.replace(regex, `$1${text}$3`);
-    fs.writeFileSync(SS_PATH, html);
-    res.json({ success: true });
   } else {
-    res.status(404).json({ error: "ID not found in ss.html" });
+    // 2. If it doesn't exist, Append a new block before the end of the file
+    const newEntry = `
+<details open>
+    <summary id="${id}">${id}</summary>
+    <p>${text}</p>
+</details>
+<br>
+`;
+    if (html.includes('</body>')) {
+      html = html.replace('</body>', `${newEntry}</body>`);
+    } else {
+      html += newEntry;
+    }
   }
+
+  fs.writeFileSync(SS_PATH, html);
+  res.json({ success: true });
 });
 
 // --- DOCS SEARCH LOGIC ---

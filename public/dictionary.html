@@ -198,26 +198,35 @@ async function saveWord(originalWord) {
   const ssText = document.getElementById('edit-ss').textContent;
   if (!newWord) return;
 
-  const defs = defString.split(',').map(text => ({ text: text.trim(), frequency: 100 })).filter(d => d.text);
+  const defs = defString.split(',')
+    .map(text => ({ text: text.trim(), frequency: 100 }))
+    .filter(d => d.text);
+
   const existingEntry = currentDictionary.find(e => e.word === originalWord) || {};
+  // Generate a clean ID for new words (e.g. "foŝo")
   const entryId = existingEntry.id || newWord.toLowerCase().replace(/\s+/g, '-');
 
   try {
+    // 1. Save Dictionary Entry
     await fetch(`/word/${originalWord}`, {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({ word: newWord, id: entryId, definitions: defs })
     });
 
-    if (ssText) {
+    // 2. Save Semantic Space
+    if (ssText && ssText.trim() !== "") {
       await fetch(`/semantic-space/${entryId}`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ text: ssText })
       });
+      // Update local cache so the newly created SS shows up immediately
       semanticSpaces[entryId] = ssText;
     }
-  } catch (e) {}
+  } catch (e) {
+    console.error("Failed to save word or semantic space", e);
+  }
   
   closeModal();
   loadWords(document.getElementById('search').value);
