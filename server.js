@@ -6,6 +6,7 @@ const bodyParser = require('body-parser');
 const app = express();
 const PORT = 3000;
 const DICTIONARY_PATH = path.join(__dirname, 'dictionary.json');
+const SS_PATH = path.join(__dirname, 'public/ss.html');
 const DOCS_PATH = path.join(__dirname, 'lang/docs');
 const MP_DOCS_PATH = path.join(__dirname, 'lang/docs-mp');
 
@@ -16,14 +17,13 @@ app.use(express.static('public'));
 
 let dictionary = JSON.parse(fs.readFileSync(DICTIONARY_PATH, 'utf8'));
 
-// Helper: Numerical Sort for filenames (e.g., "1.md" before "10.md")
 const numericalSort = (a, b) => {
   const numA = parseInt(a.match(/^\d+/) || 0);
   const numB = parseInt(b.match(/^\d+/) || 0);
   return numA - numB || a.localeCompare(b);
 };
 
-// --- DICTIONARY ROUTES (Untouched) ---
+// --- DICTIONARY ROUTES ---
 app.get('/search', (req, res) => {
   const query = req.query.q?.toLowerCase();
   let results = [...dictionary];
@@ -63,65 +63,39 @@ app.delete('/word/:word', (req, res) => {
   res.json({ success: true });
 });
 
+// --- SEMANTIC SPACE ROUTE ---
+app.post('/semantic-space/:id', (req, res) => {
+  const { id } = req.params;
+  const { text } = req.body;
+  let html = fs.readFileSync(SS_PATH, 'utf8');
+
+  // Regex finds <summary id="word"> and the following <p>
+  const regex = new RegExp(`(<summary id="${id}">.*?</summary>\\s*<p>)(.*?)(</p>)`, 's');
+  
+  if (regex.test(html)) {
+    html = html.replace(regex, `$1${text}$3`);
+    fs.writeFileSync(SS_PATH, html);
+    res.json({ success: true });
+  } else {
+    res.status(404).json({ error: "ID not found in ss.html" });
+  }
+});
+
 // --- DOCS SEARCH LOGIC ---
 const handleDocsRequest = (dirPath, req, res) => {
   const query = req.query.q?.toLowerCase();
   let files = fs.readdirSync(dirPath).filter(f => f.endsWith('.md'));
-
   if (query) {
-    // Filter files based on filename OR internal content
     files = files.filter(f => {
       const content = fs.readFileSync(path.join(dirPath, f), 'utf8').toLowerCase();
       return f.toLowerCase().includes(query) || content.includes(query);
     });
   }
-  
   res.json(files.sort(numericalSort));
 };
 
-async function saveWord(originalWord) {
-  const newWord = document.getElementById('edit-word').value.trim();
-  const defString = document.getElementById('edit-defs').textContent;
-  const ssText = document.getElementById('edit-ss')?.textContent; // Grab the SS text
-  
-  if (!newWord) return;
-
-  const defs = defString.split(',')
-    .map(text => ({ text: text.trim(), frequency: 100 }))
-    .filter(d => d.text);
-
-  const existingEntry = currentDictionary.find(e => e.word === originalWord) || {};
-  const entryId = existingEntry.id || newWord.toLowerCase().replace(/\s+/g, '-');
-
-  try {
-    // 1. Save Dictionary Entry
-    await fetch(`/word/${originalWord}`, {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ word: newWord, id: entryId, definitions: defs })
-    });
-
-    // 2. Save Semantic Space (only if it exists/changed)
-    if (ssText) {
-      await fetch(`/semantic-space/${entryId}`, {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ text: ssText })
-      });
-      // Update local cache so it shows up correctly next time without refresh
-      semanticSpaces[entryId] = ssText;
-    }
-  } catch (e) {
-    console.error("Save failed", e);
-  }
-  
-  closeModal();
-  loadWords(document.getElementById('search').value);
-}
-
 app.get('/api/docs', (req, res) => handleDocsRequest(DOCS_PATH, req, res));
 app.get('/api/docs/:name', (req, res) => res.send(fs.readFileSync(path.join(DOCS_PATH, req.params.name), 'utf8')));
-
 app.get('/api/docs-mp', (req, res) => handleDocsRequest(MP_DOCS_PATH, req, res));
 app.get('/api/docs-mp/:name', (req, res) => res.send(fs.readFileSync(path.join(MP_DOCS_PATH, req.params.name), 'utf8')));
 

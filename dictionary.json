@@ -47,13 +47,13 @@
   },
   {
     "word": "akesi kiwen",
+    "id": "akesi kiwen",
     "definitions": [
       {
         "text": "turtle",
-        "frequency": 42
+        "frequency": 100
       }
-    ],
-    "id": "akesi kiwen"
+    ]
   },
   {
     "word": "akesi seli",
@@ -64,48 +64,6 @@
       }
     ],
     "id": "akesi seli"
-  },
-  {
-    "word": "alasa",
-    "definitions": [
-      {
-        "text": "hunt",
-        "frequency": 100
-      },
-      {
-        "text": "hunting",
-        "frequency": 87
-      },
-      {
-        "text": "search",
-        "frequency": 75
-      },
-      {
-        "text": "pursuit",
-        "frequency": 75
-      },
-      {
-        "text": "pursue",
-        "frequency": 74
-      },
-      {
-        "text": "gather",
-        "frequency": 61
-      },
-      {
-        "text": "finding",
-        "frequency": 58
-      },
-      {
-        "text": "seek",
-        "frequency": 56
-      },
-      {
-        "text": "explore",
-        "frequency": 44
-      }
-    ],
-    "id": "alasa"
   },
   {
     "word": "ale",
@@ -159,13 +117,13 @@
   },
   {
     "word": "ale la",
+    "id": "ale la",
     "definitions": [
       {
         "text": "overall",
-        "frequency": 80
+        "frequency": 100
       }
-    ],
-    "id": "ale la"
+    ]
   },
   {
     "word": "ante",
@@ -10004,6 +9962,48 @@
       }
     ],
     "id": "tu wan"
+  },
+  {
+    "word": "ukajo",
+    "id": "alasa",
+    "definitions": [
+      {
+        "text": "hunt",
+        "frequency": 100
+      },
+      {
+        "text": "hunting",
+        "frequency": 100
+      },
+      {
+        "text": "search",
+        "frequency": 100
+      },
+      {
+        "text": "pursuit",
+        "frequency": 100
+      },
+      {
+        "text": "pursue",
+        "frequency": 100
+      },
+      {
+        "text": "gather",
+        "frequency": 100
+      },
+      {
+        "text": "finding",
+        "frequency": 100
+      },
+      {
+        "text": "seek",
+        "frequency": 100
+      },
+      {
+        "text": "explore",
+        "frequency": 100
+      }
+    ]
   },
   {
     "word": "umà",
