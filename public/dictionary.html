@@ -74,18 +74,6 @@
 
   #modal-overlay.active { opacity: 1; visibility: visible; }
 
-  #modal {
-    position: absolute; right: 0; top: 0;
-    background: var(--sidebar-bg); 
-    width: 100%; max-width: 450px; height: 100vh;
-    padding: 2.5rem; border-left: 1px solid var(--border);
-    box-shadow: -10px 0 40px rgba(0,0,0,0.5);
-    display: flex; flex-direction: column;
-    transform: translateX(100%);
-    transition: transform 0.35s cubic-bezier(0.16, 1, 0.3, 1);
-    box-sizing: border-box;
-  }
-
   #modal-overlay.active #modal { transform: translateX(0); }
 
   .modal-close { 
@@ -93,8 +81,58 @@
     font-size: 1.8rem; line-height: 1; transition: 0.2s; margin-bottom: 1rem;
   }
   .modal-close:hover { color: white; }
-  
-  #modal-content { display: flex; flex-direction: column; flex-grow: 1; height: 100%; }
+
+/* Hide scrollbars for all elements but keep functionality */
+* {
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;     /* Firefox */
+  }
+  *::-webkit-scrollbar {
+    display: none;             /* Chrome, Safari, Opera */
+  }
+
+  #modal {
+    position: absolute; right: 0; top: 0;
+    background: var(--sidebar-bg); 
+    width: 100%; max-width: 480px; height: 100vh;
+    padding: 3rem 2.5rem; border-left: 1px solid var(--border);
+    box-shadow: -10px 0 40px rgba(0,0,0,0.5);
+    display: flex; flex-direction: column;
+    transform: translateX(100%);
+    transition: transform 0.35s cubic-bezier(0.16, 1, 0.3, 1);
+    box-sizing: border-box;
+    overflow-y: auto; /* The whole sidebar is the scroll container */
+  }
+
+  /* Make the title input look like static text */
+  .editable-title { 
+    font-size: 2.8rem; font-weight: 800; color: white; margin-bottom: 1rem;
+    border: none; background: transparent; outline: none; width: 100%;
+    letter-spacing: -0.04em; font-family: inherit;
+  }
+
+  /* Translation block: looks like a paragraph, works like an input */
+  .editable-defs-div { 
+    font-size: 1.1rem; line-height: 1.8; color: var(--text-main); 
+    padding: 0.5rem 0 2rem 0; border: none; background: transparent; 
+    outline: none; width: 100%; min-height: 50px;
+    font-family: inherit; cursor: text;
+  }
+  .editable-defs-div:empty:before {
+    content: attr(data-placeholder);
+    color: #475569;
+  }
+
+  .semantic-title {
+    font-size: 0.8rem; text-transform: uppercase; 
+    letter-spacing: 0.1em; color: var(--accent); 
+    margin: 2rem 0 1rem 0; font-weight: 700;
+  }
+
+  .semantic-text {
+    font-size: 1rem; color: var(--text-muted); 
+    line-height: 1.8; margin: 0; padding-bottom: 3rem;
+  }
 
   .editable-title { 
     font-size: 2.2rem; font-weight: 800; color: white; margin-bottom: 0.5rem;
@@ -102,14 +140,6 @@
     letter-spacing: -0.03em; font-family: inherit;
   }
   .editable-title::placeholder { color: #334155; }
-
-  .editable-defs { 
-    font-size: 1.05rem; line-height: 1.7; color: var(--text-main); 
-    padding: 1rem 0; border: none; background: transparent; 
-    outline: none; width: 100%; resize: none; 
-    flex-grow: 1; font-family: inherit; overflow-y: auto;
-  }
-  .editable-defs::placeholder { color: #475569; }
 
   .modal-divider { height: 1px; background: var(--border); margin: 1.5rem 0; flex-shrink: 0; }
 
@@ -152,8 +182,31 @@
 
 <script>
 let currentDictionary = [];
+let semanticSpaces = {};
 
-// NEW: Function to clear search and reset view
+// Fetch and parse the semantic spaces from ss.html
+async function loadSemanticSpaces() {
+  try {
+    const res = await fetch('/ss.html');
+    const html = await res.text();
+    const parser = new DOMParser();
+    const doc = parser.parseFromString(html, 'text/html');
+    
+    // Find all summary tags with an ID and grab their adjacent paragraph
+    const summaries = doc.querySelectorAll('summary[id]');
+    summaries.forEach(summary => {
+      const id = summary.id;
+      const p = summary.nextElementSibling;
+      if (p && p.tagName.toLowerCase() === 'p') {
+        semanticSpaces[id] = p.textContent.trim();
+      }
+    });
+  } catch (e) {
+    console.error("Failed to load semantic spaces from ss.html", e);
+  }
+}
+
+// Function to clear search and reset view
 function goHome() {
   document.getElementById('search').value = '';
   closeModal();
@@ -176,15 +229,34 @@ async function loadWords(query = '') {
   `).join('');
 }
 
+function openNewWordModal() { openModal('_new'); }
+
+function closeModal() { 
+  const overlay = document.getElementById('modal-overlay');
+  overlay.classList.remove('active');
+  setTimeout(() => {
+    overlay.style.display = 'none';
+  }, 350); 
+}
+
 function openModal(word) {
-  const entry = currentDictionary.find(e => e.word === word) || { word: '', definitions: [] };
+  const entry = currentDictionary.find(e => e.word === word) || { word: '', definitions: [], id: '' };
   const defString = entry.definitions.map(d => d.text).join(', ');
+  
+  let semanticSpaceHTML = '';
+  if (entry.id && semanticSpaces[entry.id]) {
+    semanticSpaceHTML = `
+      <div class="semantic-title">Semantic space</div>
+      <p class="semantic-text">${semanticSpaces[entry.id]}</p>
+    `;
+  }
   
   const modalContent = document.getElementById('modal-content');
   modalContent.innerHTML = `
-    <input type="text" id="edit-word" class="editable-title" value="${entry.word}" placeholder="Word">
-    <textarea id="edit-defs" class="editable-defs" placeholder="Type definitions here... (separate with commas)">${defString}</textarea>
+    <input type="text" id="edit-word" class="editable-title" value="${entry.word}" placeholder="word">
+    <div id="edit-defs" class="editable-defs-div" contenteditable="true" data-placeholder="Enter definitions...">${defString}</div>
     <div class="modal-divider"></div>
+    ${semanticSpaceHTML}
     <div class="actions">
       <button onclick="deleteWord('${word}')" class="btn-delete">Delete</button>
       <button class="btn-save" onclick="saveWord('${word}')">Save changes</button>
@@ -197,30 +269,24 @@ function openModal(word) {
   overlay.classList.add('active');
 }
 
-function openNewWordModal() { openModal('_new'); }
-
-function closeModal() { 
-  const overlay = document.getElementById('modal-overlay');
-  overlay.classList.remove('active');
-  setTimeout(() => {
-    overlay.style.display = 'none';
-  }, 350); 
-}
-
 async function saveWord(originalWord) {
   const newWord = document.getElementById('edit-word').value.trim();
-  const defString = document.getElementById('edit-defs').value;
+  // We use textContent because it's a div, not a textarea
+  const defString = document.getElementById('edit-defs').textContent; 
   if (!newWord) return;
 
   const defs = defString.split(',')
     .map(text => ({ text: text.trim(), frequency: 100 }))
     .filter(d => d.text);
 
+  const existingEntry = currentDictionary.find(e => e.word === originalWord) || {};
+  const entryId = existingEntry.id || newWord.toLowerCase().replace(/\s+/g, '-'); 
+
   try {
     await fetch(`/word/${originalWord}`, {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ word: newWord, definitions: defs })
+      body: JSON.stringify({ word: newWord, id: entryId, definitions: defs })
     });
   } catch (e) {}
   
@@ -240,8 +306,9 @@ async function deleteWord(word) {
   loadWords();
 }
 
+// Initialize application
 document.getElementById('search').addEventListener('input', (e) => loadWords(e.target.value));
-loadWords();
+loadSemanticSpaces().then(() => loadWords());
 </script>
 </body>
 </html>
