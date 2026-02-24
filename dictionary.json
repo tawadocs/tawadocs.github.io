@@ -622,6 +622,188 @@
     "id": "esun"
   },
   {
+    "word": "ii",
+    "id": "pona",
+    "definitions": [
+      {
+        "text": "good",
+        "frequency": 100
+      },
+      {
+        "text": "appropriate",
+        "frequency": 100
+      },
+      {
+        "text": "nice",
+        "frequency": 100
+      },
+      {
+        "text": "acceptable",
+        "frequency": 100
+      },
+      {
+        "text": "proper",
+        "frequency": 100
+      },
+      {
+        "text": "simply",
+        "frequency": 100
+      },
+      {
+        "text": "OK",
+        "frequency": 100
+      },
+      {
+        "text": "fine",
+        "frequency": 100
+      },
+      {
+        "text": "quality",
+        "frequency": 100
+      },
+      {
+        "text": "valid",
+        "frequency": 100
+      },
+      {
+        "text": "pleasant",
+        "frequency": 100
+      },
+      {
+        "text": "friendly",
+        "frequency": 100
+      },
+      {
+        "text": "positive",
+        "frequency": 100
+      },
+      {
+        "text": "well",
+        "frequency": 100
+      },
+      {
+        "text": "benefit",
+        "frequency": 100
+      },
+      {
+        "text": "simple",
+        "frequency": 100
+      },
+      {
+        "text": "virtue",
+        "frequency": 100
+      },
+      {
+        "text": "alright",
+        "frequency": 100
+      },
+      {
+        "text": "correct",
+        "frequency": 100
+      },
+      {
+        "text": "repair",
+        "frequency": 100
+      },
+      {
+        "text": "fix",
+        "frequency": 100
+      },
+      {
+        "text": "right (not wrong)",
+        "frequency": 100
+      },
+      {
+        "text": "advantage",
+        "frequency": 100
+      },
+      {
+        "text": "cool",
+        "frequency": 100
+      },
+      {
+        "text": "okay",
+        "frequency": 100
+      },
+      {
+        "text": "fixed",
+        "frequency": 100
+      },
+      {
+        "text": "helpful",
+        "frequency": 100
+      },
+      {
+        "text": "validity",
+        "frequency": 100
+      },
+      {
+        "text": "kind",
+        "frequency": 100
+      },
+      {
+        "text": "ethical",
+        "frequency": 100
+      },
+      {
+        "text": "merit",
+        "frequency": 100
+      },
+      {
+        "text": "peaceful",
+        "frequency": 100
+      },
+      {
+        "text": "ideal",
+        "frequency": 100
+      },
+      {
+        "text": "improve",
+        "frequency": 100
+      },
+      {
+        "text": "successfully",
+        "frequency": 100
+      },
+      {
+        "text": "improvement",
+        "frequency": 100
+      },
+      {
+        "text": "correction",
+        "frequency": 100
+      },
+      {
+        "text": "grace",
+        "frequency": 100
+      },
+      {
+        "text": "fair",
+        "frequency": 100
+      },
+      {
+        "text": "successful",
+        "frequency": 100
+      },
+      {
+        "text": "ease",
+        "frequency": 100
+      },
+      {
+        "text": "heal",
+        "frequency": 100
+      },
+      {
+        "text": "supportive",
+        "frequency": 100
+      },
+      {
+        "text": "approval",
+        "frequency": 100
+      }
+    ]
+  },
+  {
     "word": "ijo",
     "definitions": [
       {
@@ -7230,188 +7412,6 @@
       }
     ],
     "id": "poki wawa"
-  },
-  {
-    "word": "pona",
-    "definitions": [
-      {
-        "text": "good",
-        "frequency": 100
-      },
-      {
-        "text": "appropriate",
-        "frequency": 90
-      },
-      {
-        "text": "nice",
-        "frequency": 88
-      },
-      {
-        "text": "acceptable",
-        "frequency": 81
-      },
-      {
-        "text": "proper",
-        "frequency": 80
-      },
-      {
-        "text": "simply",
-        "frequency": 80
-      },
-      {
-        "text": "OK",
-        "frequency": 80
-      },
-      {
-        "text": "fine",
-        "frequency": 80
-      },
-      {
-        "text": "quality",
-        "frequency": 79
-      },
-      {
-        "text": "valid",
-        "frequency": 75
-      },
-      {
-        "text": "pleasant",
-        "frequency": 73
-      },
-      {
-        "text": "friendly",
-        "frequency": 72
-      },
-      {
-        "text": "positive",
-        "frequency": 70
-      },
-      {
-        "text": "well",
-        "frequency": 70
-      },
-      {
-        "text": "benefit",
-        "frequency": 69
-      },
-      {
-        "text": "simple",
-        "frequency": 69
-      },
-      {
-        "text": "virtue",
-        "frequency": 67
-      },
-      {
-        "text": "alright",
-        "frequency": 64
-      },
-      {
-        "text": "correct",
-        "frequency": 60
-      },
-      {
-        "text": "repair",
-        "frequency": 57
-      },
-      {
-        "text": "fix",
-        "frequency": 57
-      },
-      {
-        "text": "right (not wrong)",
-        "frequency": 55
-      },
-      {
-        "text": "advantage",
-        "frequency": 55
-      },
-      {
-        "text": "cool",
-        "frequency": 55
-      },
-      {
-        "text": "okay",
-        "frequency": 54
-      },
-      {
-        "text": "fixed",
-        "frequency": 54
-      },
-      {
-        "text": "helpful",
-        "frequency": 53
-      },
-      {
-        "text": "validity",
-        "frequency": 53
-      },
-      {
-        "text": "kind",
-        "frequency": 53
-      },
-      {
-        "text": "ethical",
-        "frequency": 50
-      },
-      {
-        "text": "merit",
-        "frequency": 50
-      },
-      {
-        "text": "peaceful",
-        "frequency": 50
-      },
-      {
-        "text": "ideal",
-        "frequency": 50
-      },
-      {
-        "text": "improve",
-        "frequency": 50
-      },
-      {
-        "text": "successfully",
-        "frequency": 50
-      },
-      {
-        "text": "improvement",
-        "frequency": 47
-      },
-      {
-        "text": "correction",
-        "frequency": 46
-      },
-      {
-        "text": "grace",
-        "frequency": 45
-      },
-      {
-        "text": "fair",
-        "frequency": 45
-      },
-      {
-        "text": "successful",
-        "frequency": 43
-      },
-      {
-        "text": "ease",
-        "frequency": 43
-      },
-      {
-        "text": "heal",
-        "frequency": 43
-      },
-      {
-        "text": "supportive",
-        "frequency": 42
-      },
-      {
-        "text": "approval",
-        "frequency": 41
-      }
-    ],
-    "id": "pona"
   },
   {
     "word": "pona a",

@@ -79,6 +79,27 @@ const handleDocsRequest = (dirPath, req, res) => {
   res.json(files.sort(numericalSort));
 };
 
+const SS_PATH = path.join(__dirname, 'public/ss.html');
+
+app.post('/semantic-space/:id', (req, res) => {
+  const { id } = req.params;
+  const { text } = req.body;
+  let html = fs.readFileSync(SS_PATH, 'utf8');
+
+  // This regex finds the <summary id="id">...</summary> and the following <p>...</p>
+  const regex = new RegExp(`(<summary id="${id}">.*?</summary>\\s*<p>)(.*?)(</p>)`, 's');
+  
+  if (regex.test(html)) {
+    html = html.replace(regex, `$1${text}$3`);
+    fs.writeFileSync(SS_PATH, html);
+    res.json({ success: true });
+  } else {
+    // If it doesn't exist, you might want to append it, 
+    // but for now, we'll just return an error.
+    res.status(404).json({ error: "ID not found in ss.html" });
+  }
+});
+
 app.get('/api/docs', (req, res) => handleDocsRequest(DOCS_PATH, req, res));
 app.get('/api/docs/:name', (req, res) => res.send(fs.readFileSync(path.join(DOCS_PATH, req.params.name), 'utf8')));
 

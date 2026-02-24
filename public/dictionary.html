@@ -244,10 +244,12 @@ function openModal(word) {
   const defString = entry.definitions.map(d => d.text).join(', ');
   
   let semanticSpaceHTML = '';
-  if (entry.id && semanticSpaces[entry.id]) {
+  if (entry.id) {
+    const spaceText = semanticSpaces[entry.id] || "No semantic space defined yet.";
     semanticSpaceHTML = `
       <div class="semantic-title">Semantic space</div>
-      <p class="semantic-text">${semanticSpaces[entry.id]}</p>
+      <div id="edit-ss" class="editable-defs-div" contenteditable="true" 
+           style="color: var(--text-muted); font-size: 1rem; padding-bottom: 3rem;">${spaceText}</div>
     `;
   }
   
@@ -271,8 +273,9 @@ function openModal(word) {
 
 async function saveWord(originalWord) {
   const newWord = document.getElementById('edit-word').value.trim();
-  // We use textContent because it's a div, not a textarea
-  const defString = document.getElementById('edit-defs').textContent; 
+  const defString = document.getElementById('edit-defs').textContent;
+  const ssText = document.getElementById('edit-ss')?.textContent; // Grab the SS text
+  
   if (!newWord) return;
 
   const defs = defString.split(',')
@@ -280,15 +283,29 @@ async function saveWord(originalWord) {
     .filter(d => d.text);
 
   const existingEntry = currentDictionary.find(e => e.word === originalWord) || {};
-  const entryId = existingEntry.id || newWord.toLowerCase().replace(/\s+/g, '-'); 
+  const entryId = existingEntry.id || newWord.toLowerCase().replace(/\s+/g, '-');
 
   try {
+    // 1. Save Dictionary Entry
     await fetch(`/word/${originalWord}`, {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({ word: newWord, id: entryId, definitions: defs })
     });
-  } catch (e) {}
+
+    // 2. Save Semantic Space (only if it exists/changed)
+    if (ssText) {
+      await fetch(`/semantic-space/${entryId}`, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ text: ssText })
+      });
+      // Update local cache so it shows up correctly next time without refresh
+      semanticSpaces[entryId] = ssText;
+    }
+  } catch (e) {
+    console.error("Save failed", e);
+  }
   
   closeModal();
   loadWords(document.getElementById('search').value);
