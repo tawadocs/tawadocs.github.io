@@ -138,7 +138,7 @@
 * Examples:
 	* *sua ea asalla* -> `1SG-AGT MOV house-ALL`
 		* "I go to the house"
-	* *sua roremme sa′a ea asasunlla* -> `1SG-AGT CAUS-IPFV.REL 3SG.F-AGT MOV house-1SG.POSS-ALL`
+	* *sua roreome sa′a ea asasunlla* -> `1SG-AGT CAUS-IPFV.REL 3SG.F-AGT MOV house-1SG.POSS-ALL`
 		* "I will have her come over to my house"
 		* "I will have her at my house"
 * For the latter example, this alternative construction is also valid:

@@ -580,6 +580,16 @@
     ]
   },
   {
+    "word": "ea",
+    "id": "ea",
+    "definitions": [
+      {
+        "text": "move",
+        "frequency": 100
+      }
+    ]
+  },
+  {
     "word": "eauca",
     "id": "kili",
     "definitions": [
@@ -3406,52 +3416,6 @@
     "id": "kalama musi"
   },
   {
-    "word": "kama",
-    "definitions": [
-      {
-        "text": "coming",
-        "frequency": 93
-      },
-      {
-        "text": "come",
-        "frequency": 91
-      },
-      {
-        "text": "arrival",
-        "frequency": 90
-      },
-      {
-        "text": "arrive",
-        "frequency": 88
-      },
-      {
-        "text": "become",
-        "frequency": 78
-      },
-      {
-        "text": "upcoming",
-        "frequency": 71
-      },
-      {
-        "text": "emerging",
-        "frequency": 69
-      },
-      {
-        "text": "emerge",
-        "frequency": 67
-      },
-      {
-        "text": "happen",
-        "frequency": 62
-      },
-      {
-        "text": "occur",
-        "frequency": 54
-      }
-    ],
-    "id": "kama"
-  },
-  {
     "word": "kama ante",
     "definitions": [
       {
@@ -5562,6 +5526,32 @@
     ]
   },
   {
+    "word": "mo",
+    "id": "mo",
+    "definitions": [
+      {
+        "text": "than",
+        "frequency": 100
+      },
+      {
+        "text": "then",
+        "frequency": 100
+      },
+      {
+        "text": "but",
+        "frequency": 100
+      },
+      {
+        "text": "so",
+        "frequency": 100
+      },
+      {
+        "text": "until",
+        "frequency": 100
+      }
+    ]
+  },
+  {
     "word": "moku lili",
     "definitions": [
       {
@@ -5600,6 +5590,28 @@
       }
     ],
     "id": "moli telo"
+  },
+  {
+    "word": "monh",
+    "id": "monh",
+    "definitions": [
+      {
+        "text": "because",
+        "frequency": 100
+      },
+      {
+        "text": "now",
+        "frequency": 100
+      },
+      {
+        "text": "instead of",
+        "frequency": 100
+      },
+      {
+        "text": "less than",
+        "frequency": 100
+      }
+    ]
   },
   {
     "word": "moto",
@@ -7538,36 +7550,6 @@
     "id": "pu"
   },
   {
-    "word": "ra",
-    "id": "ala",
-    "definitions": [
-      {
-        "text": "none",
-        "frequency": 100
-      },
-      {
-        "text": "not",
-        "frequency": 100
-      },
-      {
-        "text": "zero",
-        "frequency": 100
-      },
-      {
-        "text": "no",
-        "frequency": 100
-      },
-      {
-        "text": "nothing",
-        "frequency": 100
-      },
-      {
-        "text": "neither",
-        "frequency": 100
-      }
-    ]
-  },
-  {
     "word": "rawa",
     "id": "lape",
     "definitions": [
@@ -7691,6 +7673,36 @@
       },
       {
         "text": "rice",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "rra",
+    "id": "ala",
+    "definitions": [
+      {
+        "text": "none",
+        "frequency": 100
+      },
+      {
+        "text": "not",
+        "frequency": 100
+      },
+      {
+        "text": "zero",
+        "frequency": 100
+      },
+      {
+        "text": "no",
+        "frequency": 100
+      },
+      {
+        "text": "nothing",
+        "frequency": 100
+      },
+      {
+        "text": "neither",
         "frequency": 100
       }
     ]
@@ -10725,6 +10737,52 @@
     "definitions": [
       {
         "text": "see Grammar:15",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "yara",
+    "id": "kama",
+    "definitions": [
+      {
+        "text": "arriving",
+        "frequency": 100
+      },
+      {
+        "text": "coming",
+        "frequency": 100
+      },
+      {
+        "text": "future",
+        "frequency": 100
+      },
+      {
+        "text": "summoned",
+        "frequency": 100
+      },
+      {
+        "text": "become",
+        "frequency": 100
+      },
+      {
+        "text": "upcoming",
+        "frequency": 100
+      },
+      {
+        "text": "emerging",
+        "frequency": 100
+      },
+      {
+        "text": "emerge",
+        "frequency": 100
+      },
+      {
+        "text": "happen",
+        "frequency": 100
+      },
+      {
+        "text": "occur",
         "frequency": 100
       }
     ]

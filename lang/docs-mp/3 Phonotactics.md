@@ -25,6 +25,8 @@
 	* *asa* + *-ą* becomes *asą* simply
 * Grammatical particles must try to maintain as much of their authentic form as possible, so that is why:
 	* *to* + *icu* is *thiicu*, not *ĉiicu*
+* Particles like reo do not omit the *o* when fusing:
+	* *reo* + *ppu* -> *reoppu* (**never** reppu/repppu!)
 
 ## 3.5 Nasal palatalisation
 * The alveolopalatal nasal *nʲ* becomes a palatal nasal *ɲ* in consonant clusters like *nyĉ* [ɲtɕ]

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0fb2f98316fb358d",
+        "id": "580855222ceeaefd",
         "type": "tabs",
         "children": [
           {
-            "id": "c433746629233633",
+            "id": "bb307442761bcf78",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -176,10 +176,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "c433746629233633",
+  "active": "bb307442761bcf78",
   "lastOpenFiles": [
-    "docs/2 Derivation.md",
+    "docs-mp/3 Phonotactics.md",
+    "docs/14 Relationals.md",
     "docs/15 Discourse.md",
+    "docs/2 Derivation.md",
     "docs/16 Modals and conditions.md",
     "docs/11 Polarity.md",
     "docs/10 Vocatives.md",
@@ -187,7 +189,6 @@
     "docs/9 Clauses.md",
     "docs/8 TAM.md",
     "docs/17 Cases.md",
-    "docs/14 Relationals.md",
     "docs/4 Modifiers.md",
     "docs/3 Basic syntax.md",
     "docs/18 Modifiers.md",
