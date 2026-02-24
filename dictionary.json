@@ -428,21 +428,7 @@
     ]
   },
   {
-    "word": "daka",
-    "id": "lanpan",
-    "definitions": [
-      {
-        "text": "steal",
-        "frequency": 100
-      },
-      {
-        "text": "seize",
-        "frequency": 100
-      }
-    ]
-  },
-  {
-    "word": "dakai",
+    "word": "daiki",
     "id": "poka",
     "definitions": [
       {
@@ -459,6 +445,20 @@
       },
       {
         "text": "aside",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "daka",
+    "id": "lanpan",
+    "definitions": [
+      {
+        "text": "steal",
+        "frequency": 100
+      },
+      {
+        "text": "seize",
         "frequency": 100
       }
     ]
@@ -7022,94 +7022,6 @@
     "id": "pini pali"
   },
   {
-    "word": "pipi",
-    "definitions": [
-      {
-        "text": "bug",
-        "frequency": 100
-      },
-      {
-        "text": "insect",
-        "frequency": 92
-      },
-      {
-        "text": "spider",
-        "frequency": 48
-      }
-    ],
-    "id": "pipi"
-  },
-  {
-    "word": "poki",
-    "definitions": [
-      {
-        "text": "container",
-        "frequency": 100
-      },
-      {
-        "text": "jar",
-        "frequency": 92
-      },
-      {
-        "text": "box",
-        "frequency": 90
-      },
-      {
-        "text": "package",
-        "frequency": 89
-      },
-      {
-        "text": "bag",
-        "frequency": 87
-      },
-      {
-        "text": "basket",
-        "frequency": 71
-      },
-      {
-        "text": "bucket",
-        "frequency": 67
-      },
-      {
-        "text": "bottle",
-        "frequency": 65
-      },
-      {
-        "text": "pot",
-        "frequency": 64
-      },
-      {
-        "text": "cabinet",
-        "frequency": 61
-      },
-      {
-        "text": "classify",
-        "frequency": 55
-      },
-      {
-        "text": "drawer",
-        "frequency": 50
-      },
-      {
-        "text": "storage",
-        "frequency": 50
-      },
-      {
-        "text": "locker",
-        "frequency": 50
-      },
-      {
-        "text": "case",
-        "frequency": 45
-      },
-      {
-        "text": "bowl",
-        "frequency": 42
-      }
-    ],
-    "id": "poki"
-  },
-  {
     "word": "poki",
     "id": "suli",
     "definitions": [
@@ -7538,16 +7450,6 @@
       }
     ],
     "id": "pona tawa"
-  },
-  {
-    "word": "pu",
-    "definitions": [
-      {
-        "text": "\"interact with Toki Pona: The Language of Good 82\"",
-        "frequency": null
-      }
-    ],
-    "id": "pu"
   },
   {
     "word": "rawa",
@@ -9479,6 +9381,28 @@
   },
   {
     "word": "tete",
+    "id": "luka",
+    "definitions": [
+      {
+        "text": "hand",
+        "frequency": 100
+      },
+      {
+        "text": "arm",
+        "frequency": 100
+      },
+      {
+        "text": "five",
+        "frequency": 100
+      },
+      {
+        "text": "wrist",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "tetenq",
     "id": "noka",
     "definitions": [
       {
@@ -9499,28 +9423,6 @@
       },
       {
         "text": "kick",
-        "frequency": 100
-      }
-    ]
-  },
-  {
-    "word": "tete",
-    "id": "luka",
-    "definitions": [
-      {
-        "text": "hand",
-        "frequency": 100
-      },
-      {
-        "text": "arm",
-        "frequency": 100
-      },
-      {
-        "text": "five",
-        "frequency": 100
-      },
-      {
-        "text": "wrist",
         "frequency": 100
       }
     ]
@@ -10036,24 +9938,6 @@
       }
     ],
     "id": "tomo waso"
-  },
-  {
-    "word": "tonsi",
-    "definitions": [
-      {
-        "text": "non-binary person",
-        "frequency": 59
-      },
-      {
-        "text": "transgender person",
-        "frequency": 56
-      },
-      {
-        "text": "gender non-conforming person",
-        "frequency": 53
-      }
-    ],
-    "id": "tonsi"
   },
   {
     "word": "tu tu",
@@ -10788,6 +10672,76 @@
     ]
   },
   {
+    "word": "yowa",
+    "id": "poki",
+    "definitions": [
+      {
+        "text": "container",
+        "frequency": 100
+      },
+      {
+        "text": "jar",
+        "frequency": 100
+      },
+      {
+        "text": "box",
+        "frequency": 100
+      },
+      {
+        "text": "package",
+        "frequency": 100
+      },
+      {
+        "text": "bag",
+        "frequency": 100
+      },
+      {
+        "text": "basket",
+        "frequency": 100
+      },
+      {
+        "text": "bucket",
+        "frequency": 100
+      },
+      {
+        "text": "bottle",
+        "frequency": 100
+      },
+      {
+        "text": "pot",
+        "frequency": 100
+      },
+      {
+        "text": "cabinet",
+        "frequency": 100
+      },
+      {
+        "text": "classify",
+        "frequency": 100
+      },
+      {
+        "text": "drawer",
+        "frequency": 100
+      },
+      {
+        "text": "storage",
+        "frequency": 100
+      },
+      {
+        "text": "locker",
+        "frequency": 100
+      },
+      {
+        "text": "case",
+        "frequency": 100
+      },
+      {
+        "text": "bowl",
+        "frequency": 100
+      }
+    ]
+  },
+  {
     "word": "zu",
     "id": "tu",
     "definitions": [
@@ -10817,6 +10771,24 @@
       },
       {
         "text": "(pronoun) you",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "zupi",
+    "id": "pipi",
+    "definitions": [
+      {
+        "text": "bug",
+        "frequency": 100
+      },
+      {
+        "text": "insect",
+        "frequency": 100
+      },
+      {
+        "text": "spider",
         "frequency": 100
       }
     ]
