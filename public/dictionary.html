@@ -104,6 +104,22 @@
   .btn-delete { color: #ef4444; background: transparent; border: none; font-weight: 500; cursor: pointer; opacity: 0.8; }
   .btn-add { background: var(--card-bg); color: white; border: 1px solid var(--border); padding: 0.6rem 1.2rem; border-radius: 8px; font-weight: 600; cursor: pointer; transition: 0.2s; }
   .btn-add:hover { background: white; color: black; }
+
+  .btn-sort {
+  background: transparent;
+  color: var(--text-muted);
+  border: 1px solid var(--border);
+  padding: 0.6rem 1rem;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 0.8rem;
+  margin-right: 10px;
+}
+.btn-sort.active {
+  color: var(--accent);
+  border-color: var(--accent);
+  background: rgba(129, 140, 248, 0.1);
+}
 </style>
 </head>
 <body>
@@ -147,9 +163,19 @@ function goHome() {
   loadWords('');
 }
 
+let isCompoundSortActive = false;
+
+function toggleCompoundSort() {
+  isCompoundSortActive = !isCompoundSortActive;
+  const btn = document.getElementById('compound-toggle');
+  btn.classList.toggle('active');
+  loadWords(document.getElementById('search').value);
+}
+
 async function loadWords(query = '') {
   try {
-    const res = await fetch(`/search?q=${query}`);
+    // Append the sort parameter to the API call
+    const res = await fetch(`/search?q=${query}${isCompoundSortActive ? '&sort=compound' : ''}`);
     currentDictionary = await res.json();
   } catch (e) { console.error("Failed to load words", e); }
   
