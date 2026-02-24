@@ -13,9 +13,28 @@ const MP_DOCS_PATH = path.join(__dirname, 'lang/docs-mp');
 app.use(bodyParser.json());
 app.use(express.static('public'));
 
-[DOCS_PATH, MP_DOCS_PATH].forEach(p => { if (!fs.existsSync(p)) fs.mkdirSync(p); });
+// Ensure doc directories exist
+[DOCS_PATH, MP_DOCS_PATH].forEach(p => { if (!fs.existsSync(p)) fs.mkdirSync(p, { recursive: true }); });
 
 let dictionary = JSON.parse(fs.readFileSync(DICTIONARY_PATH, 'utf8'));
+let semanticSpaceMap = {}; // Server-side cache for deep searching
+
+/**
+ * Syncs the semanticSpaceMap from the ss.html file
+ * This allows the search route to check lipamanka definitions
+ */
+const refreshSemanticMap = () => {
+  if (!fs.existsSync(SS_PATH)) return;
+  const html = fs.readFileSync(SS_PATH, 'utf8');
+  // Regex to extract ID and the associated paragraph text
+  const regex = /<summary id="(.*?)">.*?<\/summary>\s*<p>(.*?)<\/p>/gs;
+  let match;
+  semanticSpaceMap = {};
+  while ((match = regex.exec(html)) !== null) {
+    semanticSpaceMap[match[1]] = match[2].toLowerCase();
+  }
+};
+refreshSemanticMap(); // Initial sync
 
 const numericalSort = (a, b) => {
   const numA = parseInt(a.match(/^\d+/) || 0);
@@ -23,31 +42,65 @@ const numericalSort = (a, b) => {
   return numA - numB || a.localeCompare(b);
 };
 
-// --- DICTIONARY ROUTES ---
+// --- DICTIONARY & SEARCH ROUTES ---
+
 app.get('/search', (req, res) => {
   const query = req.query.q?.toLowerCase();
   let results = [...dictionary];
+
   if (query) {
-    results = results.filter(entry => entry.word.toLowerCase().includes(query) || entry.definitions.some(d => d.text.toLowerCase().includes(query)));
+    // 1. Filter: Check Word, Definitions, AND Semantic Space
+    results = results.filter(entry => {
+      const wordMatch = entry.word.toLowerCase().includes(query);
+      const defMatch = entry.definitions.some(d => d.text.toLowerCase().includes(query));
+      const ssMatch = semanticSpaceMap[entry.id]?.includes(query);
+      return wordMatch || defMatch || ssMatch;
+    });
+
+    // 2. Sort: Weighted Priority
     results.sort((a, b) => {
-      const wordA = a.word.toLowerCase(), wordB = b.word.toLowerCase();
+      const wordA = a.word.toLowerCase();
+      const wordB = b.word.toLowerCase();
+
+      // Priority 1: Exact word match
       if (wordA === query && wordB !== query) return -1;
       if (wordB === query && wordA !== query) return 1;
+
+      // Priority 2: Word starts with query
       const startsA = wordA.startsWith(query), startsB = wordB.startsWith(query);
       if (startsA && !startsB) return -1;
       if (!startsA && startsB) return 1;
-      const freqA = Math.max(...a.definitions.map(d => d.frequency || 0), 0);
-      const freqB = Math.max(...b.definitions.map(d => d.frequency || 0), 0);
-      return (freqB !== freqA) ? freqB - freqA : wordA.localeCompare(wordB);
+
+      // Priority 3: Word contains query
+      const incA = wordA.includes(query), incB = wordB.includes(query);
+      if (incA && !incB) return -1;
+      if (!incA && incB) return 1;
+
+      // Priority 4: Definition match
+      const defA = a.definitions.some(d => d.text.toLowerCase().includes(query));
+      const defB = b.definitions.some(d => d.text.toLowerCase().includes(query));
+      if (defA && !defB) return -1;
+      if (!defA && defB) return 1;
+
+      // Priority 5: Semantic Space match (Deprioritized)
+      const ssA = semanticSpaceMap[a.id]?.includes(query);
+      const ssB = semanticSpaceMap[b.id]?.includes(query);
+      if (ssA && !ssB) return 1; // Send 'a' to the bottom
+      if (!ssA && ssB) return -1;
+
+      return wordA.localeCompare(wordB);
     });
-  } else { results.sort((a, b) => a.word.localeCompare(b.word)); }
+  } else {
+    results.sort((a, b) => a.word.localeCompare(b.word));
+  }
   res.json(results);
 });
 
 app.post('/word/:originalWord', (req, res) => {
   const originalWord = req.params.originalWord.toLowerCase();
-  if (originalWord === '_new') dictionary.push(req.body);
-  else {
+  if (originalWord === '_new') {
+    dictionary.push(req.body);
+  } else {
     const idx = dictionary.findIndex(e => e.word.toLowerCase() === originalWord);
     if (idx !== -1) dictionary[idx] = req.body;
   }
@@ -63,11 +116,11 @@ app.delete('/word/:word', (req, res) => {
   res.json({ success: true });
 });
 
-// --- SEMANTIC SPACE ROUTE (With Append Logic) ---
+// --- SEMANTIC SPACE (ss.html) MANAGEMENT ---
+
 app.post('/semantic-space/:id', (req, res) => {
   const { id } = req.params;
   const { text } = req.body;
-  const SS_PATH = path.join(__dirname, 'public/ss.html');
   
   if (!fs.existsSync(SS_PATH)) {
     fs.writeFileSync(SS_PATH, '<!DOCTYPE html><html><body></body></html>');
@@ -75,13 +128,14 @@ app.post('/semantic-space/:id', (req, res) => {
 
   let html = fs.readFileSync(SS_PATH, 'utf8');
 
-  // 1. Try to Update existing entry
+  // Regex to find existing entry
   const regex = new RegExp(`(<summary id="${id}">.*?</summary>\\s*<p>)(.*?)(</p>)`, 's');
   
   if (regex.test(html)) {
+    // Update existing
     html = html.replace(regex, `$1${text}$3`);
   } else {
-    // 2. If it doesn't exist, Append a new block before the end of the file
+    // Append new entry before closing body tag
     const newEntry = `
 <details open>
     <summary id="${id}">${id}</summary>
@@ -97,13 +151,16 @@ app.post('/semantic-space/:id', (req, res) => {
   }
 
   fs.writeFileSync(SS_PATH, html);
+  refreshSemanticMap(); // Sync search engine with the new data
   res.json({ success: true });
 });
 
 // --- DOCS SEARCH LOGIC ---
+
 const handleDocsRequest = (dirPath, req, res) => {
   const query = req.query.q?.toLowerCase();
   let files = fs.readdirSync(dirPath).filter(f => f.endsWith('.md'));
+
   if (query) {
     files = files.filter(f => {
       const content = fs.readFileSync(path.join(dirPath, f), 'utf8').toLowerCase();

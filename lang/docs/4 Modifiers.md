@@ -25,3 +25,31 @@
 		* "She has the potential for good / she has good potential"
 	* *honkikitątaslén* `person-love.MOD-POT-INDEF`
 		* "A / any loveable person"
+
+## 4.2 When to and not to use modifiers
+* Use a modifier if:
+	* something is being modified
+		* *honmafą* - red person
+		* *kamuhaterą* - eating fast
+* Do not use a modifier if:
+	* nouns are being compounded:
+		* *soraĉi* - sky-water (rain)
+		* *mafaĉi* - red-water (blood)
+	* multiple words work together to aid semantics:
+		* *watadà zu* - only you
+		* *ii hon* - good person
+		* *watadà hateru* - only run (and don't do something else)
+* Here are some examples of when and when not to use modifiers:
+	* *napiteiya* - snake (literally line-reptile); no modifier needed, as it is a noun compound
+	* *poki kamu* - modifier needed: *pokią kamu* or *kamupokią* (to eat a lot)
+	* *ii hon* - good person, modifier not needed
+	* *poki hon* - big person, modifier not needed
+	* *watadà subo* - only desire, modifier not needed
+* Also, if a word ends in -o, then it must be marked as a modifier, regardless:
+	* *mafą hon* or *honmafą* - red person
+* Let's see what happens if we did add modifiers to that which did not need them:
+	* *honiią* - a person of goodness, similar to saying *honme fu iiǫ* (person that does good)
+* To better understand this, think of modifiers as **derivative particles**, not just 'adjectives' or 'adverbs:'
+	* *hatero* can mean 'fast, run, quick, swift, hurry, chase,' but using it alone like:
+		* *kamu hateru* (eat run, literally a compound meaning 'to eat and run')
+		* *kamuhaterą* (eat fast, since *haterą* is now a modifier)

@@ -46,86 +46,6 @@
     ]
   },
   {
-    "word": "akesi kiwen",
-    "id": "akesi kiwen",
-    "definitions": [
-      {
-        "text": "turtle",
-        "frequency": 100
-      }
-    ]
-  },
-  {
-    "word": "akesi seli",
-    "definitions": [
-      {
-        "text": "dragon",
-        "frequency": 50
-      }
-    ],
-    "id": "akesi seli"
-  },
-  {
-    "word": "ale",
-    "definitions": [
-      {
-        "text": "every",
-        "frequency": 80
-      },
-      {
-        "text": "everything",
-        "frequency": 77
-      },
-      {
-        "text": "all",
-        "frequency": 68
-      },
-      {
-        "text": "entire",
-        "frequency": 64
-      },
-      {
-        "text": "universal",
-        "frequency": 60
-      },
-      {
-        "text": "completely",
-        "frequency": 58
-      },
-      {
-        "text": "total",
-        "frequency": 53
-      },
-      {
-        "text": "entirely",
-        "frequency": 50
-      },
-      {
-        "text": "universe",
-        "frequency": 50
-      },
-      {
-        "text": "altogether",
-        "frequency": 44
-      },
-      {
-        "text": "comprehensive",
-        "frequency": 42
-      }
-    ],
-    "id": "ale"
-  },
-  {
-    "word": "ale la",
-    "id": "ale la",
-    "definitions": [
-      {
-        "text": "overall",
-        "frequency": 100
-      }
-    ]
-  },
-  {
     "word": "ante",
     "definitions": [
       {
@@ -228,16 +148,6 @@
     "id": "ante"
   },
   {
-    "word": "ante la",
-    "definitions": [
-      {
-        "text": "otherwise",
-        "frequency": 70
-      }
-    ],
-    "id": "ante la"
-  },
-  {
     "word": "ato",
     "id": "anu",
     "definitions": [
@@ -256,21 +166,41 @@
     ]
   },
   {
-    "word": "awen sona",
-    "definitions": [
-      {
-        "text": "remember",
-        "frequency": 45
-      }
-    ],
-    "id": "awen sona"
-  },
-  {
     "word": "ba",
     "id": "ba",
     "definitions": [
       {
         "text": "sweet fruits",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "ĉi",
+    "id": "telo",
+    "definitions": [
+      {
+        "text": "fluid",
+        "frequency": 100
+      },
+      {
+        "text": "water",
+        "frequency": 100
+      },
+      {
+        "text": "wet",
+        "frequency": 100
+      },
+      {
+        "text": "wash",
+        "frequency": 100
+      },
+      {
+        "text": "pond",
+        "frequency": 100
+      },
+      {
+        "text": "pool",
         "frequency": 100
       }
     ]
@@ -417,6 +347,34 @@
       },
       {
         "text": "man",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "gaya",
+    "id": "sijelo",
+    "definitions": [
+      {
+        "text": "body",
+        "frequency": 100
+      },
+      {
+        "text": "torso",
+        "frequency": 100
+      },
+      {
+        "text": "flesh",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "hahakari",
+    "id": "yupekosi",
+    "definitions": [
+      {
+        "text": "absurdity",
         "frequency": 100
       }
     ]
@@ -704,56 +662,6 @@
     ]
   },
   {
-    "word": "ijo",
-    "definitions": [
-      {
-        "text": "item",
-        "frequency": 100
-      },
-      {
-        "text": "something",
-        "frequency": 100
-      },
-      {
-        "text": "object",
-        "frequency": 100
-      },
-      {
-        "text": "stuff",
-        "frequency": 100
-      },
-      {
-        "text": "thing",
-        "frequency": 100
-      },
-      {
-        "text": "entity",
-        "frequency": 82
-      },
-      {
-        "text": "phenomenon",
-        "frequency": 67
-      },
-      {
-        "text": "material",
-        "frequency": 63
-      },
-      {
-        "text": "matter (n)",
-        "frequency": 62
-      },
-      {
-        "text": "substance",
-        "frequency": 53
-      },
-      {
-        "text": "anything",
-        "frequency": 50
-      }
-    ],
-    "id": "ijo"
-  },
-  {
     "word": "ijo esun",
     "definitions": [
       {
@@ -796,68 +704,6 @@
       }
     ],
     "id": "ike lukin"
-  },
-  {
-    "word": "ilo",
-    "definitions": [
-      {
-        "text": "tool",
-        "frequency": 100
-      },
-      {
-        "text": "device",
-        "frequency": 95
-      },
-      {
-        "text": "equipment",
-        "frequency": 85
-      },
-      {
-        "text": "machine",
-        "frequency": 84
-      },
-      {
-        "text": "app",
-        "frequency": 73
-      },
-      {
-        "text": "hardware",
-        "frequency": 64
-      },
-      {
-        "text": "robot",
-        "frequency": 59
-      },
-      {
-        "text": "technological",
-        "frequency": 53
-      },
-      {
-        "text": "mechanical",
-        "frequency": 52
-      },
-      {
-        "text": "gear",
-        "frequency": 50
-      },
-      {
-        "text": "tech",
-        "frequency": 47
-      },
-      {
-        "text": "mechanism",
-        "frequency": 46
-      },
-      {
-        "text": "technical",
-        "frequency": 43
-      },
-      {
-        "text": "software",
-        "frequency": 43
-      }
-    ],
-    "id": "ilo"
   },
   {
     "word": "ilo kalama",
@@ -2864,6 +2710,56 @@
     "id": "kipisi"
   },
   {
+    "word": "kitei",
+    "id": "ijo",
+    "definitions": [
+      {
+        "text": "item",
+        "frequency": 100
+      },
+      {
+        "text": "something",
+        "frequency": 100
+      },
+      {
+        "text": "object",
+        "frequency": 100
+      },
+      {
+        "text": "stuff",
+        "frequency": 100
+      },
+      {
+        "text": "thing",
+        "frequency": 100
+      },
+      {
+        "text": "entity",
+        "frequency": 100
+      },
+      {
+        "text": "phenomenon",
+        "frequency": 100
+      },
+      {
+        "text": "material",
+        "frequency": 100
+      },
+      {
+        "text": "matter (n)",
+        "frequency": 100
+      },
+      {
+        "text": "substance",
+        "frequency": 100
+      },
+      {
+        "text": "anything",
+        "frequency": 100
+      }
+    ]
+  },
+  {
     "word": "kiwen kasi",
     "definitions": [
       {
@@ -4782,6 +4678,28 @@
     "id": "mije"
   },
   {
+    "word": "miri",
+    "id": "suwi",
+    "definitions": [
+      {
+        "text": "sweet",
+        "frequency": 100
+      },
+      {
+        "text": "cute",
+        "frequency": 100
+      },
+      {
+        "text": "candy",
+        "frequency": 100
+      },
+      {
+        "text": "sugar",
+        "frequency": 100
+      }
+    ]
+  },
+  {
     "word": "misikeke",
     "definitions": [
       {
@@ -4976,6 +4894,80 @@
       }
     ],
     "id": "monsuta"
+  },
+  {
+    "word": "moto",
+    "id": "wawa",
+    "definitions": [
+      {
+        "text": "strength",
+        "frequency": 100
+      },
+      {
+        "text": "power",
+        "frequency": 100
+      },
+      {
+        "text": "powerful",
+        "frequency": 100
+      },
+      {
+        "text": "strong",
+        "frequency": 100
+      },
+      {
+        "text": "energy",
+        "frequency": 100
+      },
+      {
+        "text": "strongly",
+        "frequency": 100
+      },
+      {
+        "text": "force",
+        "frequency": 100
+      },
+      {
+        "text": "intense",
+        "frequency": 100
+      },
+      {
+        "text": "bold",
+        "frequency": 100
+      },
+      {
+        "text": "intensity",
+        "frequency": 100
+      },
+      {
+        "text": "reinforce",
+        "frequency": 100
+      },
+      {
+        "text": "strengthen",
+        "frequency": 100
+      },
+      {
+        "text": "firmly",
+        "frequency": 100
+      },
+      {
+        "text": "charge",
+        "frequency": 100
+      },
+      {
+        "text": "brave",
+        "frequency": 100
+      },
+      {
+        "text": "rapid",
+        "frequency": 100
+      },
+      {
+        "text": "electrical",
+        "frequency": 100
+      }
+    ]
   },
   {
     "word": "mu",
@@ -5218,6 +5210,44 @@
     "id": "namako"
   },
   {
+    "word": "nampa",
+    "id": "nanpa",
+    "definitions": [
+      {
+        "text": "number",
+        "frequency": 100
+      },
+      {
+        "text": "count",
+        "frequency": 100
+      },
+      {
+        "text": "score",
+        "frequency": 100
+      },
+      {
+        "text": "rating",
+        "frequency": 100
+      },
+      {
+        "text": "rank",
+        "frequency": 100
+      },
+      {
+        "text": "measurement",
+        "frequency": 100
+      },
+      {
+        "text": "ranking",
+        "frequency": 100
+      },
+      {
+        "text": "statistical",
+        "frequency": 100
+      }
+    ]
+  },
+  {
     "word": "nanda",
     "id": "anpa",
     "definitions": [
@@ -5246,44 +5276,6 @@
         "frequency": 100
       }
     ]
-  },
-  {
-    "word": "nanpa",
-    "definitions": [
-      {
-        "text": "number",
-        "frequency": 100
-      },
-      {
-        "text": "count",
-        "frequency": 80
-      },
-      {
-        "text": "score",
-        "frequency": 57
-      },
-      {
-        "text": "rating",
-        "frequency": 46
-      },
-      {
-        "text": "rank",
-        "frequency": 44
-      },
-      {
-        "text": "measurement",
-        "frequency": 43
-      },
-      {
-        "text": "ranking",
-        "frequency": 43
-      },
-      {
-        "text": "statistical",
-        "frequency": 42
-      }
-    ],
-    "id": "nanpa"
   },
   {
     "word": "nanpa luka",
@@ -5420,7 +5412,7 @@
     ]
   },
   {
-    "word": "napiteyą",
+    "word": "napiteiya",
     "id": "akesi linja",
     "definitions": [
       {
@@ -6038,6 +6030,20 @@
       }
     ],
     "id": "olin"
+  },
+  {
+    "word": "omuko",
+    "id": "waso",
+    "definitions": [
+      {
+        "text": "bird",
+        "frequency": 100
+      },
+      {
+        "text": "chicken",
+        "frequency": 100
+      }
+    ]
   },
   {
     "word": "ona",
@@ -7598,24 +7604,6 @@
     "id": "seme"
   },
   {
-    "word": "sijelo",
-    "definitions": [
-      {
-        "text": "body",
-        "frequency": 100
-      },
-      {
-        "text": "torso",
-        "frequency": 64
-      },
-      {
-        "text": "flesh",
-        "frequency": 50
-      }
-    ],
-    "id": "sijelo"
-  },
-  {
     "word": "sijelo pona",
     "definitions": [
       {
@@ -7720,28 +7708,6 @@
     "id": "sin"
   },
   {
-    "word": "sina",
-    "definitions": [
-      {
-        "text": "you",
-        "frequency": 94
-      },
-      {
-        "text": "your",
-        "frequency": 88
-      },
-      {
-        "text": "yours",
-        "frequency": 83
-      },
-      {
-        "text": "yourself",
-        "frequency": 67
-      }
-    ],
-    "id": "sina"
-  },
-  {
     "word": "sinpin",
     "definitions": [
       {
@@ -7758,6 +7724,72 @@
       }
     ],
     "id": "sinpin"
+  },
+  {
+    "word": "ŝire",
+    "id": "sona",
+    "definitions": [
+      {
+        "text": "know",
+        "frequency": 100
+      },
+      {
+        "text": "knowledge",
+        "frequency": 100
+      },
+      {
+        "text": "information",
+        "frequency": 100
+      },
+      {
+        "text": "understand",
+        "frequency": 100
+      },
+      {
+        "text": "understanding",
+        "frequency": 100
+      },
+      {
+        "text": "aware",
+        "frequency": 100
+      },
+      {
+        "text": "info",
+        "frequency": 100
+      },
+      {
+        "text": "wisdom",
+        "frequency": 100
+      },
+      {
+        "text": "awareness",
+        "frequency": 100
+      },
+      {
+        "text": "known",
+        "frequency": 100
+      },
+      {
+        "text": "data",
+        "frequency": 100
+      },
+      {
+        "text": "wise",
+        "frequency": 100
+      },
+      {
+        "text": "recognition",
+        "frequency": 100
+      },
+      {
+        "text": "recognize",
+        "frequency": 100
+      },
+      {
+        "text": "expertise",
+        "frequency": 100
+      }
+    ]
   },
   {
     "word": "sitelen",
@@ -7980,72 +8012,6 @@
     ]
   },
   {
-    "word": "sona",
-    "definitions": [
-      {
-        "text": "know",
-        "frequency": 100
-      },
-      {
-        "text": "knowledge",
-        "frequency": 100
-      },
-      {
-        "text": "information",
-        "frequency": 100
-      },
-      {
-        "text": "understand",
-        "frequency": 94
-      },
-      {
-        "text": "understanding",
-        "frequency": 93
-      },
-      {
-        "text": "aware",
-        "frequency": 83
-      },
-      {
-        "text": "info",
-        "frequency": 79
-      },
-      {
-        "text": "wisdom",
-        "frequency": 73
-      },
-      {
-        "text": "awareness",
-        "frequency": 68
-      },
-      {
-        "text": "known",
-        "frequency": 62
-      },
-      {
-        "text": "data",
-        "frequency": 60
-      },
-      {
-        "text": "wise",
-        "frequency": 58
-      },
-      {
-        "text": "recognition",
-        "frequency": 55
-      },
-      {
-        "text": "recognize",
-        "frequency": 50
-      },
-      {
-        "text": "expertise",
-        "frequency": 42
-      }
-    ],
-    "id": "sona"
-  },
-  {
     "word": "sona ala",
     "definitions": [
       {
@@ -8234,6 +8200,186 @@
       }
     ],
     "id": "soweli tawa"
+  },
+  {
+    "word": "subeko",
+    "id": "ale",
+    "definitions": [
+      {
+        "text": "every",
+        "frequency": 100
+      },
+      {
+        "text": "everything",
+        "frequency": 100
+      },
+      {
+        "text": "all",
+        "frequency": 100
+      },
+      {
+        "text": "entire",
+        "frequency": 100
+      },
+      {
+        "text": "universal",
+        "frequency": 100
+      },
+      {
+        "text": "completely",
+        "frequency": 100
+      },
+      {
+        "text": "total",
+        "frequency": 100
+      },
+      {
+        "text": "entirely",
+        "frequency": 100
+      },
+      {
+        "text": "universe",
+        "frequency": 100
+      },
+      {
+        "text": "altogether",
+        "frequency": 100
+      },
+      {
+        "text": "comprehensive",
+        "frequency": 100
+      },
+      {
+        "text": "infinity (number)",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "subo",
+    "id": "wile",
+    "definitions": [
+      {
+        "text": "want",
+        "frequency": 100
+      },
+      {
+        "text": "wish",
+        "frequency": 100
+      },
+      {
+        "text": "intend",
+        "frequency": 100
+      },
+      {
+        "text": "require",
+        "frequency": 100
+      },
+      {
+        "text": "need",
+        "frequency": 100
+      },
+      {
+        "text": "desire",
+        "frequency": 100
+      },
+      {
+        "text": "intention",
+        "frequency": 100
+      },
+      {
+        "text": "willing",
+        "frequency": 100
+      },
+      {
+        "text": "will",
+        "frequency": 100
+      },
+      {
+        "text": "intent",
+        "frequency": 100
+      },
+      {
+        "text": "preference",
+        "frequency": 100
+      },
+      {
+        "text": "motivation",
+        "frequency": 100
+      },
+      {
+        "text": "necessity",
+        "frequency": 100
+      },
+      {
+        "text": "yearn",
+        "frequency": 100
+      },
+      {
+        "text": "ought",
+        "frequency": 100
+      },
+      {
+        "text": "necessary",
+        "frequency": 100
+      },
+      {
+        "text": "hope",
+        "frequency": 100
+      },
+      {
+        "text": "willingness",
+        "frequency": 100
+      },
+      {
+        "text": "ambition",
+        "frequency": 100
+      },
+      {
+        "text": "prefer",
+        "frequency": 100
+      },
+      {
+        "text": "requirement",
+        "frequency": 100
+      },
+      {
+        "text": "required",
+        "frequency": 100
+      },
+      {
+        "text": "must",
+        "frequency": 100
+      },
+      {
+        "text": "obligation",
+        "frequency": 100
+      },
+      {
+        "text": "decision",
+        "frequency": 100
+      },
+      {
+        "text": "should",
+        "frequency": 100
+      },
+      {
+        "text": "demand",
+        "frequency": 100
+      },
+      {
+        "text": "eager",
+        "frequency": 100
+      },
+      {
+        "text": "request",
+        "frequency": 100
+      },
+      {
+        "text": "agenda",
+        "frequency": 100
+      }
+    ]
   },
   {
     "word": "suli",
@@ -8440,28 +8586,6 @@
       }
     ],
     "id": "supa monsi"
-  },
-  {
-    "word": "suwi",
-    "definitions": [
-      {
-        "text": "sweet",
-        "frequency": 100
-      },
-      {
-        "text": "cute",
-        "frequency": 92
-      },
-      {
-        "text": "candy",
-        "frequency": 65
-      },
-      {
-        "text": "sugar",
-        "frequency": 58
-      }
-    ],
-    "id": "suwi"
   },
   {
     "word": "taka",
@@ -8792,36 +8916,6 @@
         "frequency": 100
       }
     ]
-  },
-  {
-    "word": "telo",
-    "definitions": [
-      {
-        "text": "fluid",
-        "frequency": 100
-      },
-      {
-        "text": "water",
-        "frequency": 94
-      },
-      {
-        "text": "wet",
-        "frequency": 73
-      },
-      {
-        "text": "wash",
-        "frequency": 52
-      },
-      {
-        "text": "pond",
-        "frequency": 45
-      },
-      {
-        "text": "pool",
-        "frequency": 42
-      }
-    ],
-    "id": "telo"
   },
   {
     "word": "telo ala",
@@ -9944,36 +10038,6 @@
     "id": "tonsi"
   },
   {
-    "word": "tu",
-    "definitions": [
-      {
-        "text": "two",
-        "frequency": 100
-      },
-      {
-        "text": "pair",
-        "frequency": 88
-      },
-      {
-        "text": "double",
-        "frequency": 80
-      },
-      {
-        "text": "both",
-        "frequency": 64
-      },
-      {
-        "text": "twice",
-        "frequency": 50
-      },
-      {
-        "text": "couple",
-        "frequency": 50
-      }
-    ],
-    "id": "tu"
-  },
-  {
     "word": "tu tu",
     "definitions": [
       {
@@ -9992,6 +10056,68 @@
       }
     ],
     "id": "tu wan"
+  },
+  {
+    "word": "twana",
+    "id": "ilo",
+    "definitions": [
+      {
+        "text": "tool",
+        "frequency": 100
+      },
+      {
+        "text": "device",
+        "frequency": 100
+      },
+      {
+        "text": "equipment",
+        "frequency": 100
+      },
+      {
+        "text": "machine",
+        "frequency": 100
+      },
+      {
+        "text": "app",
+        "frequency": 100
+      },
+      {
+        "text": "hardware",
+        "frequency": 100
+      },
+      {
+        "text": "robot",
+        "frequency": 100
+      },
+      {
+        "text": "technological",
+        "frequency": 100
+      },
+      {
+        "text": "mechanical",
+        "frequency": 100
+      },
+      {
+        "text": "gear",
+        "frequency": 100
+      },
+      {
+        "text": "tech",
+        "frequency": 100
+      },
+      {
+        "text": "mechanism",
+        "frequency": 100
+      },
+      {
+        "text": "technical",
+        "frequency": 100
+      },
+      {
+        "text": "software",
+        "frequency": 100
+      }
+    ]
   },
   {
     "word": "ukajo",
@@ -10400,20 +10526,6 @@
     ]
   },
   {
-    "word": "waso",
-    "definitions": [
-      {
-        "text": "bird",
-        "frequency": 100
-      },
-      {
-        "text": "chicken",
-        "frequency": 44
-      }
-    ],
-    "id": "waso"
-  },
-  {
     "word": "waso telo",
     "definitions": [
       {
@@ -10500,80 +10612,6 @@
         "frequency": 100
       }
     ]
-  },
-  {
-    "word": "wawa",
-    "definitions": [
-      {
-        "text": "strength",
-        "frequency": 100
-      },
-      {
-        "text": "power",
-        "frequency": 100
-      },
-      {
-        "text": "powerful",
-        "frequency": 92
-      },
-      {
-        "text": "strong",
-        "frequency": 88
-      },
-      {
-        "text": "energy",
-        "frequency": 88
-      },
-      {
-        "text": "strongly",
-        "frequency": 82
-      },
-      {
-        "text": "force",
-        "frequency": 73
-      },
-      {
-        "text": "intense",
-        "frequency": 71
-      },
-      {
-        "text": "bold",
-        "frequency": 68
-      },
-      {
-        "text": "intensity",
-        "frequency": 65
-      },
-      {
-        "text": "reinforce",
-        "frequency": 63
-      },
-      {
-        "text": "strengthen",
-        "frequency": 62
-      },
-      {
-        "text": "firmly",
-        "frequency": 62
-      },
-      {
-        "text": "charge",
-        "frequency": 53
-      },
-      {
-        "text": "brave",
-        "frequency": 47
-      },
-      {
-        "text": "rapid",
-        "frequency": 42
-      },
-      {
-        "text": "electrical",
-        "frequency": 42
-      }
-    ],
-    "id": "wawa"
   },
   {
     "word": "wawa ala",
@@ -10698,132 +10736,6 @@
     "id": "weka sona"
   },
   {
-    "word": "wile",
-    "definitions": [
-      {
-        "text": "want",
-        "frequency": 100
-      },
-      {
-        "text": "wish",
-        "frequency": 94
-      },
-      {
-        "text": "intend",
-        "frequency": 93
-      },
-      {
-        "text": "require",
-        "frequency": 90
-      },
-      {
-        "text": "need",
-        "frequency": 88
-      },
-      {
-        "text": "desire",
-        "frequency": 87
-      },
-      {
-        "text": "intention",
-        "frequency": 84
-      },
-      {
-        "text": "willing",
-        "frequency": 83
-      },
-      {
-        "text": "will",
-        "frequency": 81
-      },
-      {
-        "text": "intent",
-        "frequency": 80
-      },
-      {
-        "text": "preference",
-        "frequency": 79
-      },
-      {
-        "text": "motivation",
-        "frequency": 75
-      },
-      {
-        "text": "necessity",
-        "frequency": 73
-      },
-      {
-        "text": "yearn",
-        "frequency": 71
-      },
-      {
-        "text": "ought",
-        "frequency": 71
-      },
-      {
-        "text": "necessary",
-        "frequency": 70
-      },
-      {
-        "text": "hope",
-        "frequency": 67
-      },
-      {
-        "text": "willingness",
-        "frequency": 67
-      },
-      {
-        "text": "ambition",
-        "frequency": 67
-      },
-      {
-        "text": "prefer",
-        "frequency": 67
-      },
-      {
-        "text": "requirement",
-        "frequency": 64
-      },
-      {
-        "text": "required",
-        "frequency": 61
-      },
-      {
-        "text": "must",
-        "frequency": 59
-      },
-      {
-        "text": "obligation",
-        "frequency": 56
-      },
-      {
-        "text": "decision",
-        "frequency": 54
-      },
-      {
-        "text": "should",
-        "frequency": 53
-      },
-      {
-        "text": "demand",
-        "frequency": 50
-      },
-      {
-        "text": "eager",
-        "frequency": 50
-      },
-      {
-        "text": "request",
-        "frequency": 47
-      },
-      {
-        "text": "agenda",
-        "frequency": 41
-      }
-    ],
-    "id": "wile"
-  },
-  {
     "word": "wile ala",
     "definitions": [
       {
@@ -10870,13 +10782,37 @@
     "id": "wile sona"
   },
   {
-    "word": "yupekosi",
+    "word": "zu",
+    "id": "tu",
     "definitions": [
       {
-        "text": "change a creative work and unintentionally make it worse",
-        "frequency": 50
+        "text": "two",
+        "frequency": 100
+      },
+      {
+        "text": "pair",
+        "frequency": 100
+      },
+      {
+        "text": "double",
+        "frequency": 100
+      },
+      {
+        "text": "both",
+        "frequency": 100
+      },
+      {
+        "text": "twice",
+        "frequency": 100
+      },
+      {
+        "text": "couple",
+        "frequency": 100
+      },
+      {
+        "text": "(pronoun) you",
+        "frequency": 100
       }
-    ],
-    "id": "yupekosi"
+    ]
   }
 ]

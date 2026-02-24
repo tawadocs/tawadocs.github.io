@@ -54,3 +54,12 @@
 		* "A romantic place (informal; e.g., intimate café)"
 	* *jinyĉnh* -> `LOC-N.ROM-INV`
 		* "A romantic place (formal; e.g., formal dinner)"
+
+## 7.3 Verb compounding
+* Verbs can be compounded as well:
+	* *kamu hateru* (eat run, meaning 'to eat and run')
+	* *rawaru fofu* (sleep talk)
+* But the primary action must come first, so:
+	* *hateru kamu*
+	* *fofu rawaru*
+* ... are both disallowed, as one cannot 'talk' first and 'sleep' second, which is why, even in English, it is 'sleep-talk,' not 'talk-sleep'
