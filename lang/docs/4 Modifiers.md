@@ -50,6 +50,6 @@
 * Let's see what happens if we did add modifiers to that which did not need them:
 	* *honiią* - a person of goodness, similar to saying *honme fu iiǫ* (person that does good)
 * To better understand this, think of modifiers as **derivative particles**, not just 'adjectives' or 'adverbs:'
-	* *hatero* can mean 'fast, run, quick, swift, hurry, chase,' but using it alone like:
+	* *hatero* can mean 'fast, run, quick, swift, hurry, chase:'
 		* *kamu hateru* (eat run, literally a compound meaning 'to eat and run')
 		* *kamuhaterą* (eat fast, since *haterą* is now a modifier)
