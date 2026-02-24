@@ -3218,6 +3218,24 @@
     "id": "jan utala"
   },
   {
+    "word": "jàna",
+    "id": "jàna",
+    "definitions": [
+      {
+        "text": "heaven",
+        "frequency": 100
+      },
+      {
+        "text": "paradise",
+        "frequency": 100
+      },
+      {
+        "text": "heavenly",
+        "frequency": 100
+      }
+    ]
+  },
+  {
     "word": "jimei",
     "id": "ma",
     "definitions": [
@@ -3804,6 +3822,20 @@
       }
     ],
     "id": "kasi telo"
+  },
+  {
+    "word": "katu",
+    "id": "katu",
+    "definitions": [
+      {
+        "text": "genital",
+        "frequency": 100
+      },
+      {
+        "text": "private part",
+        "frequency": 100
+      }
+    ]
   },
   {
     "word": "ken ala",
@@ -6348,6 +6380,16 @@
     "id": "ni la"
   },
   {
+    "word": "nigo",
+    "id": "nigo",
+    "definitions": [
+      {
+        "text": "cat",
+        "frequency": 100
+      }
+    ]
+  },
+  {
     "word": "nimi ijo",
     "definitions": [
       {
@@ -7538,6 +7580,44 @@
     "id": "pona tawa"
   },
   {
+    "word": "raha",
+    "id": "raha",
+    "definitions": [
+      {
+        "text": "strait",
+        "frequency": 100
+      },
+      {
+        "text": "straight",
+        "frequency": 100
+      },
+      {
+        "text": "plain",
+        "frequency": 100
+      },
+      {
+        "text": "field",
+        "frequency": 100
+      },
+      {
+        "text": "lonely",
+        "frequency": 100
+      },
+      {
+        "text": "desolate",
+        "frequency": 100
+      },
+      {
+        "text": "isolated",
+        "frequency": 100
+      },
+      {
+        "text": "alone",
+        "frequency": 100
+      }
+    ]
+  },
+  {
     "word": "rawa",
     "id": "lape",
     "definitions": [
@@ -7773,6 +7853,14 @@
       },
       {
         "text": "dispute",
+        "frequency": 100
+      },
+      {
+        "text": "martyrdom",
+        "frequency": 100
+      },
+      {
+        "text": "martyr",
         "frequency": 100
       }
     ]
