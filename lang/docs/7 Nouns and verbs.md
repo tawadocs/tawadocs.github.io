@@ -1,21 +1,22 @@
 ## 7.1 Particle table
-| Particle | IPA            | Gloss  |
-| -------- | -------------- | ------ |
-| tei      | `tei`          | PROD   |
-| (y)ĉ    | `(j)tɕ`        | N.PLAT |
-| nyĉ     | `ɲtɕ`          | N.ROM  |
-| (r)u     | `(ɺ)u`         | V.PLAT |
-| nyu      | `nʲu`          | V.ROM  |
-| én      | `ɛn`           | NMLZ   |
-| v'(o)    | `ʋ̃(o)~ʋ̃(õ)` | LINK   |
-| ų        | `ũ`           | VLNK   |
-* *v'* is used for compounding nouns, like:
-	* *sorav'ĉi* -> `sky-LINK-water`
+| Particle | IPA     | Gloss  |
+| -------- | ------- | ------ |
+| tei      | `tei`   | PROD   |
+| (y)ĉ    | `(j)tɕ` | N.PLAT |
+| nyĉ     | `ɲtɕ`   | N.ROM  |
+| (r)u     | `(ɺ)u`  | V.PLAT |
+| nyu      | `nʲu`   | V.ROM  |
+| én      | `ɛn`    | NMLZ   |
+| ų        | `ũ`    | VLNK   |
+| ce       | `kʰe`   | LINK   |
+* Tawa generally used to use *v'* (ṽ) for compound; however, Modern Tawa has dropped this particle:
+	* *soraĉi* -> `sky-water`
 		* "Sky water (i.e., rain)"
-* If it has to compound consonant-final roots, then the *v'o* form is used:
-	* *kamĉv'okitvááf* -> `food-N.PLAT-LINK-like.SRC.WHOLE.FIG`
+	* *kamĉkitvááf* -> `food-N.PLAT-like.SRC.WHOLE.FIG`
 		* lit. "food-feeling"
 		* ~"taste"
+* If noun-compounding has to be marked (it usually doesn't), then use *ce*:
+	* *sora ce ĉi* -> `sky LINK water`
 * Though most of the times an adjective may be used instead, there are some circumstances where *v'* is better to use
 * *ų* is used to let other verbs modify verbs but not for adverbs
 * Adverbs still use *ą*, like *riwakakikitą* (to think lovingly)

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8d4755fe7f53c941",
+        "id": "fcccc7413a5dea39",
         "type": "tabs",
         "children": [
           {
-            "id": "714b3f216169536a",
+            "id": "288fe47049250275",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -176,6 +176,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "714b3f216169536a",
-  "lastOpenFiles": []
+  "active": "288fe47049250275",
+  "lastOpenFiles": [
+    "docs-mp/1 Phonology.md",
+    "docs/7 Nouns and verbs.md"
+  ]
 }
