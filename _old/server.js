@@ -6,12 +6,12 @@ const bodyParser = require('body-parser');
 const app = express();
 const PORT = 3000;
 const DICTIONARY_PATH = path.join(__dirname, 'dictionary.json');
-const SS_PATH = path.join(__dirname, 'private/ss.html');
+const SS_PATH = path.join(__dirname, 'public/ss.html');
 const DOCS_PATH = path.join(__dirname, 'lang/docs');
 const MP_DOCS_PATH = path.join(__dirname, 'lang/docs-mp');
 
 app.use(bodyParser.json());
-app.use(express.static('private'));
+app.use(express.static('public'));
 
 // Ensure doc directories exist
 [DOCS_PATH, MP_DOCS_PATH].forEach(p => { if (!fs.existsSync(p)) fs.mkdirSync(p, { recursive: true }); });

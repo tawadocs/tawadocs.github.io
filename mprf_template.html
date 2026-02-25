@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Tawa Docs</title>
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;600;800&display=swap" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <style>
+        :root { --bg: #0b0e11; --card-bg: #161b22; --text: #e2e8f0; --accent: #818cf8; --border: rgba(255, 255, 255, 0.06); --sidebar-bg: #0f1319; }
+        body { font-family: 'Plus Jakarta Sans', sans-serif; background: var(--bg); color: var(--text); margin: 0; display: flex; height: 100vh; overflow: hidden; }
+        #sidebar { width: 320px; background: var(--sidebar-bg); border-right: 1px solid var(--border); display: flex; flex-direction: column; padding: 2rem 1.5rem; }
+        .sidebar-header h1 { font-size: 1.2rem; margin: 0 0 2rem 0; cursor: pointer; color: white; }
+        #doc-search { width: 100%; padding: 0.8rem; background: var(--card-bg); border: 1px solid var(--border); border-radius: 8px; color: white; margin-bottom: 1.5rem; outline: none; box-sizing: border-box; }
+        .doc-list { list-style: none; padding: 0; margin: 0; overflow-y: auto; flex-grow: 1; }
+        .doc-item { padding: 12px 15px; border-radius: 8px; cursor: pointer; color: #94a3b8; transition: 0.2s; margin-bottom: 4px; font-size: 0.95rem; }
+        .doc-item:hover { background: var(--card-bg); color: white; }
+        .doc-item.active { background: var(--accent); color: white; font-weight: 600; }
+        #content-area { flex-grow: 1; padding: 4rem; overflow-y: auto; display: flex; justify-content: center; background: var(--bg); }
+        .markdown-body { width: 100%; max-width: 750px; line-height: 1.8; color: #cbd5e1; }
+        .markdown-body h1 { font-size: 2.8rem; color: white; letter-spacing: -0.03em; margin-bottom: 1.5rem; }
+        .markdown-body h2 { color: var(--accent); margin-top: 2rem; }
+    </style>
+</head>
+<body>
+<div id="sidebar">
+    <div class="sidebar-header"><h1 onclick="location.href='../index.html'">← Tawa</h1></div>
+    <input type="text" id="doc-search" placeholder="Search keywords..." oninput="loadList()">
+    <ul id="doc-list" class="doc-list"></ul>
+</div>
+<div id="content-area">
+    <div id="view" class="markdown-body">
+        <h1>Iyuko ę Pamya</h1>
+        <p>Select a chapter from the sidebar.</p>
+    </div>
+</div>
+
+<script>
+// bake.js will replace the {} with your markdown content
+const DOCS_DATA = {}; 
+
+function loadList() {
+    const query = document.getElementById('doc-search').value.toLowerCase();
+    const listEl = document.getElementById('doc-list');
+    
+    // Filter logic based on the local DOCS_DATA object
+    const files = Object.keys(DOCS_DATA).filter(f => {
+        const content = DOCS_DATA[f].toLowerCase();
+        return f.toLowerCase().includes(query) || content.includes(query);
+    });
+    
+    listEl.innerHTML = files.map(f => `
+        <li class="doc-item" onclick="loadDoc('${f.replace(/'/g, "\\'")}', this)">
+            ${f.replace('.md', '')}
+        </li>
+    `).join('');
+}
+
+function loadDoc(filename, element) {
+    document.querySelectorAll('.doc-item').forEach(i => i.classList.remove('active'));
+    if (element) element.classList.add('active');
+    
+    const text = DOCS_DATA[filename];
+    if (text) {
+        document.getElementById('view').innerHTML = marked.parse(text);
+        document.getElementById('content-area').scrollTo(0,0);
+    }
+}
+
+// Kickstart the page
+window.onload = loadList;
+</script>
+</body>
+</html>

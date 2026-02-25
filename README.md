@@ -1,8 +1,5 @@
-# tawa
-Documentation for the Tawa conlang.
+# Official Tawa Documentation
 
-# NOTE
-not original code!
-Also, a lot of ganáán no Tawa (Tawish words) are a relex from Toki Pona!
+NOTE: **the code is not mine!!** (skidded or wtv)
 
-**wip**
+If ur a conlanger , u are free to use it :D
