@@ -936,23 +936,11 @@
         "frequency": 100
       },
       {
-        "text": "hello",
-        "frequency": 100
-      },
-      {
-        "text": "language",
-        "frequency": 100
-      },
-      {
         "text": "tell",
         "frequency": 100
       },
       {
         "text": "statement",
-        "frequency": 100
-      },
-      {
-        "text": "hi",
         "frequency": 100
       },
       {
@@ -10555,6 +10543,28 @@
       },
       {
         "text": "too",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "waka",
+    "id": "kalama",
+    "definitions": [
+      {
+        "text": "communicate",
+        "frequency": 100
+      },
+      {
+        "text": "understand",
+        "frequency": 100
+      },
+      {
+        "text": "message",
+        "frequency": 100
+      },
+      {
+        "text": "utter",
         "frequency": 100
       }
     ]

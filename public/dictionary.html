@@ -21,9 +21,9 @@
     --sidebar-bg: #0a0a0c;
   }
   
-  * { -ms-overflow-style: none; scrollbar-width: none; box-sizing: border-box; }
-  *::-webkit-scrollbar { display: none; }
-
+  /* Global Scrollbar Reset - Removed the total 'display: none' to allow functionality */
+  * { box-sizing: border-box; }
+  
   body { 
     font-family: 'Plus Jakarta Sans', sans-serif;
     background-color: var(--bg);
@@ -32,7 +32,11 @@
     margin: 0; padding: 0;
     line-height: 1.6;
     min-height: 100vh;
+    /* Hide scrollbar for home page but keep scrolling active */
+    -ms-overflow-style: none;
+    scrollbar-width: none;
   }
+  body::-webkit-scrollbar { display: none; }
 
   .container { max-width: 1000px; margin: 0 auto; padding: 4rem 2rem; }
 
@@ -66,7 +70,6 @@
   }
   .entry:hover { transform: translateY(-5px); background: var(--card-hover); border-color: var(--border-hover); box-shadow: 0 12px 24px rgba(0,0,0,0.3); }
 
-  /* Premium Lang Toggle */
   .lang-toggle {
     display: inline-flex; align-items: center; justify-content: center;
     padding: 6px 12px; border-radius: 8px;
@@ -85,7 +88,6 @@
     box-shadow: 0 4px 15px var(--toki-glow);
   }
 
-  /* Title Animation */
   .word-title, .editable-title { 
     font-size: 1.5rem; font-weight: 700; color: white; margin-bottom: 0.5rem; 
     letter-spacing: -0.02em; transition: opacity 0.2s ease, transform 0.2s ease, color 0.3s ease;
@@ -96,7 +98,7 @@
 
   .def-preview { font-size: 0.95rem; color: var(--text-muted); line-height: 1.5; pointer-events: none; }
 
-  /* Modal Styles */
+  /* Modal Fixes */
   #modal-overlay {
     position: fixed; top: 0; left: 0; width: 100%; height: 100%;
     background: rgba(0, 0, 0, 0.85); backdrop-filter: blur(12px);
@@ -113,10 +115,20 @@
     display: flex; flex-direction: column;
     transform: translateX(100%);
     transition: transform 0.5s cubic-bezier(0.16, 1, 0.3, 1);
+    /* SCROLL FIXES HERE */
+    overflow-y: auto; 
+    scrollbar-width: thin;
+    scrollbar-color: var(--accent) transparent;
   }
+  
+  /* Custom scrollbar for the modal sidebar */
+  #modal::-webkit-scrollbar { width: 6px; }
+  #modal::-webkit-scrollbar-track { background: transparent; }
+  #modal::-webkit-scrollbar-thumb { background: var(--border-hover); border-radius: 10px; }
+
   #modal-overlay.active #modal { transform: translateX(0); }
 
-  .modal-close { position: absolute; top: 2rem; right: 2.5rem; cursor: pointer; color: var(--text-muted); font-size: 1.5rem; transition: 0.2s; user-select: none; }
+  .modal-close { position: absolute; top: 2rem; right: 2.5rem; cursor: pointer; color: var(--text-muted); font-size: 1.5rem; transition: 0.2s; user-select: none; z-index: 10; }
   .modal-close:hover { color: white; transform: rotate(90deg); }
   
   .editable-title { 
@@ -125,7 +137,6 @@
     margin-bottom: 0rem;
   }
 
-  /* Toki Pona ID Field */
   .id-container { margin-bottom: 1.5rem; display: flex; align-items: center; gap: 10px; }
   .id-label { font-size: 0.65rem; font-weight: 800; text-transform: uppercase; color: var(--toki-yellow); opacity: 0.8; letter-spacing: 0.05em; }
   .editable-id {
@@ -140,7 +151,14 @@
 
   .semantic-title { font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.15em; color: var(--accent); margin: 3rem 0 1rem 0; font-weight: 700; opacity: 0.8; }
   .modal-divider { height: 1px; background: var(--border); margin: 2rem 0; }
-  .actions { margin-top: auto; display: flex; justify-content: space-between; align-items: center; padding-top: 2rem; }
+  
+  .actions { 
+    margin-top: 3rem; 
+    display: flex; 
+    justify-content: space-between; 
+    align-items: center; 
+    padding-bottom: 2rem; /* Ensure space at the bottom when scrolled */
+  }
   
   .btn-save { background: white; color: black; border: none; padding: 0.8rem 1.8rem; border-radius: 12px; font-weight: 700; cursor: pointer; transition: 0.2s; }
   .btn-save:hover { background: var(--accent); color: white; transform: translateY(-2px); box-shadow: 0 5px 15px var(--accent-glow); }
@@ -197,14 +215,12 @@ function goHome() {
   loadWords('');
 }
 
-// Fluid Toggle Logic
 function handleToggle(event, word) {
   event.stopPropagation();
   const btn = event.currentTarget;
   const container = btn.closest('.entry') || btn.closest('#modal');
   const titleEl = container.querySelector('.word-title') || container.querySelector('.editable-title');
   
-  // Dynamic ID check: if in modal, grab the current value of the ID input
   const idInput = container.querySelector('#edit-id');
   const tokiPona = idInput ? idInput.value : btn.getAttribute('data-toki');
 
@@ -276,12 +292,19 @@ function openModal(word) {
   overlay.style.display = 'block'; 
   void overlay.offsetWidth; 
   overlay.classList.add('active');
+  
+  // Reset modal scroll position to top when opening
+  document.getElementById('modal').scrollTop = 0;
+  // Prevent body scroll when modal is open
+  document.body.style.overflow = 'hidden';
 }
 
 function openNewWordModal() { openModal('_new'); }
+
 function closeModal() { 
   const overlay = document.getElementById('modal-overlay');
   overlay.classList.remove('active');
+  document.body.style.overflow = ''; // Restore body scroll
   setTimeout(() => { overlay.style.display = 'none'; }, 400); 
 }
 
