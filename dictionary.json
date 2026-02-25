@@ -4214,19 +4214,7 @@
         "frequency": 100
       },
       {
-        "text": "secure",
-        "frequency": 100
-      },
-      {
         "text": "continuing",
-        "frequency": 100
-      },
-      {
-        "text": "save",
-        "frequency": 100
-      },
-      {
-        "text": "protect",
         "frequency": 100
       },
       {
@@ -4235,14 +4223,6 @@
       },
       {
         "text": "still",
-        "frequency": 100
-      },
-      {
-        "text": "reserve",
-        "frequency": 100
-      },
-      {
-        "text": "protection",
         "frequency": 100
       },
       {
@@ -4262,27 +4242,7 @@
         "frequency": 100
       },
       {
-        "text": "safe",
-        "frequency": 100
-      },
-      {
-        "text": "security",
-        "frequency": 100
-      },
-      {
-        "text": "stable",
-        "frequency": 100
-      },
-      {
-        "text": "protective",
-        "frequency": 100
-      },
-      {
         "text": "constant",
-        "frequency": 100
-      },
-      {
-        "text": "defence",
         "frequency": 100
       },
       {
@@ -5360,6 +5320,52 @@
       }
     ],
     "id": "mani tomo"
+  },
+  {
+    "word": "maoru",
+    "id": "awen (preverb)",
+    "definitions": [
+      {
+        "text": "save",
+        "frequency": 100
+      },
+      {
+        "text": "protect",
+        "frequency": 100
+      },
+      {
+        "text": "secure",
+        "frequency": 100
+      },
+      {
+        "text": "reserve",
+        "frequency": 100
+      },
+      {
+        "text": "protection",
+        "frequency": 100
+      },
+      {
+        "text": "safe",
+        "frequency": 100
+      },
+      {
+        "text": "security",
+        "frequency": 100
+      },
+      {
+        "text": "stable",
+        "frequency": 100
+      },
+      {
+        "text": "protective",
+        "frequency": 100
+      },
+      {
+        "text": "defence",
+        "frequency": 100
+      }
+    ]
   },
   {
     "word": "meli olin",
@@ -7579,6 +7585,36 @@
       },
       {
         "text": "alone",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "raka",
+    "id": "unpa ike",
+    "definitions": [
+      {
+        "text": "rape",
+        "frequency": 100
+      },
+      {
+        "text": "nonconsensual intercourse",
+        "frequency": 100
+      },
+      {
+        "text": "molestation",
+        "frequency": 100
+      },
+      {
+        "text": "without consent",
+        "frequency": 100
+      },
+      {
+        "text": "nonconsensual",
+        "frequency": 100
+      },
+      {
+        "text": "unwanted",
         "frequency": 100
       }
     ]
