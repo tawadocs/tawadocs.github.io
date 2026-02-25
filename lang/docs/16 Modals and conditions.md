@@ -106,6 +106,9 @@
 		* "I would eat if he got our food!"
 	* *yád, soa niriicu su ŝi a hatero soienín* -> `so 3SG.M-AGT see.IRR.V.PLAT 1SG COND AGT run 3SG.M-AUG-PER`
 		* "Well, he would see me if I run past him"
+* It also adds context like this:
+	* *ŝi yaralji, su ni yara ǫppu: wanílų korru zu* -> `COND coming-DEF-LOC 1SG TOP become ACC-INDEP one-DEF-VLNK kill.V.PLAT 2SG`
+		* "In the future, I will be the one to kill you"
 
 ### 16.2.3 Usage of other irreal particles
 * The *iyu* particle is just the romantic equivalent of *icu*
