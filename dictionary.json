@@ -8030,6 +8030,32 @@
     "id": "selo soweli"
   },
   {
+    "word": "serebo",
+    "id": "serebo",
+    "definitions": [
+      {
+        "text": "silver",
+        "frequency": 100
+      },
+      {
+        "text": "silvery",
+        "frequency": 100
+      },
+      {
+        "text": "silver metal",
+        "frequency": 100
+      },
+      {
+        "text": "precious",
+        "frequency": 100
+      },
+      {
+        "text": "silverware",
+        "frequency": 100
+      }
+    ]
+  },
+  {
     "word": "ŝetan",
     "id": "monsuta",
     "definitions": [
