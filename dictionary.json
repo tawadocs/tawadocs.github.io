@@ -3120,28 +3120,6 @@
     "id": "jan pona"
   },
   {
-    "word": "jan sama",
-    "definitions": [
-      {
-        "text": "peer",
-        "frequency": 75
-      },
-      {
-        "text": "sibling",
-        "frequency": 64
-      },
-      {
-        "text": "brother",
-        "frequency": 54
-      },
-      {
-        "text": "twin",
-        "frequency": 43
-      }
-    ],
-    "id": "jan sama"
-  },
-  {
     "word": "jan seme",
     "definitions": [
       {
@@ -6860,6 +6838,28 @@
       }
     ],
     "id": "pana sona"
+  },
+  {
+    "word": "paŝa",
+    "id": "jan sama",
+    "definitions": [
+      {
+        "text": "peer",
+        "frequency": 100
+      },
+      {
+        "text": "sibling",
+        "frequency": 100
+      },
+      {
+        "text": "brother",
+        "frequency": 100
+      },
+      {
+        "text": "twin",
+        "frequency": 100
+      }
+    ]
   },
   {
     "word": "paya",
