@@ -362,6 +362,24 @@
     ]
   },
   {
+    "word": "buni",
+    "id": "kapesi",
+    "definitions": [
+      {
+        "text": "brown",
+        "frequency": 100
+      },
+      {
+        "text": "gray",
+        "frequency": 100
+      },
+      {
+        "text": "beige",
+        "frequency": 100
+      }
+    ]
+  },
+  {
     "word": "ĉi",
     "id": "telo",
     "definitions": [
@@ -738,6 +756,58 @@
     ]
   },
   {
+    "word": "fapeto",
+    "id": "owe",
+    "definitions": [
+      {
+        "text": "totalitarian",
+        "frequency": 100
+      },
+      {
+        "text": "Orwellian",
+        "frequency": 100
+      },
+      {
+        "text": "of or relating to Big Brother from the book Nineteen Eighty-Four",
+        "frequency": 100
+      },
+      {
+        "text": "Kafkaesque",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "faugi",
+    "id": "pake",
+    "definitions": [
+      {
+        "text": "stop",
+        "frequency": 100
+      },
+      {
+        "text": "cease",
+        "frequency": 100
+      },
+      {
+        "text": "halt",
+        "frequency": 100
+      },
+      {
+        "text": "to block the way",
+        "frequency": 100
+      },
+      {
+        "text": "to interrupt",
+        "frequency": 100
+      },
+      {
+        "text": "to prevent",
+        "frequency": 100
+      }
+    ]
+  },
+  {
     "word": "fihon",
     "id": "soweli",
     "definitions": [
@@ -779,6 +849,20 @@
       },
       {
         "text": "lion",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "fihonmoko",
+    "id": "wasoweli",
+    "definitions": [
+      {
+        "text": "fluffy bird",
+        "frequency": 100
+      },
+      {
+        "text": "flying round animal",
         "frequency": 100
       }
     ]
@@ -1363,6 +1447,82 @@
     "definitions": [
       {
         "text": "absurdity",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "haku",
+    "id": "powe ala",
+    "definitions": [
+      {
+        "text": "real",
+        "frequency": 100
+      },
+      {
+        "text": "true",
+        "frequency": 100
+      },
+      {
+        "text": "truth",
+        "frequency": 100
+      },
+      {
+        "text": "be honest",
+        "frequency": 100
+      },
+      {
+        "text": "good faith",
+        "frequency": 100
+      },
+      {
+        "text": "openness",
+        "frequency": 100
+      },
+      {
+        "text": "straightforwardness",
+        "frequency": 100
+      },
+      {
+        "text": "forthrightness",
+        "frequency": 100
+      },
+      {
+        "text": "reveal",
+        "frequency": 100
+      },
+      {
+        "text": "seriousness",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "hakunq",
+    "id": "powe",
+    "definitions": [
+      {
+        "text": "unreal",
+        "frequency": 100
+      },
+      {
+        "text": "false",
+        "frequency": 100
+      },
+      {
+        "text": "untrue",
+        "frequency": 100
+      },
+      {
+        "text": "pretend",
+        "frequency": 100
+      },
+      {
+        "text": "deceive",
+        "frequency": 100
+      },
+      {
+        "text": "trick",
         "frequency": 100
       }
     ]
@@ -3458,6 +3618,42 @@
     "id": "jo e ilo utala"
   },
   {
+    "word": "joi",
+    "id": "teje",
+    "definitions": [
+      {
+        "text": "right",
+        "frequency": 100
+      },
+      {
+        "text": "right side",
+        "frequency": 100
+      },
+      {
+        "text": "starboard",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "joinq",
+    "id": "teje ala",
+    "definitions": [
+      {
+        "text": "left",
+        "frequency": 100
+      },
+      {
+        "text": "left side",
+        "frequency": 100
+      },
+      {
+        "text": "port",
+        "frequency": 100
+      }
+    ]
+  },
+  {
     "word": "kala suli",
     "definitions": [
       {
@@ -3904,6 +4100,56 @@
     ]
   },
   {
+    "word": "kedésu",
+    "id": "apeja",
+    "definitions": [
+      {
+        "text": "guilt",
+        "frequency": 100
+      },
+      {
+        "text": "shame",
+        "frequency": 100
+      },
+      {
+        "text": "shun",
+        "frequency": 100
+      },
+      {
+        "text": "stigma",
+        "frequency": 100
+      },
+      {
+        "text": "disgrace",
+        "frequency": 100
+      },
+      {
+        "text": "to accuse",
+        "frequency": 100
+      },
+      {
+        "text": "to single out",
+        "frequency": 100
+      },
+      {
+        "text": "to expose",
+        "frequency": 100
+      },
+      {
+        "text": "to dishonour",
+        "frequency": 100
+      },
+      {
+        "text": "to embarrass",
+        "frequency": 100
+      },
+      {
+        "text": "point a finger (at)",
+        "frequency": 100
+      }
+    ]
+  },
+  {
     "word": "ken ala",
     "definitions": [
       {
@@ -3992,6 +4238,32 @@
       }
     ],
     "id": "kepeken tenpo lili"
+  },
+  {
+    "word": "khurujan",
+    "id": "kamalawala",
+    "definitions": [
+      {
+        "text": "anarchy",
+        "frequency": 100
+      },
+      {
+        "text": "uprising",
+        "frequency": 100
+      },
+      {
+        "text": "revolt",
+        "frequency": 100
+      },
+      {
+        "text": "rebellion",
+        "frequency": 100
+      },
+      {
+        "text": "unjust war",
+        "frequency": 100
+      }
+    ]
   },
   {
     "word": "kin la",
@@ -4322,6 +4594,32 @@
     ]
   },
   {
+    "word": "kizute",
+    "id": "kiki",
+    "definitions": [
+      {
+        "text": "spiky",
+        "frequency": 100
+      },
+      {
+        "text": "sharp",
+        "frequency": 100
+      },
+      {
+        "text": "angle",
+        "frequency": 100
+      },
+      {
+        "text": "point",
+        "frequency": 100
+      },
+      {
+        "text": "triangular",
+        "frequency": 100
+      }
+    ]
+  },
+  {
     "word": "kó",
     "id": "tenpo suno",
     "definitions": [
@@ -4369,7 +4667,7 @@
   },
   {
     "word": "komuni",
-    "id": "komuni",
+    "id": "lawa",
     "definitions": [
       {
         "text": "owner",
@@ -4389,6 +4687,106 @@
       },
       {
         "text": "king",
+        "frequency": 100
+      },
+      {
+        "text": "govern",
+        "frequency": 100
+      },
+      {
+        "text": "head",
+        "frequency": 100
+      },
+      {
+        "text": "authority",
+        "frequency": 100
+      },
+      {
+        "text": "control",
+        "frequency": 100
+      },
+      {
+        "text": "ruling",
+        "frequency": 100
+      },
+      {
+        "text": "regulatory",
+        "frequency": 100
+      },
+      {
+        "text": "leading",
+        "frequency": 100
+      },
+      {
+        "text": "manage",
+        "frequency": 100
+      },
+      {
+        "text": "administrative",
+        "frequency": 100
+      },
+      {
+        "text": "leadership",
+        "frequency": 100
+      },
+      {
+        "text": "rule",
+        "frequency": 100
+      },
+      {
+        "text": "law",
+        "frequency": 100
+      },
+      {
+        "text": "lead",
+        "frequency": 100
+      },
+      {
+        "text": "management",
+        "frequency": 100
+      },
+      {
+        "text": "legal",
+        "frequency": 100
+      },
+      {
+        "text": "mind",
+        "frequency": 100
+      },
+      {
+        "text": "enforce",
+        "frequency": 100
+      },
+      {
+        "text": "judicial",
+        "frequency": 100
+      },
+      {
+        "text": "oversee",
+        "frequency": 100
+      },
+      {
+        "text": "conduct",
+        "frequency": 100
+      },
+      {
+        "text": "official",
+        "frequency": 100
+      },
+      {
+        "text": "regulate",
+        "frequency": 100
+      },
+      {
+        "text": "brain",
+        "frequency": 100
+      },
+      {
+        "text": "policy",
+        "frequency": 100
+      },
+      {
+        "text": "administer",
         "frequency": 100
       }
     ]
@@ -4449,6 +4847,56 @@
       },
       {
         "text": "kill",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "koronq",
+    "id": "konwe",
+    "definitions": [
+      {
+        "text": "animacy",
+        "frequency": 100
+      },
+      {
+        "text": "life",
+        "frequency": 100
+      },
+      {
+        "text": "autonomy",
+        "frequency": 100
+      },
+      {
+        "text": "autonomous being",
+        "frequency": 100
+      },
+      {
+        "text": "living thing",
+        "frequency": 100
+      },
+      {
+        "text": "organism",
+        "frequency": 100
+      },
+      {
+        "text": "alive",
+        "frequency": 100
+      },
+      {
+        "text": "animate",
+        "frequency": 100
+      },
+      {
+        "text": "dynamic",
+        "frequency": 100
+      },
+      {
+        "text": "to animate",
+        "frequency": 100
+      },
+      {
+        "text": "to bring to life",
         "frequency": 100
       }
     ]
@@ -5130,11 +5578,75 @@
     "id": "ma utala"
   },
   {
+    "word": "mafere",
+    "id": "taki",
+    "definitions": [
+      {
+        "text": "sticky",
+        "frequency": 100
+      },
+      {
+        "text": "magnetic",
+        "frequency": 100
+      },
+      {
+        "text": "bond",
+        "frequency": 100
+      },
+      {
+        "text": "attract",
+        "frequency": 100
+      },
+      {
+        "text": "attach",
+        "frequency": 100
+      },
+      {
+        "text": "clip",
+        "frequency": 100
+      }
+    ]
+  },
+  {
     "word": "mafo",
     "id": "loje",
     "definitions": [
       {
         "text": "red",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "mahoka",
+    "id": "usawi",
+    "definitions": [
+      {
+        "text": "magic",
+        "frequency": 100
+      },
+      {
+        "text": "sorcery",
+        "frequency": 100
+      },
+      {
+        "text": "enchant",
+        "frequency": 100
+      },
+      {
+        "text": "magical",
+        "frequency": 100
+      },
+      {
+        "text": "supernatural",
+        "frequency": 100
+      },
+      {
+        "text": "occult",
+        "frequency": 100
+      },
+      {
+        "text": "incomprehensible",
         "frequency": 100
       }
     ]
@@ -5363,6 +5875,24 @@
       },
       {
         "text": "defence",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "meiya",
+    "id": "puwa",
+    "definitions": [
+      {
+        "text": "fluffy",
+        "frequency": 100
+      },
+      {
+        "text": "soft",
+        "frequency": 100
+      },
+      {
+        "text": "squishy",
         "frequency": 100
       }
     ]
@@ -5707,6 +6237,20 @@
       },
       {
         "text": "electrical",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "muriwa",
+    "id": "unu",
+    "definitions": [
+      {
+        "text": "purple",
+        "frequency": 100
+      },
+      {
+        "text": "violet",
         "frequency": 100
       }
     ]
@@ -7727,94 +8271,26 @@
   },
   {
     "word": "riwaka",
-    "id": "lawa",
+    "id": "isipin",
     "definitions": [
       {
-        "text": "govern",
+        "text": "to think",
         "frequency": 100
       },
       {
-        "text": "head",
+        "text": "brainstorm",
         "frequency": 100
       },
       {
-        "text": "authority",
+        "text": "rationalise",
         "frequency": 100
       },
       {
-        "text": "control",
+        "text": "conclude",
         "frequency": 100
       },
       {
-        "text": "ruling",
-        "frequency": 100
-      },
-      {
-        "text": "regulatory",
-        "frequency": 100
-      },
-      {
-        "text": "leading",
-        "frequency": 100
-      },
-      {
-        "text": "manage",
-        "frequency": 100
-      },
-      {
-        "text": "administrative",
-        "frequency": 100
-      },
-      {
-        "text": "leadership",
-        "frequency": 100
-      },
-      {
-        "text": "rule",
-        "frequency": 100
-      },
-      {
-        "text": "law",
-        "frequency": 100
-      },
-      {
-        "text": "lead",
-        "frequency": 100
-      },
-      {
-        "text": "management",
-        "frequency": 100
-      },
-      {
-        "text": "legal",
-        "frequency": 100
-      },
-      {
-        "text": "mind",
-        "frequency": 100
-      },
-      {
-        "text": "enforce",
-        "frequency": 100
-      },
-      {
-        "text": "judicial",
-        "frequency": 100
-      },
-      {
-        "text": "oversee",
-        "frequency": 100
-      },
-      {
-        "text": "conduct",
-        "frequency": 100
-      },
-      {
-        "text": "official",
-        "frequency": 100
-      },
-      {
-        "text": "regulate",
+        "text": "ponder",
         "frequency": 100
       },
       {
@@ -7822,11 +8298,31 @@
         "frequency": 100
       },
       {
-        "text": "policy",
+        "text": "head",
         "frequency": 100
       },
       {
-        "text": "administer",
+        "text": "conscious",
+        "frequency": 100
+      },
+      {
+        "text": "consciousness",
+        "frequency": 100
+      },
+      {
+        "text": "imagine",
+        "frequency": 100
+      },
+      {
+        "text": "theory",
+        "frequency": 100
+      },
+      {
+        "text": "theorise",
+        "frequency": 100
+      },
+      {
+        "text": "imagination",
         "frequency": 100
       }
     ]
@@ -8881,6 +9377,48 @@
       },
       {
         "text": "lane",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "tahete",
+    "id": "pika",
+    "definitions": [
+      {
+        "text": "electric",
+        "frequency": 100
+      },
+      {
+        "text": "electronic",
+        "frequency": 100
+      },
+      {
+        "text": "conductive",
+        "frequency": 100
+      },
+      {
+        "text": "mechanical",
+        "frequency": 100
+      },
+      {
+        "text": "online",
+        "frequency": 100
+      },
+      {
+        "text": "electricity",
+        "frequency": 100
+      },
+      {
+        "text": "lightning",
+        "frequency": 100
+      },
+      {
+        "text": "thunder",
+        "frequency": 100
+      },
+      {
+        "text": "network",
         "frequency": 100
       }
     ]
@@ -10697,6 +11235,20 @@
       },
       {
         "text": "scenario",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "waoi",
+    "id": "jami",
+    "definitions": [
+      {
+        "text": "yummy",
+        "frequency": 100
+      },
+      {
+        "text": "eliciting or stimulating a positive sensory experience",
         "frequency": 100
       }
     ]
