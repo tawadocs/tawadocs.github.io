@@ -428,28 +428,6 @@
     ]
   },
   {
-    "word": "daiki",
-    "id": "poka",
-    "definitions": [
-      {
-        "text": "side",
-        "frequency": 100
-      },
-      {
-        "text": "hip",
-        "frequency": 100
-      },
-      {
-        "text": "beside",
-        "frequency": 100
-      },
-      {
-        "text": "aside",
-        "frequency": 100
-      }
-    ]
-  },
-  {
     "word": "daka",
     "id": "lanpan",
     "definitions": [
@@ -1066,6 +1044,28 @@
     ]
   },
   {
+    "word": "ga",
+    "id": "poka",
+    "definitions": [
+      {
+        "text": "side",
+        "frequency": 100
+      },
+      {
+        "text": "hip",
+        "frequency": 100
+      },
+      {
+        "text": "beside",
+        "frequency": 100
+      },
+      {
+        "text": "aside",
+        "frequency": 100
+      }
+    ]
+  },
+  {
     "word": "gade",
     "id": "jaki",
     "definitions": [
@@ -1468,7 +1468,7 @@
     ]
   },
   {
-    "word": "hategu",
+    "word": "hatego",
     "id": "unpa",
     "definitions": [
       {
@@ -3824,7 +3824,7 @@
     "id": "kasi telo"
   },
   {
-    "word": "katu",
+    "word": "katou",
     "id": "katu",
     "definitions": [
       {
