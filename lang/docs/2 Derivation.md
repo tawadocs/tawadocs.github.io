@@ -27,6 +27,7 @@
 			* *kamqqel no kekàsun hyo?* `eat.EMO-DEF GEN cake-1SG.POSS OPEN.Q`
 				* lit. "The taste of my cake?"
 				* ~"How did my cake taste?"
+* NOTE: *rei* and *mei* can also imply naturalisticness and artificialness!
 
 ## 2.2 Semantic particles
 | Particle | IPA       | Gloss  |
