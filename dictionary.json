@@ -348,6 +348,20 @@
     ]
   },
   {
+    "word": "bareku",
+    "id": "bareku",
+    "definitions": [
+      {
+        "text": "bless",
+        "frequency": 100
+      },
+      {
+        "text": "blessing",
+        "frequency": 100
+      }
+    ]
+  },
+  {
     "word": "ĉi",
     "id": "telo",
     "definitions": [
@@ -4429,106 +4443,26 @@
   },
   {
     "word": "komuni",
-    "id": "lawa",
+    "id": "komuni",
     "definitions": [
       {
-        "text": "govern",
+        "text": "owner",
         "frequency": 100
       },
       {
-        "text": "head",
+        "text": "master",
         "frequency": 100
       },
       {
-        "text": "authority",
+        "text": "lord",
         "frequency": 100
       },
       {
-        "text": "control",
+        "text": "sir",
         "frequency": 100
       },
       {
-        "text": "ruling",
-        "frequency": 100
-      },
-      {
-        "text": "regulatory",
-        "frequency": 100
-      },
-      {
-        "text": "leading",
-        "frequency": 100
-      },
-      {
-        "text": "manage",
-        "frequency": 100
-      },
-      {
-        "text": "administrative",
-        "frequency": 100
-      },
-      {
-        "text": "leadership",
-        "frequency": 100
-      },
-      {
-        "text": "rule",
-        "frequency": 100
-      },
-      {
-        "text": "law",
-        "frequency": 100
-      },
-      {
-        "text": "lead",
-        "frequency": 100
-      },
-      {
-        "text": "management",
-        "frequency": 100
-      },
-      {
-        "text": "legal",
-        "frequency": 100
-      },
-      {
-        "text": "mind",
-        "frequency": 100
-      },
-      {
-        "text": "enforce",
-        "frequency": 100
-      },
-      {
-        "text": "judicial",
-        "frequency": 100
-      },
-      {
-        "text": "oversee",
-        "frequency": 100
-      },
-      {
-        "text": "conduct",
-        "frequency": 100
-      },
-      {
-        "text": "official",
-        "frequency": 100
-      },
-      {
-        "text": "regulate",
-        "frequency": 100
-      },
-      {
-        "text": "brain",
-        "frequency": 100
-      },
-      {
-        "text": "policy",
-        "frequency": 100
-      },
-      {
-        "text": "administer",
+        "text": "king",
         "frequency": 100
       }
     ]
@@ -7768,6 +7702,112 @@
     ]
   },
   {
+    "word": "riwaka",
+    "id": "lawa",
+    "definitions": [
+      {
+        "text": "govern",
+        "frequency": 100
+      },
+      {
+        "text": "head",
+        "frequency": 100
+      },
+      {
+        "text": "authority",
+        "frequency": 100
+      },
+      {
+        "text": "control",
+        "frequency": 100
+      },
+      {
+        "text": "ruling",
+        "frequency": 100
+      },
+      {
+        "text": "regulatory",
+        "frequency": 100
+      },
+      {
+        "text": "leading",
+        "frequency": 100
+      },
+      {
+        "text": "manage",
+        "frequency": 100
+      },
+      {
+        "text": "administrative",
+        "frequency": 100
+      },
+      {
+        "text": "leadership",
+        "frequency": 100
+      },
+      {
+        "text": "rule",
+        "frequency": 100
+      },
+      {
+        "text": "law",
+        "frequency": 100
+      },
+      {
+        "text": "lead",
+        "frequency": 100
+      },
+      {
+        "text": "management",
+        "frequency": 100
+      },
+      {
+        "text": "legal",
+        "frequency": 100
+      },
+      {
+        "text": "mind",
+        "frequency": 100
+      },
+      {
+        "text": "enforce",
+        "frequency": 100
+      },
+      {
+        "text": "judicial",
+        "frequency": 100
+      },
+      {
+        "text": "oversee",
+        "frequency": 100
+      },
+      {
+        "text": "conduct",
+        "frequency": 100
+      },
+      {
+        "text": "official",
+        "frequency": 100
+      },
+      {
+        "text": "regulate",
+        "frequency": 100
+      },
+      {
+        "text": "brain",
+        "frequency": 100
+      },
+      {
+        "text": "policy",
+        "frequency": 100
+      },
+      {
+        "text": "administer",
+        "frequency": 100
+      }
+    ]
+  },
+  {
     "word": "roĉi",
     "id": "pan",
     "definitions": [
@@ -10869,6 +10909,20 @@
       },
       {
         "text": "bowl",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "ẑamu",
+    "id": "ẑamu",
+    "definitions": [
+      {
+        "text": "God",
+        "frequency": 100
+      },
+      {
+        "text": "deity",
         "frequency": 100
       }
     ]
