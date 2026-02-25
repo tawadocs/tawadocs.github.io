@@ -590,6 +590,92 @@
     ]
   },
   {
+    "word": "emono",
+    "id": "sitelen",
+    "definitions": [
+      {
+        "text": "picture",
+        "frequency": 100
+      },
+      {
+        "text": "image",
+        "frequency": 100
+      },
+      {
+        "text": "graphic",
+        "frequency": 100
+      },
+      {
+        "text": "symbol",
+        "frequency": 100
+      },
+      {
+        "text": "drawing",
+        "frequency": 100
+      },
+      {
+        "text": "illustration",
+        "frequency": 100
+      },
+      {
+        "text": "photo",
+        "frequency": 100
+      },
+      {
+        "text": "illustrate",
+        "frequency": 100
+      },
+      {
+        "text": "writing",
+        "frequency": 100
+      },
+      {
+        "text": "painting",
+        "frequency": 100
+      },
+      {
+        "text": "write",
+        "frequency": 100
+      },
+      {
+        "text": "written",
+        "frequency": 100
+      },
+      {
+        "text": "depict",
+        "frequency": 100
+      },
+      {
+        "text": "draw",
+        "frequency": 100
+      },
+      {
+        "text": "photograph",
+        "frequency": 100
+      },
+      {
+        "text": "portrait",
+        "frequency": 100
+      },
+      {
+        "text": "icon",
+        "frequency": 100
+      },
+      {
+        "text": "representation",
+        "frequency": 100
+      },
+      {
+        "text": "mark",
+        "frequency": 100
+      },
+      {
+        "text": "portray",
+        "frequency": 100
+      }
+    ]
+  },
+  {
     "word": "epiku",
     "definitions": [
       {
@@ -6739,86 +6825,18 @@
   },
   {
     "word": "pamya",
-    "id": "sitelen",
+    "id": "pamya",
     "definitions": [
-      {
-        "text": "picture",
-        "frequency": 100
-      },
-      {
-        "text": "image",
-        "frequency": 100
-      },
-      {
-        "text": "graphic",
-        "frequency": 100
-      },
-      {
-        "text": "symbol",
-        "frequency": 100
-      },
-      {
-        "text": "drawing",
-        "frequency": 100
-      },
-      {
-        "text": "illustration",
-        "frequency": 100
-      },
-      {
-        "text": "photo",
-        "frequency": 100
-      },
-      {
-        "text": "illustrate",
-        "frequency": 100
-      },
       {
         "text": "writing",
         "frequency": 100
       },
       {
-        "text": "painting",
+        "text": "script",
         "frequency": 100
       },
       {
-        "text": "write",
-        "frequency": 100
-      },
-      {
-        "text": "written",
-        "frequency": 100
-      },
-      {
-        "text": "depict",
-        "frequency": 100
-      },
-      {
-        "text": "draw",
-        "frequency": 100
-      },
-      {
-        "text": "photograph",
-        "frequency": 100
-      },
-      {
-        "text": "portrait",
-        "frequency": 100
-      },
-      {
-        "text": "icon",
-        "frequency": 100
-      },
-      {
-        "text": "representation",
-        "frequency": 100
-      },
-      {
-        "text": "mark",
-        "frequency": 100
-      },
-      {
-        "text": "portray",
+        "text": "orthography",
         "frequency": 100
       }
     ]
@@ -6908,6 +6926,32 @@
       }
     ],
     "id": "pana sona"
+  },
+  {
+    "word": "paya",
+    "id": "paya",
+    "definitions": [
+      {
+        "text": "paper",
+        "frequency": 100
+      },
+      {
+        "text": "exam",
+        "frequency": 100
+      },
+      {
+        "text": "test",
+        "frequency": 100
+      },
+      {
+        "text": "parchment",
+        "frequency": 100
+      },
+      {
+        "text": "sheet",
+        "frequency": 100
+      }
+    ]
   },
   {
     "word": "pi ma ante",
