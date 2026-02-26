@@ -134,4 +134,5 @@
 ## 0.10 To use *ea* or to not use *ea*
 * *ea* is a movement particle
 * as a modifier, it just signals 'this thing can move'
-* 
+* it is better to use it this way, like in natseeą (moving block / cube), which could be a trolley or cart
+* *tawa natse* would be less self-explanatory
