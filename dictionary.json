@@ -1778,56 +1778,6 @@
     ]
   },
   {
-    "word": "hiako",
-    "id": "len",
-    "definitions": [
-      {
-        "text": "clothing",
-        "frequency": 100
-      },
-      {
-        "text": "cloth",
-        "frequency": 100
-      },
-      {
-        "text": "clothes",
-        "frequency": 100
-      },
-      {
-        "text": "fabric",
-        "frequency": 100
-      },
-      {
-        "text": "outfit",
-        "frequency": 100
-      },
-      {
-        "text": "privacy",
-        "frequency": 100
-      },
-      {
-        "text": "cover",
-        "frequency": 100
-      },
-      {
-        "text": "dress",
-        "frequency": 100
-      },
-      {
-        "text": "jacket",
-        "frequency": 100
-      },
-      {
-        "text": "wear",
-        "frequency": 100
-      },
-      {
-        "text": "shirt",
-        "frequency": 100
-      }
-    ]
-  },
-  {
     "word": "hiro",
     "id": "walo",
     "definitions": [
@@ -1927,6 +1877,56 @@
       },
       {
         "text": "cisgender man",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "hyako",
+    "id": "len",
+    "definitions": [
+      {
+        "text": "clothing",
+        "frequency": 100
+      },
+      {
+        "text": "cloth",
+        "frequency": 100
+      },
+      {
+        "text": "clothes",
+        "frequency": 100
+      },
+      {
+        "text": "fabric",
+        "frequency": 100
+      },
+      {
+        "text": "outfit",
+        "frequency": 100
+      },
+      {
+        "text": "privacy",
+        "frequency": 100
+      },
+      {
+        "text": "cover",
+        "frequency": 100
+      },
+      {
+        "text": "dress",
+        "frequency": 100
+      },
+      {
+        "text": "jacket",
+        "frequency": 100
+      },
+      {
+        "text": "wear",
+        "frequency": 100
+      },
+      {
+        "text": "shirt",
         "frequency": 100
       }
     ]
