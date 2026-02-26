@@ -120,3 +120,13 @@
 * On aspect, they also do not replace o, like *reoppu* or *reohi*
 * The *il* form of the definite article is used if INDEP or BACK needs to be attached to it, like *ilppu* or *ilhi*
 * See the relevant grammar sheet *Grammar:3* for more information.
+
+## 0.9 Modifiers
+* modifiers are derivational particles
+* o-roots must inflect to the modifier's ending
+* otherwise, do not use modifiers generally:
+	* *hari jitei* -> exchange place (e.g., trading area, market), though haritei alone can work for this
+	* *ii hon* -> good person
+* if you must disambiguate, a modifier is recommended:
+	* *ryą kiwinq wanoharią* -> past week (lit. "this finished business time")
+* see Grammar:2 for more information
