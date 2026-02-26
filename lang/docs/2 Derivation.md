@@ -21,10 +21,10 @@
 * *kanojqe* `partner.EMO`
 	* highly context dependent; roughly means the 'emotion' or 'feeling' you get from your partner
 * *-qe* can also be used in the sense of:
-	* *kamtteiqe* `eat.PROD.EMO`: the feeling one gets from food
-	* or simply *kamqqe* `eat.EMO`: the feeling one gets from eating
+	* *kamteiqe* `eat.PROD.EMO`: the feeling one gets from food
+	* or simply *kamqe* `eat.EMO`: the feeling one gets from eating
 		* and these may mean 'taste,' like here:
-			* *kamqqel no kekàsun hyo?* `eat.EMO-DEF GEN cake-1SG.POSS OPEN.Q`
+			* *kamqel no kekàsun hyo?* `eat.EMO-DEF GEN cake-1SG.POSS OPEN.Q`
 				* lit. "The taste of my cake?"
 				* ~"How did my cake taste?"
 * NOTE: *rei* and *mei* can also imply naturalisticness and artificialness!
@@ -47,10 +47,13 @@
 * *ŝite* is often dropped in favour of *ẑi* in casual speech; however, it is important in formal conversation, as it adds explicit spatial context, whereas *ẑi* can be ambiguous in that it is used for temporospatial constructions as a whole:
 	* *asaŝite ĉiĉ* `house-EV.REL water-N.PLAT`: the house (where water is / where there is water)
 	* *asaŝite sao korrunai* `house-EV.REL 3SG.F-SUFF kill.V.PLAT-IV`: the house where she died
+* it is also simpler than using *ŝi*:
+	* *asa ŝi ĉiji* -> 'the house in the context of the water's location'
+	* *asa ŝi korteisan* -> 'the house in the context of her death / murder'
 * *mas* turns any word into an agentive:
 	* *kamumas* `eat.V.PLAT-AG`: eater (e.g., connoisseur, food critic, gourmet, etc.)
 	* *rumas* `CAUS.V.PLAT-AG`: causer (e.g., one who caused something)
-		* in a sentence: *so ni rumasíl no iinqpyą* `3SG.M TOP CAUS.V.PLAT-AG-DEF GEN good-INV-COLL.MOD`
+		* in a sentence: *so ni rumasíl no iinqsubeką* `3SG.M TOP CAUS.V.PLAT-AG-DEF GEN good-INV-COLL.MOD`
 			* "He is the one who causes all bad things (to happen)"
 * *taĉi* is a modifier form of *taĉi* (a realisable thing), used primarily to turn a word into a theory, worldview, or ideology:
 	* *umataĉi* `community-idea`: a community ideology or theory (e.g., communitarianism, communism, etc.), often used to refer to communism
@@ -58,13 +61,13 @@
 * *nampa* is similar to *taĉi* in that it is a modifier form of *nampa* (number, amount); it is used to turn a word, often a grammatical particle, into a number:
 	* *nampa zu / zunampa* `number 2SG / 2SG-number`: two / second
 	* there is no restriction or strict rules regarding *nampa*'s use, other than that it should be understandable by context
-		* e.g., if a group associates *zelika* (lose) with 'zero,' then *zelikanampa* means 0 (for them, as other groups might not associate *zelika* with zero)
+		* e.g., if a group associates *nanda* (lose) with 'zero,' then *nandanampa* means 0 (for them, as other groups might not associate *nanda* with zero)
 
 ## 2.3 Explanation
 * These affixes are not necessary or essential to use
 * Often times, context does the trick
 * They are, however, used when disambiguation is needed or in extravagant, ceremonial, or poetic texts
-* The only affixes that will most commonly be utilised are *-nya*, *-nye*, *-ĉa*, *-ĉe*, *-mas*, *-itagią*, and *-nampą*.
+* The only affixes that will most commonly be utilised are *-nya*, *-nye*, *-ĉa*, *-ĉe*, *-mas*, *-taĉi*, and *-nampa*.
 
 
 ## 2.4 Source-based derivation

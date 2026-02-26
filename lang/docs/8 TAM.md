@@ -11,7 +11,7 @@
 | **Suffix** | reo      | `ɺeo` | IPFV  |
 * Aspect can be marked on the agent (to denote its state) and on the verb (to denote its time of occurrence)
 * Examples:
-	* *sua kamuto* -> `1SG-AGT eat-PFV`
+	* *sua kamuthu* -> `1SG-AGT eat.V.PLAT-PFV.V.PLAT`
 		* "I ate"
 	* *sua kamueru* -> `1SG-AGT eat-CONT`
 		* "I am eating"

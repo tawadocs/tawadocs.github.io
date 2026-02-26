@@ -6,13 +6,7 @@
 | bu       | `bu`  | PROP  |
 | tas      | `tas` | POT   |
 * *ą* is a simple modifier; it is a universal particle
-* modifier order is free; however, when modifiers are chained, one of the two orders are followed:
-	* `MODIFIER PARENT-EMPHASISED-MODIFIER`
-		* e.g., *pokią honiią* `big-MOD person-good-MOD`
-			* a big person, but his most notable quality is his goodness, not size
-	* `MODIFIER EMPHASISED-MODIFIER PARENT`
-		* e.g., *iią pokią hon* `good-MOD good-MOD person`
-			* a good person, but his most notable quality is his large size, not goodness
+* modifier order is free; however, when modifiers are chained, you must emphasise modifiers by placing the most emphasised ones closer to the word
 * *bu* is a formal modifier and not a universal particle; whenever possible, *ą* **must** be used instead of *bu*
 * It is an archaic particle that denotes property
 * These two sentences will attempt to differentiate between *ą* and *bu*:
@@ -23,7 +17,7 @@
 * *tas* is particle indicating potential:
 	* *sa au iitaŝíl* `3SG.F HAVE.V.PLAT good-POT-DEF`
 		* "She has the potential for good / she has good potential"
-	* *honkikitątaslén* `person-love.MOD-POT-INDEF`
+	* *kikitatas honlén* `SUPR.like-POT person-INDEF`
 		* "A / any loveable person"
 
 ## 4.2 When to and not to use modifiers
@@ -53,3 +47,17 @@
 	* *hatero* can mean 'fast, run, quick, swift, hurry, chase:'
 		* *kamu hateru* (eat run, literally a compound meaning 'to eat and run')
 		* *kamuhaterą* (eat fast, since *haterą* is now a modifier)
+* Now, a question: will it be:
+	* *haterutas taĉirei* or *haterutasą taĉirei* to say 'runnable route'
+* If you answered the former, you would be correct
+	* though the latter is not wrong per se, it is unnecessary
+	* *haterutas* already implies modification due to *-tas* (potentiality)
+	* furthermore, modifiers are a sort of derivational particle - here, haterutas does not need to be derived into an adjective form
+	* also, if you used the construction *haterątas taĉirei*, then that would mean "a path that can be fast" or "fastable path" (context would be needed!)
+
+## 4.3 Order
+* Emphasis was explained already - place the most notable or emphasised adjectives closer to the word - but for words ending in o, always glue the most notable root to the word as a suffix:
+	* *sawa honmafą* -> sweet, red person
+		* this person is red, which is most notable, not how nice he is, because humans can be nice but they usually aren't red!
+	* *mafą sawa hon* -> red, sweet person
+		* here, his niceness is the most notable or emphasised, not his redness - maybe we already know he's a Martian?

@@ -20,8 +20,8 @@
 		* *kamu* is formed from *kamo* + *-(r)u* -> *kamu*
 		* this is only for words that end in *o*; other words, unless they are naturally semantically non-verbs and must be verbalised, never take *-(r)u*
 * Use *a* to mark the doer of an action or as an implicit pronoun:
-	* *a kamtthu hya?* `AGT eat.PFV.V.PLAT Q` -> "Have you eaten?"
-	* *sua hatertthu* `1SG-AGT run.PFV.V.PLAT` -> "I ran"
+	* *a kamthu hya?* `AGT eat.PFV.V.PLAT Q` -> "Have you eaten?"
+	* *sua haterthu* `1SG-AGT run.PFV.V.PLAT` -> "I ran"
 * Use *o* to mark an entity being affected by something:
 	* *sao korru* `3SG.F-SUFF kill.V.PLAT` -> "She was killed"
 * The *a* `AGT` particle only marks the doer; however, it does not necessitate that a verb must follow; instead, any word type can follow, and the sentence is parsed depending on the word type:
@@ -39,7 +39,7 @@
 	* *llappu asal no riwakatei* `ALL-INDEP house-DEF GEN think-PROD`
 		* "Towards the house of thought"
 		* here, *-ppu* lets *-lla* affect the sentence that comes after it
-	* *ipappu sua kitara riburyą* `EPIST-INDEP 1SG-AGT like-NEG book-this.PROX.MOD`
+	* *ipappu sua kitarra riburyą* `EPIST-INDEP 1SG-AGT like-NEG book-this.PROX.MOD`
 		* "I guess I do not like this book"
 		* here, *-ppu* lets the bare evidential *-ipa* act as a standalone particle, indicating uncertainty or belief by default
 * Because using *-hi* in such contexts would require the listener to consciously track the sentence beforehand, *-ppu* is used, and vice versa

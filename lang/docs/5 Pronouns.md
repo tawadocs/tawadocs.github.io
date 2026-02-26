@@ -12,8 +12,8 @@
 
 ## 5.2 Genitives
 * Genitives are simply marked by appending *-n* [n̻] to the regular pronominal:
-	* *kamzzun* `food.2SG.POSS` -> "Your food"
-	* *kamssun* `food.1SG.POSS` -> "My food"
+	* *kamzun* `food.2SG.POSS` -> "Your food"
+	* *kamsun* `food.1SG.POSS` -> "My food"
 	* *asasan* `house-3SG.F.POSS` -> "Her house"
 
 ## 5.3 Different forms
@@ -38,8 +38,8 @@
 		* "I will eat it"
 * If omitting the whole predicate causes too much ambiguity, then you may repeat it:
 	* *A kamu sami ya?*
-	* *Sua kamrreu ei*
-		* note: *kamrreu* `eat.IPFV.V.PLAT` is *kamo* + *reo* + *(r)u*
+	* *Sua kamureu ei*
+		* note: *kamureu* `eat.V.PLAT-IPFV.V.PLAT` is *kamo* + *(r)u* + *reo* + *(r)u*
 
 ## 5.7 Dummy pronoun
 * *wu* can function as an expletive, like the English 'it'

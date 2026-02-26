@@ -1,14 +1,15 @@
 ## 7.1 Particle table
-| Particle | IPA     | Gloss  |
-| -------- | ------- | ------ |
-| tei      | `tei`   | PROD   |
-| (y)ĉ    | `(j)tɕ` | N.PLAT |
-| nyĉ     | `ɲtɕ`   | N.ROM  |
-| (r)u     | `(ɺ)u`  | V.PLAT |
-| nyu      | `nʲu`   | V.ROM  |
-| én      | `ɛn`    | NMLZ   |
-| ų        | `ũ`    | VLNK   |
-| ce       | `kʰe`   | LINK   |
+| Particle | IPA     | Gloss      |
+| -------- | ------- | ---------- |
+| tei      | `tei`   | PROD       |
+| hai      | `hai`   | ANTIPROD.V |
+| (y)ĉ    | `(j)tɕ` | N.PLAT     |
+| nyĉ     | `ɲtɕ`   | N.ROM      |
+| (r)u     | `(ɺ)u`  | V.PLAT     |
+| nyu      | `nʲu`   | V.ROM      |
+| én      | `ɛn`    | NMLZ       |
+| ų        | `ũ`    | VLNK       |
+| ce       | `kʰe`   | LINK       |
 * Tawa generally used to use *v'* (ṽ) for compound; however, Modern Tawa has dropped this particle:
 	* *soraĉi* -> `sky-water`
 		* "Sky water (i.e., rain)"
@@ -23,7 +24,7 @@
 
 ## 7.2 Products
 * *tei* turns any root into its product, but it is context-dependent
-* So, *kamttei* (`eat.PROD`) is food but might be pizza in, for example, a pizza party
+* So, *kamtei* (`eat.PROD`) is food but might be pizza in, for example, a pizza party
 * *ru* is often redundant but sometimes good for disambiguation, like in contexts where a root that is commonly used as a noun is used as a verb
 * *yĉ* takes the form *ĉ* before vowels and nasals (e.g. in *ĉiĉ* or *honĉ*)
 * Examples:
@@ -63,3 +64,10 @@
 	* *hateru kamu*
 	* *fofu rawaru*
 * ... are both disallowed, as one cannot 'talk' first and 'sleep' second, which is why, even in English, it is 'sleep-talk,' not 'talk-sleep'
+
+## 7.4 Parents
+* *hai* marks a parent; i.e., the opposite of tei
+* For example:
+	* *ĉihai* would be drink or sip, as opposed to ĉiĉ itself, which is any liquid as a noun
+	* ĉitei would be the product of the action, so **what** one drinks (e.g., water) would be ĉitei (e.g., water)
+	* but ĉihai is the opposite of that, so **how** one acts for that (e.g., you drink liquid) would be ĉihai (e.g., drink)

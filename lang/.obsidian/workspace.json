@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "dbfa4df71f276d0d",
+        "id": "0389222f5e2a5631",
         "type": "tabs",
         "children": [
           {
-            "id": "9489462095117f7a",
+            "id": "06a70f57e8305f83",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "irru",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "3aa936d109c9e78e",
@@ -176,22 +176,29 @@
       "bases:Create new base": false
     }
   },
-  "active": "9489462095117f7a",
+  "active": "06a70f57e8305f83",
   "lastOpenFiles": [
-    "docs/2 Derivation.md",
-    "docs/16 Modals and conditions.md",
-    "docs/11 Polarity.md",
-    "docs-mp/3 Phonotactics.md",
-    "docs/14 Relationals.md",
     "docs/15 Discourse.md",
+    "docs/12 Demonstratives.md",
+    "docs/13 Determiners.md",
+    "docs/11 Polarity.md",
     "docs/10 Vocatives.md",
+    "docs/0 Tawish standard.md",
+    "docs/3 Basic syntax.md",
     "docs/7 Nouns and verbs.md",
+    "docs/2 Derivation.md",
+    "docs-mp/1 Phonology.md",
+    "docs/6 Degree.md",
+    "docs-mp/3 Phonotactics.md",
+    "docs/5 Pronouns.md",
+    "docs-mp/4 Writing rules.md",
     "docs/9 Clauses.md",
     "docs/8 TAM.md",
-    "docs/17 Cases.md",
     "docs/4 Modifiers.md",
-    "docs/3 Basic syntax.md",
-    "docs/18 Modifiers.md",
-    "docs-mp/1 Phonology.md"
+    "docs/1 Roots.md",
+    "docs/16 Modals and conditions.md",
+    "docs/14 Relationals.md",
+    "docs/17 Cases.md",
+    "docs/18 Modifiers.md"
   ]
 }
