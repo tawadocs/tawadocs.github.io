@@ -1169,7 +1169,7 @@
   },
   {
     "word": "foŝo",
-    "id": "foŝo",
+    "id": "mije sama",
     "definitions": [
       {
         "text": "friend",
@@ -2729,6 +2729,24 @@
       },
       {
         "text": "toxic",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "kanojo",
+    "id": "jan sona",
+    "definitions": [
+      {
+        "text": "known person",
+        "frequency": 100
+      },
+      {
+        "text": "a person one knows",
+        "frequency": 100
+      },
+      {
+        "text": "someone one knows",
         "frequency": 100
       }
     ]
