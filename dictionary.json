@@ -52,6 +52,10 @@
       {
         "text": "procyonid",
         "frequency": 100
+      },
+      {
+        "text": "(number) 10",
+        "frequency": 100
       }
     ]
   },
@@ -3684,6 +3688,56 @@
     ]
   },
   {
+    "word": "kuenao",
+    "id": "anpa, lili, weka",
+    "definitions": [
+      {
+        "text": "lose",
+        "frequency": 100
+      },
+      {
+        "text": "deprived of",
+        "frequency": 100
+      },
+      {
+        "text": "take something away",
+        "frequency": 100
+      },
+      {
+        "text": "disappear",
+        "frequency": 100
+      },
+      {
+        "text": "fail",
+        "frequency": 100
+      },
+      {
+        "text": "waste",
+        "frequency": 100
+      },
+      {
+        "text": "loose",
+        "frequency": 100
+      },
+      {
+        "text": "set free",
+        "frequency": 100
+      },
+      {
+        "text": "release",
+        "frequency": 100
+      },
+      {
+        "text": "not fitting tightly",
+        "frequency": 100
+      },
+      {
+        "text": "(number) zero",
+        "frequency": 100
+      }
+    ]
+  },
+  {
     "word": "kugi",
     "id": "selo",
     "definitions": [
@@ -5913,6 +5967,10 @@
       },
       {
         "text": "peak",
+        "frequency": 100
+      },
+      {
+        "text": "(number) 100",
         "frequency": 100
       }
     ]

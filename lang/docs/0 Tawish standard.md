@@ -138,7 +138,23 @@
 * *tawa natse* would be less self-explanatory
 
 ## 0.11 Inverser inflection
-* Inversers (nh and nq) don't inflect:
+* inversers (nh and nq) don't inflect:
 	* kamo + nq -> kamonq
 	* to + nh -> tonh
 * ... and so on.
+
+## 0.12 Numbering
+* stack to add up numbers, like:
+	* wuwuwan (7, from 3+3+1)
+* these pronouns can be used as numbers:
+	* wu (3SG) = 3
+	* zu (2SG) = 2
+	* su (1SG) = 1
+* these words can be used as numbers:
+	* kuenao (lose) = zero
+	* tete (hands) = 5
+	* antaka = 10
+	* myĉ (many) = 20
+	* sora (sky) = 100
+	* subeko (all) = infinity
+* though using numbers from other languages, such as English, is fine too in many contexts

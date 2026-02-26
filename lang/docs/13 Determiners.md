@@ -37,25 +37,16 @@
 | Determiner | IPA     | Gloss |
 | ---------- | ------- | ----- |
 | myo        | `m̥͡mo` | QNT   |
-| pyo        | `pʲo`   | COLL  |
-| kyo        | `kʲo`   | DISTR |
-| ra         | `ɺa`    | NEG   |
+| rra        | `ɺa`    | NEG   |
 * These are the base forms
-* They are often used in their modifier form with *-ą*
+* They are often used in their modifier form with *-ą*, other than 'rra'
 * Examples:
 	* *nigol* -> `cat-DEF`
 		* "the cat"
-	* *niglú* -> `cat-DEF.PL`
-		* "the cats"
-	* *niglén* -> `cat-INDEF`
-		* "a / any / some cat"
 	* *niglós* -> `cat-INDEF.PL`
 		* "any / some cats"
-	* *nigorą* -> `cat-NEG.MOD`
+	* *nigorra* -> `cat-NEG.MOD`
 		* no cat
 	* *nigmyą* -> `cat-QNT.MOD`
 		* many cats
-	* *nigpyą* -> `cat.COLL.MOD`
-		* all cats
-	* *nigkyą* -> `cat.DISTR.MOD`
-		* every cat
+		* *myo no niglú* is also fine for 'many of the cats'
