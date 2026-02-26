@@ -4,7 +4,7 @@ const path = require('path');
 // --- CONFIGURATION ---
 const PATHS = {
     dictionary: path.join(__dirname, 'dictionary.json'),
-    ss: path.join(__dirname, 'ss.html'),
+    ss: path.join(__dirname, 'private/ss.html'),
     docs: path.join(__dirname, 'lang/docs'),
     docsMp: path.join(__dirname, 'lang/docs-mp'),
     templates: {
