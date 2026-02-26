@@ -2614,6 +2614,90 @@
     ]
   },
   {
+    "word": "jiteko",
+    "id": "telo jaki jelo",
+    "definitions": [
+      {
+        "text": "pee",
+        "frequency": 100
+      },
+      {
+        "text": "piss",
+        "frequency": 100
+      },
+      {
+        "text": "excretion",
+        "frequency": 100
+      },
+      {
+        "text": "metabolic waste",
+        "frequency": 100
+      },
+      {
+        "text": "metabolite",
+        "frequency": 100
+      },
+      {
+        "text": "biosynthesis",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "jitekonq",
+    "id": "ko jaki kapesi",
+    "definitions": [
+      {
+        "text": "poop",
+        "frequency": 100
+      },
+      {
+        "text": "faeces",
+        "frequency": 100
+      },
+      {
+        "text": "egestion",
+        "frequency": 100
+      },
+      {
+        "text": "defaecation",
+        "frequency": 100
+      },
+      {
+        "text": "antimetabolite",
+        "frequency": 100
+      },
+      {
+        "text": "precursor",
+        "frequency": 100
+      },
+      {
+        "text": "parent compound",
+        "frequency": 100
+      },
+      {
+        "text": "metabolic arrest",
+        "frequency": 100
+      },
+      {
+        "text": "gut ileus",
+        "frequency": 100
+      },
+      {
+        "text": "gut paresis",
+        "frequency": 100
+      },
+      {
+        "text": "anabiosis",
+        "frequency": 100
+      },
+      {
+        "text": "retrobiosynthesis",
+        "frequency": 100
+      }
+    ]
+  },
+  {
     "word": "joi",
     "id": "teje",
     "definitions": [
