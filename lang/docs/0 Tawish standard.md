@@ -130,3 +130,8 @@
 * if you must disambiguate, a modifier is recommended:
 	* *ryą kiwinq wanoharią* -> past week (lit. "this finished business time")
 * see Grammar:2 for more information
+
+## 0.10 To use *ea* or to not use *ea*
+* *ea* is a movement particle
+* as a modifier, it just signals 'this thing can move'
+* 

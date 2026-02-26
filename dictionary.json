@@ -208,6 +208,84 @@
     ]
   },
   {
+    "word": "asa",
+    "id": "tomo",
+    "definitions": [
+      {
+        "text": "building",
+        "frequency": 100
+      },
+      {
+        "text": "house",
+        "frequency": 100
+      },
+      {
+        "text": "housing",
+        "frequency": 100
+      },
+      {
+        "text": "chamber",
+        "frequency": 100
+      },
+      {
+        "text": "home",
+        "frequency": 100
+      },
+      {
+        "text": "room",
+        "frequency": 100
+      },
+      {
+        "text": "shelter",
+        "frequency": 100
+      },
+      {
+        "text": "residence",
+        "frequency": 100
+      },
+      {
+        "text": "suite",
+        "frequency": 100
+      },
+      {
+        "text": "domestic",
+        "frequency": 100
+      },
+      {
+        "text": "structural",
+        "frequency": 100
+      },
+      {
+        "text": "structure",
+        "frequency": 100
+      },
+      {
+        "text": "residential",
+        "frequency": 100
+      },
+      {
+        "text": "facility",
+        "frequency": 100
+      },
+      {
+        "text": "establishment",
+        "frequency": 100
+      },
+      {
+        "text": "household",
+        "frequency": 100
+      },
+      {
+        "text": "cabin",
+        "frequency": 100
+      },
+      {
+        "text": "apartment",
+        "frequency": 100
+      }
+    ]
+  },
+  {
     "word": "aŝi",
     "id": "sin",
     "definitions": [
@@ -6456,84 +6534,6 @@
         "frequency": 100
       }
     ]
-  },
-  {
-    "word": "tomo",
-    "definitions": [
-      {
-        "text": "building",
-        "frequency": 100
-      },
-      {
-        "text": "house",
-        "frequency": 94
-      },
-      {
-        "text": "housing",
-        "frequency": 86
-      },
-      {
-        "text": "chamber",
-        "frequency": 85
-      },
-      {
-        "text": "home",
-        "frequency": 82
-      },
-      {
-        "text": "room",
-        "frequency": 81
-      },
-      {
-        "text": "shelter",
-        "frequency": 80
-      },
-      {
-        "text": "residence",
-        "frequency": 68
-      },
-      {
-        "text": "suite",
-        "frequency": 59
-      },
-      {
-        "text": "domestic",
-        "frequency": 58
-      },
-      {
-        "text": "structural",
-        "frequency": 54
-      },
-      {
-        "text": "structure",
-        "frequency": 53
-      },
-      {
-        "text": "residential",
-        "frequency": 50
-      },
-      {
-        "text": "facility",
-        "frequency": 50
-      },
-      {
-        "text": "establishment",
-        "frequency": 45
-      },
-      {
-        "text": "household",
-        "frequency": 43
-      },
-      {
-        "text": "cabin",
-        "frequency": 42
-      },
-      {
-        "text": "apartment",
-        "frequency": 42
-      }
-    ],
-    "id": "tomo"
   },
   {
     "word": "twana",

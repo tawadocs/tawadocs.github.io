@@ -11,10 +11,14 @@
             "id": "2ed278d1a78914cc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "docs/0 Tawish standard.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "0 Tawish standard"
             }
           }
         ]
