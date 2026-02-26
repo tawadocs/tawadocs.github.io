@@ -6827,49 +6827,49 @@
   },
   {
     "word": "wan",
+    "id": "wan",
     "definitions": [
       {
         "text": "one",
-        "frequency": 93
+        "frequency": 100
       },
       {
         "text": "united",
-        "frequency": 92
+        "frequency": 100
       },
       {
         "text": "unity",
-        "frequency": 90
+        "frequency": 100
       },
       {
         "text": "combined",
-        "frequency": 70
+        "frequency": 100
       },
       {
         "text": "unite",
-        "frequency": 67
+        "frequency": 100
       },
       {
         "text": "single",
-        "frequency": 64
+        "frequency": 100
       },
       {
         "text": "unit",
-        "frequency": 60
+        "frequency": 100
       },
       {
         "text": "blend",
-        "frequency": 50
+        "frequency": 100
       },
       {
         "text": "combine",
-        "frequency": 44
+        "frequency": 100
       },
       {
         "text": "union",
-        "frequency": 43
+        "frequency": 100
       }
-    ],
-    "id": "wan"
+    ]
   },
   {
     "word": "wano",
