@@ -1048,7 +1048,7 @@
     ]
   },
   {
-    "word": "fofnnai",
+    "word": "fofnai",
     "id": "kute",
     "definitions": [
       {
@@ -5854,32 +5854,6 @@
     ]
   },
   {
-    "word": "ŝetan",
-    "id": "monsuta",
-    "definitions": [
-      {
-        "text": "scary",
-        "frequency": 100
-      },
-      {
-        "text": "fear",
-        "frequency": 100
-      },
-      {
-        "text": "monster",
-        "frequency": 100
-      },
-      {
-        "text": "horror",
-        "frequency": 100
-      },
-      {
-        "text": "devil",
-        "frequency": 100
-      }
-    ]
-  },
-  {
     "word": "ŝi",
     "id": "la",
     "definitions": [
@@ -7081,6 +7055,32 @@
       },
       {
         "text": "too",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "wahavi",
+    "id": "monsuta",
+    "definitions": [
+      {
+        "text": "scary",
+        "frequency": 100
+      },
+      {
+        "text": "fear",
+        "frequency": 100
+      },
+      {
+        "text": "monster",
+        "frequency": 100
+      },
+      {
+        "text": "horror",
+        "frequency": 100
+      },
+      {
+        "text": "devil",
         "frequency": 100
       }
     ]
