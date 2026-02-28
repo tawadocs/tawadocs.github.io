@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "90b7435f72f0fd2e",
+        "id": "66bc65a97b6986a7",
         "type": "tabs",
         "children": [
           {
-            "id": "156e19b65e066bc6",
+            "id": "98341708e4221e1f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/13 Determiners.md",
+                "file": "docs-mp/4 Writing rules.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "13 Determiners"
+              "title": "4 Writing rules"
             }
           }
         ]
@@ -180,12 +180,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "156e19b65e066bc6",
+  "active": "98341708e4221e1f",
   "lastOpenFiles": [
+    "docs-mp/1 Phonology.md",
+    "docs-mp/4 Writing rules.md",
+    "docs/13 Determiners.md",
     "docs/17 Cases.md",
     "docs/16 Modals and conditions.md",
     "docs/0 Tawish standard.md",
-    "docs/13 Determiners.md",
     "docs/15 Discourse.md",
     "docs/12 Demonstratives.md",
     "docs/11 Polarity.md",
@@ -193,11 +195,9 @@
     "docs/3 Basic syntax.md",
     "docs/7 Nouns and verbs.md",
     "docs/2 Derivation.md",
-    "docs-mp/1 Phonology.md",
     "docs/6 Degree.md",
     "docs-mp/3 Phonotactics.md",
     "docs/5 Pronouns.md",
-    "docs-mp/4 Writing rules.md",
     "docs/9 Clauses.md",
     "docs/8 TAM.md",
     "docs/4 Modifiers.md",
