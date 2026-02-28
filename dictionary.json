@@ -658,6 +658,60 @@
     ]
   },
   {
+    "word": "des",
+    "id": "ante, ala",
+    "definitions": [
+      {
+        "text": "opposite",
+        "frequency": 100
+      },
+      {
+        "text": "otherwise",
+        "frequency": 100
+      },
+      {
+        "text": "reverse",
+        "frequency": 100
+      },
+      {
+        "text": "inverse",
+        "frequency": 100
+      },
+      {
+        "text": "reciprocal",
+        "frequency": 100
+      },
+      {
+        "text": "upside-down",
+        "frequency": 100
+      },
+      {
+        "text": "downside-up",
+        "frequency": 100
+      },
+      {
+        "text": "top-down",
+        "frequency": 100
+      },
+      {
+        "text": "down-top",
+        "frequency": 100
+      },
+      {
+        "text": "palindrome",
+        "frequency": 100
+      },
+      {
+        "text": "emordnilap",
+        "frequency": 100
+      },
+      {
+        "text": "backward",
+        "frequency": 100
+      }
+    ]
+  },
+  {
     "word": "ę",
     "id": "en",
     "definitions": [
