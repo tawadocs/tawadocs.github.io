@@ -5184,6 +5184,10 @@
     "id": "paya",
     "definitions": [
       {
+        "text": "study",
+        "frequency": 100
+      },
+      {
         "text": "paper",
         "frequency": 100
       },
