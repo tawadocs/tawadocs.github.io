@@ -146,6 +146,10 @@
 ## 0.12 Numbering
 * stack to add up numbers, like:
 	* wuwuwan (7, from 3+3+1)
+* for multisyllabic words (more than one syllables), reduplicate the initial syllable
+	* tete -> tetete (10)
+	* antaka -> anantaka (20)
+	* sora -> sosora (100)
 * these pronouns can be used as numbers:
 	* wu (3SG) = 3
 	* zu (2SG) = 2
