@@ -38,6 +38,7 @@
 	* the o does not always need to be omitted (retei is alien compared to reotei, so the o is not omitted)
 	* banned syllables are not allowed, use accepted alternatives (so to+ru->thu and to+į->thį)
 		* do not use tsu or ĉi (standard alternatives) as they are alien when compared to an aspirated *t*, which sounds closest to *to*
+* though if its a demonstrative like ryo or ends with yo, then ryji-type constructions are fine, though ryjią would be wrong (ryąji is correct) 
 
 #### 0.2.1.3 Preserving the ′o
 * Sometimes, inflection results in borderline unpronounceable clusters:

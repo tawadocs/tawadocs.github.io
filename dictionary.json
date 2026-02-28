@@ -1774,6 +1774,10 @@
       {
         "text": "fondle",
         "frequency": 100
+      },
+      {
+        "text": "front",
+        "frequency": 100
       }
     ]
   },
@@ -3683,6 +3687,68 @@
       },
       {
         "text": "to bring to life",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "kova",
+    "id": "pan, seli",
+    "definitions": [
+      {
+        "text": "cook",
+        "frequency": 100
+      },
+      {
+        "text": "heat up",
+        "frequency": 100
+      },
+      {
+        "text": "bake",
+        "frequency": 100
+      },
+      {
+        "text": "laboratory",
+        "frequency": 100
+      },
+      {
+        "text": "bakery",
+        "frequency": 100
+      },
+      {
+        "text": "stove",
+        "frequency": 100
+      },
+      {
+        "text": "oven",
+        "frequency": 100
+      },
+      {
+        "text": "microwave",
+        "frequency": 100
+      },
+      {
+        "text": "bread",
+        "frequency": 100
+      },
+      {
+        "text": "pastry",
+        "frequency": 100
+      },
+      {
+        "text": "cake",
+        "frequency": 100
+      },
+      {
+        "text": "factory",
+        "frequency": 100
+      },
+      {
+        "text": "production",
+        "frequency": 100
+      },
+      {
+        "text": "manufacturer",
         "frequency": 100
       }
     ]
