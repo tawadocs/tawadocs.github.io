@@ -4254,6 +4254,132 @@
     ]
   },
   {
+    "word": "lili",
+    "id": "lili",
+    "definitions": [
+      {
+        "text": "small",
+        "frequency": 100
+      },
+      {
+        "text": "little",
+        "frequency": 100
+      },
+      {
+        "text": "short",
+        "frequency": 100
+      },
+      {
+        "text": "slight",
+        "frequency": 100
+      },
+      {
+        "text": "reduce",
+        "frequency": 100
+      },
+      {
+        "text": "junior",
+        "frequency": 100
+      },
+      {
+        "text": "slightly",
+        "frequency": 100
+      },
+      {
+        "text": "minimize",
+        "frequency": 100
+      },
+      {
+        "text": "narrow",
+        "frequency": 100
+      },
+      {
+        "text": "bit",
+        "frequency": 100
+      },
+      {
+        "text": "minor",
+        "frequency": 100
+      },
+      {
+        "text": "partly",
+        "frequency": 100
+      },
+      {
+        "text": "reduction",
+        "frequency": 100
+      },
+      {
+        "text": "brief",
+        "frequency": 100
+      },
+      {
+        "text": "young",
+        "frequency": 100
+      },
+      {
+        "text": "fewer",
+        "frequency": 100
+      },
+      {
+        "text": "less",
+        "frequency": 100
+      },
+      {
+        "text": "diminish",
+        "frequency": 100
+      },
+      {
+        "text": "tiny",
+        "frequency": 100
+      },
+      {
+        "text": "barely",
+        "frequency": 100
+      },
+      {
+        "text": "decrease",
+        "frequency": 100
+      },
+      {
+        "text": "minimal",
+        "frequency": 100
+      },
+      {
+        "text": "somewhat",
+        "frequency": 100
+      },
+      {
+        "text": "partially",
+        "frequency": 100
+      },
+      {
+        "text": "thin",
+        "frequency": 100
+      },
+      {
+        "text": "inch",
+        "frequency": 100
+      },
+      {
+        "text": "shallow",
+        "frequency": 100
+      },
+      {
+        "text": "subtle",
+        "frequency": 100
+      },
+      {
+        "text": "lightly",
+        "frequency": 100
+      },
+      {
+        "text": "kinda",
+        "frequency": 100
+      }
+    ]
+  },
+  {
     "word": "mafere",
     "id": "taki",
     "definitions": [
@@ -5695,132 +5821,6 @@
       },
       {
         "text": "mass",
-        "frequency": 100
-      }
-    ]
-  },
-  {
-    "word": "pokinq",
-    "id": "lili",
-    "definitions": [
-      {
-        "text": "small",
-        "frequency": 100
-      },
-      {
-        "text": "little",
-        "frequency": 100
-      },
-      {
-        "text": "short",
-        "frequency": 100
-      },
-      {
-        "text": "slight",
-        "frequency": 100
-      },
-      {
-        "text": "reduce",
-        "frequency": 100
-      },
-      {
-        "text": "junior",
-        "frequency": 100
-      },
-      {
-        "text": "slightly",
-        "frequency": 100
-      },
-      {
-        "text": "minimize",
-        "frequency": 100
-      },
-      {
-        "text": "narrow",
-        "frequency": 100
-      },
-      {
-        "text": "bit",
-        "frequency": 100
-      },
-      {
-        "text": "minor",
-        "frequency": 100
-      },
-      {
-        "text": "partly",
-        "frequency": 100
-      },
-      {
-        "text": "reduction",
-        "frequency": 100
-      },
-      {
-        "text": "brief",
-        "frequency": 100
-      },
-      {
-        "text": "young",
-        "frequency": 100
-      },
-      {
-        "text": "fewer",
-        "frequency": 100
-      },
-      {
-        "text": "less",
-        "frequency": 100
-      },
-      {
-        "text": "diminish",
-        "frequency": 100
-      },
-      {
-        "text": "tiny",
-        "frequency": 100
-      },
-      {
-        "text": "barely",
-        "frequency": 100
-      },
-      {
-        "text": "decrease",
-        "frequency": 100
-      },
-      {
-        "text": "minimal",
-        "frequency": 100
-      },
-      {
-        "text": "somewhat",
-        "frequency": 100
-      },
-      {
-        "text": "partially",
-        "frequency": 100
-      },
-      {
-        "text": "thin",
-        "frequency": 100
-      },
-      {
-        "text": "inch",
-        "frequency": 100
-      },
-      {
-        "text": "shallow",
-        "frequency": 100
-      },
-      {
-        "text": "subtle",
-        "frequency": 100
-      },
-      {
-        "text": "lightly",
-        "frequency": 100
-      },
-      {
-        "text": "kinda",
         "frequency": 100
       }
     ]
