@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/17 Cases.md",
+                "file": "docs/7 Nouns and verbs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "17 Cases"
-            }
-          },
-          {
-            "id": "0d0c70096c22e48f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/0 Tawish standard.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "0 Tawish standard"
+              "title": "7 Nouns and verbs"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,15 +180,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "0d0c70096c22e48f",
+  "active": "45acd4b695f7ba98",
   "lastOpenFiles": [
+    "docs-mp/1 Phonology.md",
+    "docs/7 Nouns and verbs.md",
     "docs/17 Cases.md",
     "docs/0 Tawish standard.md",
-    "docs/7 Nouns and verbs.md",
     "docs/6 Degree.md",
     "docs/1 Roots.md",
     "docs-mp/4 Writing rules.md",
-    "docs-mp/1 Phonology.md",
     "docs/13 Determiners.md",
     "docs/16 Modals and conditions.md",
     "docs/15 Discourse.md",

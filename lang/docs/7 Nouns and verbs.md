@@ -26,7 +26,9 @@
 * *tei* turns any root into its product, but it is context-dependent
 * So, *kamtei* (`eat.PROD`) is food but might be pizza in, for example, a pizza party
 * *ru* is often redundant but sometimes good for disambiguation, like in contexts where a root that is commonly used as a noun is used as a verb
-* *yĉ* takes the form *ĉ* before vowels and nasals (e.g. in *ĉiĉ* or *honĉ*)
+* *yĉ* takes the form *ĉ* before vowels and nasals other than the bilabial nasal (e.g. in *ĉiĉ* or *honĉ*)
+	* note: use the *yĉ* form for bilabial nasals
+	* e.g., **kamo** + **(y)ĉ** -> **kamyĉ**
 * Examples:
 	* *sua kikitaų riwaka* -> `1SG-AGT SUPR-like-VLNK think`
 		* "I love to think"
