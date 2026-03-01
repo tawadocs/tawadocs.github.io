@@ -109,10 +109,51 @@
 		* "The dragon heats (up) / warms"
 	* *Sa ni retethu...* -> `3SG.F TOP cold-PFV.V.PLAT`
 		* "She froze (something) / she cooled"
+* the antiproduct particle is context-sensitive - ĉihai can mean rinse if you say it in a public shower but it can mean 'drink' in a private domicile (e.g., 'Jèsei'ikua subų ĉihai ĉiǫ asahyakąsonji' (~Jesse wants to drink water in his private domicile)).
+
+### 0.6.1 A better explanation of the antiproduct particle
+* think of the antiproduct particle as a verbaliser; however, instead of verbalising a noun, it engages with a noun in the way it canonically functions in any way
+	* the canonical function of water is, well, to drink it
+	* that is why ĉihai means to drink water; however, if you're talking about showering, ĉihai could actually mean rinse
+	* context would disambiguate anyway, though:
+		* *sua subų ĉihai gagadenq ĉi umhi* -> `1SG-AGT desire.VLNK water-ANTIPROD.V SUP~dirty-INV water COM-BACK`
+			* "I want to clean myself with water" (i.e., shower, rinse, since you can't 'drink' yourself with water)
+* the antiproduct particle is used to turn a root into a verb that can express the canonical action associated with it (as a phenomenon):
+	* *koro* + *hai* -> to avoid death / to stay alive / kill / die / reap
+		* *su ni korruhai!* -> `1SG TOP kill.V.PLAT-ANTIPROD.V`
+			* "I am staying alive / avoiding death"
+		* *sua korruhai sa* -> `1SG-AGT kill.V.PLAT-ANTIPROD.V 3SG`
+			* "I killed her" (?) depends on context, plus don't use the antiproduct particle in these cases, even if it is **'technically'** correct!
+			* as you're about to learn, *korruhai* would feel like saying 'the act that forcibly led to or of forcing the irreversible cessation of all vital functions in a living organism'
+* here is a simple rule: before using the antiproduct particle, ask yourself:
+	1. what do you do to this noun?
+	2. what does this noun do to you?
+* let's take the noun 'rice' (roĉi) and answer #1 and #2:
+	* you cook and eat this noun
+	* it fulfills you and helps with fibre
+* so:
+	* roĉihai -> to cook rice / prepare rice
+	* roĉihainai -> to gain fibre by eating rice / the process of preparing rice
+* it might be hard to grok initially, but once you understand the core concept, it should be as easy as counting on your fingers
+* I'll do it with another noun
+	* let's use 'asa,' which can mean 'house:'
+		* you eat, sleep, cook, work, and relax here
+		* this noun protects you
+	* so:
+		* asahai -> to live at a specific place (i.e., home)
+		* asahainai -> to be protected by a specific place (i.e., home)
+* and yes, **hainai** is not the same as **naihai**:
+	* roĉinaihai -> to experience eating rice / to eat rice in a specific way (e.g., slowly or fast)
+* and if you use **hai** on an explicit or default verb, then it describes the canonical way to operate on the verb/event itself:
+	* hateruhai (`run.V.PLAT-ANTIPROD.V`)
+		* so, what do you think is the canonical way to operate on running? it could be described as a fast alternating gait cycle, where one leg is on the ground (stance) and the other in the air (aerial), working in coordination with the opposite arm to maintain balance
+		* now, you could use this to describe stuff like cycling, especially swift cycling
+		* the implications are limited only by your imagination!
+* so do use **hai** (`ANTIPROD.V`) with care!
 
 ## 0.7 The person particle
-* The person particle (PERS) is not really a 'person' particle
-* It is used for any non-Tawish word, including loans like Duragin (dragon)
+* the person particle (PERS) is not really a 'person' particle
+* it is used for any non-Tawish word, including loans like Duragin (dragon)
 
 ## 0.8 Independentising and backshifting
 * *ppu* lets any bound morpheme become an unbound one and affect anything coming after it:
