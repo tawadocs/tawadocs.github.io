@@ -3554,6 +3554,14 @@
     "id": "tenpo suno",
     "definitions": [
       {
+        "text": "yesterday",
+        "frequency": 100
+      },
+      {
+        "text": "tomorrow",
+        "frequency": 100
+      },
+      {
         "text": "day",
         "frequency": 100
       },
