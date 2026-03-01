@@ -1562,6 +1562,92 @@
     ]
   },
   {
+    "word": "haeko",
+    "id": "tawa, tawa noka",
+    "definitions": [
+      {
+        "text": "walk",
+        "frequency": 100
+      },
+      {
+        "text": "relax",
+        "frequency": 100
+      },
+      {
+        "text": "unwind",
+        "frequency": 100
+      },
+      {
+        "text": "be composed",
+        "frequency": 100
+      },
+      {
+        "text": "chill",
+        "frequency": 100
+      },
+      {
+        "text": "leisure",
+        "frequency": 100
+      },
+      {
+        "text": "stroll",
+        "frequency": 100
+      },
+      {
+        "text": "casual",
+        "frequency": 100
+      },
+      {
+        "text": "brisk",
+        "frequency": 100
+      },
+      {
+        "text": "commuting",
+        "frequency": 100
+      },
+      {
+        "text": "patrolling",
+        "frequency": 100
+      },
+      {
+        "text": "parade",
+        "frequency": 100
+      },
+      {
+        "text": "viscous",
+        "frequency": 100
+      },
+      {
+        "text": "stiff",
+        "frequency": 100
+      },
+      {
+        "text": "curly",
+        "frequency": 100
+      },
+      {
+        "text": "curdy",
+        "frequency": 100
+      },
+      {
+        "text": "guide",
+        "frequency": 100
+      },
+      {
+        "text": "perform",
+        "frequency": 100
+      },
+      {
+        "text": "facilitate transition",
+        "frequency": 100
+      },
+      {
+        "text": "go through",
+        "frequency": 100
+      }
+    ]
+  },
+  {
     "word": "haha",
     "id": "musi",
     "definitions": [
@@ -1895,6 +1981,64 @@
       },
       {
         "text": "fucking",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "hatero",
+    "id": "tawa wawa, tawa suli",
+    "definitions": [
+      {
+        "text": "run",
+        "frequency": 100
+      },
+      {
+        "text": "jog",
+        "frequency": 100
+      },
+      {
+        "text": "move fast",
+        "frequency": 100
+      },
+      {
+        "text": "walk fast",
+        "frequency": 100
+      },
+      {
+        "text": "operation",
+        "frequency": 100
+      },
+      {
+        "text": "operating",
+        "frequency": 100
+      },
+      {
+        "text": "managing",
+        "frequency": 100
+      },
+      {
+        "text": "administering",
+        "frequency": 100
+      },
+      {
+        "text": "flowing",
+        "frequency": 100
+      },
+      {
+        "text": "continuing",
+        "frequency": 100
+      },
+      {
+        "text": "persisting",
+        "frequency": 100
+      },
+      {
+        "text": "duration",
+        "frequency": 100
+      },
+      {
+        "text": "series",
         "frequency": 100
       }
     ]
