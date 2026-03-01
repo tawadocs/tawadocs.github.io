@@ -18,6 +18,8 @@
 * but some special o-roots, called garibànganáán (strange words), never inflect:
 	* wano + (r)u -> wanoru
 * luckily, there aren't many garibànganáán, so this rule shouldn't make it harder to learn Tawa
+* also, special nasals replace nasal-final words:
+	* hon + nq -> honq [hɔɴ] - never honnq [honɴ] or anything
 
 #### 0.2.1.1 Same types
 * never inflect if the type changes:
