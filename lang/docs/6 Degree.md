@@ -8,13 +8,38 @@
 
 ## 6.2 Intensification and diminution
 * Order often does not matter
+* Reduplication marks superlatives; here is how it would be done on example roots:
+	* kuru -> kukuru (e.g., vanta black)
+	* ii -> ii'ii (e.g., best)
+	* kanata -> kakanata (e.g., euphoria)
+	* azuru -> azazuru (e.g., most blue/teal/green)
+* So, reduplication is repeating the initial CV or VC unit, like azuru -> azazuru or kuru -> kukuru
+* If the word is something like **ii** (good), then divide the vowels with a simple *'* (separates morae and is not pronounced as a glottal stop in this case; so **ii'ii** is ['iː.iː])
+* Reduplication and the *nyi* suffix are not interchangeable:
+	* use reduplication for words that are:
+		* short
+		* monosyllabic
+		* already inflected
+		* taking affixes
+	* use *nyi* for:
+		* a formal, grand, or emphatic effect
+		* standalone, longer words
+* Let's look at examples of when to and when not to use *nyi* and reduplication:
+	* *ii* -> ii'ii, never iinyi
+	* *koha* -> kokoha or kohanyi, both work, but depend on context: kohanyi for the cure of cancer is better than kokoha
+	* *kanojo*
+		* use *kakanojo* to describe someone you know fairly well, like a (best) friend in kakanojsun (my friend)
+		* use *kanojnyi* to describe someone you know extremely well, like a spouse in kanojnyanyisun (my wife)
+* In the examples, reduplication isn't less strong than *nyi* per se; it's that *nyi* is more emphatic or loaded, so *kanojnyi* naturally carries a soulmate undertone, whereas *kakanojo* is better for really good friends
 * Examples:
-	* *sa ni kanojnyasunsta* -> `3SG.F TOP partner.F.ROM-1SG.POSS-DIM.SUP`
+	* *sa ni kanojstanyasun* -> `3SG.F TOP partner.DIM.SUP-F.ROM-1SG.POSS`
 		* "She is someone I just started dating"
 	* *sa ni kanojnyi* -> `3SG.F TOP partner.AUG.SUP`
 		* "She is my spouse"
-	* *raŝimasnyi* -> `teach-AG-AUG.SUP`
-		* "Full professor, guru"
+	* *raraŝimas* -> `SUP~teach-AG-AUG.SUP`
+		* "Full(-time) professor, guru"
+	* *raŝinyimas* -> `teach-AG.SUP-AG`
+		* "Guider, leader, idol, mentour, torch bearer"
 	* *raŝimassta* -> `teach-AG-DIM.SUP`
 		* "Student, learner"
 

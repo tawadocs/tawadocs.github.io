@@ -163,3 +163,18 @@
 	* sora (sky) = 100
 	* subeko (all) = infinity
 * though using numbers from other languages, such as English, is fine too in many contexts
+
+## 0.13 Reduplication
+* see Grammar:6.2
+* reduplication is a casual or less formal and emphatic way to turn a word into its superlative form:
+	* ii (good) -> ii'ii (best)
+* *nyi* is more 'loaded:'
+	* ii (good) -> iinyi (unrivalled, matchless, supreme, nonpareil, crème de la crème, pinacle)
+* It isn't that reduplication is weaker per se; rather, reduplication is less grand - so *ii'ii* can mean crème de la crème but it isn't the first thing that comes to a listener's mind when one utilises reduplication
+* Note that reduplication refers to doubling the initial CV or VC or VV unit:
+	* ***ku**ru* -> **kuku**ru
+	* **ii** -> **ii**'**ii**
+	* ***ka**nojo* -> **kaka**nojo
+	* ***az**uru* -> **azaz**uru
+* For words like *ii*, the reduplicated sequence should be separated with a simple *'* - so **iiii** is written as *ii'ii*
+* Do note that reduplication is the only instance where *'* or *′* is not pronounced as a glottal stop
