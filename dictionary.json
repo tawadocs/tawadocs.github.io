@@ -5070,6 +5070,10 @@
       {
         "text": "block",
         "frequency": 100
+      },
+      {
+        "text": "stair",
+        "frequency": 100
       }
     ]
   },
