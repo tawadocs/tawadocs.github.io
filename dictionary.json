@@ -3564,6 +3564,124 @@
     ]
   },
   {
+    "word": "koha",
+    "id": "laja",
+    "definitions": [
+      {
+        "text": "gift",
+        "frequency": 100
+      },
+      {
+        "text": "treat",
+        "frequency": 100
+      },
+      {
+        "text": "present",
+        "frequency": 100
+      },
+      {
+        "text": "token",
+        "frequency": 100
+      },
+      {
+        "text": "appreciate",
+        "frequency": 100
+      },
+      {
+        "text": "gratitude",
+        "frequency": 100
+      },
+      {
+        "text": "grateful",
+        "frequency": 100
+      },
+      {
+        "text": "glad",
+        "frequency": 100
+      },
+      {
+        "text": "legacy",
+        "frequency": 100
+      },
+      {
+        "text": "bequest",
+        "frequency": 100
+      },
+      {
+        "text": "offering",
+        "frequency": 100
+      },
+      {
+        "text": "tribute",
+        "frequency": 100
+      },
+      {
+        "text": "gesture",
+        "frequency": 100
+      },
+      {
+        "text": "goodwill",
+        "frequency": 100
+      },
+      {
+        "text": "contribute",
+        "frequency": 100
+      },
+      {
+        "text": "contribution",
+        "frequency": 100
+      },
+      {
+        "text": "hospitality",
+        "frequency": 100
+      },
+      {
+        "text": "mutual support",
+        "frequency": 100
+      },
+      {
+        "text": "cultural obligation",
+        "frequency": 100
+      },
+      {
+        "text": "endowment",
+        "frequency": 100
+      },
+      {
+        "text": "alm",
+        "frequency": 100
+      },
+      {
+        "text": "grant",
+        "frequency": 100
+      },
+      {
+        "text": "favour",
+        "frequency": 100
+      },
+      {
+        "text": "rite",
+        "frequency": 100
+      },
+      {
+        "text": "communal pooling",
+        "frequency": 100
+      },
+      {
+        "text": "patronage",
+        "frequency": 100
+      },
+      {
+        "text": "sacrifice",
+        "frequency": 100
+      },
+      {
+        "text": "pledge",
+        "frequency": 100
+      }
+    ]
+  },
+  {
     "word": "kóma",
     "id": "mun",
     "definitions": [

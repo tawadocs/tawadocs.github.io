@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "66bc65a97b6986a7",
+        "id": "89752f9be24b4f50",
         "type": "tabs",
         "children": [
           {
-            "id": "98341708e4221e1f",
+            "id": "7dbd7531f2f8158b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs-mp/4 Writing rules.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "4 Writing rules"
+              "title": "New tab"
             }
           }
         ]
@@ -53,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "irru",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -180,10 +176,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "98341708e4221e1f",
+  "active": "19d04bb585cafee8",
   "lastOpenFiles": [
-    "docs-mp/1 Phonology.md",
     "docs-mp/4 Writing rules.md",
+    "docs-mp/1 Phonology.md",
     "docs/13 Determiners.md",
     "docs/17 Cases.md",
     "docs/16 Modals and conditions.md",
