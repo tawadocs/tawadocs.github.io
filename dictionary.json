@@ -1918,15 +1918,43 @@
     ]
   },
   {
-    "word": "hiro",
-    "id": "walo",
+    "word": "hiroga",
+    "id": "ma ale",
     "definitions": [
       {
-        "text": "white",
+        "text": "Earth",
         "frequency": 100
       },
       {
-        "text": "pale",
+        "text": "world",
+        "frequency": 100
+      },
+      {
+        "text": "spanning",
+        "frequency": 100
+      },
+      {
+        "text": "covering",
+        "frequency": 100
+      },
+      {
+        "text": "span",
+        "frequency": 100
+      },
+      {
+        "text": "lay",
+        "frequency": 100
+      },
+      {
+        "text": "spreading",
+        "frequency": 100
+      },
+      {
+        "text": "crawling (on hands and knees)",
+        "frequency": 100
+      },
+      {
+        "text": "quadrupedal",
         "frequency": 100
       }
     ]
@@ -5099,6 +5127,20 @@
       },
       {
         "text": "deem",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "ohira",
+    "id": "walo",
+    "definitions": [
+      {
+        "text": "white",
+        "frequency": 100
+      },
+      {
+        "text": "pale",
         "frequency": 100
       }
     ]
