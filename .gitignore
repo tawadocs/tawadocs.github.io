@@ -1,4 +1,5 @@
 lang/lang_old/
-lang/obsidian/
+lang/.obsidian/
+.obsidian/
 ID/
 node_modules/
