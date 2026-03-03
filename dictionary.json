@@ -2244,6 +2244,32 @@
     ]
   },
   {
+    "word": "hvai",
+    "id": "monsuta",
+    "definitions": [
+      {
+        "text": "scary",
+        "frequency": 100
+      },
+      {
+        "text": "fear",
+        "frequency": 100
+      },
+      {
+        "text": "monster",
+        "frequency": 100
+      },
+      {
+        "text": "horror",
+        "frequency": 100
+      },
+      {
+        "text": "devil",
+        "frequency": 100
+      }
+    ]
+  },
+  {
     "word": "hyako",
     "id": "len",
     "definitions": [
@@ -4712,32 +4738,6 @@
     ]
   },
   {
-    "word": "mina",
-    "id": "tan",
-    "definitions": [
-      {
-        "text": "from",
-        "frequency": 100
-      },
-      {
-        "text": "reason",
-        "frequency": 100
-      },
-      {
-        "text": "because of",
-        "frequency": 100
-      },
-      {
-        "text": "by",
-        "frequency": 100
-      },
-      {
-        "text": "source",
-        "frequency": 100
-      }
-    ]
-  },
-  {
     "word": "miri",
     "id": "meso",
     "definitions": [
@@ -7128,6 +7128,32 @@
     ]
   },
   {
+    "word": "tan",
+    "id": "tan",
+    "definitions": [
+      {
+        "text": "from",
+        "frequency": 100
+      },
+      {
+        "text": "reason",
+        "frequency": 100
+      },
+      {
+        "text": "because of",
+        "frequency": 100
+      },
+      {
+        "text": "by",
+        "frequency": 100
+      },
+      {
+        "text": "source",
+        "frequency": 100
+      }
+    ]
+  },
+  {
     "word": "tawa",
     "id": "tawa",
     "definitions": [
@@ -7713,32 +7739,6 @@
       },
       {
         "text": "too",
-        "frequency": 100
-      }
-    ]
-  },
-  {
-    "word": "wahavi",
-    "id": "monsuta",
-    "definitions": [
-      {
-        "text": "scary",
-        "frequency": 100
-      },
-      {
-        "text": "fear",
-        "frequency": 100
-      },
-      {
-        "text": "monster",
-        "frequency": 100
-      },
-      {
-        "text": "horror",
-        "frequency": 100
-      },
-      {
-        "text": "devil",
         "frequency": 100
       }
     ]
