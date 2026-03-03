@@ -556,6 +556,52 @@
     ]
   },
   {
+    "word": "dami",
+    "id": "pali lili, wawa lili",
+    "definitions": [
+      {
+        "text": "easy",
+        "frequency": 100
+      },
+      {
+        "text": "simple",
+        "frequency": 100
+      },
+      {
+        "text": "light",
+        "frequency": 100
+      },
+      {
+        "text": "straightforward",
+        "frequency": 100
+      },
+      {
+        "text": "blunt",
+        "frequency": 100
+      },
+      {
+        "text": "forthright",
+        "frequency": 100
+      },
+      {
+        "text": "direct",
+        "frequency": 100
+      },
+      {
+        "text": "outspoken",
+        "frequency": 100
+      },
+      {
+        "text": "low effort/difficulty",
+        "frequency": 100
+      },
+      {
+        "text": "low resistance/friction",
+        "frequency": 100
+      }
+    ]
+  },
+  {
     "word": "denh",
     "id": "pana",
     "definitions": [
@@ -1643,6 +1689,10 @@
       },
       {
         "text": "go through",
+        "frequency": 100
+      },
+      {
+        "text": "learn",
         "frequency": 100
       }
     ]
@@ -6000,6 +6050,108 @@
     ]
   },
   {
+    "word": "ritaru",
+    "id": "kiwen ala, ko, suwi",
+    "definitions": [
+      {
+        "text": "soft",
+        "frequency": 100
+      },
+      {
+        "text": "gentle",
+        "frequency": 100
+      },
+      {
+        "text": "tender",
+        "frequency": 100
+      },
+      {
+        "text": "chocolatey",
+        "frequency": 100
+      },
+      {
+        "text": "pleasing (to touch)",
+        "frequency": 100
+      },
+      {
+        "text": "peace",
+        "frequency": 100
+      },
+      {
+        "text": "peaceful",
+        "frequency": 100
+      },
+      {
+        "text": "to soften",
+        "frequency": 100
+      },
+      {
+        "text": "easily damaged",
+        "frequency": 100
+      },
+      {
+        "text": "weak",
+        "frequency": 100
+      },
+      {
+        "text": "unstable",
+        "frequency": 100
+      },
+      {
+        "text": "quiet",
+        "frequency": 100
+      },
+      {
+        "text": "unintense",
+        "frequency": 100
+      },
+      {
+        "text": "diffused",
+        "frequency": 100
+      },
+      {
+        "text": "hazy",
+        "frequency": 100
+      },
+      {
+        "text": "low saturation",
+        "frequency": 100
+      },
+      {
+        "text": "compassionate",
+        "frequency": 100
+      },
+      {
+        "text": "lenient",
+        "frequency": 100
+      },
+      {
+        "text": "mild",
+        "frequency": 100
+      },
+      {
+        "text": "lukewarm",
+        "frequency": 100
+      },
+      {
+        "text": "not overwhelming",
+        "frequency": 100
+      },
+      {
+        "text": "ripe",
+        "frequency": 100
+      },
+      {
+        "text": "moist",
+        "frequency": 100
+      },
+      {
+        "text": "comfort",
+        "frequency": 100
+      }
+    ]
+  },
+  {
     "word": "riwaka",
     "id": "isipin",
     "definitions": [
@@ -6370,36 +6522,6 @@
     "id": "soko"
   },
   {
-    "word": "somo",
-    "id": "suno",
-    "definitions": [
-      {
-        "text": "sun",
-        "frequency": 100
-      },
-      {
-        "text": "solar",
-        "frequency": 100
-      },
-      {
-        "text": "light",
-        "frequency": 100
-      },
-      {
-        "text": "sunlight",
-        "frequency": 100
-      },
-      {
-        "text": "bright",
-        "frequency": 100
-      },
-      {
-        "text": "shine",
-        "frequency": 100
-      }
-    ]
-  },
-  {
     "word": "sora",
     "id": "sewi",
     "definitions": [
@@ -6457,6 +6579,40 @@
       },
       {
         "text": "(number) 100",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "sowo",
+    "id": "suno",
+    "definitions": [
+      {
+        "text": "sun",
+        "frequency": 100
+      },
+      {
+        "text": "solar",
+        "frequency": 100
+      },
+      {
+        "text": "light",
+        "frequency": 100
+      },
+      {
+        "text": "sunlight",
+        "frequency": 100
+      },
+      {
+        "text": "bright",
+        "frequency": 100
+      },
+      {
+        "text": "shine",
+        "frequency": 100
+      },
+      {
+        "text": "(emit) light",
         "frequency": 100
       }
     ]
@@ -6955,6 +7111,18 @@
       },
       {
         "text": "firm",
+        "frequency": 100
+      },
+      {
+        "text": "to harden",
+        "frequency": 100
+      },
+      {
+        "text": "to strengthen",
+        "frequency": 100
+      },
+      {
+        "text": "strong",
         "frequency": 100
       }
     ]

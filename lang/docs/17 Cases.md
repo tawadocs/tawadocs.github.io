@@ -185,15 +185,15 @@
 		* "I have eaten the fish"
 
 ### 17.9.4 Aboutness
-* The ablative case *-llanh* can also be used for this
-* It is recommended to use *-llanh* if the semantic focus is the origin or source
-* But if the semantic focus is a part, aspect, or subset of the whole, then *-ita* should be used
+* Use *ita* for this
 * Examples:
-	* *sua kitanyu saita iinyilǫ hyo?* -> `1SG-AGT like-V.ROM 3SG.F-PRTV good-AUG.SUP-DEF-ACC OPEN.Q`
+	* *sua kitanyu saita iinyil hyo?* -> `1SG-AGT like-V.ROM 3SG.F-PRTV good-AUG.SUP-DEF OPEN.Q`
 		* "What do you love the most about her?"
 			* here, *saita* is used because the question is specific or evaluative and asking about an aspect of something
-	* *na′a fofu asasonllanh nihi ieiimho* -> `1PL-AGT speak.V.PLAT house-3SG.M.POSS-ABL TOP-BACK COMP-good-IRR.N.PLAT`
-		* lit. "As for our talking about his home, (it is) better"
-		* ~"It would be better if we talked about his home"
-			* here, *-llanh* is used because the question is more reflective or abstract
-			* the semantic focus is the origin or source, which is "it" in this case
+* It can also mean 'to circumambulate' or go around in some contexts:
+	* *sua haekuthu asalita* -> `1SG-AGT walk.V.PLAT-PFV.V.PLAT house-DEF-PRTV`
+		* "I walked around a house"
+		* ~"I walked about a house"
+		* "I learnt about a house"
+* You can disambiguate by using *o* (SUFF, sufferer particle) instead of *a* to specify learning:
+	* *suo haekuthu asalita* (I learnt about a house)
