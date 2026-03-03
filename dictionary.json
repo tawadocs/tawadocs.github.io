@@ -46,6 +46,68 @@
     ]
   },
   {
+    "word": "ainàwa",
+    "id": "lukin pona, waka",
+    "definitions": [
+      {
+        "text": "smile",
+        "frequency": 100
+      },
+      {
+        "text": "mirth",
+        "frequency": 100
+      },
+      {
+        "text": "glee",
+        "frequency": 100
+      },
+      {
+        "text": "amusement",
+        "frequency": 100
+      },
+      {
+        "text": "greet",
+        "frequency": 100
+      },
+      {
+        "text": "empathy",
+        "frequency": 100
+      },
+      {
+        "text": "flirt",
+        "frequency": 100
+      },
+      {
+        "text": "charm",
+        "frequency": 100
+      },
+      {
+        "text": "camaraderie",
+        "frequency": 100
+      },
+      {
+        "text": "comfort",
+        "frequency": 100
+      },
+      {
+        "text": "grin",
+        "frequency": 100
+      },
+      {
+        "text": "smirk",
+        "frequency": 100
+      },
+      {
+        "text": "dimples",
+        "frequency": 100
+      },
+      {
+        "text": "release",
+        "frequency": 100
+      }
+    ]
+  },
+  {
     "word": "antaka",
     "id": "kijetesantakalu",
     "definitions": [
@@ -1699,7 +1761,7 @@
   },
   {
     "word": "haha",
-    "id": "musi",
+    "id": "toki musi",
     "definitions": [
       {
         "text": "entertainment",
@@ -1731,6 +1793,10 @@
       },
       {
         "text": "artistic",
+        "frequency": 100
+      },
+      {
+        "text": "laugh",
         "frequency": 100
       }
     ]
