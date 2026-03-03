@@ -3188,6 +3188,20 @@
     ]
   },
   {
+    "word": "kamà",
+    "id": "mun",
+    "definitions": [
+      {
+        "text": "moon",
+        "frequency": 100
+      },
+      {
+        "text": "celestial body",
+        "frequency": 100
+      }
+    ]
+  },
+  {
     "word": "kamo",
     "id": "moku",
     "definitions": [
@@ -3979,20 +3993,6 @@
       },
       {
         "text": "pledge",
-        "frequency": 100
-      }
-    ]
-  },
-  {
-    "word": "kóma",
-    "id": "mun",
-    "definitions": [
-      {
-        "text": "moon",
-        "frequency": 100
-      },
-      {
-        "text": "celestial body",
         "frequency": 100
       }
     ]
