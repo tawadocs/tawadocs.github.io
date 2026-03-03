@@ -52,8 +52,12 @@
 		* move the negative: rra samil
 		* use the linker: samil ce rra
 
+#### 0.2.1.4 -bjji and -pjji
+* according to ′o-omission rules, -bo + -ji should be -bji, not -bjji, and the same goes for -po + -ji (pji, not pjji)
+* however, these two grammatical particles don't follow this rule, so pjji and bjji are the official forms
+
 ## 0.3 Marking
-* See Morphophonemics:4, though do note that Morphophonemics may also not be standardised; trust only this document
+* see Morphophonemics:4, though do note that Morphophonemics may also not be standardised; trust only this document
 
 ## 0.4 Liquid clusters
 * liquid clashes [ɺl lɺ, ɺɾ, ɾɺ ʎl ʎɺ] are banned

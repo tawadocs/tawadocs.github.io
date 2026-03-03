@@ -1148,28 +1148,6 @@
     ]
   },
   {
-    "word": "fofnai",
-    "id": "kute",
-    "definitions": [
-      {
-        "text": "hear",
-        "frequency": 100
-      },
-      {
-        "text": "listen",
-        "frequency": 100
-      },
-      {
-        "text": "ear",
-        "frequency": 100
-      },
-      {
-        "text": "hearing",
-        "frequency": 100
-      }
-    ]
-  },
-  {
     "word": "fofo",
     "id": "toki",
     "definitions": [
@@ -1323,6 +1301,28 @@
       },
       {
         "text": "phrase",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "fofunai",
+    "id": "kute",
+    "definitions": [
+      {
+        "text": "hear",
+        "frequency": 100
+      },
+      {
+        "text": "listen",
+        "frequency": 100
+      },
+      {
+        "text": "ear",
+        "frequency": 100
+      },
+      {
+        "text": "hearing",
         "frequency": 100
       }
     ]
