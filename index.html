@@ -60,12 +60,36 @@
                 color: white;
                 transition: 0.2s;
                 text-align: center;
+                position: relative;
+                overflow: hidden;
             }
             .card:hover {
                 transform: translateY(-4px);
                 border-color: var(--accent);
                 background: #1c212a;
             }
+
+            /* Glint Effect */
+            .card::after {
+                content: "";
+                position: absolute;
+                top: 0;
+                left: -150%;
+                width: 50%;
+                height: 100%;
+                background: linear-gradient(
+                    to right,
+                    transparent,
+                    rgba(255, 255, 255, 0.05),
+                    transparent
+                );
+                transform: skewX(-25deg);
+                transition: 0.5s;
+            }
+            .card:hover::after {
+                left: 150%;
+            }
+
             .card h2 {
                 margin: 0 0 8px 0;
                 color: var(--accent);
@@ -76,8 +100,19 @@
                 margin: 0;
                 opacity: 0.8;
             }
-            .full {
-                grid-column: span 2;
+
+            /* New Badge */
+            .badge {
+                position: absolute;
+                top: 10px;
+                right: -30px;
+                background: var(--accent);
+                color: var(--bg);
+                font-size: 0.7rem;
+                font-weight: 800;
+                padding: 4px 35px;
+                transform: rotate(45deg);
+                box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
             }
         </style>
     </head>
@@ -87,18 +122,23 @@
             <p>The good medium for progressing.</p>
         </div>
         <div class="grid">
-            <a href="public/dictionary" class="card"
-                ><h2>Ganáán ribu</h2>
-                <p>Lexicon</p></a
-            >
-            <a href="public/grammar" class="card"
-                ><h2>Gana ribu</h2>
-                <p>Grammar Reference</p></a
-            >
-            <a href="public/mprf" class="card full"
-                ><h2>Iyuklú ę pàmya no Tawa</h2>
-                <p>Morphophonology Reference</p></a
-            >
+            <a href="public/dictionary" class="card">
+                <h2>Ganáán ribu</h2>
+                <p>Lexicon</p>
+            </a>
+            <a href="public/grammar" class="card">
+                <h2>Gana ribu</h2>
+                <p>Grammar Reference</p>
+            </a>
+            <a href="public/mprf" class="card">
+                <h2>Iyuklú ę pàmya no Tawa</h2>
+                <p>Morphophonology Reference</p>
+            </a>
+            <a href="public/orthography" class="card">
+                <div class="badge">NEW</div>
+                <h2>Pàmya Tawaji</h2>
+                <p>Orthography Reference</p>
+            </a>
         </div>
     </body>
 </html>

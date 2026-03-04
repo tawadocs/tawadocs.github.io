@@ -108,7 +108,7 @@
     ]
   },
   {
-    "word": "aiŝi",
+    "word": "aishi",
     "id": "pakala, pakala pilin",
     "definitions": [
       {
@@ -500,7 +500,7 @@
     ]
   },
   {
-    "word": "aŝi",
+    "word": "ashi",
     "id": "sin",
     "definitions": [
       {
@@ -672,7 +672,7 @@
     ]
   },
   {
-    "word": "bwiŝí",
+    "word": "bwishí",
     "id": "pilin ike, ike",
     "definitions": [
       {
@@ -702,7 +702,7 @@
     ]
   },
   {
-    "word": "ĉi",
+    "word": "chi",
     "id": "telo",
     "definitions": [
       {
@@ -732,7 +732,7 @@
     ]
   },
   {
-    "word": "ĉika",
+    "word": "chika",
     "id": "insa",
     "definitions": [
       {
@@ -1634,7 +1634,7 @@
     ]
   },
   {
-    "word": "fofvóóf",
+    "word": "fofvoof",
     "id": "uta",
     "definitions": [
       {
@@ -1656,7 +1656,7 @@
     ]
   },
   {
-    "word": "foŝo",
+    "word": "fosho",
     "id": "mije sama",
     "definitions": [
       {
@@ -1856,7 +1856,7 @@
     ]
   },
   {
-    "word": "ganáán",
+    "word": "ganaan",
     "id": "nimi",
     "definitions": [
       {
@@ -2344,7 +2344,7 @@
     ]
   },
   {
-    "word": "haŝiru",
+    "word": "hashiru",
     "id": "jan lili",
     "definitions": [
       {
@@ -2608,7 +2608,7 @@
     ]
   },
   {
-    "word": "honĉa",
+    "word": "honcha",
     "id": "meli",
     "definitions": [
       {
@@ -2630,7 +2630,7 @@
     ]
   },
   {
-    "word": "honĉe",
+    "word": "honche",
     "id": "mije",
     "definitions": [
       {
@@ -4472,15 +4472,13 @@
       {
         "text": "night",
         "frequency": 100
-      }
-    ]
-  },
-  {
-    "word": "konqryą",
-    "id": "tenpo pimeja ni",
-    "definitions": [
+      },
       {
         "text": "tonight",
+        "frequency": 100
+      },
+      {
+        "text": "yesterday night",
         "frequency": 100
       }
     ]
@@ -5758,7 +5756,7 @@
     ]
   },
   {
-    "word": "naŝita",
+    "word": "nashita",
     "id": "seli",
     "definitions": [
       {
@@ -6006,7 +6004,7 @@
     ]
   },
   {
-    "word": "nukáán",
+    "word": "nukaan",
     "id": "kule",
     "definitions": [
       {
@@ -6158,7 +6156,7 @@
     ]
   },
   {
-    "word": "paŝa",
+    "word": "pasha",
     "id": "jan sama",
     "definitions": [
       {
@@ -6714,7 +6712,7 @@
     ]
   },
   {
-    "word": "roĉi",
+    "word": "rochi",
     "id": "pan",
     "definitions": [
       {
@@ -6731,6 +6729,28 @@
       },
       {
         "text": "rice",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "rongo",
+    "id": "len noka",
+    "definitions": [
+      {
+        "text": "boot",
+        "frequency": 100
+      },
+      {
+        "text": "shoe",
+        "frequency": 100
+      },
+      {
+        "text": "sock",
+        "frequency": 100
+      },
+      {
+        "text": "pants",
         "frequency": 100
       }
     ]
@@ -6766,7 +6786,73 @@
     ]
   },
   {
-    "word": "ŝahada",
+    "word": "sami",
+    "id": "kala",
+    "definitions": [
+      {
+        "text": "fish",
+        "frequency": 100
+      },
+      {
+        "text": "sea creature",
+        "frequency": 100
+      },
+      {
+        "text": "salmon",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "sawa",
+    "id": "suwi",
+    "definitions": [
+      {
+        "text": "sweet",
+        "frequency": 100
+      },
+      {
+        "text": "cute",
+        "frequency": 100
+      },
+      {
+        "text": "candy",
+        "frequency": 100
+      },
+      {
+        "text": "sugar",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "serebo",
+    "id": "serebo",
+    "definitions": [
+      {
+        "text": "silver",
+        "frequency": 100
+      },
+      {
+        "text": "silvery",
+        "frequency": 100
+      },
+      {
+        "text": "silver metal",
+        "frequency": 100
+      },
+      {
+        "text": "precious",
+        "frequency": 100
+      },
+      {
+        "text": "silverware",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "shahada",
     "id": "utala",
     "definitions": [
       {
@@ -6856,73 +6942,7 @@
     ]
   },
   {
-    "word": "sami",
-    "id": "kala",
-    "definitions": [
-      {
-        "text": "fish",
-        "frequency": 100
-      },
-      {
-        "text": "sea creature",
-        "frequency": 100
-      },
-      {
-        "text": "salmon",
-        "frequency": 100
-      }
-    ]
-  },
-  {
-    "word": "sawa",
-    "id": "suwi",
-    "definitions": [
-      {
-        "text": "sweet",
-        "frequency": 100
-      },
-      {
-        "text": "cute",
-        "frequency": 100
-      },
-      {
-        "text": "candy",
-        "frequency": 100
-      },
-      {
-        "text": "sugar",
-        "frequency": 100
-      }
-    ]
-  },
-  {
-    "word": "serebo",
-    "id": "serebo",
-    "definitions": [
-      {
-        "text": "silver",
-        "frequency": 100
-      },
-      {
-        "text": "silvery",
-        "frequency": 100
-      },
-      {
-        "text": "silver metal",
-        "frequency": 100
-      },
-      {
-        "text": "precious",
-        "frequency": 100
-      },
-      {
-        "text": "silverware",
-        "frequency": 100
-      }
-    ]
-  },
-  {
-    "word": "ŝi",
+    "word": "shi",
     "id": "la",
     "definitions": [
       {
@@ -6932,7 +6952,7 @@
     ]
   },
   {
-    "word": "ŝire",
+    "word": "shire",
     "id": "sona",
     "definitions": [
       {
@@ -7464,7 +7484,7 @@
     ]
   },
   {
-    "word": "taĉi",
+    "word": "tachi",
     "id": "nasin",
     "definitions": [
       {
@@ -7875,28 +7895,6 @@
       },
       {
         "text": "kick",
-        "frequency": 100
-      }
-    ]
-  },
-  {
-    "word": "tetenqhiaką",
-    "id": "len noka",
-    "definitions": [
-      {
-        "text": "boot",
-        "frequency": 100
-      },
-      {
-        "text": "shoe",
-        "frequency": 100
-      },
-      {
-        "text": "sock",
-        "frequency": 100
-      },
-      {
-        "text": "pants",
         "frequency": 100
       }
     ]
@@ -8656,8 +8654,8 @@
     ]
   },
   {
-    "word": "ẑamu",
-    "id": "ẑamu",
+    "word": "zhamu",
+    "id": "sewi, jan sewi",
     "definitions": [
       {
         "text": "God",
@@ -8665,6 +8663,24 @@
       },
       {
         "text": "deity",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "zhupi",
+    "id": "pipi",
+    "definitions": [
+      {
+        "text": "bug",
+        "frequency": 100
+      },
+      {
+        "text": "insect",
+        "frequency": 100
+      },
+      {
+        "text": "spider",
         "frequency": 100
       }
     ]
@@ -8699,24 +8715,6 @@
       },
       {
         "text": "(pronoun) you",
-        "frequency": 100
-      }
-    ]
-  },
-  {
-    "word": "zupi",
-    "id": "pipi",
-    "definitions": [
-      {
-        "text": "bug",
-        "frequency": 100
-      },
-      {
-        "text": "insect",
-        "frequency": 100
-      },
-      {
-        "text": "spider",
         "frequency": 100
       }
     ]

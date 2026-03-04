@@ -236,3 +236,6 @@
 * though *-t* and *-óy* particles are not often used in Modern Tawa, they can be essential sometimes
 * take the case of *ainàwa* - it can mean glee or cunning both
 * to disambiguate, you use **ainàwat** for cunning or devious and **ainàwaóy** for empathetic
+
+## 0.16 Orthography
+* Refer to the Orthography Reference for updates on this

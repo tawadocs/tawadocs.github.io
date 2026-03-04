@@ -1,0 +1,260 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Pàmya Tawaji | Orthography</title>
+        <link
+            href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;600;800&display=swap"
+            rel="stylesheet"
+        />
+        <style>
+            :root {
+                --bg: #0b0e11;
+                --card-bg: #161b22;
+                --accent: #818cf8;
+                --text: #e2e8f0;
+                --text-muted: #94a3b8;
+                --border: rgba(255, 255, 255, 0.06);
+                --success: #10b981;
+            }
+
+            body {
+                background: var(--bg);
+                color: var(--text);
+                font-family: "Plus Jakarta Sans", sans-serif;
+                margin: 0;
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                padding: 4rem 2rem;
+            }
+
+            .container {
+                max-width: 800px;
+                width: 100%;
+            }
+
+            .back-link {
+                text-decoration: none;
+                color: var(--accent);
+                font-weight: 600;
+                font-size: 0.9rem;
+                display: inline-block;
+                margin-bottom: 2rem;
+                transition: 0.2s;
+            }
+
+            .back-link:hover {
+                opacity: 0.8;
+                transform: translateX(-4px);
+            }
+
+            h1 {
+                font-size: 3rem;
+                font-weight: 800;
+                margin: 0;
+                letter-spacing: -0.04em;
+            }
+
+            /* Revision Alert Section */
+            .revision-card {
+                background: rgba(129, 140, 248, 0.1);
+                border: 1px solid var(--accent);
+                border-radius: 16px;
+                padding: 1.5rem;
+                margin: 2rem 0;
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+                animation: pulse 2s infinite;
+            }
+
+            @keyframes pulse {
+                0% {
+                    box-shadow: 0 0 0 0 rgba(129, 140, 248, 0.2);
+                }
+                70% {
+                    box-shadow: 0 0 0 10px rgba(129, 140, 248, 0);
+                }
+                100% {
+                    box-shadow: 0 0 0 0 rgba(129, 140, 248, 0);
+                }
+            }
+
+            .revision-info h3 {
+                margin: 0;
+                color: var(--accent);
+            }
+            .revision-info p {
+                margin: 4px 0 0 0;
+                font-size: 0.9rem;
+                color: var(--text-muted);
+            }
+
+            .view-changes-btn {
+                background: var(--accent);
+                color: var(--bg);
+                padding: 0.8rem 1.2rem;
+                border-radius: 8px;
+                text-decoration: none;
+                font-weight: 800;
+                font-size: 0.8rem;
+                text-transform: uppercase;
+                transition: 0.2s;
+            }
+
+            .view-changes-btn:hover {
+                transform: scale(1.05);
+                filter: brightness(1.1);
+            }
+
+            /* Content Sections */
+            .content-section {
+                background: var(--card-bg);
+                border: 1px solid var(--border);
+                border-radius: 16px;
+                padding: 2.5rem;
+                margin-bottom: 2rem;
+            }
+
+            table {
+                width: 100%;
+                border-collapse: collapse;
+                margin-top: 1rem;
+            }
+
+            th {
+                text-align: left;
+                color: var(--accent);
+                padding: 12px;
+                border-bottom: 1px solid var(--border);
+            }
+            td {
+                padding: 12px;
+                border-bottom: 1px solid var(--border);
+            }
+
+            .old-val {
+                color: #f87171;
+                text-decoration: line-through;
+                opacity: 0.6;
+            }
+            .new-val {
+                color: var(--success);
+                font-weight: 600;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="container">
+            <a href="/" class="back-link">← Back to Home</a>
+
+            <header>
+                <h1>Pàmya Tawaji</h1>
+                <p style="color: var(--text-muted)">
+                    The standard system for writing and phonology.
+                </p>
+            </header>
+
+            <div class="revision-card" id="revision">
+                <div class="revision-info">
+                    <h3>Orthography Revision 2.0</h3>
+                    <p>
+                        Recent updates to vowel marking and consonant graphemes.
+                    </p>
+                </div>
+                <a href="#changelog" class="view-changes-btn"
+                    >See What Changed</a
+                >
+            </div>
+
+            <section class="content-section">
+                <h2>Vowels & Diacritics</h2>
+                <p>
+                    Tawa uses a specialised set of diacritics to represent
+                    nasalisation. The current standard focuses on legibility and
+                    digital compatibility. However, do note that many dictionary
+                    semantic space entries will most likely keep the old writing
+                    system (e.g., ŝ instead of sh). Please do not be confused by
+                    and use the 2nd revision.
+                </p>
+
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Character</th>
+                            <th>Description</th>
+                            <th>Example</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>Á / á</td>
+                            <td>Peripheral vowels</td>
+                            <td>Áa sorala chien hya?</td>
+                        </tr>
+                        <tr>
+                            <td>Ã / ã</td>
+                            <td>Nasal vowels</td>
+                            <td>Koryã?</td>
+                        </tr>
+                        <tr>
+                            <td>Sh / sh</td>
+                            <td>Devoiced sibilant consonant</td>
+                            <td>Na′a earu shi wua earu</td>
+                        </tr>
+                        <tr>
+                            <td>Zh / zh</td>
+                            <td>Voiced sibilant consonant</td>
+                            <td>Zhamunan ni ii'iil!</td>
+                        </tr>
+                        <tr>
+                            <td>Ch / ch</td>
+                            <td>Affricate consonant</td>
+                            <td>Zua au chi hya?</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </section>
+
+            <section class="content-section" id="changelog">
+                <h2>Revision Log</h2>
+                <p>
+                    The following changes were implemented in the latest update
+                    to streamline the writing system.
+                </p>
+
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Feature</th>
+                            <th>Previous</th>
+                            <th>Current (New)</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>Nasal Marker</td>
+                            <td><span class="old-val">ą (ogonek)</span></td>
+                            <td><span class="new-val">~ (tilde)</span></td>
+                        </tr>
+                        <tr>
+                            <td>Peripheral vowel marking</td>
+                            <td>
+                                <span class="old-val"
+                                    >Mandatory for source</span
+                                >
+                            </td>
+                            <td>
+                                <span class="new-val"
+                                    >Unmarked for source particles</span
+                                >
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </section>
+        </div>
+    </body>
+</html>
