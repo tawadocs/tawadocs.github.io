@@ -8,7 +8,7 @@
 | **Alveolar**       |         | n      | s z       |           | ɺ ɾ      |       |             |
 | **Alveolopalatal** |         | nʲ     | ɕ ʑ       | t͡ɕ d͡ʑ   |          |       |             |
 | **Palatal**        |         |        | ç͡j       | c͡ç       |          | j     | ʎ           |
-| **Velar**          | k kʰ g  |        |           |           |          |       |             |
+| **Velar**          | k kʰ g  | ŋ      |           |           |          |       |             |
 | **Labiovelar**     |         |        |           |           |          | w     |             |
 | **Uvular**         |         | ɴ      |           |           |          |       |             |
 | **Glottal**        | ʔ       |        | h         |           |          |       |             |
