@@ -1802,6 +1802,22 @@
       {
         "text": "infection",
         "frequency": 100
+      },
+      {
+        "text": "donkey",
+        "frequency": 100
+      },
+      {
+        "text": "mule",
+        "frequency": 100
+      },
+      {
+        "text": "gorilla",
+        "frequency": 100
+      },
+      {
+        "text": "monkey",
+        "frequency": 100
       }
     ]
   },
