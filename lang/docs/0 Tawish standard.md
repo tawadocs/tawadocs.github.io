@@ -227,3 +227,7 @@
 	* ***az**uru* -> **azaz**uru
 * For words like *ii*, the reduplicated sequence should be separated with a simple *'* - so **iiii** is written as *ii'ii*
 * Do note that reduplication is the only instance where *'* or *′* is not pronounced as a glottal stop
+
+## 0.14 Nasalised labiodental approximant
+* Modern Tawa fully lost this sound :(
+* it no longer appears anywhere

@@ -2,7 +2,7 @@
 |                    | Plosive | Nasal  | Fricative | Affricate | Tap/flap | Glide | Approximant |
 | ------------------ | ------- | ------ | --------- | --------- | -------- | ----- | ----------- |
 | **Bilabial**       | b p     | m m̥͡m | ɸ         |           |          |       |             |
-| **Labiodental**    |         |        |           |           |          |       | ʋ ʋ̃        |
+| **Labiodental**    |         |        |           |           |          |       | ʋ           |
 | **Linguolabial**   |         | n̼     |           |           |          |       |             |
 | **Dentialveolar**  | t tʰ d  |        |           | t͡s d͡z   |          |       | l           |
 | **Alveolar**       |         | n      | s z       |           | ɺ ɾ      |       |             |

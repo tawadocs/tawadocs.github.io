@@ -18,7 +18,6 @@
 		* ~"taste"
 * If noun-compounding has to be marked (it usually doesn't), then use *ce*:
 	* *sora ce ĉi* -> `sky LINK water`
-* Though most of the times an adjective may be used instead, there are some circumstances where *v'* is better to use
 * *ų* is used to let other verbs modify verbs but not for adverbs
 * Adverbs still use *ą*, like *riwakakikitą* (to think lovingly)
 
