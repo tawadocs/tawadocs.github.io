@@ -231,3 +231,8 @@
 ## 0.14 Nasalised labiodental approximant
 * Modern Tawa fully lost this sound :(
 * it no longer appears anywhere
+
+## 0.15 Positive/negative connotation
+* though *-t* and *-óy* particles are not often used in Modern Tawa, they can be essential sometimes
+* take the case of *ainàwa* - it can mean glee or cunning both
+* to disambiguate, you use **ainàwat** for cunning or devious and **ainàwaóy** for empathetic

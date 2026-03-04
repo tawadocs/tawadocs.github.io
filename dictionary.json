@@ -108,6 +108,154 @@
     ]
   },
   {
+    "word": "aiŝi",
+    "id": "pakala, pakala pilin",
+    "definitions": [
+      {
+        "text": "cut",
+        "frequency": 100
+      },
+      {
+        "text": "scrape",
+        "frequency": 100
+      },
+      {
+        "text": "bruise",
+        "frequency": 100
+      },
+      {
+        "text": "burn",
+        "frequency": 100
+      },
+      {
+        "text": "fracture",
+        "frequency": 100
+      },
+      {
+        "text": "stab",
+        "frequency": 100
+      },
+      {
+        "text": "puncture",
+        "frequency": 100
+      },
+      {
+        "text": "grief",
+        "frequency": 100
+      },
+      {
+        "text": "heartbreak",
+        "frequency": 100
+      },
+      {
+        "text": "betrayal",
+        "frequency": 100
+      },
+      {
+        "text": "sting",
+        "frequency": 100
+      },
+      {
+        "text": "scar",
+        "frequency": 100
+      },
+      {
+        "text": "hurt",
+        "frequency": 100
+      },
+      {
+        "text": "wound",
+        "frequency": 100
+      },
+      {
+        "text": "injure",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "aiu",
+    "id": "seli suli",
+    "definitions": [
+      {
+        "text": "phoenix",
+        "frequency": 100
+      },
+      {
+        "text": "fire",
+        "frequency": 100
+      },
+      {
+        "text": "fiery",
+        "frequency": 100
+      },
+      {
+        "text": "ablaze",
+        "frequency": 100
+      },
+      {
+        "text": "burning",
+        "frequency": 100
+      },
+      {
+        "text": "flame",
+        "frequency": 100
+      },
+      {
+        "text": "spark",
+        "frequency": 100
+      },
+      {
+        "text": "ignite",
+        "frequency": 100
+      },
+      {
+        "text": "white-hot",
+        "frequency": 100
+      },
+      {
+        "text": "sterilise",
+        "frequency": 100
+      },
+      {
+        "text": "passion",
+        "frequency": 100
+      },
+      {
+        "text": "desire",
+        "frequency": 100
+      },
+      {
+        "text": "rage",
+        "frequency": 100
+      },
+      {
+        "text": "enlightenment",
+        "frequency": 100
+      },
+      {
+        "text": "hellfire",
+        "frequency": 100
+      },
+      {
+        "text": "bonfire",
+        "frequency": 100
+      },
+      {
+        "text": "fireworks",
+        "frequency": 100
+      },
+      {
+        "text": "ambition",
+        "frequency": 100
+      },
+      {
+        "text": "fire",
+        "frequency": 100
+      }
+    ]
+  },
+  {
     "word": "antaka",
     "id": "kijetesantakalu",
     "definitions": [
@@ -962,6 +1110,72 @@
     "id": "epiku"
   },
   {
+    "word": "esàce",
+    "id": "telo lejo",
+    "definitions": [
+      {
+        "text": "blood",
+        "frequency": 100
+      },
+      {
+        "text": "bleed",
+        "frequency": 100
+      },
+      {
+        "text": "((to) draw) blood",
+        "frequency": 100
+      },
+      {
+        "text": "twist",
+        "frequency": 100
+      },
+      {
+        "text": "churn (painfully)",
+        "frequency": 100
+      },
+      {
+        "text": "rip off",
+        "frequency": 100
+      },
+      {
+        "text": "dislocate",
+        "frequency": 100
+      },
+      {
+        "text": "pop",
+        "frequency": 100
+      },
+      {
+        "text": "deglove",
+        "frequency": 100
+      },
+      {
+        "text": "open fracture",
+        "frequency": 100
+      },
+      {
+        "text": "sunder",
+        "frequency": 100
+      },
+      {
+        "text": "lacerate",
+        "frequency": 100
+      },
+      {
+        "text": "torque",
+        "frequency": 100
+      },
+      {
+        "text": "spall",
+        "frequency": 100
+      },
+      {
+        "text": "behead",
+        "frequency": 100
+      }
+    ]
+  },
+  {
     "word": "fajà",
     "id": "kipisi",
     "definitions": [
@@ -1807,6 +2021,88 @@
     "definitions": [
       {
         "text": "absurdity",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "hajira",
+    "id": "hon sewi",
+    "definitions": [
+      {
+        "text": "angel",
+        "frequency": 100
+      },
+      {
+        "text": "divine",
+        "frequency": 100
+      },
+      {
+        "text": "angelic",
+        "frequency": 100
+      },
+      {
+        "text": "holy",
+        "frequency": 100
+      },
+      {
+        "text": "heavenly",
+        "frequency": 100
+      },
+      {
+        "text": "saint",
+        "frequency": 100
+      },
+      {
+        "text": "numinous",
+        "frequency": 100
+      },
+      {
+        "text": "virtuous",
+        "frequency": 100
+      },
+      {
+        "text": "benevolent",
+        "frequency": 100
+      },
+      {
+        "text": "sacred",
+        "frequency": 100
+      },
+      {
+        "text": "sublime",
+        "frequency": 100
+      },
+      {
+        "text": "ethereal",
+        "frequency": 100
+      },
+      {
+        "text": "exalted",
+        "frequency": 100
+      },
+      {
+        "text": "radiant",
+        "frequency": 100
+      },
+      {
+        "text": "transcending",
+        "frequency": 100
+      },
+      {
+        "text": "pure",
+        "frequency": 100
+      },
+      {
+        "text": "ineffable",
+        "frequency": 100
+      },
+      {
+        "text": "supernatural",
+        "frequency": 100
+      },
+      {
+        "text": "awe-inspiring",
         "frequency": 100
       }
     ]
@@ -5358,6 +5654,64 @@
     ]
   },
   {
+    "word": "narana",
+    "id": "toki pi insa",
+    "definitions": [
+      {
+        "text": "secret",
+        "frequency": 100
+      },
+      {
+        "text": "classified",
+        "frequency": 100
+      },
+      {
+        "text": "hidden",
+        "frequency": 100
+      },
+      {
+        "text": "unknown",
+        "frequency": 100
+      },
+      {
+        "text": "obscured",
+        "frequency": 100
+      },
+      {
+        "text": "cryptic",
+        "frequency": 100
+      },
+      {
+        "text": "ominous",
+        "frequency": 100
+      },
+      {
+        "text": "arcane",
+        "frequency": 100
+      },
+      {
+        "text": "esoteric",
+        "frequency": 100
+      },
+      {
+        "text": "concealled",
+        "frequency": 100
+      },
+      {
+        "text": "mystery",
+        "frequency": 100
+      },
+      {
+        "text": "off the record",
+        "frequency": 100
+      },
+      {
+        "text": "surreptitious",
+        "frequency": 100
+      }
+    ]
+  },
+  {
     "word": "naŝita",
     "id": "seli",
     "definitions": [
@@ -5467,6 +5821,40 @@
       },
       {
         "text": "stair",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "ngopo",
+    "id": "sike insa, insa",
+    "definitions": [
+      {
+        "text": "intestines",
+        "frequency": 100
+      },
+      {
+        "text": "colon",
+        "frequency": 100
+      },
+      {
+        "text": "guts",
+        "frequency": 100
+      },
+      {
+        "text": "gastrointestinal tract",
+        "frequency": 100
+      },
+      {
+        "text": "digestive system",
+        "frequency": 100
+      },
+      {
+        "text": "digest",
+        "frequency": 100
+      },
+      {
+        "text": "churn",
         "frequency": 100
       }
     ]
@@ -6214,6 +6602,10 @@
       {
         "text": "comfort",
         "frequency": 100
+      },
+      {
+        "text": "piece",
+        "frequency": 100
       }
     ]
   },
@@ -6897,6 +7289,52 @@
       },
       {
         "text": "agenda",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "sumatà",
+    "id": "insa sijelo",
+    "definitions": [
+      {
+        "text": "liver",
+        "frequency": 100
+      },
+      {
+        "text": "endearment",
+        "frequency": 100
+      },
+      {
+        "text": "intense",
+        "frequency": 100
+      },
+      {
+        "text": "courage",
+        "frequency": 100
+      },
+      {
+        "text": "bravery",
+        "frequency": 100
+      },
+      {
+        "text": "essence",
+        "frequency": 100
+      },
+      {
+        "text": "subconscious",
+        "frequency": 100
+      },
+      {
+        "text": "soul",
+        "frequency": 100
+      },
+      {
+        "text": "the self",
+        "frequency": 100
+      },
+      {
+        "text": "dear",
         "frequency": 100
       }
     ]
