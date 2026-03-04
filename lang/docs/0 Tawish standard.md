@@ -248,3 +248,4 @@
 	* *su ni iinq hon mermhhi, mo mo korrumasrra!* -> `1SG TOP good-INV person try.IRR.N.PLAT.BACK then then kill.V.PLAT-AG-NEG`
 		* "I might be a bad person, but I am (certainly not) a killer!"
 			* *mo mo* has a tendency to create strong contrastives, so 'certainly not' is automatic here
+* do note that **meromho, meromhhi,** and **mermhohi** are fine
