@@ -238,4 +238,13 @@
 * to disambiguate, you use **ainàwat** for cunning or devious and **ainàwaóy** for empathetic
 
 ## 0.16 Orthography
-* Refer to the Orthography Reference for updates on this
+* refer to the Orthography Reference for updates on this
+
+## 0.17 Using modals as phrasal modifiers
+* modals can be used as phrasal modifiers
+* they can also modify words
+* you must use a noun form
+* here is an example using *mermho* `['me.ɺ.m̥͡mo]`
+	* *su ni iinq hon mermhhi, mo mo korrumasrra!* -> `1SG TOP good-INV person try.IRR.N.PLAT.BACK then then kill.V.PLAT-AG-NEG`
+		* "I might be a bad person, but I am (certainly not) a killer!"
+			* *mo mo* has a tendency to create strong contrastives, so 'certainly not' is automatic here
