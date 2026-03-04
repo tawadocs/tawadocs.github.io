@@ -5908,6 +5908,20 @@
     ]
   },
   {
+    "word": "ngoshi",
+    "id": "waso",
+    "definitions": [
+      {
+        "text": "bird",
+        "frequency": 100
+      },
+      {
+        "text": "chicken",
+        "frequency": 100
+      }
+    ]
+  },
+  {
     "word": "nigo",
     "id": "nigo",
     "definitions": [
@@ -6106,15 +6120,27 @@
     ]
   },
   {
-    "word": "omuko",
-    "id": "waso",
+    "word": "omoko",
+    "id": "waso, waso moku",
     "definitions": [
       {
-        "text": "bird",
+        "text": "chicken",
         "frequency": 100
       },
       {
-        "text": "chicken",
+        "text": "turkey",
+        "frequency": 100
+      },
+      {
+        "text": "white meat",
+        "frequency": 100
+      },
+      {
+        "text": "duck",
+        "frequency": 100
+      },
+      {
+        "text": "pheasant",
         "frequency": 100
       }
     ]
