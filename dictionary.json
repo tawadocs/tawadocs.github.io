@@ -2362,6 +2362,52 @@
     ]
   },
   {
+    "word": "hakashi",
+    "id": "kulupu mama",
+    "definitions": [
+      {
+        "text": "kin",
+        "frequency": 100
+      },
+      {
+        "text": "parent",
+        "frequency": 100
+      },
+      {
+        "text": "ancestor",
+        "frequency": 100
+      },
+      {
+        "text": "child",
+        "frequency": 100
+      },
+      {
+        "text": "descendant",
+        "frequency": 100
+      },
+      {
+        "text": "progeny",
+        "frequency": 100
+      },
+      {
+        "text": "relative",
+        "frequency": 100
+      },
+      {
+        "text": "family",
+        "frequency": 100
+      },
+      {
+        "text": "extended family",
+        "frequency": 100
+      },
+      {
+        "text": "in-laws",
+        "frequency": 100
+      }
+    ]
+  },
+  {
     "word": "haku",
     "id": "powe ala",
     "definitions": [
