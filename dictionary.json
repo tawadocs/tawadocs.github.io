@@ -302,6 +302,80 @@
     ]
   },
   {
+    "word": "anana",
+    "id": "kama sona, kama lukin",
+    "definitions": [
+      {
+        "text": "encounter",
+        "frequency": 100
+      },
+      {
+        "text": "(come) face-to-face",
+        "frequency": 100
+      },
+      {
+        "text": "gather",
+        "frequency": 100
+      },
+      {
+        "text": "assemble",
+        "frequency": 100
+      },
+      {
+        "text": "spatially intersect",
+        "frequency": 100
+      },
+      {
+        "text": "confront",
+        "frequency": 100
+      },
+      {
+        "text": "satisfy",
+        "frequency": 100
+      },
+      {
+        "text": "fulfil",
+        "frequency": 100
+      },
+      {
+        "text": "receive",
+        "frequency": 100
+      },
+      {
+        "text": "experience",
+        "frequency": 100
+      },
+      {
+        "text": "meet",
+        "frequency": 100
+      },
+      {
+        "text": "oppose",
+        "frequency": 100
+      },
+      {
+        "text": "compete",
+        "frequency": 100
+      },
+      {
+        "text": "appropriate",
+        "frequency": 100
+      },
+      {
+        "text": "suitable",
+        "frequency": 100
+      },
+      {
+        "text": "germane",
+        "frequency": 100
+      },
+      {
+        "text": "properly",
+        "frequency": 100
+      }
+    ]
+  },
+  {
     "word": "antaka",
     "id": "kijetesantakalu",
     "definitions": [
@@ -8538,7 +8612,7 @@
     "id": "kulupu",
     "definitions": [
       {
-        "text": "organization",
+        "text": "organisation",
         "frequency": 100
       },
       {
