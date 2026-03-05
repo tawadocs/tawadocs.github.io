@@ -250,4 +250,24 @@
 			* *mo mo* has a tendency to create strong contrastives, so 'certainly not' is automatic here
 * do note that **meromho, meromhhi,** and **mermhohi** are fine
 
-## 0.18 
+## 0.18 Compounding
+* Tawa loves compounding, so do make extensive use of it!
+* for example, verbs are frequently compounded:
+	* *kiukennanda* -> `fly.NMLZ-down`
+		* "flying down"
+	* *senodzunanda* -> `send.V.PLAT-down`
+		* "to send down"
+* see these two sentences, for example:
+	* *honmyã ni senodzunanda Grránd-Cányín'ikullanh* -> `person-QNT.MOD TOP send.V.PLAT-down grand-canyon-PERS-ABL`
+		* "Many people plunge off the Grand Canyon"
+	* *zhupil ni hateruthunandanq asagalnin* -> `spider-DEF TOP run.V.PLAT-PFV.V.PLAT-down-INV house-side-DEF-PER`
+		* "The spider ran up the wall"
+* so always use compounding for modification whenever possible; the particles -ã and -bu aren't meant to take on these roles
+* haterunandã would be to 'run downingly' and haterunandabu is even worse, meaning 'to run downishingly'
+	* if you want to say that their running was 'down' in some manner, go wild
+	* and if you want to say it was approximately down or had a property of down, sure, -bu works
+	* but otherwise, use compounding!
+
+## 0.19 Dictionary inaccuracies
+* some sentence examples in the dictionary's semantic space may be incorrect
+* if unsure, try to reconstruct them yourself or translate them from Japanese, since Tawa is closer to Japanese than it is to most other languages
