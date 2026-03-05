@@ -61,9 +61,13 @@
 ## 0.3 Marking
 * see Morphophonemics:4, though do note that Morphophonemics may also not be standardised; trust only this document
 
-## 0.4 Liquid clusters
+## 0.4 Liquid clusters and other phonology
 * liquid clashes [ɺl lɺ, ɺɾ, ɾɺ ʎl ʎɺ] are banned
 	* [ɺʎ] or [lʎ] *could be* fine, though
+
+### 0.4.1 Phonetic pronunciation of hi
+* **hi** is always pronounced ['çi] and never [j̊i] (which may appear in the older documents)
+* so be it nihi or ohira, **hi** is always ['çi]
 
 ## 0.5 Product (tei) vs. noun particles
 * in Modern Tawa, *tei* and noun particles *(y)ĉ* and *nyĉ* aren't very different
