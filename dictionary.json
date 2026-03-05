@@ -700,6 +700,44 @@
     ]
   },
   {
+    "word": "bobo",
+    "id": "nasa, ike, sona ala",
+    "definitions": [
+      {
+        "text": "stupid",
+        "frequency": 100
+      },
+      {
+        "text": "idiot",
+        "frequency": 100
+      },
+      {
+        "text": "simpleton",
+        "frequency": 100
+      },
+      {
+        "text": "braindead",
+        "frequency": 100
+      },
+      {
+        "text": "retard",
+        "frequency": 100
+      },
+      {
+        "text": "intellectually disabled",
+        "frequency": 100
+      },
+      {
+        "text": "clueless",
+        "frequency": 100
+      },
+      {
+        "text": "bereft of frontal lobe",
+        "frequency": 100
+      }
+    ]
+  },
+  {
     "word": "buni",
     "id": "kapesi",
     "definitions": [
@@ -1774,28 +1812,6 @@
     ]
   },
   {
-    "word": "fofvoof",
-    "id": "uta",
-    "definitions": [
-      {
-        "text": "mouth",
-        "frequency": 100
-      },
-      {
-        "text": "lip",
-        "frequency": 100
-      },
-      {
-        "text": "kiss",
-        "frequency": 100
-      },
-      {
-        "text": "jaw",
-        "frequency": 100
-      }
-    ]
-  },
-  {
     "word": "fosho",
     "id": "mije sama",
     "definitions": [
@@ -2379,6 +2395,36 @@
       },
       {
         "text": "nose",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "harana",
+    "id": "uta",
+    "definitions": [
+      {
+        "text": "mouth",
+        "frequency": 100
+      },
+      {
+        "text": "lip",
+        "frequency": 100
+      },
+      {
+        "text": "kiss",
+        "frequency": 100
+      },
+      {
+        "text": "jaw",
+        "frequency": 100
+      },
+      {
+        "text": "french kiss",
+        "frequency": 100
+      },
+      {
+        "text": "tongue",
         "frequency": 100
       }
     ]
@@ -3673,6 +3719,52 @@
       },
       {
         "text": "port",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "kachi",
+    "id": "uta e X, moku",
+    "definitions": [
+      {
+        "text": "bite",
+        "frequency": 100
+      },
+      {
+        "text": "nibble",
+        "frequency": 100
+      },
+      {
+        "text": "gnaw",
+        "frequency": 100
+      },
+      {
+        "text": "chomp",
+        "frequency": 100
+      },
+      {
+        "text": "chew",
+        "frequency": 100
+      },
+      {
+        "text": "snap (at food)",
+        "frequency": 100
+      },
+      {
+        "text": "munch",
+        "frequency": 100
+      },
+      {
+        "text": "nip",
+        "frequency": 100
+      },
+      {
+        "text": "clamp down",
+        "frequency": 100
+      },
+      {
+        "text": "graze (lightly)",
         "frequency": 100
       }
     ]
