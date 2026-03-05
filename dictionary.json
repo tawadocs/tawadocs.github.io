@@ -3746,6 +3746,10 @@
       {
         "text": "prodrug",
         "frequency": 100
+      },
+      {
+        "text": "medicine",
+        "frequency": 100
       }
     ]
   },
