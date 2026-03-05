@@ -71,47 +71,28 @@
 
 
 ## 2.4 Source-based derivation
-| Base form | IPA    | Gloss     |
-| --------- | ------ | --------- |
-| ááf     | `æːɸ`  | SRC.WHOLE |
-| áác     | `æːkʰ` | SRC.PART  |
-| áán     | `æːn`  | SRC.LEX   |
-* When this particle attaches to a root, it triggers a vowel change to the last vowel, turning it into its peripheral counterpart
-	* for example:
-		* *kita* (like) + *-v(VV)f* -> *kitvááf* (heart)
-* The last vowel of the root it attaches to is replaced with a *-v* and after the *v* that same vowel is added again but doubled in its peripheral form
-* If a root does not end in a vowel, their base forms *-áác* and *-ááf* are used:
-	* *honáác*
-	* *honááf*
-
-### 2.4.1 Usage
-* Both of these particles are used to derive a source from out of a root
-* Depending on the particle used, that source is either the fine active part in use or the source as a whole
-	* e.g., *kitváác* can mean cardiac muscle or parts of the heart, or it can mean the specific emotion (e.g., longing, attachment, etc.) itself depending on the context
-* So, for example, the source of eating is our mouth as a whole, but the fine active parts involved are mostly the teeth, and depending on context, the throat
-* These particles can also be used metaphorically, like the source of our liking is not the brain but rather our heart
-* Valency does not matter:
-	* *fofvóóf* (*fofo* + *-ááf*) -> `speak.SRC.WHOLE`
-		* "mouth ~ tongue ~ voice box"
-	* *fofnnavííf* (*fofo* + *nai* + *-ááf*) -> `speak-IV.SRC.WHOLE`
-		* "mouth ~ tongue ~ voice box"
+| Base form | IPA  | Gloss     |
+| --------- | ---- | --------- |
+| ngo       | `ŋo` | SRC.WHOLE |
+| nga       | `ŋa` | SRC.PART  |
+| ngu       | `ŋu` | SRC.LEX   |
+* These particles help with deriving the source of a word
+* They are irregular particles and don't inflect, even if it's an o-root
+* Kamo + ngo -> kamongo (**only**), never kamngo
+* The word for thinking is riwaka and it can also mean brain
+* If you want to explicitly say the brain, you could say:
+	* *riwakango*
+* Or you could specify exactly which part:
+	* *riwakanga* (the frontal lobe ~ prefrontal cortex, since that's where thinking occurs)
+* And you may use another word for another brain part:
+	* *tawakomuninga* (cerebellum ~ basal ganglia)
+		* tawakomuni -> the master of movement
+		* tawakomuninga, therefore, refers to the parts of the brain that primarily control psychomotor coordination
+* The particles are insensitive to valency
+* Korongo (the Angel of Death or Grim Reaper) is not different from **koronaingo** - koronaingo is actually a very redundant construction
 
 ### 2.4.3 Lexical source
-* *áán* is used for lexical source
-* It does not trigger a *-v-* to be attached and the last vowel be placed after this *v*
-* The format for *áán* is **VVn** where **VV** is the peripheral form of the final long-vowel in a root
-* In the root *mafo*, for example, the last vowel is *o*
-* In its peripheral long-form, this would be *öö*
-* *mafo* + **VVn** (*-áán*) yields *mafóón*
-* *mafo* means "red"
-* The lexical source of red is "colour," so *mafóón* simply means colour
-
-### 2.4.4 Labiodentalisation
-* When a source is derived this way, the consonant sound is labiodentalised:
-	* *riwakvááf* -> [ɺiwakᶹæːɸ]
-
-### 2.4.4 Specifying figurativeness
-* The particles *ku* and *kunh* can be used:
-	* *kitvááfku* -> heart (i.e., seat of emotions, feelings)
-	* *kitvááfkunh* -> heart (i.e., the physical organ)
-* However, these are usually not needed, as context is often enough
+* *-ngu* is used for lexical sources
+* This simply refers to the parent category of any root
+* So, mafongu would be 'reddish', since the parent category of 'mafo' (red) is, well, reddish colours
+	* it would refer to intense, emotional, angry, or 'reddish' colours, as opposed to azhurungu, which are cooler colours like grue

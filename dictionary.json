@@ -2012,28 +2012,6 @@
     ]
   },
   {
-    "word": "ganaan",
-    "id": "nimi",
-    "definitions": [
-      {
-        "text": "word",
-        "frequency": 100
-      },
-      {
-        "text": "name",
-        "frequency": 100
-      },
-      {
-        "text": "term",
-        "frequency": 100
-      },
-      {
-        "text": "title",
-        "frequency": 100
-      }
-    ]
-  },
-  {
     "word": "garibàn",
     "id": "nasa",
     "definitions": [
@@ -3863,6 +3841,28 @@
       },
       {
         "text": "toxic",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "kana",
+    "id": "nimi",
+    "definitions": [
+      {
+        "text": "word",
+        "frequency": 100
+      },
+      {
+        "text": "name",
+        "frequency": 100
+      },
+      {
+        "text": "term",
+        "frequency": 100
+      },
+      {
+        "text": "title",
         "frequency": 100
       }
     ]
@@ -6424,16 +6424,6 @@
     ]
   },
   {
-    "word": "nukaan",
-    "id": "kule",
-    "definitions": [
-      {
-        "text": "prototypical sense",
-        "frequency": 100
-      }
-    ]
-  },
-  {
     "word": "nuko",
     "id": "pilin",
     "definitions": [
@@ -6508,6 +6498,16 @@
     ]
   },
   {
+    "word": "nukonga",
+    "id": "kule",
+    "definitions": [
+      {
+        "text": "prototypical sense",
+        "frequency": 100
+      }
+    ]
+  },
+  {
     "word": "ohira",
     "id": "walo",
     "definitions": [
@@ -6517,6 +6517,10 @@
       },
       {
         "text": "pale",
+        "frequency": 100
+      },
+      {
+        "text": "milk",
         "frequency": 100
       }
     ]
