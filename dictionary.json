@@ -596,7 +596,7 @@
     ]
   },
   {
-    "word": "azuru",
+    "word": "azhuru",
     "id": "laso",
     "definitions": [
       {
@@ -823,6 +823,32 @@
       },
       {
         "text": "stomach",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "curujan",
+    "id": "kamalawala",
+    "definitions": [
+      {
+        "text": "anarchy",
+        "frequency": 100
+      },
+      {
+        "text": "uprising",
+        "frequency": 100
+      },
+      {
+        "text": "revolt",
+        "frequency": 100
+      },
+      {
+        "text": "rebellion",
+        "frequency": 100
+      },
+      {
+        "text": "unjust war",
         "frequency": 100
       }
     ]
@@ -3999,32 +4025,6 @@
       },
       {
         "text": "point a finger (at)",
-        "frequency": 100
-      }
-    ]
-  },
-  {
-    "word": "khurujan",
-    "id": "kamalawala",
-    "definitions": [
-      {
-        "text": "anarchy",
-        "frequency": 100
-      },
-      {
-        "text": "uprising",
-        "frequency": 100
-      },
-      {
-        "text": "revolt",
-        "frequency": 100
-      },
-      {
-        "text": "rebellion",
-        "frequency": 100
-      },
-      {
-        "text": "unjust war",
         "frequency": 100
       }
     ]
@@ -8661,6 +8661,100 @@
       },
       {
         "text": "right (not wrong)",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "utari",
+    "id": "kalama musi",
+    "definitions": [
+      {
+        "text": "music",
+        "frequency": 100
+      },
+      {
+        "text": "musical",
+        "frequency": 100
+      },
+      {
+        "text": "musical vocal sound",
+        "frequency": 100
+      },
+      {
+        "text": "sing",
+        "frequency": 100
+      },
+      {
+        "text": "song",
+        "frequency": 100
+      },
+      {
+        "text": "singysongy",
+        "frequency": 100
+      },
+      {
+        "text": "chant",
+        "frequency": 100
+      },
+      {
+        "text": "croon",
+        "frequency": 100
+      },
+      {
+        "text": "yodel",
+        "frequency": 100
+      },
+      {
+        "text": "serenade",
+        "frequency": 100
+      },
+      {
+        "text": "recite",
+        "frequency": 100
+      },
+      {
+        "text": "vocalise",
+        "frequency": 100
+      },
+      {
+        "text": "chirr",
+        "frequency": 100
+      },
+      {
+        "text": "chirp",
+        "frequency": 100
+      },
+      {
+        "text": "resonant",
+        "frequency": 100
+      },
+      {
+        "text": "pleasant sound",
+        "frequency": 100
+      },
+      {
+        "text": "give out information",
+        "frequency": 100
+      },
+      {
+        "text": "break confidentiality",
+        "frequency": 100
+      },
+      {
+        "text": "celebrate",
+        "frequency": 100
+      },
+      {
+        "text": "praise",
+        "frequency": 100
+      },
+      {
+        "text": "poetry",
+        "frequency": 100
+      },
+      {
+        "text": "melody",
         "frequency": 100
       }
     ]

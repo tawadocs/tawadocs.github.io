@@ -33,3 +33,13 @@
 		* *ryoẑią* -> then / back then / that time
 		* *byoẑią* -> now / this time
 		* *lyoẑią* -> long ago
+
+## 12.3 Degree
+* ryo, byo, and lyo can also be used for degree:
+	* *iiryą hya?* -> `good-DEM.PROX.MOD Q`
+		* "(this) good?"
+	* *iibyą hya?* -> `good-DEM.MED.MOD Q`
+		* "(that) good?"
+	* *iilyą* -> `good-DEM.DIST.MOD Q`
+		* "(really that) good?"
+* *lyą* is the most emphatic, with an added 'really' / 'super' nuance
