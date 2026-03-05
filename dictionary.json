@@ -792,6 +792,74 @@
       {
         "text": "seize",
         "frequency": 100
+      },
+      {
+        "text": "grab",
+        "frequency": 100
+      },
+      {
+        "text": "touch",
+        "frequency": 100
+      },
+      {
+        "text": "grasp",
+        "frequency": 100
+      },
+      {
+        "text": "clutch",
+        "frequency": 100
+      },
+      {
+        "text": "grip",
+        "frequency": 100
+      },
+      {
+        "text": "borrow",
+        "frequency": 100
+      },
+      {
+        "text": "cop a feel",
+        "frequency": 100
+      },
+      {
+        "text": "restrain",
+        "frequency": 100
+      },
+      {
+        "text": "detain",
+        "frequency": 100
+      },
+      {
+        "text": "confine",
+        "frequency": 100
+      },
+      {
+        "text": "immobilise",
+        "frequency": 100
+      },
+      {
+        "text": "hold",
+        "frequency": 100
+      },
+      {
+        "text": "take",
+        "frequency": 100
+      },
+      {
+        "text": "obtain",
+        "frequency": 100
+      },
+      {
+        "text": "acquire",
+        "frequency": 100
+      },
+      {
+        "text": "fondle",
+        "frequency": 100
+      },
+      {
+        "text": "harass",
+        "frequency": 100
       }
     ]
   },
@@ -6903,6 +6971,100 @@
       },
       {
         "text": "sugar",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "senodo",
+    "id": "pana e X tawa Y",
+    "definitions": [
+      {
+        "text": "send",
+        "frequency": 100
+      },
+      {
+        "text": "dispatch",
+        "frequency": 100
+      },
+      {
+        "text": "(to) forward",
+        "frequency": 100
+      },
+      {
+        "text": "remit",
+        "frequency": 100
+      },
+      {
+        "text": "transmit",
+        "frequency": 100
+      },
+      {
+        "text": "ship",
+        "frequency": 100
+      },
+      {
+        "text": "post",
+        "frequency": 100
+      },
+      {
+        "text": "text",
+        "frequency": 100
+      },
+      {
+        "text": "signal",
+        "frequency": 100
+      },
+      {
+        "text": "broadcast",
+        "frequency": 100
+      },
+      {
+        "text": "assign",
+        "frequency": 100
+      },
+      {
+        "text": "deploy",
+        "frequency": 100
+      },
+      {
+        "text": "transfer",
+        "frequency": 100
+      },
+      {
+        "text": "(to cause to) enter a state",
+        "frequency": 100
+      },
+      {
+        "text": "expel",
+        "frequency": 100
+      },
+      {
+        "text": "dismiss",
+        "frequency": 100
+      },
+      {
+        "text": "banish",
+        "frequency": 100
+      },
+      {
+        "text": "exile",
+        "frequency": 100
+      },
+      {
+        "text": "shoot",
+        "frequency": 100
+      },
+      {
+        "text": "shot",
+        "frequency": 100
+      },
+      {
+        "text": "throw",
+        "frequency": 100
+      },
+      {
+        "text": "plunge",
         "frequency": 100
       }
     ]

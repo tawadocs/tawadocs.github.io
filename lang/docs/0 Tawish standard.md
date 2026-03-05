@@ -249,3 +249,5 @@
 		* "I might be a bad person, but I am (certainly not) a killer!"
 			* *mo mo* has a tendency to create strong contrastives, so 'certainly not' is automatic here
 * do note that **meromho, meromhhi,** and **mermhohi** are fine
+
+## 0.18 
