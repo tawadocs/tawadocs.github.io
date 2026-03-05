@@ -288,6 +288,14 @@
 	* is it shorter and faster to say?
 * and then accordingly construct your sentences.
 
+### 0.18.2 O-roots
+* if the root you're compounding is an ′o-root, then the ending changes to the appropriate modifier particle and is placed after the word meant to be modified
+* here are some examples:
+	* **utari** (sing) + **miro** (reflect)
+		* **utarimirã** (melodious reverberations)
+	* **kiteki** (thing) + **kamo** (food)
+		* **kiteikambu** (a sort of edible item, a foodish item, an item with (some or any) property of food)
+
 ## 0.19 Dictionary inaccuracies
 * some sentence examples in the dictionary's semantic space may be incorrect
 * if unsure, try to reconstruct them yourself or translate them from Japanese, since Tawa is closer to Japanese than it is to most other languages
