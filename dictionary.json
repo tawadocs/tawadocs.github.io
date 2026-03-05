@@ -2528,52 +2528,6 @@
     ]
   },
   {
-    "word": "hingo",
-    "id": "ko pi pona moku",
-    "definitions": [
-      {
-        "text": "medication",
-        "frequency": 100
-      },
-      {
-        "text": "medicine",
-        "frequency": 100
-      },
-      {
-        "text": "drug",
-        "frequency": 100
-      },
-      {
-        "text": "narcotics",
-        "frequency": 100
-      },
-      {
-        "text": "psychoactive compounds",
-        "frequency": 100
-      },
-      {
-        "text": "intoxicant",
-        "frequency": 100
-      },
-      {
-        "text": "analgesic",
-        "frequency": 100
-      },
-      {
-        "text": "psychedelics",
-        "frequency": 100
-      },
-      {
-        "text": "steroids",
-        "frequency": 100
-      },
-      {
-        "text": "prodrug",
-        "frequency": 100
-      }
-    ]
-  },
-  {
     "word": "hiroga",
     "id": "ma ale",
     "definitions": [
@@ -3734,6 +3688,10 @@
     "id": "ko",
     "definitions": [
       {
+        "text": "drug",
+        "frequency": 100
+      },
+      {
         "text": "goo",
         "frequency": 100
       },
@@ -3751,6 +3709,42 @@
       },
       {
         "text": "clay",
+        "frequency": 100
+      },
+      {
+        "text": "medication",
+        "frequency": 100
+      },
+      {
+        "text": "to drug",
+        "frequency": 100
+      },
+      {
+        "text": "narcotics",
+        "frequency": 100
+      },
+      {
+        "text": "psychoactive",
+        "frequency": 100
+      },
+      {
+        "text": "intoxicant",
+        "frequency": 100
+      },
+      {
+        "text": "analgesic",
+        "frequency": 100
+      },
+      {
+        "text": "psychedelics",
+        "frequency": 100
+      },
+      {
+        "text": "steroids",
+        "frequency": 100
+      },
+      {
+        "text": "prodrug",
         "frequency": 100
       }
     ]
