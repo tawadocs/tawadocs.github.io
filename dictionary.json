@@ -8536,107 +8536,27 @@
     "id": "lon",
     "definitions": [
       {
-        "text": "at",
+        "text": "life",
         "frequency": 100
       },
       {
-        "text": "existing",
+        "text": "life force",
         "frequency": 100
       },
       {
-        "text": "real",
+        "text": "lifespan",
         "frequency": 100
       },
       {
-        "text": "exist",
+        "text": "vitality",
         "frequency": 100
       },
       {
-        "text": "located",
+        "text": "precious",
         "frequency": 100
       },
       {
-        "text": "presence",
-        "frequency": 100
-      },
-      {
-        "text": "yep",
-        "frequency": 100
-      },
-      {
-        "text": "existence",
-        "frequency": 100
-      },
-      {
-        "text": "actual",
-        "frequency": 100
-      },
-      {
-        "text": "on",
-        "frequency": 100
-      },
-      {
-        "text": "true",
-        "frequency": 100
-      },
-      {
-        "text": "living",
-        "frequency": 100
-      },
-      {
-        "text": "yes",
-        "frequency": 100
-      },
-      {
-        "text": "truth",
-        "frequency": 100
-      },
-      {
-        "text": "reality",
-        "frequency": 100
-      },
-      {
-        "text": "physical",
-        "frequency": 100
-      },
-      {
-        "text": "yeah",
-        "frequency": 100
-      },
-      {
-        "text": "upon",
-        "frequency": 100
-      },
-      {
-        "text": "genuine",
-        "frequency": 100
-      },
-      {
-        "text": "truly",
-        "frequency": 100
-      },
-      {
-        "text": "in",
-        "frequency": 100
-      },
-      {
-        "text": "alive",
-        "frequency": 100
-      },
-      {
-        "text": "position",
-        "frequency": 100
-      },
-      {
-        "text": "accurate",
-        "frequency": 100
-      },
-      {
-        "text": "exactly",
-        "frequency": 100
-      },
-      {
-        "text": "occupy",
+        "text": "living thing",
         "frequency": 100
       },
       {
@@ -8644,23 +8564,31 @@
         "frequency": 100
       },
       {
-        "text": "attendance",
+        "text": "lifestyle",
         "frequency": 100
       },
       {
-        "text": "certainly",
+        "text": "livelihood",
         "frequency": 100
       },
       {
-        "text": "indeed",
+        "text": "daily life",
         "frequency": 100
       },
       {
-        "text": "attend",
+        "text": "life experience",
         "frequency": 100
       },
       {
-        "text": "right (not wrong)",
+        "text": "vigour",
+        "frequency": 100
+      },
+      {
+        "text": "awareness",
+        "frequency": 100
+      },
+      {
+        "text": "existing",
         "frequency": 100
       }
     ]
