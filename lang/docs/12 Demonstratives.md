@@ -1,9 +1,9 @@
 ## 12.1 Usage of demonstratives
-| Gloss     | Type     | Demonstrative | IPA   | Function                                                    |
-| --------- | -------- | ------------- | ----- | ----------------------------------------------------------- |
-| this.PROX | Proximal | ryo           | `ɺʲu` | For something near the speaker                              |
-| that.MED  | Medial   | byo           | `bʲo` | For something far from the speaker or close to the listener |
-| that.DIST | Distal   | lyo           | `ʎo`  | For something far from both the speaker and listener        |
+| Gloss    | Type     | Demonstrative | IPA   | Function                                                    |
+| -------- | -------- | ------------- | ----- | ----------------------------------------------------------- |
+| DEM.PROX | Proximal | byo           | `bʲo` | For something near the speaker                              |
+| DEM.MED  | Medial   | ryo           | `ɺʲu` | For something far from the speaker or close to the listener |
+| DEM.DIST | Distal   | lyo           | `ʎo`  | For something far from both the speaker and listener        |
 * These demonstratives above are in their base forms
 * They are often not used in their base forms and are used in their modifier forms:
 	* *ryą*, *byą*, and *lyą*
@@ -17,16 +17,19 @@
 		* "**This** house"
 	* *ryo ni asaĉ* -> `this.PROX TOP house-N.PLAT`
 		* "**This is** a house"
+* Simply:
+	* *ryo* -> **there/this** in English
+	* *byo* -> **here** in English
+	* *lyo* -> **that/(over) there** in English
 
 ## 12.2 Deixis
 * The same demonstratives can be used for temporal or spatial reference
 * Just use *jią* for spatial reference and *ẑią* for temporal reference
 	* **SPATIAL**:
-		* *ryojią* -> here
-		* *byojią* -> that there (close to listener)
+		* *ryojią* -> there
+		* *byojią* -> here (close to listener)
 		* *lyojią* -> that over there (far from speaker and listener)
 	* **TEMPORAL**:
-		* *ryoẑią* -> now / this time
-		* *byoẑią* -> then / back then / that time
+		* *ryoẑią* -> then / back then / that time
+		* *byoẑią* -> now / this time
 		* *lyoẑią* -> long ago
-* Note that both *lyoẑią* and *lyojią* are not used very commonly; instead, their *byo* equivalents are used

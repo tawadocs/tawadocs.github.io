@@ -268,6 +268,26 @@
 	* and if you want to say it was approximately down or had a property of down, sure, -bu works
 	* but otherwise, use compounding!
 
+### 0.18.1 Spoken register
+* in the modern Tawish spoken register, you try to keep words as simple as possible
+* so instead of:
+	* **kitakamenkanata** `like-eat.NMLZ-happy`
+		* 'like to eat happily'
+* just say either one of these three:
+	* **kitaũ kanata kamu**
+		* simplest; `like-VLNK happy eat.V.PLAT`
+	* **kitaũ kanatakamu**
+		* usually never used; `like-VLNK happy-eat.V.PLAT`
+	* **kitaũ kamukanatã**
+		* archaic; `like-VLNK eat.V.PLAT-happy.MOD`
+* note that total compounding, like **kitakamenkanata** or similar forms in other words is often utilised in poetry
+* or in short speech, one can quickly say **a kitakamu hya?** `AGT like-eat.V.PLAT Q` to convey 'do you like to eat?'
+* so, when you speak in Tawa, always think:
+	* is compounding simpler?
+	* is it easier to parse and understand?
+	* is it shorter and faster to say?
+* and then accordingly construct your sentences.
+
 ## 0.19 Dictionary inaccuracies
 * some sentence examples in the dictionary's semantic space may be incorrect
 * if unsure, try to reconstruct them yourself or translate them from Japanese, since Tawa is closer to Japanese than it is to most other languages

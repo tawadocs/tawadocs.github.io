@@ -46,6 +46,52 @@
     ]
   },
   {
+    "word": "ai",
+    "id": "o kama, o ike, pona e",
+    "definitions": [
+      {
+        "text": "improve",
+        "frequency": 100
+      },
+      {
+        "text": "assist",
+        "frequency": 100
+      },
+      {
+        "text": "aid",
+        "frequency": 100
+      },
+      {
+        "text": "help",
+        "frequency": 100
+      },
+      {
+        "text": "prevent",
+        "frequency": 100
+      },
+      {
+        "text": "mitigate",
+        "frequency": 100
+      },
+      {
+        "text": "serve",
+        "frequency": 100
+      },
+      {
+        "text": "((to) be) useful",
+        "frequency": 100
+      },
+      {
+        "text": "support",
+        "frequency": 100
+      },
+      {
+        "text": "(aid) oneself (directly or indirectly)",
+        "frequency": 100
+      }
+    ]
+  },
+  {
     "word": "ainàwa",
     "id": "lukin pona, waka",
     "definitions": [
@@ -5094,6 +5140,104 @@
     ]
   },
   {
+    "word": "makeba",
+    "id": "tomo lili, tomo kipisi",
+    "definitions": [
+      {
+        "text": "room",
+        "frequency": 100
+      },
+      {
+        "text": "chamber",
+        "frequency": 100
+      },
+      {
+        "text": "apartment",
+        "frequency": 100
+      },
+      {
+        "text": "cell",
+        "frequency": 100
+      },
+      {
+        "text": "floor-space",
+        "frequency": 100
+      },
+      {
+        "text": "nook",
+        "frequency": 100
+      },
+      {
+        "text": "corner",
+        "frequency": 100
+      },
+      {
+        "text": "shelter",
+        "frequency": 100
+      },
+      {
+        "text": "sanctuary",
+        "frequency": 100
+      },
+      {
+        "text": "gap",
+        "frequency": 100
+      },
+      {
+        "text": "timing",
+        "frequency": 100
+      },
+      {
+        "text": "rhythm",
+        "frequency": 100
+      },
+      {
+        "text": "pause",
+        "frequency": 100
+      },
+      {
+        "text": "leeway",
+        "frequency": 100
+      },
+      {
+        "text": "margin",
+        "frequency": 100
+      },
+      {
+        "text": "buffer",
+        "frequency": 100
+      },
+      {
+        "text": "emotional capacity",
+        "frequency": 100
+      },
+      {
+        "text": "flexibility",
+        "frequency": 100
+      },
+      {
+        "text": "opportunity",
+        "frequency": 100
+      },
+      {
+        "text": "'breathing room",
+        "frequency": 100
+      },
+      {
+        "text": "' get a room",
+        "frequency": 100
+      },
+      {
+        "text": "apartment",
+        "frequency": 100
+      },
+      {
+        "text": "encompass",
+        "frequency": 100
+      }
+    ]
+  },
+  {
     "word": "maku",
     "id": "palisa",
     "definitions": [
@@ -8374,7 +8518,7 @@
         "frequency": 100
       },
       {
-        "text": "utilize",
+        "text": "utilise",
         "frequency": 100
       },
       {
