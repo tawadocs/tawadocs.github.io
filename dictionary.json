@@ -5714,6 +5714,52 @@
     ]
   },
   {
+    "word": "nama",
+    "id": "nimi, jan X",
+    "definitions": [
+      {
+        "text": "name",
+        "frequency": 100
+      },
+      {
+        "text": "title",
+        "frequency": 100
+      },
+      {
+        "text": "label",
+        "frequency": 100
+      },
+      {
+        "text": "brand",
+        "frequency": 100
+      },
+      {
+        "text": "designation",
+        "frequency": 100
+      },
+      {
+        "text": "identity",
+        "frequency": 100
+      },
+      {
+        "text": "legacy",
+        "frequency": 100
+      },
+      {
+        "text": "memory",
+        "frequency": 100
+      },
+      {
+        "text": "authority",
+        "frequency": 100
+      },
+      {
+        "text": "name-drop",
+        "frequency": 100
+      }
+    ]
+  },
+  {
     "word": "nàmà",
     "id": "namako",
     "definitions": [
