@@ -2870,6 +2870,56 @@
     ]
   },
   {
+    "word": "himae",
+    "id": "pakala lili, weka e selo",
+    "definitions": [
+      {
+        "text": "mutilate into convenient serving",
+        "frequency": 100
+      },
+      {
+        "text": "serving",
+        "frequency": 100
+      },
+      {
+        "text": "bite-sized",
+        "frequency": 100
+      },
+      {
+        "text": "tear (apart)",
+        "frequency": 100
+      },
+      {
+        "text": "shred",
+        "frequency": 100
+      },
+      {
+        "text": "fillet",
+        "frequency": 100
+      },
+      {
+        "text": "debone",
+        "frequency": 100
+      },
+      {
+        "text": "prepare (for eating)",
+        "frequency": 100
+      },
+      {
+        "text": "preparation",
+        "frequency": 100
+      },
+      {
+        "text": "ready",
+        "frequency": 100
+      },
+      {
+        "text": "(get) ready",
+        "frequency": 100
+      }
+    ]
+  },
+  {
     "word": "hiroga",
     "id": "ma ale",
     "definitions": [
@@ -3006,6 +3056,14 @@
     "id": "monsuta",
     "definitions": [
       {
+        "text": "warn",
+        "frequency": 100
+      },
+      {
+        "text": "scare",
+        "frequency": 100
+      },
+      {
         "text": "scary",
         "frequency": 100
       },
@@ -3023,6 +3081,18 @@
       },
       {
         "text": "devil",
+        "frequency": 100
+      },
+      {
+        "text": "warning",
+        "frequency": 100
+      },
+      {
+        "text": "deter",
+        "frequency": 100
+      },
+      {
+        "text": "stop (from)",
         "frequency": 100
       }
     ]
@@ -3396,10 +3466,6 @@
     "id": "pali",
     "definitions": [
       {
-        "text": "do",
-        "frequency": 100
-      },
-      {
         "text": "work",
         "frequency": 100
       },
@@ -3448,10 +3514,6 @@
         "frequency": 100
       },
       {
-        "text": "create",
-        "frequency": 100
-      },
-      {
         "text": "function",
         "frequency": 100
       },
@@ -3461,10 +3523,6 @@
       },
       {
         "text": "operating",
-        "frequency": 100
-      },
-      {
-        "text": "project",
         "frequency": 100
       },
       {
@@ -3484,22 +3542,6 @@
         "frequency": 100
       },
       {
-        "text": "generate",
-        "frequency": 100
-      },
-      {
-        "text": "compose",
-        "frequency": 100
-      },
-      {
-        "text": "assemble",
-        "frequency": 100
-      },
-      {
-        "text": "act",
-        "frequency": 100
-      },
-      {
         "text": "profession",
         "frequency": 100
       },
@@ -3508,15 +3550,7 @@
         "frequency": 100
       },
       {
-        "text": "creation",
-        "frequency": 100
-      },
-      {
-        "text": "enact",
-        "frequency": 100
-      },
-      {
-        "text": "commit",
+        "text": "(to) commit",
         "frequency": 100
       },
       {
@@ -3556,14 +3590,6 @@
         "frequency": 100
       },
       {
-        "text": "behaviour",
-        "frequency": 100
-      },
-      {
-        "text": "behave",
-        "frequency": 100
-      },
-      {
         "text": "career",
         "frequency": 100
       }
@@ -3583,6 +3609,144 @@
       },
       {
         "text": "probable thing",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "itsukoo",
+    "id": "pali suli, pali",
+    "definitions": [
+      {
+        "text": "effort",
+        "frequency": 100
+      },
+      {
+        "text": "undertaking",
+        "frequency": 100
+      },
+      {
+        "text": "assignment",
+        "frequency": 100
+      },
+      {
+        "text": "mission",
+        "frequency": 100
+      },
+      {
+        "text": "project",
+        "frequency": 100
+      },
+      {
+        "text": "plan",
+        "frequency": 100
+      },
+      {
+        "text": "enterprise",
+        "frequency": 100
+      },
+      {
+        "text": "throw (forwards)",
+        "frequency": 100
+      },
+      {
+        "text": "extend",
+        "frequency": 100
+      },
+      {
+        "text": "stick (out)",
+        "frequency": 100
+      },
+      {
+        "text": "protrude",
+        "frequency": 100
+      },
+      {
+        "text": "project (outwards)",
+        "frequency": 100
+      },
+      {
+        "text": "display",
+        "frequency": 100
+      },
+      {
+        "text": "cast (something (via something))",
+        "frequency": 100
+      },
+      {
+        "text": "externalise internal thoughts",
+        "frequency": 100
+      },
+      {
+        "text": "project (psychologically)",
+        "frequency": 100
+      },
+      {
+        "text": "predict",
+        "frequency": 100
+      },
+      {
+        "text": "estimate",
+        "frequency": 100
+      },
+      {
+        "text": "anticipate",
+        "frequency": 100
+      },
+      {
+        "text": "statistical projection",
+        "frequency": 100
+      },
+      {
+        "text": "extrapolate",
+        "frequency": 100
+      },
+      {
+        "text": "(give an) impression",
+        "frequency": 100
+      },
+      {
+        "text": "stage",
+        "frequency": 100
+      },
+      {
+        "text": "present",
+        "frequency": 100
+      },
+      {
+        "text": "outward persona",
+        "frequency": 100
+      },
+      {
+        "text": "expression",
+        "frequency": 100
+      },
+      {
+        "text": "mathematical projection",
+        "frequency": 100
+      },
+      {
+        "text": "map",
+        "frequency": 100
+      },
+      {
+        "text": "bulge",
+        "frequency": 100
+      },
+      {
+        "text": "apply (something (beyond its origin))",
+        "frequency": 100
+      },
+      {
+        "text": "expansion",
+        "frequency": 100
+      },
+      {
+        "text": "gaze",
+        "frequency": 100
+      },
+      {
+        "text": "squint",
         "frequency": 100
       }
     ]
@@ -5794,6 +5958,104 @@
     ]
   },
   {
+    "word": "mono",
+    "id": "sitelen musi, musi",
+    "definitions": [
+      {
+        "text": "compose",
+        "frequency": 100
+      },
+      {
+        "text": "composition",
+        "frequency": 100
+      },
+      {
+        "text": "create",
+        "frequency": 100
+      },
+      {
+        "text": "generate",
+        "frequency": 100
+      },
+      {
+        "text": "arrange",
+        "frequency": 100
+      },
+      {
+        "text": "(to / to give) \nstructure",
+        "frequency": 100
+      },
+      {
+        "text": "calm",
+        "frequency": 100
+      },
+      {
+        "text": "settle",
+        "frequency": 100
+      },
+      {
+        "text": "planning",
+        "frequency": 100
+      },
+      {
+        "text": "undertaking",
+        "frequency": 100
+      },
+      {
+        "text": "organise",
+        "frequency": 100
+      },
+      {
+        "text": "artistry",
+        "frequency": 100
+      },
+      {
+        "text": "makeup (of something)",
+        "frequency": 100
+      },
+      {
+        "text": "cause or initiate (something)",
+        "frequency": 100
+      },
+      {
+        "text": "induce effect",
+        "frequency": 100
+      },
+      {
+        "text": "(create) output",
+        "frequency": 100
+      },
+      {
+        "text": "trigger",
+        "frequency": 100
+      },
+      {
+        "text": "possible",
+        "frequency": 100
+      },
+      {
+        "text": "possibly",
+        "frequency": 100
+      },
+      {
+        "text": "(make) possible",
+        "frequency": 100
+      },
+      {
+        "text": "opportunity",
+        "frequency": 100
+      },
+      {
+        "text": "assemble",
+        "frequency": 100
+      },
+      {
+        "text": "put (together)",
+        "frequency": 100
+      }
+    ]
+  },
+  {
     "word": "moto",
     "id": "wawa",
     "definitions": [
@@ -5955,6 +6217,92 @@
       },
       {
         "text": "million",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "nakigoo",
+    "id": "pakala, pakala lili",
+    "definitions": [
+      {
+        "text": "serendipity",
+        "frequency": 100
+      },
+      {
+        "text": "mistake",
+        "frequency": 100
+      },
+      {
+        "text": "coincidence",
+        "frequency": 100
+      },
+      {
+        "text": "unexpectedly",
+        "frequency": 100
+      },
+      {
+        "text": "unintentional",
+        "frequency": 100
+      },
+      {
+        "text": "slip of the tongue",
+        "frequency": 100
+      },
+      {
+        "text": "slipping on ice",
+        "frequency": 100
+      },
+      {
+        "text": "luck",
+        "frequency": 100
+      },
+      {
+        "text": "unplanned",
+        "frequency": 100
+      },
+      {
+        "text": "unscripted",
+        "frequency": 100
+      },
+      {
+        "text": "unaccounted (for)",
+        "frequency": 100
+      },
+      {
+        "text": "contingency",
+        "frequency": 100
+      },
+      {
+        "text": "slip",
+        "frequency": 100
+      },
+      {
+        "text": "fault",
+        "frequency": 100
+      },
+      {
+        "text": "blunder",
+        "frequency": 100
+      },
+      {
+        "text": "accident",
+        "frequency": 100
+      },
+      {
+        "text": "lapse",
+        "frequency": 100
+      },
+      {
+        "text": "misstep",
+        "frequency": 100
+      },
+      {
+        "text": "deviate (from intended outcome)",
+        "frequency": 100
+      },
+      {
+        "text": "negligent acts",
         "frequency": 100
       }
     ]
@@ -6657,6 +7005,68 @@
     "definitions": [
       {
         "text": "prototypical sense",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "oao",
+    "id": "monsuta, ijo ike",
+    "definitions": [
+      {
+        "text": "danger",
+        "frequency": 100
+      },
+      {
+        "text": "dangerous",
+        "frequency": 100
+      },
+      {
+        "text": "threatening",
+        "frequency": 100
+      },
+      {
+        "text": "notice",
+        "frequency": 100
+      },
+      {
+        "text": "careful",
+        "frequency": 100
+      },
+      {
+        "text": "peril",
+        "frequency": 100
+      },
+      {
+        "text": "hazard",
+        "frequency": 100
+      },
+      {
+        "text": "(at) risk",
+        "frequency": 100
+      },
+      {
+        "text": "exposed",
+        "frequency": 100
+      },
+      {
+        "text": "likely (bad outcome)",
+        "frequency": 100
+      },
+      {
+        "text": "sketchy",
+        "frequency": 100
+      },
+      {
+        "text": "trial (of survival)",
+        "frequency": 100
+      },
+      {
+        "text": "unsafe",
+        "frequency": 100
+      },
+      {
+        "text": "shady",
         "frequency": 100
       }
     ]
@@ -9417,6 +9827,10 @@
       },
       {
         "text": "monster",
+        "frequency": 100
+      },
+      {
+        "text": "bad luck",
         "frequency": 100
       }
     ]
