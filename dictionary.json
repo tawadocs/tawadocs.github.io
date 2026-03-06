@@ -302,7 +302,7 @@
     ]
   },
   {
-    "word": "ànana",
+    "word": "anana",
     "id": "kama sona, kama lukin",
     "definitions": [
       {
@@ -1392,7 +1392,7 @@
     "id": "epiku"
   },
   {
-    "word": "esàce",
+    "word": "esace",
     "id": "telo lejo",
     "definitions": [
       {
@@ -2086,7 +2086,7 @@
     ]
   },
   {
-    "word": "garibàn",
+    "word": "gariban",
     "id": "nasa",
     "definitions": [
       {
@@ -3544,11 +3544,31 @@
       {
         "text": "tone",
         "frequency": 100
+      },
+      {
+        "text": "reliable",
+        "frequency": 100
+      },
+      {
+        "text": "correct",
+        "frequency": 100
+      },
+      {
+        "text": "healthy",
+        "frequency": 100
+      },
+      {
+        "text": "health",
+        "frequency": 100
+      },
+      {
+        "text": "ambience",
+        "frequency": 100
       }
     ]
   },
   {
-    "word": "jàna",
+    "word": "jana",
     "id": "ma sewi",
     "definitions": [
       {
@@ -5972,7 +5992,7 @@
     ]
   },
   {
-    "word": "nàmà",
+    "word": "namà",
     "id": "namako",
     "definitions": [
       {
@@ -6694,7 +6714,101 @@
     ]
   },
   {
-    "word": "pàmya",
+    "word": "osara",
+    "id": "kute, nena kute",
+    "definitions": [
+      {
+        "text": "ear",
+        "frequency": 100
+      },
+      {
+        "text": "ear canal",
+        "frequency": 100
+      },
+      {
+        "text": "eardrum",
+        "frequency": 100
+      },
+      {
+        "text": "earlobe",
+        "frequency": 100
+      },
+      {
+        "text": "ignore",
+        "frequency": 100
+      },
+      {
+        "text": "listen attentively",
+        "frequency": 100
+      },
+      {
+        "text": "attend (to something)",
+        "frequency": 100
+      },
+      {
+        "text": "obey",
+        "frequency": 100
+      },
+      {
+        "text": "heed",
+        "frequency": 100
+      },
+      {
+        "text": "gossip",
+        "frequency": 100
+      },
+      {
+        "text": "rumour",
+        "frequency": 100
+      },
+      {
+        "text": "confidential message",
+        "frequency": 100
+      },
+      {
+        "text": "good (to the ears)",
+        "frequency": 100
+      },
+      {
+        "text": "skill",
+        "frequency": 100
+      },
+      {
+        "text": "balance",
+        "frequency": 100
+      },
+      {
+        "text": "orientation",
+        "frequency": 100
+      },
+      {
+        "text": "vertigo",
+        "frequency": 100
+      },
+      {
+        "text": "equilibrium",
+        "frequency": 100
+      },
+      {
+        "text": "dizziness",
+        "frequency": 100
+      },
+      {
+        "text": "similar (to an ear)",
+        "frequency": 100
+      },
+      {
+        "text": "call",
+        "frequency": 100
+      },
+      {
+        "text": "detect",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "pamya",
     "id": "pamya",
     "definitions": [
       {
@@ -9174,7 +9288,7 @@
     ]
   },
   {
-    "word": "yád",
+    "word": "yad",
     "id": "n",
     "definitions": [
       {
@@ -9321,6 +9435,92 @@
       },
       {
         "text": "bowl",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "yume",
+    "id": "lukin, kama sona",
+    "definitions": [
+      {
+        "text": "read",
+        "frequency": 100
+      },
+      {
+        "text": "read (the room)",
+        "frequency": 100
+      },
+      {
+        "text": "read (intentions)",
+        "frequency": 100
+      },
+      {
+        "text": "read (one's face)",
+        "frequency": 100
+      },
+      {
+        "text": "fortune telling",
+        "frequency": 100
+      },
+      {
+        "text": "read (palms)",
+        "frequency": 100
+      },
+      {
+        "text": "read (omens",
+        "frequency": 100
+      },
+      {
+        "text": "tarots)",
+        "frequency": 100
+      },
+      {
+        "text": "read (for learning)",
+        "frequency": 100
+      },
+      {
+        "text": "study",
+        "frequency": 100
+      },
+      {
+        "text": "interpret",
+        "frequency": 100
+      },
+      {
+        "text": "silent reading",
+        "frequency": 100
+      },
+      {
+        "text": "read (performance or presentation)",
+        "frequency": 100
+      },
+      {
+        "text": "analysis",
+        "frequency": 100
+      },
+      {
+        "text": "load data",
+        "frequency": 100
+      },
+      {
+        "text": "pronounce",
+        "frequency": 100
+      },
+      {
+        "text": "literate",
+        "frequency": 100
+      },
+      {
+        "text": "knowledgeable",
+        "frequency": 100
+      },
+      {
+        "text": "literature",
+        "frequency": 100
+      },
+      {
+        "text": "story",
         "frequency": 100
       }
     ]
