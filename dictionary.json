@@ -2498,6 +2498,64 @@
     ]
   },
   {
+    "word": "hangara",
+    "id": "utala sin, kamalawala",
+    "definitions": [
+      {
+        "text": "oppose",
+        "frequency": 100
+      },
+      {
+        "text": "rebel",
+        "frequency": 100
+      },
+      {
+        "text": "disagree",
+        "frequency": 100
+      },
+      {
+        "text": "fight (back)",
+        "frequency": 100
+      },
+      {
+        "text": "countering",
+        "frequency": 100
+      },
+      {
+        "text": "defy",
+        "frequency": 100
+      },
+      {
+        "text": "reject",
+        "frequency": 100
+      },
+      {
+        "text": "resist",
+        "frequency": 100
+      },
+      {
+        "text": "nonconsensual",
+        "frequency": 100
+      },
+      {
+        "text": "against (one's will)",
+        "frequency": 100
+      },
+      {
+        "text": "force",
+        "frequency": 100
+      },
+      {
+        "text": "subdue",
+        "frequency": 100
+      },
+      {
+        "text": "manipulate",
+        "frequency": 100
+      }
+    ]
+  },
+  {
     "word": "harana",
     "id": "uta",
     "definitions": [
@@ -4412,43 +4470,7 @@
     "id": "awen",
     "definitions": [
       {
-        "text": "wait",
-        "frequency": 100
-      },
-      {
-        "text": "await",
-        "frequency": 100
-      },
-      {
-        "text": "stay",
-        "frequency": 100
-      },
-      {
-        "text": "preserve",
-        "frequency": 100
-      },
-      {
-        "text": "remain",
-        "frequency": 100
-      },
-      {
-        "text": "sustain",
-        "frequency": 100
-      },
-      {
-        "text": "retain",
-        "frequency": 100
-      },
-      {
-        "text": "defend",
-        "frequency": 100
-      },
-      {
-        "text": "endure",
-        "frequency": 100
-      },
-      {
-        "text": "continued",
+        "text": "inertia",
         "frequency": 100
       },
       {
@@ -4456,39 +4478,23 @@
         "frequency": 100
       },
       {
-        "text": "continuing",
+        "text": "keep (going)",
         "frequency": 100
       },
       {
-        "text": "keep",
+        "text": "persist",
         "frequency": 100
       },
       {
-        "text": "still",
+        "text": "recommence",
         "frequency": 100
       },
       {
-        "text": "remaining",
+        "text": "resume",
         "frequency": 100
       },
       {
-        "text": "continuous",
-        "frequency": 100
-      },
-      {
-        "text": "stability",
-        "frequency": 100
-      },
-      {
-        "text": "maintain",
-        "frequency": 100
-      },
-      {
-        "text": "constant",
-        "frequency": 100
-      },
-      {
-        "text": "left (remaining)",
+        "text": "carry on",
         "frequency": 100
       }
     ]
@@ -5166,7 +5172,7 @@
         "frequency": 100
       },
       {
-        "text": "minimize",
+        "text": "minimise",
         "frequency": 100
       },
       {
@@ -6821,6 +6827,88 @@
       },
       {
         "text": "orthography",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "para",
+    "id": "jo wawa",
+    "definitions": [
+      {
+        "text": "withstand",
+        "frequency": 100
+      },
+      {
+        "text": "suffer (through)",
+        "frequency": 100
+      },
+      {
+        "text": "to endure",
+        "frequency": 100
+      },
+      {
+        "text": "tolerate",
+        "frequency": 100
+      },
+      {
+        "text": "carry",
+        "frequency": 100
+      },
+      {
+        "text": "support",
+        "frequency": 100
+      },
+      {
+        "text": "give birth (to)",
+        "frequency": 100
+      },
+      {
+        "text": "(exercise) patience",
+        "frequency": 100
+      },
+      {
+        "text": "patient",
+        "frequency": 100
+      },
+      {
+        "text": "sustain",
+        "frequency": 100
+      },
+      {
+        "text": "large or heavy man",
+        "frequency": 100
+      },
+      {
+        "text": "cumbersome",
+        "frequency": 100
+      },
+      {
+        "text": "uncouth",
+        "frequency": 100
+      },
+      {
+        "text": "bad-mannered",
+        "frequency": 100
+      },
+      {
+        "text": "impolite",
+        "frequency": 100
+      },
+      {
+        "text": "rude",
+        "frequency": 100
+      },
+      {
+        "text": "a specific heavy mammal",
+        "frequency": 100
+      },
+      {
+        "text": "weight",
+        "frequency": 100
+      },
+      {
+        "text": "heaviness",
         "frequency": 100
       }
     ]
