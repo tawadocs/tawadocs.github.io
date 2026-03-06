@@ -5686,6 +5686,14 @@
       {
         "text": "mirror",
         "frequency": 100
+      },
+      {
+        "text": "duplicate",
+        "frequency": 100
+      },
+      {
+        "text": "copy",
+        "frequency": 100
       }
     ]
   },
