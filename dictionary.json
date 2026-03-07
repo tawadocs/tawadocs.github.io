@@ -8492,7 +8492,7 @@
         "frequency": 100
       },
       {
-        "text": "recognize",
+        "text": "recognise",
         "frequency": 100
       },
       {
@@ -8886,6 +8886,10 @@
       {
         "text": "dear",
         "frequency": 100
+      },
+      {
+        "text": "state",
+        "frequency": 100
       }
     ]
   },
@@ -9029,10 +9033,6 @@
       },
       {
         "text": "layout",
-        "frequency": 100
-      },
-      {
-        "text": "system",
         "frequency": 100
       },
       {
