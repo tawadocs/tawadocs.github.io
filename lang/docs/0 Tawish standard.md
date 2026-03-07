@@ -382,6 +382,28 @@
 * just say *kamuthu* ('ate') and it'll be understood as 'I ate'
 * if it ever becomes ambiguous if the person you're referring to is an undergoer or actor, just use the particle **u** or **a** respectively without needing to specify the pronoun
 
-## 0.21 Dictionary inaccuracies
+### 0.20.1 Anaphoric pronoun
+* the anaphoric pronoun is simply a way to repeat an entire phrase, sentence, or predicate
+* for example:
+	* *kamuthu samil hya?* -> `eat.V.PLAT-PFV.V.PLAT fish-DEF Q`
+		* "(Did you) eat the fish?"
+		* a speaker can respond to this with:
+			* *eirrireu* -> `ANAPH-AFFIRM-IPFV.V.PLAT`
+				* "Yes, (I) will (eat it)"
+			* *eirrareu* -> `ANAPH-NEG-IPFV.V.PLAT`
+				* "No, (I) won't (eat it)"
+			* *eirri* -> `ANAPH-AFFIRM`
+				* "Yes, (I have eaten it)"
+
+### 0.20.2 Dummy pronoun
+* *wu* can be used as a dummy pronoun, like the English **it**; however, this kind of usage is highly discouraged against and is not frequent in the Modern Tawish spoken register
+* for example:
+	* *wu ni ii* -> `3SG TOP good`
+		* ~"It is good"
+	* would have the potential to confuse listeners
+	* instead, be more verbose, descriptive, or make use of the proper demonstrative
+* in Modern Tawa, **wu** is commonly used for 'they/them' (in English)
+
+## 0.22 Dictionary inaccuracies
 * some sentence examples in the dictionary's semantic space may be incorrect
 * if unsure, try to reconstruct them yourself or translate them from Japanese, since Tawa is closer to Japanese than it is to most other languages
