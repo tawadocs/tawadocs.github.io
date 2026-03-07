@@ -6740,16 +6740,6 @@
     ]
   },
   {
-    "word": "napiteiya",
-    "id": "akesi linja",
-    "definitions": [
-      {
-        "text": "snake",
-        "frequency": 100
-      }
-    ]
-  },
-  {
     "word": "narana",
     "id": "toki pi insa",
     "definitions": [
@@ -10058,63 +10048,55 @@
         "frequency": 100
       },
       {
-        "text": "jar",
+        "text": "holder",
         "frequency": 100
       },
       {
-        "text": "box",
+        "text": "part of a whole",
         "frequency": 100
       },
       {
-        "text": "package",
+        "text": "subset",
         "frequency": 100
       },
       {
-        "text": "bag",
+        "text": "containment",
         "frequency": 100
       },
       {
-        "text": "basket",
+        "text": "include",
         "frequency": 100
       },
       {
-        "text": "bucket",
+        "text": "contain",
         "frequency": 100
       },
       {
-        "text": "bottle",
+        "text": "comprise",
         "frequency": 100
       },
       {
-        "text": "pot",
+        "text": "enter",
         "frequency": 100
       },
       {
-        "text": "cabinet",
+        "text": "fit inside",
         "frequency": 100
       },
       {
-        "text": "classify",
+        "text": "hide",
         "frequency": 100
       },
       {
-        "text": "drawer",
+        "text": "harbour",
         "frequency": 100
       },
       {
-        "text": "storage",
+        "text": "wrap",
         "frequency": 100
       },
       {
-        "text": "locker",
-        "frequency": 100
-      },
-      {
-        "text": "case",
-        "frequency": 100
-      },
-      {
-        "text": "bowl",
+        "text": "enclose",
         "frequency": 100
       }
     ]
