@@ -132,6 +132,11 @@
 		* "I did my food"
 		* "I worked on my food"
 * In that sentence, *fu* is unable to convey enough information to form a meaningful sentence
+* It can also add an 'actually' or 'even' nuance when used like this:
+	* *fuppu, zu ni iinq* -> actually, you're bad
+	* *zu ni iinq fuhi* -> you're bad, actually
+	* *fu irimeru* -> actually (do) work
+	* *soa fu shireru* -> even he knows / he does know
 
 ### 14.2.5 Movement
 * *ea* simply marks movement
