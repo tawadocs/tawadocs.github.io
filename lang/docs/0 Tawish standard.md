@@ -3,7 +3,7 @@
 * this sheet will explain each standard grammar rule, as the sheets may be inconsistent and could fuel confusion
 
 ## 0.2 O-roots
-* *o-roots* (′o-ganáán) refer to any root that ends in the vowel o
+* *o-roots* (′o-kana) refer to any root that ends in the vowel o
 * waoi is not an o-root, but jiteko is.
 * o-roots are special in that they have a few rules that must be followed
 
@@ -15,11 +15,11 @@
 	* reo + (r)u -> reu
 		* p.s. it should be reru according to (r)u's rules, but reo is a special case where it only turns into reu, not reru
 	* wan + (r)u -> wanu
-* but some special o-roots, called garibànganáán (strange words), never inflect:
+* but some special o-roots, called garibankana (strange words), never inflect:
 	* wano + (r)u -> wanoru
-	* *wano* is also even weirder in that it doesn't even omit the *o* for *ą* (MOD) - which almost every other word does!
-		* *wano* + *ą* = wanoą (time-MOD)
-* luckily, there aren't many garibànganáán, so this rule shouldn't make it harder to learn Tawa
+	* *wano* is also even weirder in that it doesn't even omit the *o* for *ã* (MOD) - which almost every other word does!
+		* *wano* + *ã* = wanoã (time-MOD)
+* luckily, there aren't many garibankana, so this rule shouldn't make it harder to learn Tawa
 * also, special nasals replace nasal-final words:
 	* hon + nq -> honq [hɔɴ] - never honnq [honɴ] or anything
 
@@ -40,9 +40,9 @@
 * if you ever need to inflect a grammatical root, remember:
 	* as much of it must be preserved (reu is closer to reo than reru)
 	* the o does not always need to be omitted (retei is alien compared to reotei, so the o is not omitted)
-	* banned syllables are not allowed, use accepted alternatives (so to+ru->thu and to+į->thį)
-		* do not use tsu or ĉi (standard alternatives) as they are alien when compared to an aspirated *t*, which sounds closest to *to*
-* though if its a demonstrative like ryo or ends with yo, then ryji-type constructions are fine, though ryjią would be wrong (ryąji is correct) 
+	* banned syllables are not allowed, use accepted alternatives (so to+ru->thu and to+ĩ->thĩ)
+		* do not use tsu or chi (standard alternatives) as they are alien when compared to an aspirated *t*, which sounds closest to *to*
+* though if its a demonstrative like ryo or ends with yo, then ryji-type constructions are fine, though ryjiã would be wrong (ryãji is correct) 
 
 #### 0.2.1.3 Preserving the ′o
 * Sometimes, inflection results in borderline unpronounceable clusters:
@@ -70,63 +70,63 @@
 * so be it nihi or ohira, **hi** is always ['çi]
 
 ## 0.5 Product (tei) vs. noun particles
-* in Modern Tawa, *tei* and noun particles *(y)ĉ* and *nyĉ* aren't very different
+* in Modern Tawa, *tei* and noun particles *(y)ch* and *nych* aren't very different
 * *tei* is a relic from older languages, like Takan or early Tawish languages, which distinguished contextual products (*tei*) and denotational products (*gami*)
 * so, does this mean they are interchangeable? it would not be *inherently* wrong to use them interchangeably; however, due to grammatical quirks, you cannot use them interchangeably
 
 ### 0.5.1 When to use *tei* and when not to
 * use tei if you want broader semantic space and contextual alteration:
 	* kamtei is food or something edible, but it will refer specifically to pizza during pizza parties or all the food on the table in a buffet
-* use *(y)ĉ* if you want to simply mark something as a noun:
-	* kamĉ will be anything edible or any food item, so it can refer to deserts, even during a pizza party
-* use *nyĉ* for the obvious romantic connotation:
-	* *kamnyĉ* could be a sexual or romantic euphemism - context, creativity, and imagination are the limits
+* use *(y)ch* if you want to simply mark something as a noun:
+	* kamych will be anything edible or any food item, so it can refer to deserts, even during a pizza party
+* use *nych* for the obvious romantic connotation:
+	* *kamnych* could be a sexual or romantic euphemism - context, creativity, and imagination are the limits
 
 ## 0.6 The antiproduct particle
 * it is not correct to say that the antiproduct particle *hai* is just the opposite of *tei*
 * *tei* derives meaning contextually: kamtei can be pizza during pizza parties
 * though hai **can** derive contextual meaning, it works primarily to derive **how** one acts on something
 * for example:
-	* *ĉi* -> liquid, flow
-	* *ĉitei* -> usually water in many contexts, could be juice, though
-* but let's say you want to refer to the action of drinking - we can't use ĉiru for that, since:
-	* ĉiru -> to water, to flow, etc
-* ĉiru would never mean 'drink' or 'sip'
+	* *chi* -> liquid, flow
+	* *chitei* -> usually water in many contexts, could be juice, though
+* but let's say you want to refer to the action of drinking - we can't use chiru for that, since:
+	* chiru -> to water, to flow, etc
+* chiru would never mean 'drink' or 'sip'
 * for this reason, the antiproduct verbal particle exists (hai):
-	* *ĉihai* -> to drink, to sip, to slurp, (to swallow)
-* ĉihai **can** mean 'to swallow' (as it is quite contextual, like tei) because one doesn't really eat a liquid, they let the liquid pass freely down
+	* *chihai* -> to drink, to sip, to slurp, (to swallow)
+* chihai **can** mean 'to swallow' (as it is quite contextual, like tei) because one doesn't really eat a liquid, they let the liquid pass freely down
 * take this example of *rete*:
-	* *retetei* / *reteĉ* -> ice
+	* *retetei* / *retech* -> ice
 	* *retehai* -> to freeze
 	* *reteru* -> to cool
-* and *naŝita*:
-	* *naŝitatei* / *naŝitaĉ* -> fire, warmth, heat
-	* *naŝitahai* -> burn, ignite, to breathe (fire), kindle, start a fire
-	* *naŝitaru* -> to heat, to cook
+* and *nashita*:
+	* *nashitatei* / *nashitach* -> fire, warmth, heat
+	* *nashitahai* -> burn, ignite, to breathe (fire), kindle, start a fire
+	* *nashitaru* -> to heat, to cook
 * let's see them in sentences:
-	* *Duragin'ikua naŝitahai* -> `dragon-PERS-AGT warm-ANTIPROD.V`
+	* *Duragin'ikua nashitahai* -> `dragon-PERS-AGT warm-ANTIPROD.V`
 		* "The dragon breathed fire"
-	* *Honlena naŝitahai* -> `person-INDEF-AGT warm-ANTIPROD.V`
+	* *Honlena nashitahai* -> `person-INDEF-AGT warm-ANTIPROD.V`
 		* "A person started the fire"
-	* *Ĉinq ni naŝitahai* -> `fire TOP warm-ANTIPROD.V`
+	* *Chinq ni nashitahai* -> `fire TOP warm-ANTIPROD.V`
 		* "The fire was ignited"
-	* *Sa ni retehaithu ẑi sua fofu sa kariĉesanita ę ii'iinq harison* -> `3SG.F TOP cold-ANTIPROD.V-PFV.V.PLAT TEMP 1SG-AGT speak.V.PLAT 3SG.F parent-M.PLAT-3SG.F.POSS-PRTV and SUPR.bad deal-3SG.M.POSS`
+	* *Sa ni retehaithu zhi sua fofu sa karichesanita ẽ ii'iinq harison* -> `3SG.F TOP cold-ANTIPROD.V-PFV.V.PLAT TEMP 1SG-AGT speak.V.PLAT 3SG.F parent-M.PLAT-3SG.F.POSS-PRTV and SUPR.bad deal-3SG.M.POSS`
 		* "She froze (like ice) when I told her about the worst of her father's exchanges/trades"
 * and let's finally see what would happen if we just used *(r)u*:
-	* *ĉinq ni naŝitaru* -> `fire TOP warm-V.PLAT`
+	* *chinq ni nashitaru* -> `fire TOP warm-V.PLAT`
 		* "The fire heats / burns"
-	* *Duragin'ikua naŝitaru* -> `dragon-PERS-AGT warm-V.PLAT`
+	* *Duragin'ikua nashitaru* -> `dragon-PERS-AGT warm-V.PLAT`
 		* "The dragon heats (up) / warms"
 	* *Sa ni retethu...* -> `3SG.F TOP cold-PFV.V.PLAT`
 		* "She froze (something) / she cooled"
-* the antiproduct particle is context-sensitive - ĉihai can mean rinse if you say it in a public shower but it can mean 'drink' in a private domicile (e.g., 'Jèsei'ikua subų ĉihai ĉiǫ asahyakąsonji' (~Jesse wants to drink water in his private domicile)).
+* the antiproduct particle is context-sensitive - chihai can mean rinse if you say it in a public shower but it can mean 'drink' in a private domicile (e.g., 'Jèsei'ikua subũ chihai chiõ asahyakãsonji' (~Jesse wants to drink water in his private domicile)).
 
 ### 0.6.1 A better explanation of the antiproduct particle
 * think of the antiproduct particle as a verbaliser; however, instead of verbalising a noun, it engages with a noun in the way it canonically functions in any way
 	* the canonical function of water is, well, to drink it
-	* that is why ĉihai means to drink water; however, if you're talking about showering, ĉihai could actually mean rinse
+	* that is why chihai means to drink water; however, if you're talking about showering, chihai could actually mean rinse
 	* context would disambiguate anyway, though:
-		* *sua subų ĉihai gagadenq ĉi umhi* -> `1SG-AGT desire.VLNK water-ANTIPROD.V SUP~dirty-INV water COM-BACK`
+		* *sua subũ chihai gagadenq chi umhi* -> `1SG-AGT desire.VLNK water-ANTIPROD.V SUP~dirty-INV water COM-BACK`
 			* "I want to clean myself with water" (i.e., shower, rinse, since you can't 'drink' yourself with water)
 * the antiproduct particle is used to turn a root into a verb that can express the canonical action associated with it (as a phenomenon):
 	* *koro* + *hai* -> to avoid death / to stay alive / kill / die / reap
@@ -138,12 +138,12 @@
 * here is a simple rule: before using the antiproduct particle, ask yourself:
 	1. what do you do to this noun?
 	2. what does this noun do to you?
-* let's take the noun 'rice' (roĉi) and answer #1 and #2:
+* let's take the noun 'rice' (rochi) and answer #1 and #2:
 	* you cook and eat this noun
 	* it fulfills you and helps with fibre
 * so:
-	* roĉihai -> to cook rice / prepare rice
-	* roĉihainai -> to gain fibre by eating rice / the process of preparing rice
+	* rochihai -> to cook rice / prepare rice
+	* rochihainai -> to gain fibre by eating rice / the process of preparing rice
 * it might be hard to grok initially, but once you understand the core concept, it should be as easy as counting on your fingers
 * I'll do it with another noun
 	* let's use 'asa,' which can mean 'house:'
@@ -153,7 +153,7 @@
 		* asahai -> to live at a specific place (i.e., home)
 		* asahainai -> to be protected by a specific place (i.e., home)
 * and yes, **hainai** is not the same as **naihai**:
-	* roĉinaihai -> to experience eating rice / to eat rice in a specific way (e.g., slowly or fast)
+	* rochinaihai -> to experience eating rice / to eat rice in a specific way (e.g., slowly or fast)
 * and if you use **hai** on an explicit or default verb, then it describes the canonical way to operate on the verb/event itself:
 	* hateruhai (`run.V.PLAT-ANTIPROD.V`)
 		* so, what do you think is the canonical way to operate on running? it could be described as a fast alternating gait cycle, where one leg is on the ground (stance) and the other in the air (aerial), working in coordination with the opposite arm to maintain balance
@@ -182,13 +182,13 @@
 	* *hari jitei* -> exchange place (e.g., trading area, market), though haritei alone can work for this
 	* *ii hon* -> good person
 * if you must disambiguate, a modifier is recommended:
-	* *ryą kiwinq wanoharią* -> past week (lit. "this finished business time")
+	* *ryã kiwinq wanohariã* -> past week (lit. "this finished business time")
 * see Grammar:2 for more information
 
 ## 0.10 To use *ea* or to not use *ea*
 * *ea* is a movement particle
 * as a modifier, it just signals 'this thing can move'
-* it is better to use it this way, like in natseeą (moving block / cube), which could be a trolley or cart
+* it is better to use it this way, like in natseeã (moving block / cube), which could be a trolley or cart
 * *tawa natse* would be less self-explanatory
 
 ## 0.11 Inverser inflection
@@ -212,7 +212,7 @@
 	* kuenao (lose) = zero
 	* tete (hands) = 5
 	* antaka = 10
-	* myĉ (many) = 20
+	* mych (many) = 20
 	* sora (sky) = 100
 	* subeko (all) = infinity
 * though using numbers from other languages, such as English, is fine too in many contexts
@@ -403,6 +403,77 @@
 	* would have the potential to confuse listeners
 	* instead, be more verbose, descriptive, or make use of the proper demonstrative
 * in Modern Tawa, **wu** is commonly used for 'they/them' (in English)
+
+## 0.21 Extended case usage
+| Case   | Semantic space                                                                                                                                                     |
+| ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| -lla   | recipient or destination; ultimately, it is the **purpose** and **target** of any act                                                                              |
+| -llanh | **source** or **origin**; the giver as opposed to recipient or the starting point as opposed to destination                                                        |
+| -ye(t) | anything done for one's **gain** or **benefit** (e.g., running *for* your body's health)                                                                           |
+| -yenh  | anything done to one's detriment (e.g., stealing food *for* your coworker's detriment)                                                                             |
+| -õ    | the direct object                                                                                                                                                  |
+| -ji    | any state of **being**; being **at** or **inside** a coordinate                                                                                                    |
+| -jinh  | being **out of** or **away** from any state or coordinate; exclusion from a state or coordinate                                                                    |
+| -po    | positioned **beside** or **alongside** a thing; being **in favour** or **supporting**                                                                              |
+| -bo    | positioned **opposite** or **facing** something; resting **against** or using a thing as **support**; being **against** or acting as **substitute** (*instead of*) |
+| -ita   | a **piece** or **some** of a thing; *aboutness* or an *incomplete action*                                                                                          |
+| -itanh | the **entirety** of a thing; *completion* of an action; *total embodiment* of a thing                                                                              |
+| -un    | **accompaniment**, **using** a tool; **emotional companionship** or an *internal state that you carry*                                                             |
+| -unh   | **lacking** or **being without** a thing                                                                                                                           |
+| -nin   | movement **through** any space or medium; **mediation** (*via*) or **causality** (*because of*)                                                                    |
+| -ninh  | **missing** or **avoiding** a point; **exclusion** or *except for*                                                                                                 |
+* most of the cases or usages for cases listed in **Grammar:17** do not fully cover each domain of the case
+* this table will explain the semantic range of each case
+
+### 0.21.1 -nin and -un
+* difference between **-nin** and **-un**:
+	* *un* refers to a direct extension or connection
+		* *ke kamurra teteun* -> you're holding the tool (hands), it is a part of your body
+		* the tool (your hands) is your partner in eating and assists you
+	* *nin* refers to a conduit or middleman through which you actualise your intentions
+		* *ke kamurra tetenin* -> you're using the hands to achieve the goal of eating
+		* the tool (your hands) is just an instrument that you're using to eat
+	* the latter sounds more detached than the former and might even hint at ulterior motives ('using the hand to complete the goal which is to allow food to enter the mouth')
+	* so unless there is some ulterior motive or that detachedness is intentional, just use *un* for all 'via' tasks
+	* however, don't use *un* in all situations; for example, when you ask a man to help you talk to a friend, you aren't equals and you two probably don't have the same goal - so use *nin*
+	* but if you two are talking to the friend together or he is assisting you talk to the friend, then you could make a good argument for using *un*
+
+### 0.21.2 benefactives and malefactives
+* they can be used in this way too:
+	* *irimethu twanayet* -> `work-PFV.V.PLAT device-BEN`
+		* "(I) worked for the device"
+		* use this if you want to say that you fixed the device
+		* it's especially useful if the device is a special or intimate project for the speaker
+	* *irimethu twanayenh* -> `work-PFV.V.PLAT device-MAL`
+		* "(I) worked to the device's detriment"
+		* this implies that you dislike the device or that you're work is actively hostile to the device
+		* it can also imply sabotage
+
+### 0.21.3 total semantic scope of locative class
+| Case   | Semantic space                                                                                                                                                                                                                                                                                                                                                            |
+| ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ji     | anything located in or contained in something; going into, enter; in, at; state of being; being 'in' any state; headspace; membership, participation; fashion, trend; included, counted; skill (good at, bad at); rate or measurement (at 60BPM); state during activity; targeted or directed action; appearance or form (in pieces, in crystals); lock in                |
+| jinh   | being out of or away from; going out of, exiting; not in, not at; a state of being one isn't in; exhausted, depleted; revealled, exposed; extinguished, inactive; (removed) from participation; not included, not counted; fall out                                                                                                                                       |
+| jiji   | exactly at, absolutely at; most at, perfectly in; the absolute truth or bullseye in terms of location or headspace, dead on; precisely (at); interaction point (knock at the door)                                                                                                                                                                                        |
+| jijinh | nowhere near, way off, completely missing it; not even close; anything but (it/that)                                                                                                                                                                                                                                                                                      |
+| jinyi  | above, over, on; positioned above; applied to a target; directed effort towards; active engagement; turned 'on' or online; topical focus; schedule, occurrence (the party is on); dependency, support, codependent; progress, continuation; responsibility; stick on                                                                                                      |
+| jista  | below, under, beneath, off; positioned below; action directed away; removed form a target; 'off' or offline; ranked below; siphon (off); take (off), cancellation, discontinuation, reduction or discount (30% off), incorrectness (feels off); detach, remove; come off                                                                                                  |
+| ieji   | close; interaction is easy or intermediate; (at a) short distance; association, affiliation (close to him), rank, hierarchical closeness (near the top), proximity (near the department); approximation (nearly the best), almost; close to a limit or boundary (near disaster); low cognitive distance (keep it near your mind, bring near your attention); soon (to be) |
+| iejinh | outside the zone of easy interaction; not close; away; increase distance from reference (take away, move away); not present (he is away); difficult to access (help is not near); removed from implication or connection (step away, drift away, fade away)                                                                                                               |
+| olji   | distance is lower than a comfortable or safe threshold; crossing boundaries, entering personal space; too close for comfort; insufficient difference (too similar / too close); proximity that risked crossing into failure or harm; clingyness or attachment (she is too close)                                                                                          |
+| oljinh | distance is higher than a comfortable or manageable threshold; beyond an expected or needed position; too removed from involvement or connection (he went too far in isolating himself); threshold violation (opposite end of a safety or acceptability boundary (e.g., experiment gone too far)); detachment, isolation (he is too distant)                              |
+* the locative class of particles (ji, jinh, jiji, jinyi, jijinyi, etc.) and their semantic space
+* yes, they can take on any word form (jiru, oljinhru, oljiru, iejinhtei, jistanych)
+* and no, it is not as scary as it looks
+* here are some sentence examples:
+	* *bakalojinh* -> `circle-INDEF.PL.LOC-G.INV`
+		* ~"(I am) out of balls"
+	* *nuksanoljinh* -> `heart.3SG.F.POSS-EXCESS-LOC-G.INV`
+		* ~"(He is) too distant from her heart"
+	* *ei ni ieji à!* -> `ANAPH TOP AUG-LOC INTERJ`
+		* ~"(Phew), that was close!"
+	* *haekurra jistateijinyi fuka* -> `walk.V.PLAT-NEG LOC-DIM.SUP-PROD-LOC-AUG.SUP`
+		* ~"Please do not walk on the floor"
 
 ## 0.22 Dictionary inaccuracies
 * some sentence examples in the dictionary's semantic space may be incorrect
