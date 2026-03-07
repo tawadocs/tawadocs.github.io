@@ -1,0 +1,332 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Tawish Kanji</title>
+        <script src="https://cdn.tailwindcss.com"></script>
+        <link
+            href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&display=swap"
+            rel="stylesheet"
+        />
+        <style>
+            :root {
+                --bg: #06080e;
+                --card: #10141f;
+                --accent: #4f46e5;
+            }
+            body {
+                background: radial-gradient(
+                    circle at 50% 0%,
+                    #161b2e 0%,
+                    #06080e 100%
+                );
+                color: #e2e8f0;
+                font-family: "Plus Jakarta Sans", sans-serif;
+                min-height: 100vh;
+            }
+            .kanji-card {
+                background: var(--card);
+                border: 1px solid rgba(255, 255, 255, 0.03);
+                transition: all 0.3s cubic-bezier(0.23, 1, 0.32, 1);
+            }
+            .kanji-card:hover {
+                transform: translateY(-4px);
+                border-color: rgba(129, 140, 248, 0.3);
+                box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.3);
+            }
+            .editable-field:focus {
+                background: rgba(255, 255, 255, 0.03);
+                outline: none;
+                box-shadow: 0 0 0 2px var(--accent);
+                border-radius: 4px;
+                padding: 0 4px;
+            }
+            #side-drawer {
+                transition: transform 0.4s cubic-bezier(0.16, 1, 0.3, 1);
+                transform: translateX(100%);
+                background: rgba(16, 20, 31, 0.95);
+                backdrop-filter: blur(20px);
+            }
+            #side-drawer.open {
+                transform: translateX(0);
+            }
+        </style>
+    </head>
+    <body class="p-6 md:p-10">
+        <div class="max-w-[1700px] mx-auto">
+            <header
+                class="grid grid-cols-1 md:grid-cols-3 items-center mb-16 gap-6"
+            >
+                <div class="flex justify-start">
+                    <a
+                        href="/"
+                        class="group flex items-center gap-2 text-slate-500 hover:text-white transition-all"
+                    >
+                        <div
+                            class="w-8 h-8 rounded-full border border-white/10 flex items-center justify-center group-hover:border-indigo-500/50 group-hover:bg-indigo-500/10 transition-colors"
+                        >
+                            <svg
+                                class="w-4 h-4"
+                                fill="none"
+                                stroke="currentColor"
+                                viewBox="0 0 24 24"
+                            >
+                                <path
+                                    stroke-linecap="round"
+                                    stroke-linejoin="round"
+                                    stroke-width="2.5"
+                                    d="M15 19l-7-7 7-7"
+                                />
+                            </svg>
+                        </div>
+                        <span
+                            class="text-xs font-bold uppercase tracking-widest"
+                            >Back</span
+                        >
+                    </a>
+                </div>
+
+                <div class="flex items-center justify-center gap-3">
+                    <div
+                        class="w-10 h-10 rounded-full bg-indigo-600 flex items-center justify-center shadow-lg shadow-indigo-500/20"
+                    >
+                        <span class="text-white font-bold text-xl">漢</span>
+                    </div>
+                    <h1
+                        class="text-3xl font-extrabold tracking-tighter text-white"
+                    >
+                        Tawish<span class="text-indigo-400">KANJI</span>
+                    </h1>
+                </div>
+
+                <div class="flex justify-end">
+                    <div class="relative w-full max-w-xs">
+                        <input
+                            type="text"
+                            id="search"
+                            placeholder="Search meanings, kanji..."
+                            oninput="renderGrid()"
+                            class="w-full bg-[#10141f] border border-white/5 rounded-full px-6 py-3 text-sm outline-none focus:border-indigo-500/50 transition-all text-white"
+                        />
+                    </div>
+                </div>
+            </header>
+            <div
+                id="grid"
+                class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 2xl:grid-cols-5 gap-6"
+            ></div>
+        </div>
+
+        <div
+            id="overlay"
+            class="fixed inset-0 bg-black/70 hidden z-40"
+            onclick="closeDrawer()"
+        ></div>
+        <aside
+            id="side-drawer"
+            class="fixed top-0 right-0 h-full w-full max-w-lg z-50 p-10 flex flex-col border-l border-white/5"
+        >
+            <div class="flex justify-between items-center mb-12">
+                <span
+                    id="drawer-char-preview"
+                    class="text-7xl font-light text-white leading-none"
+                ></span>
+                <button
+                    onclick="closeDrawer()"
+                    class="text-slate-500 hover:text-white transition-colors"
+                >
+                    <svg
+                        class="w-8 h-8"
+                        fill="none"
+                        stroke="currentColor"
+                        viewBox="0 0 24 24"
+                    >
+                        <path
+                            stroke-linecap="round"
+                            stroke-linejoin="round"
+                            stroke-width="2"
+                            d="M6 18L18 6M6 6l12 12"
+                        />
+                    </svg>
+                </button>
+            </div>
+
+            <div class="space-y-8 flex-grow">
+                <div>
+                    <label
+                        class="text-xs font-bold text-slate-500 uppercase tracking-widest block mb-2"
+                        >Alias Name</label
+                    >
+                    <input
+                        id="drawer-alias"
+                        type="text"
+                        class="w-full bg-white/5 rounded-xl p-4 text-white outline-none focus:ring-2 focus:ring-indigo-500"
+                    />
+                </div>
+                <div>
+                    <label
+                        class="text-xs font-bold text-slate-500 uppercase tracking-widest block mb-2"
+                        >Definitions (comma separated)</label
+                    >
+                    <textarea
+                        id="drawer-defs"
+                        class="w-full bg-white/5 rounded-xl p-4 text-white outline-none h-48 leading-relaxed"
+                    ></textarea>
+                </div>
+            </div>
+
+            <div class="pt-10 space-y-4 border-t border-white/5">
+                <button
+                    onclick="saveDrawer()"
+                    class="w-full py-5 bg-indigo-600 text-white font-bold rounded-2xl shadow-xl shadow-indigo-900/20 active:scale-95 transition-all"
+                >
+                    Save Changes
+                </button>
+                <button
+                    onclick="deleteCurrent()"
+                    class="w-full py-3 text-rose-500 font-medium"
+                >
+                    Delete Block
+                </button>
+            </div>
+        </aside>
+
+        <script>
+            let kanjiData = [];
+            let currentId = null;
+
+            async function loadData() {
+                try {
+                    const res = await fetch("/api/kanji");
+                    kanjiData = await res.json();
+                    renderGrid();
+                } catch (e) {
+                    console.error("API Error:", e);
+                }
+            }
+
+            async function sync() {
+                try {
+                    await fetch("/api/kanji", {
+                        method: "POST",
+                        headers: { "Content-Type": "application/json" },
+                        body: JSON.stringify(kanjiData),
+                    });
+                } catch (e) {
+                    console.error("Sync Error:", e);
+                }
+            }
+
+            function renderGrid() {
+                const q = document.getElementById("search").value.toLowerCase();
+                const grid = document.getElementById("grid");
+
+                const filtered = kanjiData.filter(
+                    (k) =>
+                        k.Radical.includes(q) ||
+                        (k.Alias || "").toLowerCase().includes(q) ||
+                        k.Definitions.some((d) => d.toLowerCase().includes(q)),
+                );
+
+                grid.innerHTML = filtered
+                    .map(
+                        (item) => `
+                    <div class="kanji-card rounded-3xl p-8 flex flex-col"
+                         oncontextmenu="handleDelete(event, '${item.ID}')"
+                         ondblclick="openDrawer('${item.ID}')">
+
+                        <div class="flex items-baseline gap-3 mb-8">
+                            <div class="text-4xl font-light text-white">${item.Radical}</div>
+                            <div class="text-sm font-medium text-slate-500 uppercase tracking-widest">${item.Readings.Romaji}</div>
+                        </div>
+
+                        <div class="editable-field text-indigo-400 font-bold text-sm mb-2 cursor-text truncate"
+                             onclick="event.stopPropagation(); this.contentEditable=true; this.focus();"
+                             onblur="saveAliasInline(this, '${item.ID}')"
+                             onkeydown="if(event.key==='Enter'){event.preventDefault();this.blur()}">
+                            ${item.Alias || item.Readings.Japanese}
+                        </div>
+
+                        <div class="editable-field text-white font-semibold text-lg leading-tight mb-4 flex-grow cursor-text"
+                             onclick="event.stopPropagation(); this.contentEditable=true; this.focus();"
+                             onblur="saveDefsInline(this, '${item.ID}')"
+                             onkeydown="if(event.key==='Enter'){event.preventDefault();this.blur()}">
+                            ${item.Definitions.join(", ")}
+                        </div>
+                    </div>
+                `,
+                    )
+                    .join("");
+            }
+
+            function saveAliasInline(el, id) {
+                el.contentEditable = false;
+                const idx = kanjiData.findIndex((k) => k.ID === id);
+                // Note: This logic saves the whole text; if you only want to edit the Alias part,
+                // it's better to use the Side Drawer for precise edits.
+                kanjiData[idx].Alias = el.innerText.split("·")[0].trim();
+                sync();
+            }
+
+            function saveDefsInline(el, id) {
+                el.contentEditable = false;
+                const idx = kanjiData.findIndex((k) => k.ID === id);
+                kanjiData[idx].Definitions = el.innerText
+                    .split(",")
+                    .map((s) => s.trim())
+                    .filter((s) => s !== "");
+                sync();
+                renderGrid();
+            }
+
+            function handleDelete(e, id) {
+                e.preventDefault();
+                if (confirm("Delete this block?")) {
+                    kanjiData = kanjiData.filter((k) => k.ID !== id);
+                    renderGrid();
+                    sync();
+                }
+            }
+
+            function openDrawer(id) {
+                currentId = id;
+                const item = kanjiData.find((k) => k.ID === id);
+                document.getElementById("drawer-char-preview").innerHTML =
+                    `${item.Radical} <span class="text-2xl text-slate-500 ml-4">${item.Readings.Romaji}</span>`;
+                document.getElementById("drawer-alias").value =
+                    item.Alias || "";
+                document.getElementById("drawer-defs").value =
+                    item.Definitions.join(", ");
+                document.getElementById("side-drawer").classList.add("open");
+                document.getElementById("overlay").classList.remove("hidden");
+            }
+
+            function closeDrawer() {
+                document.getElementById("side-drawer").classList.remove("open");
+                document.getElementById("overlay").classList.add("hidden");
+            }
+
+            function saveDrawer() {
+                const idx = kanjiData.findIndex((k) => k.ID === currentId);
+                kanjiData[idx].Alias =
+                    document.getElementById("drawer-alias").value;
+                kanjiData[idx].Definitions = document
+                    .getElementById("drawer-defs")
+                    .value.split(",")
+                    .map((s) => s.trim())
+                    .filter((s) => s !== "");
+                renderGrid();
+                closeDrawer();
+                sync();
+            }
+
+            function deleteCurrent() {
+                handleDelete({ preventDefault: () => {} }, currentId);
+                closeDrawer();
+            }
+
+            loadData();
+        </script>
+    </body>
+</html>
