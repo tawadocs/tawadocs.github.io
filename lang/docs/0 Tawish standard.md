@@ -292,7 +292,7 @@
 	* is it shorter and faster to say?
 * and then accordingly construct your sentences.
 
-### 0.18.2 O-roots
+### 0.18.2 ′O-root compounding
 * if the root you're compounding is an ′o-root, then the ending changes to the appropriate modifier particle and is placed after the word meant to be modified
 * here are some examples:
 	* **utari** (sing) + **miro** (reflect)
@@ -300,6 +300,88 @@
 	* **kiteki** (thing) + **kamo** (food)
 		* **kiteikambu** (a sort of edible item, a foodish item, an item with (some or any) property of food)
 
-## 0.19 Dictionary inaccuracies
+## 0.19 Actor and undergoer
+* Tawa uses two main particles for marking the subject:
+	* **-a** -> actor particle, glossed `A`
+		* focuses the agent, doer, or actor
+	* **-o** -> undergoer particle, glossed `U`
+		* focuses the sufferer, undergoer, or patient
+* Use *a* to mark the doer of an action:
+	* *kamuthu hya?* `eat.V.PLAT-PFV.V.PLAT Q` -> "Have (you) eaten?"
+	* *sua hateruthu* `1SG-A run.V.PLAT-PFV.V.PLAT` -> "I ran"
+* Use *o* to mark an entity being affected by something:
+	* *sao korru* `3SG.F-U kill.V.PLAT` -> "She was killed"
+* The *a* `A` particle only marks the doer; however, it does not necessitate that a verb must follow; instead, any word type can follow, and the sentence is parsed depending on the word type:
+	* *sua iitei* `1SG-A good-PROD` -> "I am good"
+* Compare these sentences:
+	* *sao korru* `3SG.F-U kill.V.PLAT` -> "She was killed"
+	* *sao korrunai* `3SG.F-U kill.V.PLAT-IV` -> "She died"
+	* *sa′a korrunai* `3SG.F-A kill.V.PLAT-IV` -> "She died"
+	* *sa ni korrunai* `3SG.F TOP kill.V.PLAT-IV` -> "She is / has dead / died"
+* You might be confused: don't they all mean the same thing?
+	* **sao korru**
+		* the focus is on the death 'inflicted' upon her
+		* a killer is implied (could be a disease poetically)
+		* *korru* is transitive
+			* "she is killed"
+	* **sao korrunai**
+		* the focus is on her as the undergoer of death; no killer is implied
+		* *korrunai* is intransitive
+		* `{UNDERGOER}o {VERB}nai` constructions are always used to place focus on the undergoer
+			* "she dies"
+	* **sa′a korrunai**
+		* the focus is on her as the agent of death here
+		* so this automatically implicates her in her dying
+		* `{ACTOR}a {VERB}nai` constructions are always used to place the focus on the agent
+			* "she deliberately died"
+			* "her death was her fault"
+			* "she chose to die"
+			* "she killed herself"
+	* **sa ni korrunai**
+		* the topic particle changes the meaning here a little
+		* the focus is on the death itself or the state itself
+			* "(as for her), she (is) dead"
+			* "she is currently dead"
+			* "she isn't alive"
+* Let's look at some other examples:
+	* *sua harinai samiõ hariasalji* -> `1SG-A trade-IV fish-ACC trade-house-DEF-LOC`
+		* ~"I purchase fish at the market"
+	* *sua kachi samiõ* -> `1SG-A bite fish-ACC`
+		* ~"I bite the fish"
+	* *suo kachinai samilnin* -> `1SG-U bite fish-DEF-PER`
+		* ~"I am bitten by the fish"
+		* here, the focus is on you; a natural response would be to inquire about where the fish bit you
+	* *suo kachi samiõ* -> `1SG-U bite fish-ACC`
+		* ~"I undergo eating the fish"
+		* here, the focus is the 'eating' inflicted upon you; by default, this does not carry any hints of 'force' or 'unwillingness,' but a natural response after saying this would be **ii hya?** ((was it) good?)
+	* *sua kachinai samilnin* -> `1SG-A bite-IV fish-DEF-PER`
+		* ~"It is my fault that the fish bit me"
+		* here, the focus is on you as the agent who brought about your being bit by the fish
+	* *sua kachi samilõ* -> `1SG-A bite fish-DEF-ACC`
+		* ~"I bite the fish"
+		* plain old construction
+	* *su ni kachi samilõ* -> `1SG TOP bite fish-DEF-ACC`
+		* "(As for me), I bite the fish"
+		* here, 'su' (1SG) becomes less relevant as opposed to 'sua' (1SG-AGT), where it is important
+* As a rule of thumb:
+	* use **-a** for most verbs or active constructions, where the subject revolves around the sentence
+	* use **ni** for statives or introducing information that is secondary to the thing you really want to talk about
+* Take notice:
+	* **sua kikitanyu zu** -> `1SG-A SUP~like-V.ROM 2SG`
+		* ~"I love you"
+		* more about your love, less about them
+	* **(su ni) kikitanyu zu** -> `1SG TOP SUP~like-V.ROM 2SG`
+		* ~"(I) love you"
+		* more about them and how much *they* are loved
+	* since the language is pro-drop by default, *ni* constructions are often automatic if you drop the pronoun:
+		* **kikitanyu zu** -> automatically becomes about them and how much they are loved
+* However, this isn't absolute, as stative- or copular-like constructions usually prefer *ni*
+
+## 0.20 Pronoun omission
+* in most contexts, complete omission of the pronoun is fine
+* just say *kamuthu* ('ate') and it'll be understood as 'I ate'
+* if it ever becomes ambiguous if the person you're referring to is an undergoer or actor, just use the particle **u** or **a** respectively without needing to specify the pronoun
+
+## 0.21 Dictionary inaccuracies
 * some sentence examples in the dictionary's semantic space may be incorrect
 * if unsure, try to reconstruct them yourself or translate them from Japanese, since Tawa is closer to Japanese than it is to most other languages
