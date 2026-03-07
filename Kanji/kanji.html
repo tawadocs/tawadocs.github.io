@@ -1,0 +1,281 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Tawish Kanji</title>
+        <script src="https://cdn.tailwindcss.com"></script>
+        <link
+            href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;600;800&display=swap"
+            rel="stylesheet"
+        />
+        <style>
+            :root {
+                --bg: #05070a;
+                --card: #0f121d;
+                --accent: #6366f1;
+            }
+            body {
+                background: var(--bg);
+                color: #f1f5f9;
+                font-family: "Plus Jakarta Sans", sans-serif;
+            }
+
+            .radical-card {
+                background: var(--card);
+                border: 1px solid rgba(255, 255, 255, 0.03);
+                transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+            }
+            .radical-card:hover {
+                border-color: var(--accent);
+                background: #161b2e;
+                transform: translateY(-4px);
+            }
+            .alias-input:focus {
+                background: rgba(99, 102, 241, 0.1);
+                outline: 2px solid var(--accent);
+                padding: 0 8px;
+                border-radius: 4px;
+            }
+            #side-drawer {
+                transition: transform 0.4s cubic-bezier(0.16, 1, 0.3, 1);
+                transform: translateX(100%);
+            }
+            #side-drawer.open {
+                transform: translateX(0);
+            }
+        </style>
+    </head>
+    <body class="p-6 lg:p-12">
+        <div class="max-w-[1600px] mx-auto">
+            <header
+                class="flex flex-col md:flex-row justify-between items-end mb-16 gap-6"
+            >
+                <div>
+                    <h1 class="text-6xl font-black tracking-tighter text-white">
+                        Tawish<span class="text-indigo-500">KANJI</span>
+                    </h1>
+                    <p class="text-slate-500 font-medium">
+                        Click Alias to edit • Double-click for Sidebar •
+                        Right-click to Delete
+                    </p>
+                </div>
+
+                <div class="w-full md:w-96">
+                    <input
+                        type="text"
+                        id="search"
+                        placeholder="Search across all fields..."
+                        oninput="renderGrid()"
+                        class="w-full bg-slate-900 border border-slate-800 rounded-2xl px-6 py-4 outline-none focus:border-indigo-500 transition-all text-white"
+                    />
+                </div>
+            </header>
+
+            <div
+                id="grid"
+                class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-8"
+            ></div>
+        </div>
+
+        <div
+            id="overlay"
+            class="fixed inset-0 bg-black/90 backdrop-blur-md hidden z-40"
+            onclick="closeDrawer()"
+        ></div>
+        <aside
+            id="side-drawer"
+            class="fixed top-0 right-0 h-full w-full max-w-md bg-slate-900 z-50 p-10 border-l border-white/5 flex flex-col"
+        >
+            <div class="flex justify-between items-center mb-12">
+                <h2
+                    class="text-xl font-bold uppercase tracking-widest text-indigo-500"
+                >
+                    Editor
+                </h2>
+                <button
+                    onclick="closeDrawer()"
+                    class="text-slate-500 hover:text-white"
+                >
+                    <svg
+                        class="w-8 h-8"
+                        fill="none"
+                        stroke="currentColor"
+                        viewBox="0 0 24 24"
+                    >
+                        <path
+                            stroke-linecap="round"
+                            stroke-linejoin="round"
+                            stroke-width="2"
+                            d="M6 18L18 6M6 6l12 12"
+                        />
+                    </svg>
+                </button>
+            </div>
+
+            <div class="mb-12">
+                <span
+                    id="drawer-char"
+                    class="text-9xl font-bold text-white leading-none"
+                ></span>
+            </div>
+
+            <div class="space-y-8 flex-grow">
+                <div>
+                    <label
+                        class="text-xs font-bold text-slate-500 uppercase block mb-2"
+                        >Alias Name</label
+                    >
+                    <input
+                        id="drawer-alias"
+                        type="text"
+                        class="w-full bg-slate-800 rounded-xl p-4 text-white focus:ring-2 focus:ring-indigo-500 outline-none text-lg"
+                    />
+                </div>
+                <div>
+                    <label
+                        class="text-xs font-bold text-slate-500 uppercase block mb-2"
+                        >Definitions (comma separated)</label
+                    >
+                    <textarea
+                        id="drawer-defs"
+                        class="w-full bg-slate-800 rounded-xl p-4 text-white focus:ring-2 focus:ring-indigo-500 outline-none h-48 leading-relaxed"
+                    ></textarea>
+                </div>
+            </div>
+
+            <div class="pt-8 space-y-4">
+                <button
+                    onclick="saveDrawer()"
+                    class="w-full py-5 bg-indigo-600 text-white font-bold rounded-2xl shadow-xl shadow-indigo-900/20 active:scale-95 transition-all"
+                >
+                    Save Changes
+                </button>
+                <button
+                    onclick="deleteCurrent()"
+                    class="w-full py-4 text-rose-500 font-bold border border-rose-500/10 rounded-2xl hover:bg-rose-500/5"
+                >
+                    Delete Block
+                </button>
+            </div>
+        </aside>
+
+        <script>
+            let kanjiData = [];
+            let currentId = null;
+
+            // 1. Initial Load from your JSON API
+            async function loadData() {
+                const res = await fetch("/api/kanji");
+                kanjiData = await res.json();
+                renderGrid();
+            }
+
+            // 2. Global Functional Search
+            function renderGrid() {
+                const q = document.getElementById("search").value.toLowerCase();
+                const grid = document.getElementById("grid");
+
+                const filtered = kanjiData.filter(
+                    (k) =>
+                        k.Radical.includes(q) ||
+                        (k.Alias || "").toLowerCase().includes(q) ||
+                        k.Definitions.some((d) => d.toLowerCase().includes(q)),
+                );
+
+                grid.innerHTML = filtered
+                    .map(
+                        (item) => `
+                    <div class="radical-card rounded-[2.5rem] p-10 flex flex-col items-start"
+                         oncontextmenu="handleDelete(event, '${item.ID}')"
+                         ondblclick="openDrawer('${item.ID}')">
+
+                        <div class="text-7xl font-light text-white mb-6">${item.Radical}</div>
+
+                        <div class="alias-input text-indigo-400 font-black text-2xl mb-6 cursor-text w-full"
+                             onclick="event.stopPropagation(); this.contentEditable=true; this.focus();"
+                             onblur="saveInline(this, '${item.ID}')"
+                             onkeydown="if(event.key==='Enter'){event.preventDefault();this.blur()}">
+                            ${item.Alias || item.Readings.Japanese}
+                        </div>
+
+                        <div class="space-y-3 w-full border-t border-white/5 pt-6">
+                            ${item.Definitions.map(
+                                (d) => `
+                                <p class="text-slate-400 text-sm leading-relaxed flex gap-2">
+                                    <span class="text-indigo-500/50">•</span> ${d}
+                                </p>
+                            `,
+                            ).join("")}
+                        </div>
+                    </div>
+                `,
+                    )
+                    .join("");
+            }
+
+            // 3. Interactions & API Sync
+            async function sync() {
+                await fetch("/api/kanji", {
+                    method: "POST",
+                    headers: { "Content-Type": "application/json" },
+                    body: JSON.stringify(kanjiData),
+                });
+            }
+
+            function saveInline(el, id) {
+                el.contentEditable = false;
+                const idx = kanjiData.findIndex((k) => k.ID === id);
+                kanjiData[idx].Alias = el.innerText.trim();
+                sync();
+            }
+
+            function handleDelete(e, id) {
+                e.preventDefault();
+                if (confirm("Delete this block?")) {
+                    kanjiData = kanjiData.filter((k) => k.ID !== id);
+                    renderGrid();
+                    sync();
+                }
+            }
+
+            // 4. Sidebar Logic
+            function openDrawer(id) {
+                currentId = id;
+                const item = kanjiData.find((k) => k.ID === id);
+                document.getElementById("drawer-char").innerText = item.Radical;
+                document.getElementById("drawer-alias").value =
+                    item.Alias || "";
+                document.getElementById("drawer-defs").value =
+                    item.Definitions.join(", ");
+                document.getElementById("side-drawer").classList.add("open");
+                document.getElementById("overlay").classList.remove("hidden");
+            }
+
+            function closeDrawer() {
+                document.getElementById("side-drawer").classList.remove("open");
+                document.getElementById("overlay").classList.add("hidden");
+            }
+
+            function saveDrawer() {
+                const idx = kanjiData.findIndex((k) => k.ID === currentId);
+                kanjiData[idx].Alias =
+                    document.getElementById("drawer-alias").value;
+                kanjiData[idx].Definitions = document
+                    .getElementById("drawer-defs")
+                    .value.split(",")
+                    .map((s) => s.trim());
+                renderGrid();
+                closeDrawer();
+                sync();
+            }
+
+            function deleteCurrent() {
+                handleDelete({ preventDefault: () => {} }, currentId);
+                closeDrawer();
+            }
+
+            loadData();
+        </script>
+    </body>
+</html>
