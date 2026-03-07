@@ -1768,51 +1768,7 @@
     "id": "toki",
     "definitions": [
       {
-        "text": "speech",
-        "frequency": 100
-      },
-      {
-        "text": "talk",
-        "frequency": 100
-      },
-      {
-        "text": "conversation",
-        "frequency": 100
-      },
-      {
-        "text": "say",
-        "frequency": 100
-      },
-      {
-        "text": "communicate",
-        "frequency": 100
-      },
-      {
         "text": "speak",
-        "frequency": 100
-      },
-      {
-        "text": "communication",
-        "frequency": 100
-      },
-      {
-        "text": "tell",
-        "frequency": 100
-      },
-      {
-        "text": "statement",
-        "frequency": 100
-      },
-      {
-        "text": "discuss",
-        "frequency": 100
-      },
-      {
-        "text": "discussion",
-        "frequency": 100
-      },
-      {
-        "text": "discourse",
         "frequency": 100
       },
       {
@@ -1820,23 +1776,27 @@
         "frequency": 100
       },
       {
-        "text": "comment",
+        "text": "call",
         "frequency": 100
       },
       {
-        "text": "refer",
+        "text": "quote",
         "frequency": 100
       },
       {
-        "text": "message",
+        "text": "say",
         "frequency": 100
       },
       {
-        "text": "express",
+        "text": "chat",
         "frequency": 100
       },
       {
-        "text": "remark",
+        "text": "communication",
+        "frequency": 100
+      },
+      {
+        "text": "conversation",
         "frequency": 100
       },
       {
@@ -1844,23 +1804,7 @@
         "frequency": 100
       },
       {
-        "text": "reporting",
-        "frequency": 100
-      },
-      {
-        "text": "call",
-        "frequency": 100
-      },
-      {
-        "text": "narrative",
-        "frequency": 100
-      },
-      {
-        "text": "commentary",
-        "frequency": 100
-      },
-      {
-        "text": "disclose",
+        "text": "comment",
         "frequency": 100
       },
       {
@@ -1868,55 +1812,11 @@
         "frequency": 100
       },
       {
-        "text": "contact",
-        "frequency": 100
-      },
-      {
         "text": "verbal",
         "frequency": 100
       },
       {
-        "text": "admit",
-        "frequency": 100
-      },
-      {
-        "text": "proposal",
-        "frequency": 100
-      },
-      {
-        "text": "tale",
-        "frequency": 100
-      },
-      {
-        "text": "story",
-        "frequency": 100
-      },
-      {
         "text": "declare",
-        "frequency": 100
-      },
-      {
-        "text": "interview",
-        "frequency": 100
-      },
-      {
-        "text": "answer",
-        "frequency": 100
-      },
-      {
-        "text": "testify",
-        "frequency": 100
-      },
-      {
-        "text": "report",
-        "frequency": 100
-      },
-      {
-        "text": "expression",
-        "frequency": 100
-      },
-      {
-        "text": "phrase",
         "frequency": 100
       }
     ]
@@ -9325,6 +9225,52 @@
       },
       {
         "text": "kick",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "tetoka",
+    "id": "toki open, toki sona",
+    "definitions": [
+      {
+        "text": "narrate",
+        "frequency": 100
+      },
+      {
+        "text": "recount",
+        "frequency": 100
+      },
+      {
+        "text": "convey",
+        "frequency": 100
+      },
+      {
+        "text": "pass on a message",
+        "frequency": 100
+      },
+      {
+        "text": "interview",
+        "frequency": 100
+      },
+      {
+        "text": "propose",
+        "frequency": 100
+      },
+      {
+        "text": "remark",
+        "frequency": 100
+      },
+      {
+        "text": "tale",
+        "frequency": 100
+      },
+      {
+        "text": "story",
+        "frequency": 100
+      },
+      {
+        "text": "report",
         "frequency": 100
       }
     ]
