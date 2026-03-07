@@ -103,23 +103,6 @@
         }
     },
     {
-        "ID": "7",
-        "Alias": "7",
-        "Radical": "⺃",
-        "Strokes": 1,
-        "Definitions": [
-            "the second"
-        ],
-        "Readings": {
-            "Japanese": "おつ",
-            "Romaji": "otsu"
-        },
-        "Position": {
-            "Name": "",
-            "Romaji": ""
-        }
-    },
-    {
         "ID": "8",
         "Alias": "8",
         "Radical": "⼅",
@@ -1648,7 +1631,10 @@
         "Radical": "⼾",
         "Strokes": 4,
         "Definitions": [
-            "door"
+            "door",
+            "a hinged",
+            "sliding",
+            "or revolving barrier"
         ],
         "Readings": {
             "Japanese": "と",
@@ -5416,23 +5402,6 @@
         }
     },
     {
-        "ID": "311",
-        "Alias": "311",
-        "Radical": "⻭",
-        "Strokes": 12,
-        "Definitions": [
-            "tooth"
-        ],
-        "Readings": {
-            "Japanese": "は",
-            "Romaji": "ha"
-        },
-        "Position": {
-            "Name": "",
-            "Romaji": ""
-        }
-    },
-    {
         "ID": "312",
         "Alias": "312",
         "Radical": "⿌",
@@ -5597,23 +5566,6 @@
         "Readings": {
             "Japanese": "やく",
             "Romaji": "yaku"
-        },
-        "Position": {
-            "Name": "",
-            "Romaji": ""
-        }
-    },
-    {
-        "ID": "322",
-        "Alias": "322",
-        "Radical": "々",
-        "Strokes": 0,
-        "Definitions": [
-            "n/a"
-        ],
-        "Readings": {
-            "Japanese": "n/a",
-            "Romaji": "n/a"
         },
         "Position": {
             "Name": "",

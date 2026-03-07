@@ -6,96 +6,105 @@
         <title>Tawish Kanji</title>
         <script src="https://cdn.tailwindcss.com"></script>
         <link
-            href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;600;800&display=swap"
+            href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&display=swap"
             rel="stylesheet"
         />
         <style>
             :root {
-                --bg: #05070a;
-                --card: #0f121d;
-                --accent: #6366f1;
+                --bg: #06080e;
+                --card: #10141f;
+                --accent: #4f46e5;
             }
             body {
-                background: var(--bg);
-                color: #f1f5f9;
+                background: radial-gradient(
+                    circle at 50% 0%,
+                    #161b2e 0%,
+                    #06080e 100%
+                );
+                color: #e2e8f0;
                 font-family: "Plus Jakarta Sans", sans-serif;
+                min-height: 100vh;
             }
-
-            .radical-card {
+            .kanji-card {
                 background: var(--card);
                 border: 1px solid rgba(255, 255, 255, 0.03);
-                transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+                transition: all 0.3s cubic-bezier(0.23, 1, 0.32, 1);
             }
-            .radical-card:hover {
-                border-color: var(--accent);
-                background: #161b2e;
+            .kanji-card:hover {
                 transform: translateY(-4px);
+                border-color: rgba(129, 140, 248, 0.3);
+                box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.3);
             }
-            .alias-input:focus {
-                background: rgba(99, 102, 241, 0.1);
-                outline: 2px solid var(--accent);
-                padding: 0 8px;
+            .editable-field:focus {
+                background: rgba(255, 255, 255, 0.03);
+                outline: none;
+                box-shadow: 0 0 0 2px var(--accent);
                 border-radius: 4px;
+                padding: 0 4px;
             }
             #side-drawer {
                 transition: transform 0.4s cubic-bezier(0.16, 1, 0.3, 1);
                 transform: translateX(100%);
+                background: rgba(16, 20, 31, 0.95);
+                backdrop-filter: blur(20px);
             }
             #side-drawer.open {
                 transform: translateX(0);
             }
         </style>
     </head>
-    <body class="p-6 lg:p-12">
-        <div class="max-w-[1600px] mx-auto">
+    <body class="p-6 md:p-10">
+        <div class="max-w-[1700px] mx-auto">
             <header
-                class="flex flex-col md:flex-row justify-between items-end mb-16 gap-6"
+                class="flex flex-col sm:flex-row justify-between items-center mb-16 gap-6"
             >
-                <div>
-                    <h1 class="text-6xl font-black tracking-tighter text-white">
-                        Tawish<span class="text-indigo-500">KANJI</span>
+                <div class="flex items-center gap-3">
+                    <div
+                        class="w-10 h-10 rounded-full bg-indigo-600 flex items-center justify-center shadow-lg shadow-indigo-500/20"
+                    >
+                        <span class="text-white font-bold text-xl">漢</span>
+                    </div>
+                    <h1
+                        class="text-3xl font-extrabold tracking-tighter text-white"
+                    >
+                        Tawish<span class="text-indigo-400">KANJI</span>
                     </h1>
-                    <p class="text-slate-500 font-medium">
-                        Click Alias to edit • Double-click for Sidebar •
-                        Right-click to Delete
-                    </p>
                 </div>
 
-                <div class="w-full md:w-96">
+                <div class="relative w-full sm:w-80">
                     <input
                         type="text"
                         id="search"
-                        placeholder="Search across all fields..."
+                        placeholder="Search meanings, kanji..."
                         oninput="renderGrid()"
-                        class="w-full bg-slate-900 border border-slate-800 rounded-2xl px-6 py-4 outline-none focus:border-indigo-500 transition-all text-white"
+                        class="w-full bg-[#10141f] border border-white/5 rounded-full px-6 py-3 text-sm outline-none focus:border-indigo-500/50 transition-all text-white"
                     />
                 </div>
             </header>
 
             <div
                 id="grid"
-                class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-8"
+                class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 2xl:grid-cols-5 gap-6"
             ></div>
         </div>
 
         <div
             id="overlay"
-            class="fixed inset-0 bg-black/90 backdrop-blur-md hidden z-40"
+            class="fixed inset-0 bg-black/70 hidden z-40"
             onclick="closeDrawer()"
         ></div>
         <aside
             id="side-drawer"
-            class="fixed top-0 right-0 h-full w-full max-w-md bg-slate-900 z-50 p-10 border-l border-white/5 flex flex-col"
+            class="fixed top-0 right-0 h-full w-full max-w-lg z-50 p-10 flex flex-col border-l border-white/5"
         >
             <div class="flex justify-between items-center mb-12">
-                <h2
-                    class="text-xl font-bold uppercase tracking-widest text-indigo-500"
-                >
-                    Editor
-                </h2>
+                <span
+                    id="drawer-char-preview"
+                    class="text-7xl font-light text-white leading-none"
+                ></span>
                 <button
                     onclick="closeDrawer()"
-                    class="text-slate-500 hover:text-white"
+                    class="text-slate-500 hover:text-white transition-colors"
                 >
                     <svg
                         class="w-8 h-8"
@@ -113,38 +122,31 @@
                 </button>
             </div>
 
-            <div class="mb-12">
-                <span
-                    id="drawer-char"
-                    class="text-9xl font-bold text-white leading-none"
-                ></span>
-            </div>
-
             <div class="space-y-8 flex-grow">
                 <div>
                     <label
-                        class="text-xs font-bold text-slate-500 uppercase block mb-2"
+                        class="text-xs font-bold text-slate-500 uppercase tracking-widest block mb-2"
                         >Alias Name</label
                     >
                     <input
                         id="drawer-alias"
                         type="text"
-                        class="w-full bg-slate-800 rounded-xl p-4 text-white focus:ring-2 focus:ring-indigo-500 outline-none text-lg"
+                        class="w-full bg-white/5 rounded-xl p-4 text-white outline-none focus:ring-2 focus:ring-indigo-500"
                     />
                 </div>
                 <div>
                     <label
-                        class="text-xs font-bold text-slate-500 uppercase block mb-2"
+                        class="text-xs font-bold text-slate-500 uppercase tracking-widest block mb-2"
                         >Definitions (comma separated)</label
                     >
                     <textarea
                         id="drawer-defs"
-                        class="w-full bg-slate-800 rounded-xl p-4 text-white focus:ring-2 focus:ring-indigo-500 outline-none h-48 leading-relaxed"
+                        class="w-full bg-white/5 rounded-xl p-4 text-white outline-none h-48 leading-relaxed"
                     ></textarea>
                 </div>
             </div>
 
-            <div class="pt-8 space-y-4">
+            <div class="pt-10 space-y-4 border-t border-white/5">
                 <button
                     onclick="saveDrawer()"
                     class="w-full py-5 bg-indigo-600 text-white font-bold rounded-2xl shadow-xl shadow-indigo-900/20 active:scale-95 transition-all"
@@ -153,7 +155,7 @@
                 </button>
                 <button
                     onclick="deleteCurrent()"
-                    class="w-full py-4 text-rose-500 font-bold border border-rose-500/10 rounded-2xl hover:bg-rose-500/5"
+                    class="w-full py-3 text-rose-500 font-medium"
                 >
                     Delete Block
                 </button>
@@ -164,14 +166,28 @@
             let kanjiData = [];
             let currentId = null;
 
-            // 1. Initial Load from your JSON API
             async function loadData() {
-                const res = await fetch("/api/kanji");
-                kanjiData = await res.json();
-                renderGrid();
+                try {
+                    const res = await fetch("/api/kanji");
+                    kanjiData = await res.json();
+                    renderGrid();
+                } catch (e) {
+                    console.error("API Error:", e);
+                }
             }
 
-            // 2. Global Functional Search
+            async function sync() {
+                try {
+                    await fetch("/api/kanji", {
+                        method: "POST",
+                        headers: { "Content-Type": "application/json" },
+                        body: JSON.stringify(kanjiData),
+                    });
+                } catch (e) {
+                    console.error("Sync Error:", e);
+                }
+            }
+
             function renderGrid() {
                 const q = document.getElementById("search").value.toLowerCase();
                 const grid = document.getElementById("grid");
@@ -186,27 +202,26 @@
                 grid.innerHTML = filtered
                     .map(
                         (item) => `
-                    <div class="radical-card rounded-[2.5rem] p-10 flex flex-col items-start"
+                    <div class="kanji-card rounded-3xl p-8 flex flex-col"
                          oncontextmenu="handleDelete(event, '${item.ID}')"
                          ondblclick="openDrawer('${item.ID}')">
 
-                        <div class="text-7xl font-light text-white mb-6">${item.Radical}</div>
+                        <div class="flex items-center justify-between mb-8">
+                            <div class="text-6xl font-light text-white">${item.Radical}</div>
+                        </div>
 
-                        <div class="alias-input text-indigo-400 font-black text-2xl mb-6 cursor-text w-full"
+                        <div class="editable-field text-indigo-400 font-bold text-sm mb-2 cursor-text truncate"
                              onclick="event.stopPropagation(); this.contentEditable=true; this.focus();"
-                             onblur="saveInline(this, '${item.ID}')"
+                             onblur="saveAliasInline(this, '${item.ID}')"
                              onkeydown="if(event.key==='Enter'){event.preventDefault();this.blur()}">
                             ${item.Alias || item.Readings.Japanese}
                         </div>
 
-                        <div class="space-y-3 w-full border-t border-white/5 pt-6">
-                            ${item.Definitions.map(
-                                (d) => `
-                                <p class="text-slate-400 text-sm leading-relaxed flex gap-2">
-                                    <span class="text-indigo-500/50">•</span> ${d}
-                                </p>
-                            `,
-                            ).join("")}
+                        <div class="editable-field text-white font-semibold text-lg leading-tight mb-4 flex-grow cursor-text"
+                             onclick="event.stopPropagation(); this.contentEditable=true; this.focus();"
+                             onblur="saveDefsInline(this, '${item.ID}')"
+                             onkeydown="if(event.key==='Enter'){event.preventDefault();this.blur()}">
+                            ${item.Definitions.join(", ")}
                         </div>
                     </div>
                 `,
@@ -214,20 +229,23 @@
                     .join("");
             }
 
-            // 3. Interactions & API Sync
-            async function sync() {
-                await fetch("/api/kanji", {
-                    method: "POST",
-                    headers: { "Content-Type": "application/json" },
-                    body: JSON.stringify(kanjiData),
-                });
-            }
-
-            function saveInline(el, id) {
+            function saveAliasInline(el, id) {
                 el.contentEditable = false;
                 const idx = kanjiData.findIndex((k) => k.ID === id);
                 kanjiData[idx].Alias = el.innerText.trim();
                 sync();
+            }
+
+            function saveDefsInline(el, id) {
+                el.contentEditable = false;
+                const idx = kanjiData.findIndex((k) => k.ID === id);
+                // Split by comma, trim spaces, and remove empty entries
+                kanjiData[idx].Definitions = el.innerText
+                    .split(",")
+                    .map((s) => s.trim())
+                    .filter((s) => s !== "");
+                sync();
+                renderGrid(); // Re-render to ensure clean formatting
             }
 
             function handleDelete(e, id) {
@@ -239,11 +257,11 @@
                 }
             }
 
-            // 4. Sidebar Logic
             function openDrawer(id) {
                 currentId = id;
                 const item = kanjiData.find((k) => k.ID === id);
-                document.getElementById("drawer-char").innerText = item.Radical;
+                document.getElementById("drawer-char-preview").innerText =
+                    item.Radical;
                 document.getElementById("drawer-alias").value =
                     item.Alias || "";
                 document.getElementById("drawer-defs").value =
@@ -264,7 +282,8 @@
                 kanjiData[idx].Definitions = document
                     .getElementById("drawer-defs")
                     .value.split(",")
-                    .map((s) => s.trim());
+                    .map((s) => s.trim())
+                    .filter((s) => s !== "");
                 renderGrid();
                 closeDrawer();
                 sync();
