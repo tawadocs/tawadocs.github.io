@@ -1454,6 +1454,10 @@
       {
         "text": "behead",
         "frequency": 100
+      },
+      {
+        "text": "mangle",
+        "frequency": 100
       }
     ]
   },
