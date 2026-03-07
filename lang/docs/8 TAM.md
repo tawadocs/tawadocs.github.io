@@ -27,10 +27,10 @@
 | **Suffix** | reteru   | `ɺeteɺu`  | IPFV.PFV.CONT | *will have been*                                           |
 | **Suffix** | teruiro  | `teruiɺo` | PRSV.PFV.CONT | *have kept*                                                |
 | **Suffix** | eruto    | `eɺuto`   | CONT.PFV      | *was (happening)*                                          |
-| **Suffix** | ĉiro    | `tɕiɺo`   | PFV.PRSV      | *completed with a lasting result / have (done)*            |
+| **Suffix** | ciro     | `kʰiɺo`   | PFV.PRSV      | *completed with a lasting result / have (done)*            |
 | **Suffix** | reiro    | `ɺeiɺo`   | IPFV.PRSV     | *to be completed with a lasting result / will have (done)* |
 | **Suffix** | ireru    | `iɺeɺu`   | PRSV.CONT     | *remains*                                                  |
-| **Suffix** | ĉireru  | `tɕiɺeɺu` | PFV.PRSV.CONT | *used to*                                                  |
+| **Suffix** | cireru   | `kʰiɺeɺu` | PFV.PRSV.CONT | *used to*                                                  |
 | **Suffix** | reeru    | `ɺeːɺu`   | IPFV.CONT     | *will keep*                                                |
 * Not used in normal or casual speech
 * Archaic forms, only for formal texts
