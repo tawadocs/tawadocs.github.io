@@ -206,8 +206,9 @@
                          oncontextmenu="handleDelete(event, '${item.ID}')"
                          ondblclick="openDrawer('${item.ID}')">
 
-                        <div class="flex items-center justify-between mb-8">
-                            <div class="text-6xl font-light text-white">${item.Radical}</div>
+                        <div class="flex items-baseline gap-3 mb-8">
+                            <div class="text-4xl font-light text-white">${item.Radical}</div>
+                            <div class="text-sm font-medium text-slate-500 uppercase tracking-widest">${item.Readings.Romaji}</div>
                         </div>
 
                         <div class="editable-field text-indigo-400 font-bold text-sm mb-2 cursor-text truncate"
@@ -232,20 +233,21 @@
             function saveAliasInline(el, id) {
                 el.contentEditable = false;
                 const idx = kanjiData.findIndex((k) => k.ID === id);
-                kanjiData[idx].Alias = el.innerText.trim();
+                // Note: This logic saves the whole text; if you only want to edit the Alias part,
+                // it's better to use the Side Drawer for precise edits.
+                kanjiData[idx].Alias = el.innerText.split("·")[0].trim();
                 sync();
             }
 
             function saveDefsInline(el, id) {
                 el.contentEditable = false;
                 const idx = kanjiData.findIndex((k) => k.ID === id);
-                // Split by comma, trim spaces, and remove empty entries
                 kanjiData[idx].Definitions = el.innerText
                     .split(",")
                     .map((s) => s.trim())
                     .filter((s) => s !== "");
                 sync();
-                renderGrid(); // Re-render to ensure clean formatting
+                renderGrid();
             }
 
             function handleDelete(e, id) {
@@ -260,8 +262,8 @@
             function openDrawer(id) {
                 currentId = id;
                 const item = kanjiData.find((k) => k.ID === id);
-                document.getElementById("drawer-char-preview").innerText =
-                    item.Radical;
+                document.getElementById("drawer-char-preview").innerHTML =
+                    `${item.Radical} <span class="text-2xl text-slate-500 ml-4">${item.Readings.Romaji}</span>`;
                 document.getElementById("drawer-alias").value =
                     item.Alias || "";
                 document.getElementById("drawer-defs").value =
