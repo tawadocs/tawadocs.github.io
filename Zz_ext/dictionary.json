@@ -32,5 +32,27 @@
         "frequency": 100
       }
     ]
+  },
+  {
+    "word": "yige",
+    "id": "mijomi",
+    "definitions": [
+      {
+        "text": "gay",
+        "frequency": 100
+      },
+      {
+        "text": "homosexual",
+        "frequency": 100
+      },
+      {
+        "text": "not straight",
+        "frequency": 100
+      },
+      {
+        "text": "lesbian",
+        "frequency": 100
+      }
+    ]
   }
 ]

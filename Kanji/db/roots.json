@@ -1,0 +1,57 @@
+[
+  {
+    "ID": "28",
+    "Alias": "oho",
+    "Radical": "⼔",
+    "Strokes": 2,
+    "Definitions": [
+      "spoon",
+      "ladle"
+    ],
+    "Readings": {
+      "Japanese": "さじ",
+      "Romaji": "saji"
+    },
+    "Position": {
+      "Name": "つくり",
+      "Romaji": "tsukuri"
+    }
+  },
+  {
+    "ID": "52",
+    "Alias": "aiso",
+    "Radical": "⼧",
+    "Strokes": 3,
+    "Definitions": [
+      "roof",
+      "house/cover"
+    ],
+    "Readings": {
+      "Japanese": "うかんむり",
+      "Romaji": "ukanmuri"
+    },
+    "Position": {
+      "Name": "かんむり",
+      "Romaji": "kanmuri"
+    }
+  },
+  {
+    "ID": "217",
+    "Alias": "kowo",
+    "Radical": "⾍",
+    "Strokes": 6,
+    "Definitions": [
+      "worm",
+      "insect",
+      "bug"
+    ],
+    "Readings": {
+      "Japanese": "むし",
+      "Romaji": "mushi"
+    },
+    "Position": {
+      "Name": "",
+      "Romaji": ""
+    }
+  }
+]
