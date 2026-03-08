@@ -6822,6 +6822,80 @@
     ]
   },
   {
+    "word": "nemu",
+    "id": "kama jo, wile",
+    "definitions": [
+      {
+        "text": "choose",
+        "frequency": 100
+      },
+      {
+        "text": "pick",
+        "frequency": 100
+      },
+      {
+        "text": "select",
+        "frequency": 100
+      },
+      {
+        "text": "elect",
+        "frequency": 100
+      },
+      {
+        "text": "opt for",
+        "frequency": 100
+      },
+      {
+        "text": "decide",
+        "frequency": 100
+      },
+      {
+        "text": "determine",
+        "frequency": 100
+      },
+      {
+        "text": "settle on",
+        "frequency": 100
+      },
+      {
+        "text": "conclude",
+        "frequency": 100
+      },
+      {
+        "text": "resolve",
+        "frequency": 100
+      },
+      {
+        "text": "judge",
+        "frequency": 100
+      },
+      {
+        "text": "assess",
+        "frequency": 100
+      },
+      {
+        "text": "evaluate",
+        "frequency": 100
+      },
+      {
+        "text": "filtre",
+        "frequency": 100
+      },
+      {
+        "text": "favour (a thing)",
+        "frequency": 100
+      },
+      {
+        "text": "make (a decision)",
+        "frequency": 100
+      },
+      {
+        "text": "finalise",
+        "frequency": 100
+      }
+    ]
+  },
+  {
     "word": "ngopo",
     "id": "sike insa, insa",
     "definitions": [
