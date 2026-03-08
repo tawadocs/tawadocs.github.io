@@ -71,11 +71,12 @@
 
 
 ## 2.4 Source-based derivation
-| Base form | IPA  | Gloss     |
-| --------- | ---- | --------- |
-| ngo       | `ŋo` | SRC.WHOLE |
-| nga       | `ŋa` | SRC.PART  |
-| ngu       | `ŋu` | SRC.LEX   |
+| Base form | IPA   | Gloss     |
+| --------- | ----- | --------- |
+| ngo       | `ŋo`  | SRC.WHOLE |
+| nga       | `ŋa`  | SRC.PART  |
+| ngu       | `ŋu`  | SRC.LEX   |
+| (a)shí   | `əɕɪ` | UNIT      |
 * These particles help with deriving the source of a word
 * They are irregular particles and don't inflect, even if it's an o-root
 * Kamo + ngo -> kamongo (**only**), never kamngo
@@ -91,7 +92,18 @@
 * The particles are insensitive to valency
 * Korongo (the Angel of Death or Grim Reaper) is not different from **koronaingo** - koronaingo is actually a very redundant construction
 
-### 2.4.3 Lexical source
+### 2.4.1 Primordial or unit particle
+* *-nga* or *-(a)shí* is used for marking or deriving the specific part of a source or the primordial unit or particle respectively
+* Examples:
+	* *riwakanga* -> `think-SRC.PART`
+		* ~"frontal lobe, prefrontal cortex, etc."
+	* *riwakashí* -> `think-UNIT`
+		* ~"neurone, brain matter; concept, symbol, or prototype"
+			* note: **concept, symbol,** and **prototype** here are the 'units' of thought
+	* *tanshí* -> `source-UNIT`
+		* ~"atoms"
+
+### 2.4.2 Lexical source
 * *-ngu* is used for lexical sources
 * This simply refers to the parent category of any root
 * So, mafongu would be 'reddish', since the parent category of 'mafo' (red) is, well, reddish colours

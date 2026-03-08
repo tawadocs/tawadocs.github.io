@@ -5878,6 +5878,14 @@
       {
         "text": "medium",
         "frequency": 100
+      },
+      {
+        "text": "middle",
+        "frequency": 100
+      },
+      {
+        "text": "amongst",
+        "frequency": 100
       }
     ]
   },
@@ -8335,6 +8343,72 @@
     "definitions": [
       {
         "text": "see Grammar:16",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "shí",
+    "id": "ijo nanpa",
+    "definitions": [
+      {
+        "text": "fundamental",
+        "frequency": 100
+      },
+      {
+        "text": "unit",
+        "frequency": 100
+      },
+      {
+        "text": "fabric",
+        "frequency": 100
+      },
+      {
+        "text": "primordial unit",
+        "frequency": 100
+      },
+      {
+        "text": "base",
+        "frequency": 100
+      },
+      {
+        "text": "source",
+        "frequency": 100
+      },
+      {
+        "text": "seed",
+        "frequency": 100
+      },
+      {
+        "text": "child",
+        "frequency": 100
+      },
+      {
+        "text": "most basic unit",
+        "frequency": 100
+      },
+      {
+        "text": "smallest",
+        "frequency": 100
+      },
+      {
+        "text": "(usually) cannot be broken down further",
+        "frequency": 100
+      },
+      {
+        "text": "(usually) indivisible",
+        "frequency": 100
+      },
+      {
+        "text": "elementary",
+        "frequency": 100
+      },
+      {
+        "text": "sperm",
+        "frequency": 100
+      },
+      {
+        "text": "elements",
         "frequency": 100
       }
     ]

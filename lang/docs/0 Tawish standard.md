@@ -46,7 +46,7 @@
 
 #### 0.2.1.3 Preserving the ′o
 * Sometimes, inflection results in borderline unpronounceable clusters:
-	* miro + l should be mirl, not miril (according to definite article rules)
+	* miro + l should be mirlà, not miril (according to definite article rules)
 	* but when liquids like r and l clash, the o is either preserved or added
 	* if there is a word, say samil, and you must add rra to it, then either:
 		* move the definite article: samirral
