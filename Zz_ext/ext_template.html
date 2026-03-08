@@ -1,0 +1,495 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>kanaitsukoã ribu | Tawa Lexicon</title>
+        <link
+            href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&display=swap"
+            rel="stylesheet"
+        />
+        <style>
+            :root {
+                --accent: #10b981;
+                --accent-glow: rgba(16, 185, 129, 0.2);
+                --bg: #052515;
+                --card-bg: #0f0f12;
+                --card-hover: #16161a;
+                --text-main: #f8fafc;
+                --text-muted: #94a3b8;
+                --toki-yellow: #facc15;
+                --toki-glow: rgba(250, 204, 21, 0.2);
+                --border: rgba(255, 255, 255, 0.08);
+                --border-hover: rgba(255, 255, 255, 0.15);
+                --sidebar-bg: #0a0a0c;
+            }
+
+            * {
+                box-sizing: border-box;
+            }
+
+            body {
+                font-family: "Plus Jakarta Sans", sans-serif;
+                background-color: var(--bg);
+                background-image: radial-gradient(
+                    circle at 50% -20%,
+                    #1e1e2e 0%,
+                    #050505 80%
+                );
+                color: var(--text-main);
+                margin: 0;
+                padding: 0;
+                line-height: 1.6;
+                min-height: 100vh;
+                -ms-overflow-style: none;
+                scrollbar-width: none;
+            }
+            body::-webkit-scrollbar {
+                display: none;
+            }
+
+            .container {
+                max-width: 1000px;
+                margin: 0 auto;
+                padding: 4rem 2rem;
+            }
+
+            header {
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+                margin-bottom: 4rem;
+            }
+
+            .logo-group {
+                display: flex;
+                gap: 1.5rem;
+                align-items: center;
+            }
+            .logo-link {
+                text-decoration: none;
+                transition: transform 0.2s ease;
+                cursor: pointer;
+                user-select: none;
+            }
+            .logo-link:hover {
+                transform: translateY(-1px);
+            }
+            h1 {
+                font-size: 1.25rem;
+                font-weight: 800;
+                letter-spacing: -0.02em;
+                color: white;
+                margin: 0;
+            }
+            h1 span {
+                color: var(--accent);
+            }
+
+            #search {
+                display: block;
+                width: 100%;
+                max-width: 600px;
+                margin: 0 auto 4rem;
+                padding: 1.2rem 1.5rem;
+                background: rgba(255, 255, 255, 0.03);
+                border: 1px solid var(--border);
+                backdrop-filter: blur(10px);
+                border-radius: 16px;
+                color: white;
+                outline: none;
+                font-size: 1.1rem;
+                transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+                box-shadow: 0 8px 32px rgba(0, 0, 0, 0.4);
+            }
+            #search:focus {
+                border-color: var(--accent);
+                box-shadow: 0 0 0 4px var(--accent-glow);
+            }
+
+            #results {
+                display: grid;
+                grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+                gap: 1.5rem;
+            }
+
+            .entry {
+                background: var(--card-bg);
+                border: 1px solid var(--border);
+                border-radius: 20px;
+                padding: 1.5rem;
+                cursor: pointer;
+                transition: all 0.3s ease;
+                position: relative;
+            }
+            .entry:hover {
+                transform: translateY(-5px);
+                background: var(--card-hover);
+                border-color: var(--border-hover);
+                box-shadow: 0 12px 24px rgba(0, 0, 0, 0.3);
+            }
+
+            .lang-toggle {
+                display: inline-flex;
+                align-items: center;
+                justify-content: center;
+                padding: 6px 12px;
+                border-radius: 8px;
+                background: rgba(255, 255, 255, 0.05);
+                border: 1px solid var(--border);
+                font-size: 0.7rem;
+                font-weight: 800;
+                text-transform: uppercase;
+                letter-spacing: 0.08em;
+                color: var(--text-muted);
+                transition: all 0.4s cubic-bezier(0.23, 1, 0.32, 1);
+                margin-bottom: 1.2rem;
+                cursor: pointer !important;
+                user-select: none;
+                min-width: 100px;
+            }
+
+            .lang-toggle:hover {
+                background: rgba(255, 255, 255, 0.1);
+                border-color: var(--text-muted);
+                color: white;
+            }
+            .lang-toggle.is-toki {
+                background: var(--toki-yellow);
+                color: #000;
+                border-color: var(--toki-yellow);
+                box-shadow: 0 4px 15px var(--toki-glow);
+            }
+
+            .word-title,
+            .static-title {
+                font-size: 1.5rem;
+                font-weight: 700;
+                color: white;
+                margin-bottom: 0.5rem;
+                letter-spacing: -0.02em;
+                transition:
+                    opacity 0.2s ease,
+                    transform 0.2s ease,
+                    color 0.3s ease;
+            }
+
+            .is-shifting {
+                opacity: 0;
+                transform: translateY(2px);
+            }
+            .title-toki {
+                color: var(--toki-yellow) !important;
+            }
+
+            .def-preview {
+                font-size: 0.95rem;
+                color: var(--text-muted);
+                line-height: 1.5;
+                pointer-events: none;
+            }
+
+            #modal-overlay {
+                position: fixed;
+                top: 0;
+                left: 0;
+                width: 100%;
+                height: 100%;
+                background: rgba(0, 0, 0, 0.85);
+                backdrop-filter: blur(12px);
+                z-index: 1000;
+                opacity: 0;
+                visibility: hidden;
+                transition: all 0.4s cubic-bezier(0.16, 1, 0.3, 1);
+            }
+            #modal-overlay.active {
+                opacity: 1;
+                visibility: visible;
+            }
+
+            #modal {
+                position: fixed;
+                right: 0;
+                top: 0;
+                background: var(--sidebar-bg);
+                width: 100%;
+                max-width: 520px;
+                height: 100vh;
+                padding: 4rem 3rem;
+                border-left: 1px solid var(--border);
+                box-shadow: -20px 0 60px rgba(0, 0, 0, 0.8);
+                display: flex;
+                flex-direction: column;
+                transform: translateX(100%);
+                transition: transform 0.5s cubic-bezier(0.16, 1, 0.3, 1);
+                overflow-y: auto;
+                scrollbar-width: thin;
+                scrollbar-color: var(--accent) transparent;
+            }
+
+            #modal::-webkit-scrollbar {
+                width: 6px;
+            }
+            #modal::-webkit-scrollbar-track {
+                background: transparent;
+            }
+            #modal::-webkit-scrollbar-thumb {
+                background: var(--border-hover);
+                border-radius: 10px;
+            }
+
+            #modal-overlay.active #modal {
+                transform: translateX(0);
+            }
+
+            .modal-close {
+                position: absolute;
+                top: 2rem;
+                right: 2.5rem;
+                cursor: pointer;
+                color: var(--text-muted);
+                font-size: 1.5rem;
+                transition: 0.2s;
+                user-select: none;
+                z-index: 10;
+            }
+            .modal-close:hover {
+                color: white;
+                transform: rotate(90deg);
+            }
+
+            .static-title {
+                font-size: 3.5rem;
+                font-weight: 800;
+                margin-bottom: 0rem;
+            }
+
+            .id-container {
+                margin-bottom: 1.5rem;
+                display: flex;
+                align-items: center;
+                gap: 10px;
+            }
+            .id-label {
+                font-size: 0.65rem;
+                font-weight: 800;
+                text-transform: uppercase;
+                color: var(--toki-yellow);
+                opacity: 0.8;
+                letter-spacing: 0.05em;
+            }
+            .static-id {
+                background: rgba(250, 204, 21, 0.05);
+                border: 1px solid rgba(250, 204, 21, 0.2);
+                border-radius: 6px;
+                padding: 4px 10px;
+                color: var(--toki-yellow);
+                font-size: 0.9rem;
+                font-weight: 600;
+                width: auto;
+            }
+
+            .static-defs-div {
+                font-size: 1.2rem;
+                line-height: 1.8;
+                color: var(--text-main);
+                padding: 0.5rem 0 1rem 0;
+                width: 100%;
+            }
+            .semantic-title {
+                font-size: 0.75rem;
+                text-transform: uppercase;
+                letter-spacing: 0.15em;
+                color: var(--accent);
+                margin: 3rem 0 1rem 0;
+                font-weight: 700;
+                opacity: 0.8;
+            }
+            .modal-divider {
+                height: 1px;
+                background: var(--border);
+                margin: 2rem 0;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="container">
+            <header>
+                <div class="logo-group">
+                    <a href="#" class="logo-link"
+                        ><h1>kana<span>itsukoã</span> ribu</h1></a
+                    >
+                    <a href="/" class="logo-link"
+                        ><h1>ii miri <span>Tawa</span></h1></a
+                    >
+                </div>
+            </header>
+
+            <input
+                type="text"
+                id="search"
+                placeholder="Search the lexicon..."
+                autocomplete="off"
+            />
+
+            <div id="results"></div>
+        </div>
+
+        <div id="modal-overlay" onclick="closeModal()">
+            <div id="modal" onclick="event.stopPropagation()">
+                <span class="modal-close" onclick="closeModal()">×</span>
+                <div id="modal-content"></div>
+            </div>
+        </div>
+
+        <script>
+            /** * DATA INJECTION
+             * Paste your dictionary.json array and semantic space mappings here.
+             */
+            const DICTIONARY = [
+                // Example: { "word": "tawa", "id": "tawa", "definitions": [{ "text": "to go, move, journey" }] }
+            ];
+
+            const SEMANTIC_SPACE = {
+                // Example: "tawa": "Movement in a direction, physical or metaphorical path."
+            };
+
+            function handleToggle(event, word, tokiPona) {
+                event.stopPropagation();
+                const btn = event.currentTarget;
+                const container =
+                    btn.closest(".entry") || btn.closest("#modal");
+                const titleEl =
+                    container.querySelector(".word-title") ||
+                    container.querySelector(".static-title");
+
+                const isToki = btn.classList.toggle("is-toki");
+                titleEl.classList.add("is-shifting");
+
+                setTimeout(() => {
+                    btn.innerHTML = isToki
+                        ? "<span>Toki Pona</span>"
+                        : "<span>Tawa</span>";
+                    titleEl.textContent = isToki ? tokiPona : word;
+
+                    if (isToki) titleEl.classList.add("title-toki");
+                    else titleEl.classList.remove("title-toki");
+
+                    titleEl.classList.remove("is-shifting");
+                }, 150);
+            }
+
+            const isCompound = (word) => word.trim().includes(" ");
+
+            const compoundSort = (a, b) => {
+                const aComp = isCompound(a.word);
+                const bComp = isCompound(b.word);
+                if (aComp && !bComp) return 1;
+                if (!aComp && bComp) return -1;
+                return a.word.localeCompare(b.word);
+            };
+
+            function searchDictionary(query) {
+                const q = query.toLowerCase();
+                if (!q) return [...DICTIONARY].sort(compoundSort);
+
+                let results = DICTIONARY.filter((entry) => {
+                    const wordMatch = entry.word.toLowerCase().includes(q);
+                    const defMatch = entry.definitions.some((d) =>
+                        d.text.toLowerCase().includes(q),
+                    );
+                    const ssMatch = SEMANTIC_SPACE[entry.id]
+                        ?.toLowerCase()
+                        .includes(q);
+                    return wordMatch || defMatch || ssMatch;
+                });
+
+                return results.sort((a, b) => {
+                    const wordA = a.word.toLowerCase();
+                    const wordB = b.word.toLowerCase();
+
+                    // Priority 1: Exact matches
+                    if (wordA === q && wordB !== q) return -1;
+                    if (wordB === q && wordA !== q) return 1;
+
+                    // Priority 2: Starts with
+                    if (wordA.startsWith(q) && !wordB.startsWith(q)) return -1;
+                    if (wordB.startsWith(q) && !wordA.startsWith(q)) return 1;
+
+                    return compoundSort(a, b);
+                });
+            }
+
+            function renderResults(query = "") {
+                const results = searchDictionary(query);
+                document.getElementById("results").innerHTML = results
+                    .map(
+                        (entry) => `
+    <div class="entry" onclick="openModal('${entry.word}')">
+      <div class="lang-toggle" onclick="handleToggle(event, '${entry.word}', '${entry.id}')">
+        <span>Tawa</span>
+      </div>
+      <div class="word-title">${entry.word}</div>
+      <div class="def-preview">${entry.definitions.map((d) => d.text).join(", ")}</div>
+    </div>
+  `,
+                    )
+                    .join("");
+            }
+
+            function openModal(word) {
+                const entry = DICTIONARY.find((e) => e.word === word);
+                if (!entry) return;
+
+                const defString = entry.definitions
+                    .map((d) => d.text)
+                    .join(", ");
+                const ssText = SEMANTIC_SPACE[entry.id] || "";
+
+                const modalContent = document.getElementById("modal-content");
+                modalContent.innerHTML = `
+    <div class="lang-toggle" onclick="handleToggle(event, '${entry.word}', '${entry.id}')">
+      <span>Tawa</span>
+    </div>
+    <div class="static-title">${entry.word}</div>
+
+    <div class="id-container">
+      <span class="id-label">Toki Pona</span>
+      <div class="static-id">${entry.id}</div>
+    </div>
+
+    <div class="static-defs-div">${defString}</div>
+    <div class="modal-divider"></div>
+    <div class="semantic-title">Semantic space</div>
+    <div class="static-defs-div" style="color: var(--text-muted); font-size: 1.1rem;">${ssText}</div>
+  `;
+
+                const overlay = document.getElementById("modal-overlay");
+                overlay.style.display = "block";
+                void overlay.offsetWidth;
+                overlay.classList.add("active");
+
+                document.getElementById("modal").scrollTop = 0;
+                document.body.style.overflow = "hidden";
+            }
+
+            function closeModal() {
+                const overlay = document.getElementById("modal-overlay");
+                overlay.classList.remove("active");
+                document.body.style.overflow = "";
+                setTimeout(() => {
+                    overlay.style.display = "none";
+                }, 400);
+            }
+
+            document
+                .getElementById("search")
+                .addEventListener("input", (e) =>
+                    renderResults(e.target.value),
+                );
+
+            // Initial load
+            renderResults();
+        </script>
+    </body>
+</html>
