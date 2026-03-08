@@ -1,10 +1,34 @@
 [
   {
-    "word": "hey!",
-    "id": "hey",
+    "word": "kowaisoho",
+    "id": "akesi linja",
     "definitions": [
       {
-        "text": "Placeholder (for now!)",
+        "text": "a snake",
+        "frequency": 100
+      },
+      {
+        "text": "a snake-like reptile",
+        "frequency": 100
+      },
+      {
+        "text": "backstabber",
+        "frequency": 100
+      },
+      {
+        "text": "backstabbing",
+        "frequency": 100
+      },
+      {
+        "text": "(to) rat (out)",
+        "frequency": 100
+      },
+      {
+        "text": "betray",
+        "frequency": 100
+      },
+      {
+        "text": "sneaky",
         "frequency": 100
       }
     ]
