@@ -505,6 +505,23 @@
 * ... is fine
 * they are only marked when ambiguous
 
-## 0.21 Dictionary inaccuracies
+## 0.21 Usage of the genitive
+* the genitive *no* is used to show belonging or possession:
+	* *pashache no onokoi no pashacha...* -> `sibling-M.ROM GEN friend GEN sibling.F.ROM`
+		* "The brother's friend's sister..."
+* the order is essentially the same as **Urdu** or **Japanese**:
+	* *bhai ke dost ki behen* -> `brother GEN.M friend GEN.F sister`
+		* "The brother's friend's sister..."
+* its semantic space is almost the same as 'of' in English:
+	* *zhamu no asa* -> `god GEN house`
+		* "House of God"
+	* *asa no zhamu* -> `house GEN god`
+		* "God of House(s)"
+* you can also use it for composition (both literally and metaphorically), like:
+	* *serebotei no hon* -> `silver-PROD GEN person`
+		* ~"Man of steel"
+		* "Man of silver"
+
+## 0.22 Dictionary inaccuracies
 * some sentence examples in the dictionary's semantic space may be incorrect
 * if unsure, try to reconstruct them yourself or translate them from Japanese, since Tawa is closer to Japanese than it is to most other languages

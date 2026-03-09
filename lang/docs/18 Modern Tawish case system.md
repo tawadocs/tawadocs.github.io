@@ -176,3 +176,8 @@
 * In primarily *spoken* Tawa, the case system used in the **Modern Tawish spoken register** will be used
 * The simple case system allows for easy conversation without needing many particles
 * In conversation, the formal case system can be used, of course, but usually it shouldn't be necessary
+
+## 18.4 Other cases
+* For other case-like particles, please see:
+	* *Tawish standard*, **0:0.16** -> on the actor *-a* (A) and undergoer *-o* (U) particles
+	* *Tawish standard*, **0:0.21** -> on the genitive *no* (GEN)
