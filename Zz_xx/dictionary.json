@@ -32,5 +32,59 @@
         "frequency": 100
       }
     ]
+  },
+  {
+    "word": "maku",
+    "id": "pana e telo",
+    "definitions": [
+      {
+        "text": "weep",
+        "frequency": 100
+      },
+      {
+        "text": "cry",
+        "frequency": 100
+      },
+      {
+        "text": "shed tears",
+        "frequency": 100
+      },
+      {
+        "text": "sob",
+        "frequency": 100
+      },
+      {
+        "text": "whimper",
+        "frequency": 100
+      },
+      {
+        "text": "wail",
+        "frequency": 100
+      },
+      {
+        "text": "bawl",
+        "frequency": 100
+      },
+      {
+        "text": "bellow",
+        "frequency": 100
+      },
+      {
+        "text": "crying (thing",
+        "frequency": 100
+      },
+      {
+        "text": "wound)",
+        "frequency": 100
+      },
+      {
+        "text": "plea",
+        "frequency": 100
+      },
+      {
+        "text": "plead",
+        "frequency": 100
+      }
+    ]
   }
 ]
