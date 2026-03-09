@@ -1,80 +1,173 @@
-## 0.1 Standardisation
-* the grammar sheets 1-17 mix standard and nonstandard grammar; i.e., the grammars of Southern and Modern Tawa
-* this sheet will explain each standard grammar rule, as the sheets may be inconsistent and could fuel confusion
-
-## 0.2 O-roots
+## 0.1 O-roots
 * *o-roots* (′o-kana) refer to any root that ends in the vowel o
 * waoi is not an o-root, but jiteko is.
 * o-roots are special in that they have a few rules that must be followed
 
-### 0.2.1 Inflection
-* all o-roots inflect and replace their o with a particle
-	* kamo + tei -> kamtei
-	* kamo + (r)u -> kamu
-* in the case of verbal or noun particles, most o-roots inflect:
-	* reo + (r)u -> reu
-		* p.s. it should be reru according to (r)u's rules, but reo is a special case where it only turns into reu, not reru
-	* wan + (r)u -> wanu
-* but some special o-roots, called garibankana (strange words), never inflect:
-	* wano + (r)u -> wanoru
-	* *wano* is also even weirder in that it doesn't even omit the *o* for *ã* (MOD) - which almost every other word does!
-		* *wano* + *ã* = wanoã (time-MOD)
-* luckily, there aren't many garibankana, so this rule shouldn't make it harder to learn Tawa
-* also, special nasals replace nasal-final words:
-	* hon + nq -> honq [hɔɴ] - never honnq [honɴ] or anything
+### 0.1.1 Inflection
+* only words or particles ending in *′o* (′o-kana / ′o-shí) inflect
+* so **sowo** changes to **sowu** (verb) but **ainàwa** can't inflect and takes **ainàwaru**
+* but this doesn't mean they accept every single sound
+* the following sounds don't usually cause omission of the **′o** ending:
+	* mh [m̥͡m]
+	* h(i~ĩ~í) [çi çĩ çɪ]
+	* hy [ç͡j]
+* this is also why *mero+mho+hi* is *meromhohi* and not something cursed like *mermhhi*
+* non-nasal consonant clusters are usually not allowed:
+	* *fofo* + *tei* -> *fofotei* (not foftei)
 
-#### 0.2.1.1 Same types
-* never inflect if the type changes:
-	* kamo + reo as kamreo is fine
-	* but kamo + reu as kamreu (or even worse, kamoreu) is absolutely not
-		* *kamo* must be the same type as *reu*, which is a platonic verb, so it would be *kamureu*
+#### 0.1.1.1 Type prominence
+* type prominence refers to a Tawish grammar concept where the final grammatical particle, if it ends in **′o**, can carry particles that modify what comes before it:
+	* *kamo* + *reo* -> *kamreo*
+		* this could mean food (that will), (will) eat, or anything along those lines
+		* however, this turns into a verb when *reo* inflects to *reu*:
+			* *kamreu* -> will eat
+* type prominence is also the term used for deciding which particle goes at the end of a root:
+	* *niglanq kachi niglõ* -> `cat.DEF-A-INV bite cat.DEF-ACC`
+		* "The dog bit the cat"
+	* *niganq kachi nigõ* -> `cat.A-INV bite cat.ACC`
+		* "The dog bit the cat"
+* cases almost always go at the very end and other particles go before
+* if order (apart from cases, which go to the end) ever varies, its usually due to the speaker's natural flow or for rhythmic or poetic purposes
+* the relativiser and relative copular are the most prominent in the language and beat even cases:
+	* *teqeka asalõme...* -> `recount.EMO house-DEF-ACC-REL`
+		* "Remember the house that..."
 
-#### 0.2.1.2 Grammatical particles
-* grammatical o-roots inflect differently:
-	* reo + (r)u -> reu
-	* to + (r)u -> thu
-	* iro + (r)u -> irru
-	* reo + tei -> reotei
-	* to + tei -> totei
-	* iro + tei -> irotei
+### 0.1.2 Garibankana
+* usually refers to roots that contain two *o*'s:
+	* *wanoo*
+	* *itsukoo*
+	* *hibikoo*
+	* *nakigoo*
+	* *maooru*
+	* *tetooka*
+* these don't inflect normally
+* wherever the double *o* is, that is their site of inflection
+* so, *wanoo* would inflect like:
+	* *wanoã*
+	* *wanothu*
+* or *nakigoo*:
+	* *nakigoã*
+	* *nakigot*
+	* *nakigóy*
+		* vowel simplification, even though oóy [oɔj] is technically fine
+* but *tetooka* would inflect like:
+	* *teqeka*
+		* cluster simplification, even though **tqe** [tc͡çe] is technically fine
+	* *tetsuka*
+	* *tetãka*
+* or *maooru*:
+	* *mauru*
+	* *manyuru*
+	* *mãru*
+		* vowel simplification occurred here too
+
+#### 0.1.2.1 Writing garibankana
+* write them as verbosely as possible in formal writing:
+	* *manyuru*
+	* *tetqeka*
+	* *nakigoóy*
+* even though they are pronounced *teqeka* or *nakigóy*
+* do note that the vowel is unmarked on *(ó)y* so it would be *nakigooy*
+
+### 0.1.3 Grammatical particle inflection
+* particles like *reo*, *to*, and other ′o-shí do inflect:
+	* *reo* + *tei* -> *retei*
+	* *reo* + *ru* -> *reu*
+* but they don't follow normal inflection rules
+* for example, **tu** is **tsu** but *to* + *-ru* isn't toru or tsu, it's **thu**
 * if you ever need to inflect a grammatical root, remember:
 	* as much of it must be preserved (reu is closer to reo than reru)
-	* the o does not always need to be omitted (retei is alien compared to reotei, so the o is not omitted)
+	* the o does not always need to be omitted (ryo)
 	* banned syllables are not allowed, use accepted alternatives (so to+ru->thu and to+ĩ->thĩ)
 		* do not use tsu or chi (standard alternatives) as they are alien when compared to an aspirated *t*, which sounds closest to *to*
-* though if its a demonstrative like ryo or ends with yo, then ryji-type constructions are fine, though ryjiã would be wrong (ryãji is correct) 
+* though if its a demonstrative like ryo or ends with yo, then ryji-type constructions are fine, though ryjiã would be wrong (ryãji is correct)
+	* still, *ryotei* or *ryoji* is the standard
 
-#### 0.2.1.3 Preserving the ′o
-* Sometimes, inflection results in borderline unpronounceable clusters:
-	* miro + l should be mirlà, not miril (according to definite article rules)
-	* but when liquids like r and l clash, the o is either preserved or added
+### 0.1.4 ′o-preservation
+* sometimes, inflection results in liquid clashes (#1.1.4.1):
+	* for example, let's say you're forced to make *mirla*
+	* but when liquids like r and l clash, the o is preserved, so mirola
 	* if there is a word, say samil, and you must add rra to it, then either:
 		* move the definite article: samirral
 			* or *ilppu samirra*
 		* move the negative: rra samil
 		* use the linker: samil ce rra
+		* omit the article: samirra
+* note that even though *samilrra* or *mirla* are still possible due to the epenthensis rule, avoiding such is preferred
 
-#### 0.2.1.4 -bjji and -pjji
-* according to ′o-omission rules, -bo + -ji should be -bji, not -bjji, and the same goes for -po + -ji (pji, not pjji)
-* however, these two grammatical particles don't follow this rule, so pjji and bjji are the official forms
+### 0.1.5 Inversers
+* inversers don't inflect (so kamo+nq=kamonq)
 
-## 0.3 Marking
-* see Morphophonemics:4, though do note that Morphophonemics may also not be standardised; trust only this document
-
-## 0.4 Liquid clusters and other phonology
-* liquid clashes [ɺl lɺ, ɺɾ, ɾɺ ʎl ʎɺ] are banned
+#### 0.1.4.1 Liquid clashes
+* liquid clashes [ɺl lɺ ɺɾ ɾɺ ʎl ʎɺ] are banned
 	* [ɺʎ] or [lʎ] *could be* fine, though
 
-### 0.4.1 Phonetic pronunciation of hi
-* **hi** is always pronounced ['çi] and never [j̊i] (which may appear in the older documents)
-* so be it nihi or ohira, **hi** is always ['çi]
+## 0.2 Cluster-vowel simplification
+* this only occurs in speech
+* these clusters simplify:
+	* *oó* -> *ó*
+	* *tq* -> *q*
 
-## 0.5 Product (tei) vs. noun particles
+## 0.3 To use *ea* or to not use *ea*
+* *ea* is a movement particle
+* as a modifier, it just signals 'this thing can move'
+* it is better to use it this way, like in natseeã (moving block / cube), which could be a trolley or cart
+* *tawa natse* would be less self-explanatory
+
+## 0.4 Numbering
+* stack to add up numbers, like:
+	* wuwuwan (7, from 3+3+1)
+* for multisyllabic words (more than one syllables), reduplicate the initial syllable
+	* tete -> tetete (10)
+	* antaka -> anantaka (20)
+	* sora -> sosora (100)
+* these pronouns can be used as numbers:
+	* wu (3SG) = 3
+	* zu (2SG) = 2
+	* su (1SG) = 1
+* these words can be used as numbers:
+	* kuenao (lose) = zero
+	* tete (hands) = 5
+	* antaka = 10
+	* mych (many) = 20
+	* sora (sky) = 100
+	* subeko (all) = infinity
+* though using numbers from other languages, such as English, is fine too in many contexts
+* use *pa* to subtract:
+	* *sora pa anantaka* = 80 (100-20)
+
+## 0.5 Reduplication
+* reduplication is a casual or less formal and emphatic way to turn a word into its superlative form:
+	* ii (good) -> ii'ii (best)
+* *nyi* is more 'loaded' and also carries an **augmentative connotation**:
+	* ii (good) -> iinyi (unrivalled, matchless, supreme, nonpareil, crème de la crème, pinacle)
+	* so *samiryã ni iinyi* -> "this fish is so much better" or "this fish is the best"
+* it isn't that reduplication is weaker per se; rather, reduplication is less grand - so *ii'ii* can mean crème de la crème but it isn't the first thing that comes to a listener's mind when one utilises reduplication
+* note that reduplication refers to doubling the initial CV or VC or VV unit:
+	* ***ku**ru* -> **kuku**ru
+	* **ii** -> **ii**'**ii**
+	* ***ka**nojo* -> **kaka**nojo
+	* ***az(h)**uru* -> **azaz(h)**uru
+* for words like *ii*, the reduplicated sequence should be separated with a simple *'* - so **iiii** is written as *ii'ii*
+* Do note that reduplication is the only instance where *'* or *′* is not pronounced as a glottal stop, apart from usage as a separator, like in *'iku*
+
+## 0.6 Positive and negative connotation
+* *-t* and *-óy* specify if a word is negative or not
+* take the case of *ainàwa* - it can mean glee or cunning both
+* to disambiguate, you use **ainàwat** for cunning or devious and **ainàwaóy** for empathetic
+* the vowel on *óy* is actually unmarked:
+	* **ainawaoy**
+	* **hibikooy**
+
+## 0.7 Pronunciation of hi
+* *hi* is always pronounced [çi], even though some texts use [j̊i]
+
+## 0.8 Product (tei) vs. noun particles
 * in Modern Tawa, *tei* and noun particles *(y)ch* and *nych* aren't very different
 * *tei* is a relic from older languages, like Takan or early Tawish languages, which distinguished contextual products (*tei*) and denotational products (*gami*)
 * so, does this mean they are interchangeable? it would not be *inherently* wrong to use them interchangeably; however, due to grammatical quirks, you cannot use them interchangeably
 
-### 0.5.1 When to use *tei* and when not to
+### 0.8.1 When to use *tei* and when not to
 * use tei if you want broader semantic space and contextual alteration:
 	* kamtei is food or something edible, but it will refer specifically to pizza during pizza parties or all the food on the table in a buffet
 * use *(y)ch* if you want to simply mark something as a noun:
@@ -82,7 +175,7 @@
 * use *nych* for the obvious romantic connotation:
 	* *kamnych* could be a sexual or romantic euphemism - context, creativity, and imagination are the limits
 
-## 0.6 The antiproduct particle
+## 0.9 The antiproduct particle
 * it is not correct to say that the antiproduct particle *hai* is just the opposite of *tei*
 * *tei* derives meaning contextually: kamtei can be pizza during pizza parties
 * though hai **can** derive contextual meaning, it works primarily to derive **how** one acts on something
@@ -121,7 +214,7 @@
 		* "She froze (something) / she cooled"
 * the antiproduct particle is context-sensitive - chihai can mean rinse if you say it in a public shower but it can mean 'drink' in a private domicile (e.g., 'Jèsei'ikua subũ chihai chiõ asahyakãsonji' (~Jesse wants to drink water in his private domicile)).
 
-### 0.6.1 A better explanation of the antiproduct particle
+### 0.9.1 A better explanation of the antiproduct particle
 * think of the antiproduct particle as a verbaliser; however, instead of verbalising a noun, it engages with a noun in the way it canonically functions in any way
 	* the canonical function of water is, well, to drink it
 	* that is why chihai means to drink water; however, if you're talking about showering, chihai could actually mean rinse
@@ -161,100 +254,51 @@
 		* the implications are limited only by your imagination!
 * so do use **hai** (`ANTIPROD.V`) with care!
 
-## 0.7 The person particle
+## 0.10 The person particle
 * the person particle (PERS) is not really a 'person' particle
 * it is used for any non-Tawish word, including loans like Duragin (dragon)
 
-## 0.8 Independentising and backshifting
+## 0.11 Independentising and backshifting
 * *ppu* lets any bound morpheme become an unbound one and affect anything coming after it:
 	* *itappu korteisan* -> `PRTV-INDEP kill.PROD-3SG.F.POSS`
 		* "About her death / murder"
 	* *korteisan itahi* -> `kill.PROD-3SG.F.POSS PRTV-BACK`
 		* "About her death / murder"
-* On aspect, they also do not replace o, like *reoppu* or *reohi*
-* The *il* form of the definite article is used if INDEP or BACK needs to be attached to it, like *ilppu* or *ilhi*
-* See the relevant grammar sheet *Grammar:3* for more information.
+* on aspect, it would be **rehi / reppu**
+* the *il* form of the definite article is used if INDEP or BACK needs to be attached to it, like *ilppu* or *ilhi*
+* see the relevant grammar sheet *Grammar:3* for more information.
 
-## 0.9 Modifiers
+## 0.12 Modifiers
 * modifiers are derivational particles
 * o-roots must inflect to the modifier's ending
 * otherwise, do not use modifiers generally:
 	* *hari jitei* -> exchange place (e.g., trading area, market), though haritei alone can work for this
 	* *ii hon* -> good person
 * if you must disambiguate, a modifier is recommended:
-	* *ryã kiwinq wanohariã* -> past week (lit. "this finished business time")
+	* *asa ni naranã* -> the house is mysterious
 * see Grammar:2 for more information
 
-## 0.10 To use *ea* or to not use *ea*
+## 0.13 To use *ea* or to not use *ea*
 * *ea* is a movement particle
 * as a modifier, it just signals 'this thing can move'
 * it is better to use it this way, like in natseeã (moving block / cube), which could be a trolley or cart
 * *tawa natse* would be less self-explanatory
 
-## 0.11 Inverser inflection
-* inversers (nh and nq) don't inflect:
-	* kamo + nq -> kamonq
-	* to + nh -> tonh
-* ... and so on.
+## 0.14 Phrasal modification
+* instead of inflection or aggressively modifying roots, make use of *-hi* or *-ppu*
+* *-ppu* lets any root or particle modify everything that comes after, and *-hi* before:
+	* *reppu nuku kanata shi na′a tawa jinqõ* -> `IPFV.INDEP heart.V.PLAT happy COND 1PL-A go LOC-INV-ACC`
+		* "(I) will feel happy if we go out"
+		* note:
+			* *ji* + *-nq* + *-õ* automatically specifies *ji* as a noun
+			* *-nq* is used for roots (as opposed to *-nh* for grammatical particles), so *jinq* actually, whilst also inversing, turns *ji* into a noun
+			* the accusative *-õ* is the biggest hint in the end
+* this works with modals too:
+	* _su ni iinq hon meromhohi, mo mo korrumasrra!_ -> `1SG TOP good-INV person try.IRR.N.PLAT.BACK then then kill.V.PLAT-AG-NEG`
+	- "I might be a bad person, but I am (certainly not) a killer!"
+    - _mo mo_ has a tendency to create strong contrastives, so 'certainly not' is automatic here
 
-## 0.12 Numbering
-* stack to add up numbers, like:
-	* wuwuwan (7, from 3+3+1)
-* for multisyllabic words (more than one syllables), reduplicate the initial syllable
-	* tete -> tetete (10)
-	* antaka -> anantaka (20)
-	* sora -> sosora (100)
-* these pronouns can be used as numbers:
-	* wu (3SG) = 3
-	* zu (2SG) = 2
-	* su (1SG) = 1
-* these words can be used as numbers:
-	* kuenao (lose) = zero
-	* tete (hands) = 5
-	* antaka = 10
-	* mych (many) = 20
-	* sora (sky) = 100
-	* subeko (all) = infinity
-* though using numbers from other languages, such as English, is fine too in many contexts
-
-## 0.13 Reduplication
-* see Grammar:6.2
-* reduplication is a casual or less formal and emphatic way to turn a word into its superlative form:
-	* ii (good) -> ii'ii (best)
-* *nyi* is more 'loaded:'
-	* ii (good) -> iinyi (unrivalled, matchless, supreme, nonpareil, crème de la crème, pinacle)
-* It isn't that reduplication is weaker per se; rather, reduplication is less grand - so *ii'ii* can mean crème de la crème but it isn't the first thing that comes to a listener's mind when one utilises reduplication
-* Note that reduplication refers to doubling the initial CV or VC or VV unit:
-	* ***ku**ru* -> **kuku**ru
-	* **ii** -> **ii**'**ii**
-	* ***ka**nojo* -> **kaka**nojo
-	* ***az**uru* -> **azaz**uru
-* For words like *ii*, the reduplicated sequence should be separated with a simple *'* - so **iiii** is written as *ii'ii*
-* Do note that reduplication is the only instance where *'* or *′* is not pronounced as a glottal stop
-
-## 0.14 Nasalised labiodental approximant
-* Modern Tawa fully lost this sound :(
-* it no longer appears anywhere
-
-## 0.15 Positive/negative connotation
-* though *-t* and *-óy* particles are not often used in Modern Tawa, they can be essential sometimes
-* take the case of *ainàwa* - it can mean glee or cunning both
-* to disambiguate, you use **ainàwat** for cunning or devious and **ainàwaóy** for empathetic
-
-## 0.16 Orthography
-* refer to the Orthography Reference for updates on this
-
-## 0.17 Using modals as phrasal modifiers
-* modals can be used as phrasal modifiers
-* they can also modify words
-* you must use a noun form
-* here is an example using *mermho* `['me.ɺ.m̥͡mo]`
-	* *su ni iinq hon mermhhi, mo mo korrumasrra!* -> `1SG TOP good-INV person try.IRR.N.PLAT.BACK then then kill.V.PLAT-AG-NEG`
-		* "I might be a bad person, but I am (certainly not) a killer!"
-			* *mo mo* has a tendency to create strong contrastives, so 'certainly not' is automatic here
-* do note that **meromhohi, meromhhi,** and **mermhohi** are fine
-
-## 0.18 Compounding
+## 0.15 Compounding
 * Tawa loves compounding, so do make extensive use of it!
 * for example, verbs are frequently compounded:
 	* *kiukennanda* -> `fly.NMLZ-down`
@@ -272,14 +316,14 @@
 	* and if you want to say it was approximately down or had a property of down, sure, -bu works
 	* but otherwise, use compounding!
 
-### 0.18.1 Spoken register
+### 0.15.1 Spoken register
 * in the modern Tawish spoken register, you try to keep words as simple as possible
 * so instead of:
 	* **kitakamenkanata** `like-eat.NMLZ-happy`
 		* 'like to eat happily'
 * just say either one of these three:
-	* **kitaũ kanata kamu**
-		* simplest; `like-VLNK happy eat.V.PLAT`
+	* **kitaũ kanatakamu**
+		* simplest; `like-VLNK happy-eat.V.PLAT`
 	* **kitaũ kanatakamu**
 		* usually never used; `like-VLNK happy-eat.V.PLAT`
 	* **kitaũ kamukanatã**
@@ -292,7 +336,7 @@
 	* is it shorter and faster to say?
 * and then accordingly construct your sentences.
 
-### 0.18.2 ′O-root compounding
+### 0.15.2 ′O-root compounding
 * if the root you're compounding is an ′o-root, then the ending changes to the appropriate modifier particle and is placed after the word meant to be modified
 * here are some examples:
 	* **utari** (sing) + **miro** (reflect)
@@ -300,7 +344,8 @@
 	* **kiteki** (thing) + **kamo** (food)
 		* **kiteikambu** (a sort of edible item, a foodish item, an item with (some or any) property of food)
 
-## 0.19 Actor and undergoer
+
+## 0.16 Actor and undergoer
 * Tawa uses two main particles for marking the subject:
 	* **-a** -> actor particle, glossed `A`
 		* focuses the agent, doer, or actor
@@ -377,12 +422,12 @@
 		* **kikitanyu zu** -> automatically becomes about them and how much they are loved
 * However, this isn't absolute, as stative- or copular-like constructions usually prefer *ni*
 
-## 0.20 Pronoun omission
+## 0.17 Pronoun omission
 * in most contexts, complete omission of the pronoun is fine
 * just say *kamuthu* ('ate') and it'll be understood as 'I ate'
 * if it ever becomes ambiguous if the person you're referring to is an undergoer or actor, just use the particle **u** or **a** respectively without needing to specify the pronoun
 
-### 0.20.1 Anaphoric pronoun
+### 0.17.1 Anaphoric pronoun
 * the anaphoric pronoun is simply a way to repeat an entire phrase, sentence, or predicate
 * for example:
 	* *kamuthu samil hya?* -> `eat.V.PLAT-PFV.V.PLAT fish-DEF Q`
@@ -395,7 +440,7 @@
 			* *eirri* -> `ANAPH-AFFIRM`
 				* "Yes, (I have eaten it)"
 
-### 0.20.2 Dummy pronoun
+### 0.17.2 Dummy pronoun
 * *wu* can be used as a dummy pronoun, like the English **it**; however, this kind of usage is highly discouraged against and is not frequent in the Modern Tawish spoken register
 * for example:
 	* *wu ni ii* -> `3SG TOP good`
@@ -404,7 +449,7 @@
 	* instead, be more verbose, descriptive, or make use of the proper demonstrative
 * in Modern Tawa, **wu** is commonly used for 'they/them' (in English)
 
-## 0.21 Extended case usage
+## 0.19 Extended case usage
 | Case   | Semantic space                                                                                                                                                     |
 | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | -lla   | recipient or destination; ultimately, it is the **purpose** and **target** of any act                                                                              |
@@ -425,7 +470,7 @@
 * most of the cases or usages for cases listed in **Grammar:17** do not fully cover each domain of the case
 * this table will explain the semantic range of each case
 
-### 0.21.1 -nin and -un
+### 0.19.1 -nin and -un
 * difference between **-nin** and **-un**:
 	* *un* refers to a direct extension or connection
 		* *ke kamurra teteun* -> you're holding the tool (hands), it is a part of your body
@@ -438,7 +483,7 @@
 	* however, don't use *un* in all situations; for example, when you ask a man to help you talk to a friend, you aren't equals and you two probably don't have the same goal - so use *nin*
 	* but if you two are talking to the friend together or he is assisting you talk to the friend, then you could make a good argument for using *un*
 
-### 0.21.2 benefactives and malefactives
+### 0.19.2 benefactives and malefactives
 * they can be used in this way too:
 	* *irimethu twanayet* -> `work-PFV.V.PLAT device-BEN`
 		* "(I) worked for the device"
@@ -449,7 +494,7 @@
 		* this implies that you dislike the device or that you're work is actively hostile to the device
 		* it can also imply sabotage
 
-### 0.21.3 total semantic scope of locative class
+### 0.19.3 total semantic scope of locative class
 | Case       | Semantic space                                                                                                                                                                                                                                                                                                                                                            |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **ji**     | anything located in or contained in something; going into, enter; in, at; state of being; being 'in' any state; headspace; membership, participation; fashion, trend; included, counted; skill (good at, bad at); rate or measurement (at 60BPM); state during activity; targeted or directed action; appearance or form (in pieces, in crystals); lock in                |
@@ -475,6 +520,57 @@
 	* *haekurra jistateijinyi fuka* -> `walk.V.PLAT-NEG LOC-DIM.SUP-PROD-LOC-AUG.SUP`
 		* ~"Please do not walk on the floor"
 
-## 0.22 Dictionary inaccuracies
+## 0.20 Case binding
+* case binding refers to when case particles are used as unbound morphemes
+* this happens in sentences like:
+	* *bunisun ni ji hyo?* -> `tea-1SG.POSS TOP LOC OPEN.Q`
+		* lit. "(As for) my tea, (it) is where?"
+		* ~"Where is my tea?"
+
+### 0.20.1 Question construction
+* **basic**
+	* *fuyu wan hyo?* -> which one?
+		* *zua subu fuyu atora hyo?* -> `2SG-A desire.V.PLAT what apple OPEN.Q`
+			* "What / which apple do you want?"
+	* *fuyu asa hyo?* -> what house?
+		* *teqeka asalõeu miriji no wutachilú hyo?* -> `recount.EMO house-DEF-ACC-REL.COP middle-LOC GEN three-road-DEF.PL OPEN.Q`
+			* "(Do you) remember the house standing where the three roads meet?"
+	* *tan hyo?* -> why?
+	* *tachi hyo?* -> how?
+	* *fuyu hyo?* -> what?
+	* *ji hyo?* -> where?
+	* *un hyo?* -> with (whom, what)?
+	* *nin hyo?* -> through (whom, what)?
+		* archaic form
+		* use *un* unless you want to sound over-the-top (it's like saying **'I must make use of the sophisticated plumbing fixture designed for the disposal of human bodily waste to relieve myself'** instead of **'I gotta poop.'**)
+
+## 0.21 Vowel devoicing
+* when an ′o-root combines with a particle, such as in the case of *fofotei*, the vowel *o* is devoiced:
+	* *fofo* + *-tei* -> *fofotei* [ɸoɸo̥tei]
+	* *nuko* + *-sun* -> *nukosun* [nuko̥sʊn]
+* this only happens in case of **′o-preservation** when it cannot be omitted due to consonant cluster restrictions
+* so, *fofutei* would be said normally and the **u** in it would not be devoiced, as **fofu** wouldn't follow **′o-preservation** rules anyway
+
+### 0.21.1 Epenthensis
+* epenthensis occurs when a non-nasal consonant cluster is forced, like in *ainàwatfofotei* (~clever quotes / sayings)
+* it is the insertion of a devoiced schwa:
+	* *ainàwa* + *-t* + *fofo* + *-tei*
+		* *ainàwatfofotei* -> [ainəwatə̥ɸoɸo̥tei]
+	* *ainàwa* + *-t* + *-sta*
+		* *ainàwatstafofotei* -> [ainəwatə̥sə̥taɸoɸo̥tei]
+* epenthensis also occurs during liquid clashes:
+	* *sami* + *-l*  + *-rra*
+		* *samilrra* -> [samilə̥ɾa]
+
+## 0.22 Vowel marking
+* in casual writing, vowels are usually left unmarked
+* so:
+	* *samilos*
+	* *ainawa*
+	* *samilu*
+* ... is fine
+* they are only marked when ambiguous
+
+## 0.23 Dictionary inaccuracies
 * some sentence examples in the dictionary's semantic space may be incorrect
 * if unsure, try to reconstruct them yourself or translate them from Japanese, since Tawa is closer to Japanese than it is to most other languages

@@ -1,0 +1,296 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Conlang Idiom Directory</title>
+        <link
+        <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+        <link
+            href="https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;600&display=swap"
+            rel="stylesheet"
+        />
+        <link
+            href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400;600&display=swap"
+            rel="stylesheet"
+        />
+        <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Batak&display=swap" rel="stylesheet">
+            <!-- Noto Sans Batak -->
+        <style>
+            :root {
+                --bg-color: #0d1117;
+                --card-bg: rgba(255, 255, 255, 0.03);
+                --card-border: rgba(255, 255, 255, 0.08);
+                --accent: #8b5cf6;
+                --accent-glow: rgba(139, 92, 246, 0.4);
+                --text-main: #e2e8f0;
+                --text-muted: #94a3b8;
+            }
+
+            * {
+                box-sizing: border-box;
+                margin: 0;
+                padding: 0;
+            }
+
+            body {
+                font-family: "Quicksand", sans-serif;
+                background-color: var(--bg-color);
+                color: var(--text-main);
+                min-height: 100vh;
+                background-image:
+                    radial-gradient(
+                        circle at 15% 50%,
+                        rgba(139, 92, 246, 0.15),
+                        transparent 25%
+                    ),
+                    radial-gradient(
+                        circle at 85% 30%,
+                        rgba(56, 189, 248, 0.1),
+                        transparent 25%
+                    );
+                background-attachment: fixed;
+                padding: 2rem;
+                line-height: 1.6;
+            }
+
+            header {
+                max-width: 800px;
+                margin: 0 auto 4rem auto;
+                text-align: center;
+            }
+
+            h1 {
+                font-size: 3.5rem;
+                margin-bottom: 1rem;
+                background: linear-gradient(to right, #a78bfa, #38bdf8);
+                -webkit-background-clip: text;
+                -webkit-text-fill-color: transparent;
+                letter-spacing: -0.5px;
+            }
+
+            header p {
+                color: var(--text-muted);
+                font-size: 1.1rem;
+                margin-bottom: 2rem;
+            }
+
+            /* The Search Bar */
+            .search-container {
+                position: relative;
+                max-width: 600px;
+                margin: 0 auto;
+            }
+
+            #searchInput {
+                width: 100%;
+                padding: 1rem 1.5rem;
+                font-size: 1.1rem;
+                font-family: "Comfortaa", sans-serif;
+                background: rgba(0, 0, 0, 0.2);
+                border: 1px solid var(--card-border);
+                border-radius: 50px;
+                color: white;
+                transition: all 0.3s ease;
+                backdrop-filter: blur(10px);
+            }
+
+            #searchInput:focus {
+                outline: none;
+                border-color: var(--accent);
+                box-shadow: 0 0 20px var(--accent-glow);
+                background: rgba(0, 0, 0, 0.4);
+            }
+
+            #searchInput::placeholder {
+                color: #64748b;
+            }
+
+            /* The Grid */
+            #directory {
+                display: grid;
+                grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+                gap: 2rem;
+                max-width: 1200px;
+                margin: 0 auto;
+            }
+
+            /* The Cards (Glassmorphism) */
+            .card {
+                background: var(--card-bg);
+                border: 1px solid var(--card-border);
+                border-radius: 16px;
+                padding: 2rem;
+                backdrop-filter: blur(16px);
+                -webkit-backdrop-filter: blur(16px);
+                transition:
+                    transform 0.3s ease,
+                    box-shadow 0.3s ease;
+                display: flex;
+                flex-direction: column;
+                gap: 0.8rem;
+            }
+
+            .card:hover {
+                transform: translateY(-5px);
+                box-shadow:
+                    0 10px 30px rgba(0, 0, 0, 0.5),
+                    0 0 15px rgba(139, 92, 246, 0.2);
+                border-color: rgba(139, 92, 246, 0.3);
+            }
+
+            .phrase {
+                font-family: "Fredoka", sans-serif;
+                font-size: 1.8rem;
+                color: #ffffff;
+                font-weight: 600;
+                margin-bottom: 0.2rem;
+            }
+
+            .ipa {
+                font-family: monospace;
+                color: #38bdf8;
+                font-size: 0.95rem;
+                background: rgba(56, 189, 248, 0.1);
+                padding: 0.2rem 0.6rem;
+                border-radius: 6px;
+                display: inline-block;
+                width: fit-content;
+                margin-bottom: 0.5rem;
+            }
+
+            .label {
+                font-size: 0.75rem;
+                text-transform: uppercase;
+                letter-spacing: 1px;
+                color: var(--text-muted);
+                font-weight: 600;
+                margin-top: 0.5rem;
+            }
+
+            .english {
+                font-size: 1.1rem;
+                color: #f8fafc;
+                font-weight: 400;
+            }
+
+            .gloss,
+            .literal,
+            .notes {
+                color: #cbd5e1;
+                font-size: 0.95rem;
+            }
+
+            .literal {
+                font-style: italic;
+            }
+
+            /* Empty state */
+            .no-results {
+                grid-column: 1 / -1;
+                text-align: center;
+                color: var(--text-muted);
+                font-size: 1.2rem;
+                padding: 3rem;
+            }
+        </style>
+    </head>
+    <body>
+        <header>
+            <h1>Fofoqeteilós</h1>
+            <p>
+                A comprehensive directory of Tawish phrases, proverbs, and
+                expressions.
+            </p>
+            <div class="search-container">
+                <input
+                    type="text"
+                    id="searchInput"
+                    placeholder="Search by Tawish phrase, English translation, or gloss..."
+                />
+            </div>
+        </header>
+
+        <main id="directory"></main>
+
+        <script>
+            let idiomsData = [];
+            const directory = document.getElementById("directory");
+            const searchInput = document.getElementById("searchInput");
+
+            async function loadIdioms() {
+                try {
+                    const response = await fetch("data.json");
+                    if (!response.ok)
+                        throw new Error("Could not load data.json");
+                    idiomsData = await response.json();
+                    renderCards(idiomsData);
+                } catch (error) {
+                    console.error("Error loading idioms:", error);
+                    directory.innerHTML = `<div class="no-results">
+                    ⚠️ Nasũrra gaidaru "JSON." <br>
+                    <small>Could not load the JSON. Likely a browser issue.</small>
+                </div>`;
+                }
+            }
+
+            function renderCards(data) {
+                directory.innerHTML = ""; // Clear current cards
+
+                if (data.length === 0) {
+                    directory.innerHTML =
+                        '<div class="no-results">No phrases found matching your search.</div>';
+                    return;
+                }
+
+                data.forEach((item) => {
+                    const card = document.createElement("div");
+                    card.className = "card";
+
+                    card.innerHTML = `
+                    <div class="phrase">${item.phrase}</div>
+                    ${item.ipa ? `<div class="ipa">${item.ipa}</div>` : ""}
+
+                    <div class="label">English Translation</div>
+                    <div class="english">${item.english}</div>
+
+                    <div class="label">Literal Meaning</div>
+                    <div class="literal">"${item.literal}"</div>
+
+                    <div class="label">Gloss</div>
+                    <div class="gloss">${item.gloss}</div>
+
+                    ${
+                        item.notes
+                            ? `
+                    <div class="label">Cultural Notes</div>
+                    <div class="notes">${item.notes}</div>
+                    `
+                            : ""
+                    }
+                `;
+
+                    directory.appendChild(card);
+                });
+            }
+
+            searchInput.addEventListener("input", (e) => {
+                const searchTerm = e.target.value.toLowerCase();
+
+                const filteredData = idiomsData.filter((item) => {
+                    // Search across multiple fields
+                    return (
+                        item.phrase.toLowerCase().includes(searchTerm) ||
+                        item.english.toLowerCase().includes(searchTerm) ||
+                        item.gloss.toLowerCase().includes(searchTerm) ||
+                        item.literal.toLowerCase().includes(searchTerm)
+                    );
+                });
+
+                renderCards(filteredData);
+            });
+
+            loadIdioms();
+        </script>
+    </body>
+</html>
