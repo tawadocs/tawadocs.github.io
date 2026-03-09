@@ -342,8 +342,7 @@
 	* **utari** (sing) + **miro** (reflect)
 		* **utarimirã** (melodious reverberations)
 	* **kiteki** (thing) + **kamo** (food)
-		* **kiteikambu** (a sort of edible item, a foodish item, an item with (some or any) property of food)
-
+		* **kiteikambu** (a sort of edible item, a foodish item, an item with (some or any) property of food
 
 ## 0.16 Actor and undergoer
 * Tawa uses two main particles for marking the subject:
@@ -449,85 +448,14 @@
 	* instead, be more verbose, descriptive, or make use of the proper demonstrative
 * in Modern Tawa, **wu** is commonly used for 'they/them' (in English)
 
-## 0.19 Extended case usage
-| Case   | Semantic space                                                                                                                                                     |
-| ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| -lla   | recipient or destination; ultimately, it is the **purpose** and **target** of any act                                                                              |
-| -llanh | **source** or **origin**; the giver as opposed to recipient or the starting point as opposed to destination                                                        |
-| -ye(t) | anything done for one's **gain** or **benefit** (e.g., running *for* your body's health)                                                                           |
-| -yenh  | anything done to one's detriment (e.g., stealing food *for* your coworker's detriment)                                                                             |
-| -õ    | the direct object                                                                                                                                                  |
-| -ji    | any state of **being**; being **at** or **inside** a coordinate                                                                                                    |
-| -jinh  | being **out of** or **away** from any state or coordinate; exclusion from a state or coordinate                                                                    |
-| -po    | positioned **beside** or **alongside** a thing; being **in favour** or **supporting**                                                                              |
-| -bo    | positioned **opposite** or **facing** something; resting **against** or using a thing as **support**; being **against** or acting as **substitute** (*instead of*) |
-| -ita   | a **piece** or **some** of a thing; *aboutness* or an *incomplete action*                                                                                          |
-| -itanh | the **entirety** of a thing; *completion* of an action; *total embodiment* of a thing                                                                              |
-| -un    | **accompaniment**, **using** a tool; **emotional companionship** or an *internal state that you carry*                                                             |
-| -unh   | **lacking** or **being without** a thing                                                                                                                           |
-| -nin   | movement **through** any space or medium; **mediation** (*via*) or **causality** (*because of*)                                                                    |
-| -ninh  | **missing** or **avoiding** a point; **exclusion** or *except for*                                                                                                 |
-* most of the cases or usages for cases listed in **Grammar:17** do not fully cover each domain of the case
-* this table will explain the semantic range of each case
-
-### 0.19.1 -nin and -un
-* difference between **-nin** and **-un**:
-	* *un* refers to a direct extension or connection
-		* *ke kamurra teteun* -> you're holding the tool (hands), it is a part of your body
-		* the tool (your hands) is your partner in eating and assists you
-	* *nin* refers to a conduit or middleman through which you actualise your intentions
-		* *ke kamurra tetenin* -> you're using the hands to achieve the goal of eating
-		* the tool (your hands) is just an instrument that you're using to eat
-	* the latter sounds more detached than the former and might even hint at ulterior motives ('using the hand to complete the goal which is to allow food to enter the mouth')
-	* so unless there is some ulterior motive or that detachedness is intentional, just use *un* for all 'via' tasks
-	* however, don't use *un* in all situations; for example, when you ask a man to help you talk to a friend, you aren't equals and you two probably don't have the same goal - so use *nin*
-	* but if you two are talking to the friend together or he is assisting you talk to the friend, then you could make a good argument for using *un*
-
-### 0.19.2 benefactives and malefactives
-* they can be used in this way too:
-	* *irimethu twanayet* -> `work-PFV.V.PLAT device-BEN`
-		* "(I) worked for the device"
-		* use this if you want to say that you fixed the device
-		* it's especially useful if the device is a special or intimate project for the speaker
-	* *irimethu twanayenh* -> `work-PFV.V.PLAT device-MAL`
-		* "(I) worked to the device's detriment"
-		* this implies that you dislike the device or that you're work is actively hostile to the device
-		* it can also imply sabotage
-
-### 0.19.3 total semantic scope of locative class
-| Case       | Semantic space                                                                                                                                                                                                                                                                                                                                                            |
-| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **ji**     | anything located in or contained in something; going into, enter; in, at; state of being; being 'in' any state; headspace; membership, participation; fashion, trend; included, counted; skill (good at, bad at); rate or measurement (at 60BPM); state during activity; targeted or directed action; appearance or form (in pieces, in crystals); lock in                |
-| **jinh**   | being out of or away from; going out of, exiting; not in, not at; a state of being one isn't in; exhausted, depleted; revealled, exposed; extinguished, inactive; (removed) from participation; not included, not counted; fall out                                                                                                                                       |
-| **jiji**   | exactly at, absolutely at; most at, perfectly in; the absolute truth or bullseye in terms of location or headspace, dead on; precisely (at); interaction point (knock at the door)                                                                                                                                                                                        |
-| **jijinh** | nowhere near, way off, completely missing it; not even close; anything but (it/that)                                                                                                                                                                                                                                                                                      |
-| **jinyi**  | above, over, on; positioned above; applied to a target; directed effort towards; active engagement; turned 'on' or online; topical focus; schedule, occurrence (the party is on); dependency, support, codependent; progress, continuation; responsibility; stick on                                                                                                      |
-| **jista**  | below, under, beneath, off; positioned below; action directed away; removed form a target; 'off' or offline; ranked below; siphon (off); take (off), cancellation, discontinuation, reduction or discount (30% off), incorrectness (feels off); detach, remove; come off                                                                                                  |
-| **ieji**   | close; interaction is easy or intermediate; (at a) short distance; association, affiliation (close to him), rank, hierarchical closeness (near the top), proximity (near the department); approximation (nearly the best), almost; close to a limit or boundary (near disaster); low cognitive distance (keep it near your mind, bring near your attention); soon (to be) |
-| **iejinh** | outside the zone of easy interaction; not close; away; increase distance from reference (take away, move away); not present (he is away); difficult to access (help is not near); removed from implication or connection (step away, drift away, fade away)                                                                                                               |
-| **olji**   | distance is lower than a comfortable or safe threshold; crossing boundaries, entering personal space; too close for comfort; insufficient difference (too similar / too close); proximity that risked crossing into failure or harm; clingyness or attachment (she is too close)                                                                                          |
-| **oljinh** | distance is higher than a comfortable or manageable threshold; beyond an expected or needed position; too removed from involvement or connection (he went too far in isolating himself); threshold violation (opposite end of a safety or acceptability boundary (e.g., experiment gone too far)); detachment, isolation (he is too distant)                              |
-* the locative class of particles (ji, jinh, jiji, jinyi, jijinyi, etc.) and their semantic space
-* yes, they can take on any word form (jiru, oljinhru, oljiru, iejinhtei, jistanych)
-* and no, it is not as scary as it looks
-* here are some sentence examples:
-	* *bakalojinh* -> `circle-INDEF.PL.LOC-G.INV`
-		* ~"(I am) out of balls"
-	* *nuksanoljinh* -> `heart.3SG.F.POSS-EXCESS-LOC-G.INV`
-		* ~"(He is) too distant from her heart"
-	* *ei ni ieji à!* -> `ANAPH TOP AUG-LOC INTERJ`
-		* ~"(Phew), that was close!"
-	* *haekurra jistateijinyi fuka* -> `walk.V.PLAT-NEG LOC-DIM.SUP-PROD-LOC-AUG.SUP`
-		* ~"Please do not walk on the floor"
-
-## 0.20 Case binding
+## 0.18 Case binding
 * case binding refers to when case particles are used as unbound morphemes
 * this happens in sentences like:
 	* *bunisun ni ji hyo?* -> `tea-1SG.POSS TOP LOC OPEN.Q`
 		* lit. "(As for) my tea, (it) is where?"
 		* ~"Where is my tea?"
 
-### 0.20.1 Question construction
+### 0.18.1 Question construction
 * **basic**
 	* *fuyu wan hyo?* -> which one?
 		* *zua subu fuyu atora hyo?* -> `2SG-A desire.V.PLAT what apple OPEN.Q`
@@ -544,14 +472,14 @@
 		* archaic form
 		* use *un* unless you want to sound over-the-top (it's like saying **'I must make use of the sophisticated plumbing fixture designed for the disposal of human bodily waste to relieve myself'** instead of **'I gotta poop.'**)
 
-## 0.21 Vowel devoicing
+## 0.19 Vowel devoicing
 * when an ′o-root combines with a particle, such as in the case of *fofotei*, the vowel *o* is devoiced:
 	* *fofo* + *-tei* -> *fofotei* [ɸoɸo̥tei]
 	* *nuko* + *-sun* -> *nukosun* [nuko̥sʊn]
 * this only happens in case of **′o-preservation** when it cannot be omitted due to consonant cluster restrictions
 * so, *fofutei* would be said normally and the **u** in it would not be devoiced, as **fofu** wouldn't follow **′o-preservation** rules anyway
 
-### 0.21.1 Epenthensis
+### 0.19.1 Epenthensis
 * epenthensis occurs when a non-nasal consonant cluster is forced, like in *ainàwatfofotei* (~clever quotes / sayings)
 * it is the insertion of a devoiced schwa:
 	* *ainàwa* + *-t* + *fofo* + *-tei*
@@ -561,8 +489,14 @@
 * epenthensis also occurs during liquid clashes:
 	* *sami* + *-l*  + *-rra*
 		* *samilrra* -> [samilə̥ɾa]
+* epenthensis also occurs in constructions like:
+	* *subuthu* -> `desire-PFV.V.PLAT` (wanted)
+		* here, **subuthu** is actually *subthu* in pronunciation
+		* it is pronounced [subə̥tʰu]
+		* it is written *subuthu* because the older Modern Tawish Standard had different grammatical rules
+		* this is due to pure diachrony
 
-## 0.22 Vowel marking
+## 0.20 Vowel marking
 * in casual writing, vowels are usually left unmarked
 * so:
 	* *samilos*
@@ -571,6 +505,6 @@
 * ... is fine
 * they are only marked when ambiguous
 
-## 0.23 Dictionary inaccuracies
+## 0.21 Dictionary inaccuracies
 * some sentence examples in the dictionary's semantic space may be incorrect
 * if unsure, try to reconstruct them yourself or translate them from Japanese, since Tawa is closer to Japanese than it is to most other languages

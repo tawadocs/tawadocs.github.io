@@ -4,10 +4,7 @@
     "Alias": "oho",
     "Radical": "⼔",
     "Strokes": 2,
-    "Definitions": [
-      "spoon",
-      "ladle"
-    ],
+    "Definitions": ["spoon", "ladle"],
     "Readings": {
       "Japanese": "さじ",
       "Romaji": "saji"
@@ -22,10 +19,7 @@
     "Alias": "aiso",
     "Radical": "⼧",
     "Strokes": 3,
-    "Definitions": [
-      "roof",
-      "house/cover"
-    ],
+    "Definitions": ["roof", "house/cover"],
     "Readings": {
       "Japanese": "うかんむり",
       "Romaji": "ukanmuri"
@@ -40,11 +34,7 @@
     "Alias": "kowo",
     "Radical": "⾍",
     "Strokes": 6,
-    "Definitions": [
-      "worm",
-      "insect",
-      "bug"
-    ],
+    "Definitions": ["worm", "insect", "bug"],
     "Readings": {
       "Japanese": "むし",
       "Romaji": "mushi"
@@ -52,6 +42,33 @@
     "Position": {
       "Name": "",
       "Romaji": ""
+    }
+  },
+  {
+    "ID": "90",
+    "Radical": "氵",
+    "Alias": "ma",
+    "Definitions": [
+      "three drops of water",
+      "water",
+      "liquid",
+      "flowing",
+      "wetness",
+      "water-related"
+    ],
+    "Readings": {
+      "Romaji": "sanzui",
+      "Japanese": "さんずい"
+    }
+  },
+  {
+    "ID": "176",
+    "Radical": "⽴",
+    "Alias": "ku",
+    "Definitions": ["stand", "rise", "establishment", "erect", "set up"],
+    "Readings": {
+      "Romaji": "tatsu",
+      "Japanese": "たつ"
     }
   }
 ]

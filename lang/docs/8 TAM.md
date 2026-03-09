@@ -82,8 +82,10 @@
 * *atai* is a desiderative, but its purpose goes beyond simple desire
 * It marks a deep, emotional longing for something specifically
 * See the difference between a non-desiderative and a desiderative sentence:
-	* *su ni niruatai foŝssun* -> `1SG TOP see-DES friend.1SG.POSS`
+	* *su ni niruatai foshsun* -> `1SG TOP see.V.PLAT-DES friend.1SG.POSS`
 		* "I miss my friend"
+	* *su ni niru foshsun* -> `1SG TOP see.V.PLAT friend.1SG.POSS`
+		* "I see my friend"
 
 ### 8.3.5 Interrogatives
 * *hya* and *hyo* are both used for interrogatives

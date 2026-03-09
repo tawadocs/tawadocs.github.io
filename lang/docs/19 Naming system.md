@@ -1,4 +1,4 @@
-## 18.1 Basic naming conventions
+## 19.1 Basic naming conventions
 * Lineage is prioritised in naming
 * The basic format is:
 	* `[Family name] + [Given name] no [Father's name]`
@@ -10,7 +10,7 @@
 	* Constructed:
 		* **Sumatà Hajira no Aiu** -> Hajira Sumatà, daughter of Aiu
 
-## 18.2 Usage of names
+## 19.2 Usage of names
 * Always use **GIVEN NAME + hon'iku** (person-PERS) for strangers:
 	* *Sumatàhon'iku*
 * Children never refer to parents by their first name and also use the hon'iku construction
@@ -18,7 +18,7 @@
 * Parents usually refer to themselves by their title, so *karicha* (mommy), not *su* (me) when talking to their progeny
 * Spouse, partners, or best friends can use first names
 
-## 18.3 Usage of hon'iku and 'iku
+## 19.3 Usage of hon'iku and 'iku
 * Use *iku* if using a proper noun, especially a Tawish word as a name:
 	* *Hajira* (angelic) + *'iku* -> **hajira'iku** (angel, as a name)
 * In many contexts, omitting is okay; however, for strangers or out of formality, it is necessary, as 'iku often carries a hidden connotation of respect (like saying sir or madame)

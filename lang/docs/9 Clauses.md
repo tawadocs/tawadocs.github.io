@@ -1,13 +1,13 @@
 ## 9.1 Particle table
-| Particle | IPA    | Gloss       |
-| -------- | ------ | ----------- |
-| eu       | `eu`   | REL.COP     |
-| me       | `me`   | REL         |
-| ę        | `ẽ`   | and         |
-| nwa      | `nʷa`  | but         |
-| ato      | `ato`  | or          |
-| mo       | `mo`   | then / than |
-| imo      | `imo`  | SIM         |
+| Particle | IPA   | Gloss       |
+| -------- | ----- | ----------- |
+| eu       | `eu`  | REL.COP     |
+| me       | `me`  | REL         |
+| ę        | `ẽ`  | and         |
+| nwa      | `nʷa` | but         |
+| ato      | `ato` | or          |
+| mo       | `mo`  | then / than |
+| imo      | `imo` | SIM         |
 
 ## 9.2 Relative clauses
 * *me* and *eu* are used for relative clauses

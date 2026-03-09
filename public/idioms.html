@@ -3,33 +3,25 @@
     <head>
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <title>Conlang Idiom Directory</title>
+        <title>Fofoqeteilós | Tawish Directory</title>
         <link
-            href="https://fonts.googleapis.com/css2?family=Fredoka:wght@300;400;500;600;700&display=swap"
+            href="https://fonts.googleapis.com/css2?family=Fredoka:wght@300;400;500;600;700&family=Quicksand:wght@300;400;600&family=Comfortaa:wght@300;400;600&family=Space+Mono&display=swap"
             rel="stylesheet"
         />
         <link
-            href="https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;600&display=swap"
+            href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap"
             rel="stylesheet"
         />
-        <link
-            href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400;600&display=swap"
-            rel="stylesheet"
-        />
-        <link
-            href="https://fonts.googleapis.com/css2?family=Noto+Sans+Batak&display=swap"
-            rel="stylesheet"
-        />
-        <!-- Noto Sans Batak -->
         <style>
             :root {
-                --bg-color: #0d1117;
+                --bg-color: #080a0f;
                 --card-bg: rgba(255, 255, 255, 0.03);
-                --card-border: rgba(255, 255, 255, 0.08);
-                --accent: #8b5cf6;
-                --accent-glow: rgba(139, 92, 246, 0.4);
-                --text-main: #e2e8f0;
+                --card-border: rgba(255, 255, 255, 0.1);
+                --accent: #a78bfa;
+                --accent-glow: rgba(167, 139, 250, 0.3);
+                --text-main: #f1f5f9;
                 --text-muted: #94a3b8;
+                --surface-blur: blur(20px);
             }
 
             * {
@@ -39,155 +31,240 @@
             }
 
             body {
-                font-family: "Quicksand", sans-serif;
+                font-family: "Inter", "Quicksand", sans-serif;
                 background-color: var(--bg-color);
                 color: var(--text-main);
                 min-height: 100vh;
-                background-image:
+                background:
                     radial-gradient(
-                        circle at 15% 50%,
-                        rgba(139, 92, 246, 0.15),
-                        transparent 25%
+                        circle at 0% 0%,
+                        rgba(139, 92, 246, 0.15) 0%,
+                        transparent 35%
                     ),
                     radial-gradient(
-                        circle at 85% 30%,
-                        rgba(56, 189, 248, 0.1),
-                        transparent 25%
-                    );
+                        circle at 100% 100%,
+                        rgba(56, 189, 248, 0.1) 0%,
+                        transparent 35%
+                    ),
+                    var(--bg-color);
                 background-attachment: fixed;
                 padding: 2rem;
-                line-height: 1.6;
+                overflow-x: hidden;
             }
 
             header {
                 max-width: 800px;
                 margin: 0 auto 4rem auto;
                 text-align: center;
+                animation: fadeInDown 0.8s ease-out;
+            }
+
+            @keyframes fadeInDown {
+                from {
+                    opacity: 0;
+                    transform: translateY(-20px);
+                }
+                to {
+                    opacity: 1;
+                    transform: translateY(0);
+                }
             }
 
             h1 {
-                font-size: 3.5rem;
-                margin-bottom: 1rem;
-                background: linear-gradient(to right, #a78bfa, #38bdf8);
+                font-family: "Fredoka", sans-serif;
+                font-size: clamp(2.5rem, 8vw, 4rem);
+                background: linear-gradient(135deg, #ddd6fe, #a78bfa, #38bdf8);
                 -webkit-background-clip: text;
                 -webkit-text-fill-color: transparent;
-                letter-spacing: -0.5px;
+                margin-bottom: 0.5rem;
             }
 
             header p {
                 color: var(--text-muted);
                 font-size: 1.1rem;
-                margin-bottom: 2rem;
             }
 
-            /* The Search Bar */
+            /* Search Bar Styling */
             .search-container {
                 position: relative;
                 max-width: 600px;
-                margin: 0 auto;
+                margin: 2rem auto;
             }
 
             #searchInput {
                 width: 100%;
-                padding: 1rem 1.5rem;
+                padding: 1.2rem 2rem;
+                background: rgba(255, 255, 255, 0.05);
+                border: 1px solid var(--card-border);
+                border-radius: 100px;
+                color: white;
                 font-size: 1.1rem;
                 font-family: "Comfortaa", sans-serif;
-                background: rgba(0, 0, 0, 0.2);
-                border: 1px solid var(--card-border);
-                border-radius: 50px;
-                color: white;
-                transition: all 0.3s ease;
-                backdrop-filter: blur(10px);
+                backdrop-filter: var(--surface-blur);
+                transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
             }
 
             #searchInput:focus {
                 outline: none;
+                background: rgba(255, 255, 255, 0.08);
                 border-color: var(--accent);
-                box-shadow: 0 0 20px var(--accent-glow);
-                background: rgba(0, 0, 0, 0.4);
+                box-shadow: 0 0 30px var(--accent-glow);
+                transform: scale(1.02);
             }
 
             #searchInput::placeholder {
                 color: #64748b;
             }
 
-            /* The Grid */
+            /* Grid Layout */
             #directory {
                 display: grid;
-                grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
-                gap: 2rem;
+                grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+                gap: 1.5rem;
                 max-width: 1200px;
                 margin: 0 auto;
             }
 
-            /* The Cards (Glassmorphism) */
+            /* Card Styling */
             .card {
                 background: var(--card-bg);
                 border: 1px solid var(--card-border);
-                border-radius: 16px;
+                border-radius: 24px;
                 padding: 2rem;
-                backdrop-filter: blur(16px);
-                -webkit-backdrop-filter: blur(16px);
-                transition:
-                    transform 0.3s ease,
-                    box-shadow 0.3s ease;
+                backdrop-filter: var(--surface-blur);
+                -webkit-backdrop-filter: var(--surface-blur);
+                cursor: pointer;
+                transition: all 0.3s ease;
                 display: flex;
                 flex-direction: column;
-                gap: 0.8rem;
+                position: relative;
+                overflow: hidden;
             }
 
             .card:hover {
-                transform: translateY(-5px);
-                box-shadow:
-                    0 10px 30px rgba(0, 0, 0, 0.5),
-                    0 0 15px rgba(139, 92, 246, 0.2);
-                border-color: rgba(139, 92, 246, 0.3);
+                transform: translateY(-8px);
+                background: rgba(255, 255, 255, 0.06);
+                border-color: var(--accent);
+                box-shadow: 0 20px 40px rgba(0, 0, 0, 0.4);
+            }
+
+            .card::after {
+                content: "View Details →";
+                position: absolute;
+                bottom: 1.5rem;
+                right: 2rem;
+                font-size: 0.85rem;
+                color: var(--accent);
+                font-weight: 600;
+                opacity: 0;
+                transition: 0.3s;
+            }
+
+            .card:hover::after {
+                opacity: 1;
             }
 
             .phrase {
                 font-family: "Fredoka", sans-serif;
                 font-size: 1.8rem;
-                color: #ffffff;
                 font-weight: 600;
-                margin-bottom: 0.2rem;
+                margin-bottom: 0.5rem;
+                color: #ffffff;
             }
 
             .ipa {
-                font-family: monospace;
+                font-family: "Space Mono", monospace;
                 color: #38bdf8;
-                font-size: 0.95rem;
+                font-size: 0.9rem;
+                margin-bottom: 1rem;
                 background: rgba(56, 189, 248, 0.1);
                 padding: 0.2rem 0.6rem;
                 border-radius: 6px;
                 display: inline-block;
                 width: fit-content;
-                margin-bottom: 0.5rem;
             }
 
-            .label {
+            .english-preview {
+                font-size: 1.1rem;
+                font-weight: 400;
+                color: #f8fafc;
+                margin-bottom: 1rem;
+                line-height: 1.5;
+            }
+
+            /* Modal Styling */
+            .modal-overlay {
+                position: fixed;
+                top: 0;
+                left: 0;
+                width: 100%;
+                height: 100%;
+                background: rgba(0, 0, 0, 0.85);
+                backdrop-filter: blur(12px);
+                -webkit-backdrop-filter: blur(12px);
+                z-index: 1000;
+                display: none; /* Hidden by default */
+                align-items: center;
+                justify-content: center;
+                padding: 1.5rem;
+                opacity: 0;
+                transition: opacity 0.3s ease;
+            }
+
+            .modal-content {
+                background: #161b22;
+                border: 1px solid var(--card-border);
+                max-width: 700px;
+                width: 100%;
+                max-height: 90vh;
+                border-radius: 32px;
+                padding: 3rem;
+                position: relative;
+                overflow-y: auto;
+                box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.5);
+            }
+
+            .close-btn {
+                position: absolute;
+                top: 1.5rem;
+                right: 1.5rem;
+                background: rgba(255, 255, 255, 0.05);
+                border: none;
+                color: white;
+                width: 40px;
+                height: 40px;
+                border-radius: 50%;
+                cursor: pointer;
+                font-size: 1.2rem;
+                transition: background 0.2s;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+            }
+
+            .close-btn:hover {
+                background: rgba(255, 255, 255, 0.15);
+            }
+
+            .modal-label {
                 font-size: 0.75rem;
                 text-transform: uppercase;
-                letter-spacing: 1px;
-                color: var(--text-muted);
-                font-weight: 600;
-                margin-top: 0.5rem;
+                letter-spacing: 2px;
+                color: var(--accent);
+                margin-top: 1.5rem;
+                margin-bottom: 0.4rem;
+                font-weight: 700;
             }
 
-            .english {
-                font-size: 1.1rem;
-                color: #f8fafc;
-                font-weight: 400;
-            }
-
-            .gloss,
-            .literal,
-            .notes {
+            .description-text {
+                line-height: 1.8;
                 color: #cbd5e1;
-                font-size: 0.95rem;
-            }
-
-            .literal {
-                font-style: italic;
+                font-size: 1.05rem;
+                margin-top: 1rem;
+                padding: 1.5rem;
+                background: rgba(0, 0, 0, 0.2);
+                border-radius: 16px;
+                border: 1px solid rgba(255, 255, 255, 0.05);
             }
 
             /* Empty state */
@@ -195,14 +272,16 @@
                 grid-column: 1 / -1;
                 text-align: center;
                 color: var(--text-muted);
-                font-size: 1.2rem;
-                padding: 3rem;
+                padding: 4rem;
+                background: var(--card-bg);
+                border-radius: 24px;
+                border: 1px dashed var(--card-border);
             }
         </style>
     </head>
     <body>
         <header>
-            <h1>Fofoqeteilós</h1>
+            <h1>Fofoqeteilós</h1>
             <p>
                 A comprehensive directory of Tawish phrases, proverbs, and
                 expressions.
@@ -211,17 +290,27 @@
                 <input
                     type="text"
                     id="searchInput"
-                    placeholder="Search by Tawish phrase, English translation, or gloss..."
+                    placeholder="Search meanings, translations, or gloss..."
                 />
             </div>
         </header>
 
         <main id="directory"></main>
 
+        <div class="modal-overlay" id="modalOverlay">
+            <div class="modal-content" id="modalContent">
+                <button class="close-btn" id="closeModal">&times;</button>
+                <div id="modalBody"></div>
+            </div>
+        </div>
+
         <script>
             let idiomsData = [];
             const directory = document.getElementById("directory");
             const searchInput = document.getElementById("searchInput");
+            const modalOverlay = document.getElementById("modalOverlay");
+            const modalBody = document.getElementById("modalBody");
+            const closeModal = document.getElementById("closeModal");
 
             async function loadIdioms() {
                 try {
@@ -233,18 +322,25 @@
                 } catch (error) {
                     console.error("Error loading idioms:", error);
                     directory.innerHTML = `<div class="no-results">
-                    ⚠️ Nasũrra gaidaru "JSON." <br>
-                    <small>Could not load the JSON. Likely a browser issue.</small>
-                </div>`;
+                      ⚠️ Nasũrra gaidaru "JSON." <br>
+                      <small>Could not load the JSON. Likely a browser issue.</small>
+                  </div>`;
                 }
             }
 
             function renderCards(data) {
-                directory.innerHTML = ""; // Clear current cards
+                directory.innerHTML = "";
 
                 if (data.length === 0) {
-                    directory.innerHTML =
-                        '<div class="no-results">No phrases found matching your search.</div>';
+                    const searchTerm = searchInput.value;
+                    directory.innerHTML = `
+                        <div class="no-results">
+                            <div style="font-size: 3rem; margin-bottom: 1rem;">🔍</div>
+                            <p style="font-size: 1.2rem;">No matches found for "<strong>${searchTerm}</strong>"</p>
+                            <p style="font-size: 0.95rem; margin-top: 0.5rem; opacity: 0.7;">
+                                Try searching for a literal meaning, a translation, or a grammatical gloss.
+                            </p>
+                        </div>`;
                     return;
                 }
 
@@ -253,42 +349,78 @@
                     card.className = "card";
 
                     card.innerHTML = `
-                    <div class="phrase">${item.phrase}</div>
-                    ${item.ipa ? `<div class="ipa">${item.ipa}</div>` : ""}
+                        <div class="phrase">${item.phrase}</div>
+                        ${item.ipa ? `<div class="ipa">/${item.ipa}/</div>` : ""}
+                        <div class="english-preview">${item.english}</div>
+                    `;
 
-                    <div class="label">English Translation</div>
-                    <div class="english">${item.english}</div>
+                    card.onclick = () => openModal(item);
+                    directory.appendChild(card);
+                });
+            }
 
-                    <div class="label">Literal Meaning</div>
-                    <div class="literal">"${item.literal}"</div>
+            function openModal(item) {
+                modalBody.innerHTML = `
+                    <div class="phrase" style="font-size: 2.5rem; margin-bottom: 0.5rem;">${item.phrase}</div>
+                    ${item.ipa ? `<div class="ipa">/${item.ipa}/</div>` : ""}
 
-                    <div class="label">Gloss</div>
-                    <div class="gloss">${item.gloss}</div>
+                    <div class="modal-label">English Translation</div>
+                    <div style="font-size: 1.3rem; color: #f8fafc; margin-bottom: 1rem;">${item.english}</div>
+
+                    <div style="display: flex; gap: 2rem; flex-wrap: wrap; margin-top: 1rem;">
+                        <div style="flex: 1; min-width: 200px;">
+                            <div class="modal-label">Literal Meaning</div>
+                            <div style="font-style: italic; color: #cbd5e1;">"${item.literal || "N/A"}"</div>
+                        </div>
+                        <div style="flex: 1; min-width: 200px;">
+                            <div class="modal-label">Gloss</div>
+                            <div style="font-family: 'Space Mono', monospace; font-size: 0.95rem; color: #cbd5e1;">${item.gloss || "N/A"}</div>
+                        </div>
+                    </div>
+
+                    <div class="modal-label">Description & Usage</div>
+                    <div class="description-text">${item.description || "No description available."}</div>
 
                     ${
                         item.notes
                             ? `
-                    <div class="label">Cultural Notes</div>
-                    <div class="notes">${item.notes}</div>
+                        <div class="modal-label">Cultural Notes</div>
+                        <div style="color: var(--text-muted); font-size: 0.95rem; line-height: 1.6;">${item.notes}</div>
                     `
                             : ""
                     }
                 `;
 
-                    directory.appendChild(card);
-                });
+                modalOverlay.style.display = "flex";
+                setTimeout(() => (modalOverlay.style.opacity = "1"), 10);
+                document.body.style.overflow = "hidden";
             }
+
+            function hideModal() {
+                modalOverlay.style.opacity = "0";
+                setTimeout(() => {
+                    modalOverlay.style.display = "none";
+                    document.body.style.overflow = "auto";
+                }, 300);
+            }
+
+            closeModal.onclick = hideModal;
+            modalOverlay.onclick = (e) => {
+                if (e.target === modalOverlay) hideModal();
+            };
+            window.onkeydown = (e) => {
+                if (e.key === "Escape" && modalOverlay.style.display === "flex")
+                    hideModal();
+            };
 
             searchInput.addEventListener("input", (e) => {
                 const searchTerm = e.target.value.toLowerCase();
 
                 const filteredData = idiomsData.filter((item) => {
-                    // Search across multiple fields
-                    return (
-                        item.phrase.toLowerCase().includes(searchTerm) ||
-                        item.english.toLowerCase().includes(searchTerm) ||
-                        item.gloss.toLowerCase().includes(searchTerm) ||
-                        item.literal.toLowerCase().includes(searchTerm)
+                    return Object.values(item).some(
+                        (value) =>
+                            value &&
+                            value.toString().toLowerCase().includes(searchTerm),
                     );
                 });
 

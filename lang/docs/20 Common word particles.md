@@ -1,4 +1,4 @@
-## 19.1 Common grammaticalised particles
+## 20.1 Common grammaticalised particles
 | Word        | Usage                                        | Grammatical usage                                                                    |
 | ----------- | -------------------------------------------- | ------------------------------------------------------------------------------------ |
 | **tachi**   | *way, manner, method*                        | **kamutachi** (manner of eating / way of eating); **irimetachi hyo?** (how to work?) |
@@ -34,14 +34,14 @@
 		* amongst that which has the potential (to) change
 		* ~interchangeable
 
-### 19.1.1 usage of *wa*
+### 20.1.1 usage of *wa*
 * *wa* takes the role of *-a* or *ni*, but not *-o*:
 	* *su wa kamu* -> I also eat / I am eating too
 	* *su wa ii* -> I am also good / I'm good too
 	* *sa**o** wa korru* / *sao korru wa* -> She was killed as well
 		* here, *o* wasn't dropped
 
-## 19.2 When to and not to use them
+## 20.2 When to and not to use them
 * Don't literally use it for building every root
 * For that, you can use the Tawish Kanji borrowings or technical/extended lexicons
 * These are often used in poetry or to describe concepts which are hard to
