@@ -50,6 +50,7 @@
 | `statement sai`          | AFFEC.REQ | sai      | `sai`  | Marks a polite request, often affectionate, personal, and intimate   |
 | `statement fuka`         | REQ       | fuka     | `ɸuka` | Marks a request (e.g., *hateru fuka* (please run!))                  |
 | `statement ana`          | AFFEC     | ana      | `ana`  | Marks warmth, appeal, or connection; affective and personal          |
+| `statement ya`           | ASSERT    | ya       | `ja`   | Asserting or emphasising                                             |
 
 ### 8.3.2 Evidentiality
 * *ipa* is a bare evidential
@@ -124,3 +125,9 @@
 	* *su ni kita zuǫ ana* -> `1SG TOP like 2SG-OBJ AFFEC`
 		* "I like you, you know?"
 		* "I like you, okay?"
+
+### 8.3.9 Assertion
+* To assert or emphasise something, *ya* is used:
+	* *su ni kita zuõ ya′ana* -> `1SG TOP like 2SG-ACC ASSERT-AFFEC`
+		* "I like you, make no mistake, okay?"
+* It would also be used in a sentence like "you were fun, really fun..."
