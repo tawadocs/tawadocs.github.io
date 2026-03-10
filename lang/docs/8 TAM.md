@@ -102,9 +102,9 @@
 ### 8.3.6 Optative
 * *are* is used for marking optatives
 * Examples:
-	* *areme sua au asa* -> `OPT-REL 1SG-AGT HAVE.V.PLAT house`
+	* *are sua au asa* -> `OPT 1SG-AGT HAVE.V.PLAT house`
 		* "(I) wish that I had a home"
-	* *so areme sua kamtthu samil* -> `3SG.M OPT-REL 1SG-AGT eat.PFV.V.PLAT fish-DEF`
+	* *so are sua kamtthu samil* -> `3SG.M OPT 1SG-AGT eat.PFV.V.PLAT fish-DEF`
 		* "He wished that I ate the fish"
 
 ### 8.3.7 Requests

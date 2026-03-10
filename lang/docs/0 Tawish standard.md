@@ -523,6 +523,73 @@
 		* ~"Man of steel"
 		* "Man of silver"
 
-## 0.22 Dictionary inaccuracies
+## 0.22 New question system
+* the Modern Tawish question system does not use *hya* (polar question) or *hyo* (non-polar question) markers
+* instead, it uses the genitive *no* for this
+
+### 0.22.1 Basic questions
+* *ii no?* -> `good Q`
+	* "(Are you) good?"
+* *kamthu no?* -> `eat.PFV.V.PLAT Q`
+	* "(Have you) eaten?"
+* *yara byõ no?* -> `come DEM.PROX.ACC Q`
+	* "(Can you) come here?"
+
+### 0.22.2 Mood questions
+* combine *no* with a **mood** particle to derive special question statements:
+	* *hateru nake?* -> `run.V.PLAT Q.IMP`
+	* *hateru keno?* -> `run.V.PLAT IMP-Q`
+		* same harshness as "(Can you) run (already)?!"
+		* don't say to strangers
+		* p.s., **keno** is a variant (it uses a form of **ake**, which is **ke**; it's the same)
+	* *hateru aikono* -> `run.V.PLAT IMP.Q`
+		* "(Could you) run?"
+		* a command wrapped as a question
+		* the most polite way to ask or command
+	* *hateren areno?* -> `run.V.PLAT OPT.Q`
+		* "(Might you, mayhap) run?"
+		* or *niru wu areno?* -> `see.V.PLAT 3SG OPT.Q`
+			* "(Would that I might) see them?"
+			* "(Could it be that I should) see them?"
+			* "(May I wish) to see them?"
+		* an optative question
+		* it's like asking a question about a wish or potential reality
+	* *subũ fu ei natai?* -> `desire.VLNK ACT ANAPH Q.DES`
+		* "(Do you have the desire to) want to do this?"
+		* "(Is your soul currently leaning towards) doing this?"
+		* a desiderative question
+		* it's about appetite or the internal emotional longing to do something
+		* in the *natai* form, it is not as strong as the formal or poetic forms:
+			* **hya′atai** -> e.g., "do your heartstrings swing towards this?"
+			* **hyatai** -> e.g., "tell me about your missing them"
+	* *mha lyõ ipano?* -> `PRF DEM.DIST.ACC EPIST-Q`
+		* "(Must he be) there already?"
+		* "(Might he be) already there?"
+		* the strongest form is **ipipano**
+			* *mha lyõ ipipano?* -> must he be there already?
+		* and the weakest is **ipastano**
+			* *mha lyõ ipastano* -> is he there already? / might he be there already?
+		* you can also use evidentials:
+			* *ipaniro no* -> e.g., ~did you see it with your own eyes?
+			* but this isn't one particle, it's two working together
+
+## 0.23 Mood stacking
+* you can use multiple moods in a sentence:
+	* *are* + *atai* -> "wish for an emotional longing"
+		* **su ni ze are niruatai sa** -> `1SG TOP ITER OPT see.V.PLAT-DES 3SG.F`
+			* "I wish that I could miss her again"
+		* **su ni ze areatai kamu** -> `1SG TOP ITER OPT-DES eat.V.PLAT`
+			* "I wish that my soul starts leaning towards eating again"
+			* can describe times where you want to enjoy food but are sick or don't want to eat
+				* it may be inherently contradictory, but humans say conflicting things all the time!
+	* *are ieii suji, anasai?* -> `OPT AUG-good 1SG-DAT AFFEC-AFFEC.REQ`
+		* "(I) wish that you were better to me, (you know?)"
+		* this is an incredibly heart-breaking sentence
+		* **anasai** and **are** both work here to set the scene for deeply intimate and personal wish to a person
+* and in a similar fashion, you may stack other moods
+* do note that **moodstacking** and **mood questions** are usually never used in spoken Tawa or the Modern Tawish register
+* these are highly formal, literary, or poetic forms
+
+## 0.24 Dictionary inaccuracies
 * some sentence examples in the dictionary's semantic space may be incorrect
 * if unsure, try to reconstruct them yourself or translate them from Japanese, since Tawa is closer to Japanese than it is to most other languages
