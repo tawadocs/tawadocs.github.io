@@ -601,7 +601,7 @@
 			* since Paul is now being told by John about his brother, it is naturally assumed that John's brother is the one Paul's being told about
 	* notice: when John and brother are near each other, it is understood as John's brother, and when Paul and brother are near each other, it is understood as Paul's brother
 
-## 0.24 Explanation of *ni*
+## 0.25 Explanation of *ni*
 * *ni* at its core isn't much different than saying "as for (X)..." in English or *wa* (は) in Japanese:
 	* *su ni atoraõ kita* -> `1SG TOP apple-ACC like`
 		* "As for me, (I) like apples"
@@ -614,13 +614,13 @@
 	* *su ni ii à!* -> `1SG TOP good INTERJ`
 		* "As for me, I am good!"
 
-### 0.24.1 Topicalisation
+### 0.25.1 Topicalisation
 * *ni* topicalises anything, including entire clauses and sentences:
 	* *Atoraolmyã, kitaũ kamu ni iinq...* -> `apple-EXCESS-QNT.MOD like-VLNK eat.V.PLAT TOP good-INV`
 		* ~"It's bad that I eat so many apples"
 		* lit. "As for my liking to eat too many apples, it is bad"
 
-### 0.24.2 Context
+### 0.25.2 Context
 * *ni* allows you to add as much context as you want regarding a specific topic:
 	* *So ni sua kikitanq. Ni ieiinq - daka kiteisunõ, kamu kamteisunõ... ni yawanigãnq* -> `3SG.M TOP 1SG-A SUP~like-INV | TOP AUG-good-INV | steal thing-1SG.POSS-ACC eat.V.PLAT food.PROD-1SG.POSS-ACC | TOP demon-cat.MOD-INV`
 		* ~"I hate him. He's so bad - he steals my things, eats my food... he's just a dog who brings misfortune (to me)"
@@ -628,7 +628,7 @@
 	* *Ni sua riwakame kiteisubekã byieji ni, yad, yawã* -> `TOP 1SG-A think-REL thing-all.MOD DEM.PROX.AUG-LOC TOP so demon.MOD`
 		* "(As for me), I think that everything near / around here (~these parts) is f!%ked."
 
-### 0.24.3 Compared to *a*
+### 0.25.3 Compared to *a*
 * *a* marks the actor
 * If used with an incompatible word type (e.g., adjective), it marks the subject
 * It's about 'identification'
@@ -640,7 +640,7 @@
 		* the little nuance is that specifically the cats are cute
 			* e.g., if your friend was showing you pictures of his pets, you'd say this over *nigo ni meiya*, as that implies the cats are cute only generally speaking
 
-### 0.24.4 Contrast and softening
+### 0.25.4 Contrast and softening
 * In Modern Tawa, you can use *ni* for contrasts too:
 	* *So ni ii, sa ni rra* -> `3SG.M TOP good 3SG.F TOP NEG`
 		* "He is good, (but) she is not"
