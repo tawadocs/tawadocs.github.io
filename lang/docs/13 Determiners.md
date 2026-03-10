@@ -59,6 +59,13 @@
 		* `LOC-INDEF.PL`
 	* *zhilos* -> anytime / anyday
 		* `TEMP-INDEF.PL`
+* To say *any* as in *any game*, just use:
+	* *subeko*
+		* e.g., *hahasubekã* -> all games
+		* or *subeko no haha*
+		* or *subekych hahaitahi*
+			* note: *-hi* can be omitted but is usually used to show that *hahaitahi* is directly relational to *subekych* and nothing else
+			* if there was a compatible verb in the sentence, it might be parsed with the verb, as cases normally are
 * For *some*, you have *-ita* or even *-myonq*:
 	* *fuyuita* / *fuyumyãnq*... etc.
 	* same for other particles
