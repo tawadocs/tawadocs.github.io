@@ -590,6 +590,17 @@
 * do note that **moodstacking** and **mood questions** are usually never used in spoken Tawa or the Modern Tawish register
 * these are highly formal, literary, or poetic forms
 
-## 0.24 Dictionary inaccuracies
+## 0.24 Pronoun ambiguity
+* The English sentence "Paul told John about his brother," it isn't clear who's brother without much context
+* in Tawa, you can resolve this by:
+	* **Jon ni fofu *Pol'ikuji pashachesonita*** -> `john TOP speak.V.PLAT paul-PERS-DAT sibling-M.PLAT-3SG.M.POSS-PRTV`
+		* "(As for) John, (he) told Paul about his (Paul's) brother"
+			* since **John** is topicalised, it is natural to assume that Paul's brother is being talked about
+	* **Pol'ikuo fofu *Jonun pashachesonita*** -> `paul-PERS-U speak.V.PLAT john-COM sibling-M.PLAT-3SG.M.POSS-PRTV`
+		* "Paul (undergoes) telling by John about his brother"
+			* since Paul is now being told by John about his brother, it is naturally assumed that John's brother is the one Paul's being told about
+	* notice: when John and brother are near each other, it is understood as John's brother, and when Paul and brother are near each other, it is understood as Paul's brother
+
+## 0.25 Dictionary inaccuracies
 * some sentence examples in the dictionary's semantic space may be incorrect
 * if unsure, try to reconstruct them yourself or translate them from Japanese, since Tawa is closer to Japanese than it is to most other languages
