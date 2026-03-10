@@ -1,17 +1,15 @@
 [
   {
     "ID": "28",
-    "Alias": "oho",
     "Radical": "⼔",
     "Strokes": 2,
-    "Definitions": ["spoon", "ladle"],
+    "Alias": "oho",
+    "Definitions": [
+      "spoon"
+    ],
     "Readings": {
-      "Japanese": "さじ",
-      "Romaji": "saji"
-    },
-    "Position": {
-      "Name": "つくり",
-      "Romaji": "tsukuri"
+      "Romaji": "saji",
+      "Japanese": "さじ"
     }
   },
   {
@@ -19,7 +17,10 @@
     "Alias": "aiso",
     "Radical": "⼧",
     "Strokes": 3,
-    "Definitions": ["roof", "house/cover"],
+    "Definitions": [
+      "roof",
+      "house/cover"
+    ],
     "Readings": {
       "Japanese": "うかんむり",
       "Romaji": "ukanmuri"
@@ -34,7 +35,11 @@
     "Alias": "kowo",
     "Radical": "⾍",
     "Strokes": 6,
-    "Definitions": ["worm", "insect", "bug"],
+    "Definitions": [
+      "worm",
+      "insect",
+      "bug"
+    ],
     "Readings": {
       "Japanese": "むし",
       "Romaji": "mushi"
@@ -47,6 +52,7 @@
   {
     "ID": "90",
     "Radical": "氵",
+    "Strokes": 3,
     "Alias": "ma",
     "Definitions": [
       "three drops of water",
@@ -64,11 +70,81 @@
   {
     "ID": "176",
     "Radical": "⽴",
+    "Strokes": 5,
     "Alias": "ku",
-    "Definitions": ["stand", "rise", "establishment", "erect", "set up"],
+    "Definitions": [
+      "stand",
+      "rise",
+      "establishment",
+      "erect",
+      "set up"
+    ],
     "Readings": {
       "Romaji": "tatsu",
       "Japanese": "たつ"
+    }
+  },
+  {
+    "ID": "1773123891542",
+    "Radical": "⽥",
+    "Strokes": 5,
+    "Alias": "ka",
+    "Definitions": [
+      "rice",
+      "rice paddy"
+    ],
+    "Readings": {
+      "Romaji": "ta",
+      "Japanese": "た"
+    }
+  },
+  {
+    "ID": "1773124168146",
+    "Radical": "甲",
+    "Strokes": 5,
+    "Alias": "ena",
+    "Definitions": [
+      "armour",
+      "shell",
+      "first (in something)",
+      "miscellany",
+      "tortoise shell",
+      "deck",
+      "instep",
+      "back of hand"
+    ],
+    "Readings": {
+      "Romaji": "kan",
+      "Japanese": "かん"
+    }
+  },
+  {
+    "ID": "1773124312101",
+    "Radical": "⿃",
+    "Strokes": 11,
+    "Alias": "ngi",
+    "Definitions": [
+      "bird"
+    ],
+    "Readings": {
+      "Romaji": "tori",
+      "Japanese": "とり"
+    }
+  },
+  {
+    "ID": "1773127028795",
+    "Radical": "幸",
+    "Strokes": 0,
+    "Alias": "naiwa",
+    "Definitions": [
+      "happiness",
+      "fortune",
+      "good felling",
+      "ecstasy"
+    ],
+    "Readings": {
+      "Romaji": "shiawase",
+      "Japanese": "幸"
     }
   }
 ]

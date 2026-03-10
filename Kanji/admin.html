@@ -152,17 +152,31 @@
             <div class="space-y-6 flex-grow overflow-y-auto pr-4">
                 <input type="hidden" id="edit-id" />
 
-                <div>
-                    <label
-                        class="text-[10px] font-bold text-slate-500 uppercase tracking-widest block mb-2"
-                        >Kanji / Radical Character</label
-                    >
-                    <input
-                        id="in-radical"
-                        type="text"
-                        class="w-full bg-white/5 border border-white/5 rounded-xl p-4 text-white text-2xl outline-none focus:border-indigo-500 transition-colors"
-                        placeholder="漢"
-                    />
+                <div class="grid grid-cols-3 gap-4">
+                    <div class="col-span-2">
+                        <label
+                            class="text-[10px] font-bold text-slate-500 uppercase tracking-widest block mb-2"
+                            >Kanji / Radical</label
+                        >
+                        <input
+                            id="in-radical"
+                            type="text"
+                            class="w-full bg-white/5 border border-white/5 rounded-xl p-4 text-white text-2xl outline-none focus:border-indigo-500 transition-colors"
+                            placeholder="漢"
+                        />
+                    </div>
+                    <div>
+                        <label
+                            class="text-[10px] font-bold text-slate-500 uppercase tracking-widest block mb-2"
+                            >Strokes</label
+                        >
+                        <input
+                            id="in-strokes"
+                            type="number"
+                            class="w-full bg-white/5 border border-white/5 rounded-xl p-4 text-white text-2xl outline-none focus:border-indigo-500 transition-colors"
+                            placeholder="0"
+                        />
+                    </div>
                 </div>
 
                 <div class="grid grid-cols-2 gap-4">
@@ -236,17 +250,13 @@
         </aside>
 
         <script>
-            // This array is replaced by server.js during regeneration
-            const kanjiData = [];
+            let kanjiData = [];
 
-            // Initialize: Fetch data from the server's JSON file
             async function loadData() {
                 try {
                     const res = await fetch("/api/kanji");
                     const data = await res.json();
-                    // Sync the local array with the server's data
-                    kanjiData.length = 0;
-                    kanjiData.push(...data);
+                    kanjiData = data;
                     renderGrid();
                 } catch (e) {
                     console.error("Failed to load data:", e);
@@ -284,7 +294,9 @@
                         <div class="text-white font-semibold text-lg leading-tight mb-4 flex-grow">
                             ${item.Definitions.join(", ")}
                         </div>
-                        <div class="text-[9px] text-slate-700 font-mono mt-4 uppercase">UID: ${item.ID.slice(-6)}</div>
+                        <div class="text-[10px] text-slate-600 font-bold mt-4 uppercase tracking-tighter">
+                            ${item.Strokes || 0} Strokes
+                        </div>
                     </div>
                 `,
                     )
@@ -304,6 +316,7 @@
                     const item = kanjiData.find((k) => k.ID === id);
                     document.getElementById("edit-id").value = item.ID;
                     document.getElementById("in-radical").value = item.Radical;
+                    document.getElementById("in-strokes").value = item.Strokes || 0;
                     document.getElementById("in-romaji").value =
                         item.Readings.Romaji;
                     document.getElementById("in-japanese").value =
@@ -340,9 +353,11 @@
                 const id =
                     document.getElementById("edit-id").value ||
                     Date.now().toString();
+                
                 const newEntry = {
                     ID: id,
                     Radical: document.getElementById("in-radical").value,
+                    Strokes: parseInt(document.getElementById("in-strokes").value) || 0,
                     Alias: document.getElementById("in-alias").value,
                     Definitions: document
                         .getElementById("in-defs")
@@ -359,7 +374,6 @@
                 if (idx > -1) kanjiData[idx] = newEntry;
                 else kanjiData.push(newEntry);
 
-                // Send to Server
                 const res = await fetch("/api/kanji", {
                     method: "POST",
                     headers: { "Content-Type": "application/json" },
@@ -375,31 +389,23 @@
 
             async function deleteEntry() {
                 const id = document.getElementById("edit-id").value;
-                if (
-                    !confirm(
-                        "Are you sure you want to delete this word from the database?",
-                    )
-                )
-                    return;
+                if (!confirm("Are you sure you want to delete this word?")) return;
 
-                const filteredData = kanjiData.filter((k) => k.ID !== id);
+                kanjiData = kanjiData.filter((k) => k.ID !== id);
 
                 const res = await fetch("/api/kanji", {
                     method: "POST",
                     headers: { "Content-Type": "application/json" },
-                    body: JSON.stringify(filteredData),
+                    body: JSON.stringify(kanjiData),
                 });
 
                 if (res.ok) {
-                    kanjiData.length = 0;
-                    kanjiData.push(...filteredData);
                     showStatus();
                     renderGrid();
                     closeDrawer();
                 }
             }
 
-            // Run on Load
             loadData();
         </script>
     </body>
