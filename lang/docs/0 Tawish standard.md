@@ -6,6 +6,7 @@
 ### 0.1.1 Inflection
 * only words or particles ending in *′o* (′o-kana / ′o-shí) inflect
 * so **sowo** changes to **sowu** (verb) but **ainàwa** can't inflect and takes **ainàwaru**
+* **ao** would be nominalised as **aen**
 * but this doesn't mean they accept every single sound
 * the following sounds don't usually cause omission of the **′o** ending:
 	* mh [m̥͡m]
