@@ -272,5 +272,47 @@
         "frequency": 100
       }
     ]
+  },
+  {
+    "word": "maracata",
+    "id": "pilin pona mute",
+    "definitions": [
+      {
+        "text": "ecstasy",
+        "frequency": 100
+      },
+      {
+        "text": "ecstatic",
+        "frequency": 100
+      },
+      {
+        "text": "orgasmic",
+        "frequency": 100
+      },
+      {
+        "text": "warmth",
+        "frequency": 100
+      },
+      {
+        "text": "soothing",
+        "frequency": 100
+      },
+      {
+        "text": "relaxing",
+        "frequency": 100
+      },
+      {
+        "text": "ejaculate",
+        "frequency": 100
+      },
+      {
+        "text": "climax",
+        "frequency": 100
+      },
+      {
+        "text": "spasm (from good feelings)",
+        "frequency": 100
+      }
+    ]
   }
 ]
