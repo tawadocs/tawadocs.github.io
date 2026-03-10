@@ -73,6 +73,11 @@
 		* ~"(Phew), that was close!"
 	* *haekurra jistateijinyi fuka* -> `walk.V.PLAT-NEG LOC-DIM.SUP-PROD-LOC-AUG.SUP`
 		* ~"Please do not walk on the floor"
+* note that *llanh* and *lla* can also be used in this sense:
+	* **I have gotten bored FROM (llanh) you**
+		* here, *I* is getting bored *FROM you*
+	* **I have gotten bored TO (lla) you**
+		* here, *I* feels boring *TO you*
 
 ## 18.2 Modern semantic spaces
 | Case   | Semantic domain                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
