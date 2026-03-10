@@ -198,13 +198,13 @@
 	* *nashitahai* -> burn, ignite, to breathe (fire), kindle, start a fire
 	* *nashitaru* -> to heat, to cook
 * let's see them in sentences:
-	* *Duragin'ikua nashitahai* -> `dragon-PERS-AGT warm-ANTIPROD.V`
+	* *Duragin'ikua nashitahai* -> `dragon-PERS-A warm-ANTIPROD.V`
 		* "The dragon breathed fire"
-	* *Honlena nashitahai* -> `person-INDEF-AGT warm-ANTIPROD.V`
+	* *Honlena nashitahai* -> `person-INDEF-A warm-ANTIPROD.V`
 		* "A person started the fire"
 	* *Chinq ni nashitahai* -> `fire TOP warm-ANTIPROD.V`
 		* "The fire was ignited"
-	* *Sa ni retehaithu zhi sua fofu sa karichesanita ẽ ii'iinq harison* -> `3SG.F TOP cold-ANTIPROD.V-PFV.V.PLAT TEMP 1SG-AGT speak.V.PLAT 3SG.F parent-M.PLAT-3SG.F.POSS-PRTV and SUPR.bad deal-3SG.M.POSS`
+	* *Sa ni retehaithu zhi sua fofu sa karichesanita ẽ ii'iinq harison* -> `3SG.F TOP cold-ANTIPROD.V-PFV.V.PLAT TEMP 1SG-A speak.V.PLAT 3SG.F parent-M.PLAT-3SG.F.POSS-PRTV and SUPR.bad deal-3SG.M.POSS`
 		* "She froze (like ice) when I told her about the worst of her father's exchanges/trades"
 * and let's finally see what would happen if we just used *(r)u*:
 	* *chinq ni nashitaru* -> `fire TOP warm-V.PLAT`
@@ -214,19 +214,20 @@
 	* *Sa ni retethu...* -> `3SG.F TOP cold-PFV.V.PLAT`
 		* "She froze (something) / she cooled"
 * the antiproduct particle is context-sensitive - chihai can mean rinse if you say it in a public shower but it can mean 'drink' in a private domicile (e.g., 'Jèsei'ikua subũ chihai chiõ asahyakãsonji' (~Jesse wants to drink water in his private domicile)).
+* **NOTE: using older Tawish standard for writing these translations; please confirm with newer notes!**
 
 ### 0.9.1 A better explanation of the antiproduct particle
 * think of the antiproduct particle as a verbaliser; however, instead of verbalising a noun, it engages with a noun in the way it canonically functions in any way
 	* the canonical function of water is, well, to drink it
 	* that is why chihai means to drink water; however, if you're talking about showering, chihai could actually mean rinse
 	* context would disambiguate anyway, though:
-		* *sua subũ chihai gagadenq chi umhi* -> `1SG-AGT desire.VLNK water-ANTIPROD.V SUP~dirty-INV water COM-BACK`
+		* *sua subũ chihai gagadenq chi umhi* -> `1SG-A desire.VLNK water-ANTIPROD.V SUP~dirty-INV water COM-BACK`
 			* "I want to clean myself with water" (i.e., shower, rinse, since you can't 'drink' yourself with water)
 * the antiproduct particle is used to turn a root into a verb that can express the canonical action associated with it (as a phenomenon):
 	* *koro* + *hai* -> to avoid death / to stay alive / kill / die / reap
 		* *su ni korruhai!* -> `1SG TOP kill.V.PLAT-ANTIPROD.V`
 			* "I am staying alive / avoiding death"
-		* *sua korruhai sa* -> `1SG-AGT kill.V.PLAT-ANTIPROD.V 3SG`
+		* *sua korruhai sa* -> `1SG-A kill.V.PLAT-ANTIPROD.V 3SG`
 			* "I killed her" (?) depends on context, plus don't use the antiproduct particle in these cases, even if it is **'technically'** correct!
 			* as you're about to learn, *korruhai* would feel like saying 'the act that forcibly led to or of forcing the irreversible cessation of all vital functions in a living organism'
 * here is a simple rule: before using the antiproduct particle, ask yourself:
@@ -478,7 +479,6 @@
 	* *fofo* + *-tei* -> *fofotei* [ɸoɸo̥tei]
 	* *nuko* + *-sun* -> *nukosun* [nuko̥sʊn]
 * this only happens in case of **′o-preservation** when it cannot be omitted due to consonant cluster restrictions
-* so, *fofutei* would be said normally and the **u** in it would not be devoiced, as **fofu** wouldn't follow **′o-preservation** rules anyway
 
 ### 0.19.1 Epenthensis
 * epenthensis occurs when a non-nasal consonant cluster is forced, like in *ainàwatfofotei* (~clever quotes / sayings)
@@ -492,10 +492,11 @@
 		* *samilrra* -> [samilə̥ɾa]
 * epenthensis also occurs in constructions like:
 	* *subuthu* -> `desire-PFV.V.PLAT` (wanted)
-		* here, **subuthu** is actually *subthu* in pronunciation
+		* here, **subuthu** is actually like *sub(à)thu* in pronunciation
 		* it is pronounced [subə̥tʰu]
 		* it is written *subuthu* because the older Modern Tawish Standard had different grammatical rules
 		* this is due to pure diachrony
+		* this happens with all similar cases, like *hateruthu* [hateɺə̥tʰu]
 
 ## 0.20 Vowel marking
 * in casual writing, vowels are usually left unmarked
