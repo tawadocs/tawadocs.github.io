@@ -226,8 +226,20 @@
                     >
                     <textarea
                         id="in-defs"
-                        class="w-full bg-white/5 border border-white/5 rounded-xl p-4 text-white outline-none focus:border-indigo-500 h-32 resize-none"
+                        class="w-full bg-white/5 border border-white/5 rounded-xl p-4 text-white outline-none focus:border-indigo-500 h-24 resize-none"
                         placeholder="Chinese characters, kanji, symbols"
+                    ></textarea>
+                </div>
+
+                <div>
+                    <label
+                        class="text-[10px] font-bold text-slate-500 uppercase tracking-widest block mb-2"
+                        >Usage (optional)</label
+                    >
+                    <textarea
+                        id="in-usage"
+                        class="w-full bg-white/5 border border-white/5 rounded-xl p-4 text-white outline-none focus:border-indigo-500 h-24 resize-none"
+                        placeholder="Example sentences, grammar notes, or context..."
                     ></textarea>
                 </div>
             </div>
@@ -271,6 +283,7 @@
                     (k) =>
                         k.Radical.includes(q) ||
                         (k.Alias || "").toLowerCase().includes(q) ||
+                        (k.Usage || "").toLowerCase().includes(q) ||
                         (k.Readings.Romaji || "").toLowerCase().includes(q) ||
                         k.Definitions.some((d) => d.toLowerCase().includes(q)),
                 );
@@ -325,6 +338,8 @@
                         item.Alias || "";
                     document.getElementById("in-defs").value =
                         item.Definitions.join(", ");
+                    document.getElementById("in-usage").value =
+                        item.Usage || "";
                 } else {
                     document.getElementById("edit-id").value = "";
                     document
@@ -359,6 +374,7 @@
                     Radical: document.getElementById("in-radical").value,
                     Strokes: parseInt(document.getElementById("in-strokes").value) || 0,
                     Alias: document.getElementById("in-alias").value,
+                    Usage: document.getElementById("in-usage").value,
                     Definitions: document
                         .getElementById("in-defs")
                         .value.split(",")

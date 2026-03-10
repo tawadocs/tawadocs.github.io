@@ -1,5 +1,103 @@
 [
   {
+    "word": "kangi",
+    "id": "waso telo",
+    "definitions": [
+      {
+        "text": "(wild) duck",
+        "frequency": 100
+      },
+      {
+        "text": "mallard",
+        "frequency": 100
+      },
+      {
+        "text": "gullible",
+        "frequency": 100
+      },
+      {
+        "text": "easy to defeat",
+        "frequency": 100
+      },
+      {
+        "text": "manipulable",
+        "frequency": 100
+      },
+      {
+        "text": "winter",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "kanginq",
+    "id": "waso telo pi ala",
+    "definitions": [
+      {
+        "text": "(domesticated) duck",
+        "frequency": 100
+      },
+      {
+        "text": "non-mallard",
+        "frequency": 100
+      },
+      {
+        "text": "diving duck",
+        "frequency": 100
+      },
+      {
+        "text": "summer",
+        "frequency": 100
+      },
+      {
+        "text": "cuddly",
+        "frequency": 100
+      },
+      {
+        "text": "cute",
+        "frequency": 100
+      },
+      {
+        "text": "beautiful",
+        "frequency": 100
+      },
+      {
+        "text": "fluffy",
+        "frequency": 100
+      },
+      {
+        "text": "rubber duck",
+        "frequency": 100
+      },
+      {
+        "text": "fattier (duck)",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "kangata",
+    "id": "duckphoria",
+    "definitions": [
+      {
+        "text": "the happiness felt from ducks",
+        "frequency": 100
+      },
+      {
+        "text": "duckphoria",
+        "frequency": 100
+      },
+      {
+        "text": "duckhappiness",
+        "frequency": 100
+      },
+      {
+        "text": "duckhappy",
+        "frequency": 100
+      }
+    ]
+  },
+  {
     "word": "kowaisoho",
     "id": "akesi linja",
     "definitions": [
