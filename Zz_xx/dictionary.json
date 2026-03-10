@@ -218,5 +218,59 @@
         "frequency": 100
       }
     ]
+  },
+  {
+    "word": "koibwu",
+    "id": "musi ala",
+    "definitions": [
+      {
+        "text": "bored",
+        "frequency": 100
+      },
+      {
+        "text": "disinterested",
+        "frequency": 100
+      },
+      {
+        "text": "uninspiring",
+        "frequency": 100
+      },
+      {
+        "text": "worthless",
+        "frequency": 100
+      },
+      {
+        "text": "exhausted",
+        "frequency": 100
+      },
+      {
+        "text": "fed up",
+        "frequency": 100
+      },
+      {
+        "text": "tired",
+        "frequency": 100
+      },
+      {
+        "text": "loss of interest",
+        "frequency": 100
+      },
+      {
+        "text": "lethargy",
+        "frequency": 100
+      },
+      {
+        "text": "burdensome lack of motivation",
+        "frequency": 100
+      },
+      {
+        "text": "apathy",
+        "frequency": 100
+      },
+      {
+        "text": "indifference",
+        "frequency": 100
+      }
+    ]
   }
 ]

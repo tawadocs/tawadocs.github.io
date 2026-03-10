@@ -192,5 +192,50 @@
       "Romaji": "ki",
       "Japanese": "き"
     }
+  },
+  {
+    "ID": "1773156003785",
+    "Radical": "食",
+    "Strokes": 9,
+    "Alias": "koi",
+    "Usage": "",
+    "Definitions": [
+      "eat",
+      "food"
+    ],
+    "Readings": {
+      "Romaji": "shoku",
+      "Japanese": "しょく"
+    }
+  },
+  {
+    "ID": "1773156141221",
+    "Radical": "勹",
+    "Strokes": 2,
+    "Alias": "bo",
+    "Usage": "",
+    "Definitions": [
+      "wrap",
+      "embrace"
+    ],
+    "Readings": {
+      "Romaji": "tsutsumigamae",
+      "Japanese": "つつみがまえ"
+    }
+  },
+  {
+    "ID": "1773156229600",
+    "Radical": "已",
+    "Strokes": 3,
+    "Alias": "oru",
+    "Usage": "oru often connects in the -wu form to radicals. for example, bo+oru -> bwu. for consonant-final radicals, it simply takes the oru form. for radicals ending in approximants or vowel-approximant units, like kowo, it takes the -rou form, so kowo+ru->koworou.",
+    "Definitions": [
+      "self",
+      "own; the sixth of celestial stems"
+    ],
+    "Readings": {
+      "Romaji": "nomi",
+      "Japanese": "のみ"
+    }
   }
 ]
