@@ -537,7 +537,7 @@
 
 ### 0.22.2 Mood questions
 * combine *no* with a **mood** particle to derive special question statements:
-	* *hateru nake?* -> `run.V.PLAT Q.IMP`
+	* *hateru akeno?* -> `run.V.PLAT IMP-Q`
 	* *hateru keno?* -> `run.V.PLAT IMP-Q`
 		* same harshness as "(Can you) run (already)?!"
 		* don't say to strangers
