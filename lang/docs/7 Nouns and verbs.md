@@ -20,6 +20,11 @@
 	* *sora ce ĉi* -> `sky LINK water`
 * *ų* is used to let other verbs modify verbs but not for adverbs
 * Adverbs still use *ą*, like *riwakakikitą* (to think lovingly)
+* Note: nominalised verbs can be "owned:"
+	* *so no fuenlos* -> `3SG.F GEN ACT-NMLZ-INDEF.PL`
+		* "Doings of his"
+	* *fuenzun* -> `ACT-NMLZ-2SG.POSS`
+		* "Your doings"
 
 ## 7.2 Products
 * *tei* turns any root into its product, but it is context-dependent

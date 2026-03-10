@@ -44,13 +44,21 @@
 	* *nigol* -> `cat-DEF`
 		* "the cat"
 	* *niglós* -> `cat-INDEF.PL`
-		* "any / (some) cats"
+		* "cats"
 	* *nigorra* -> `cat-NEG.MOD`
 		* no cat
 	* *nigmyą* -> `cat-QNT.MOD`
 		* many cats
 		* *myo no niglú* is also fine for 'many of the cats'
 * To say *any* as in "anything" or "anyone," use:
-	* *kiteilen* -> simplest, means "a thing"
-	* *kiteilós* -> means "anything" but sometimes can mean "some," though you have myonq / ita for that
-	* *watadà kiteilen / watadà kiteilós* -> also work for "anything"
+	* *fuyulos* -> anything
+		* `what-INDEF.PL`
+	* *talos* -> anyone
+		* `PERS-INDEF.PL`
+	* *jilos* -> anywhere
+		* `LOC-INDEF.PL`
+	* *zhilos* -> anytime / anyday
+		* `TEMP-INDEF.PL`
+* For *some*, you have *-ita* or even *-myonq*:
+	* *fuyuita* / *fuyumyãnq*... etc.
+	* same for other particles
