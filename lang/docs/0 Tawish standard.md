@@ -601,6 +601,62 @@
 			* since Paul is now being told by John about his brother, it is naturally assumed that John's brother is the one Paul's being told about
 	* notice: when John and brother are near each other, it is understood as John's brother, and when Paul and brother are near each other, it is understood as Paul's brother
 
+## 0.24 Explanation of *ni*
+* *ni* at its core isn't much different than saying "as for (X)..." in English or *wa* (は) in Japanese:
+	* *su ni atoraõ kita* -> `1SG TOP apple-ACC like`
+		* "As for me, (I) like apples"
+	* *so ni kitanqũ kamu atora* -> `3SG.M TOP like-INV-VLNK eat.V.PLAT apple`
+		* "As for him, (he) hates (to) eat / eating apples"
+		* (!) *p.s.* see the difference between **a / o / ni** in terms of marking the subject in **0.16**
+* However, it can be used similarly to a copular (one of the most common uses):
+	* *su ni Miku'iku* -> `1SG TOP miku-PERS`
+		* "As for me, I am Miku"
+	* *su ni ii à!* -> `1SG TOP good INTERJ`
+		* "As for me, I am good!"
+
+### 0.24.1 Topicalisation
+* *ni* topicalises anything, including entire clauses and sentences:
+	* *Atoraolmyã, kitaũ kamu ni iinq...* -> `apple-EXCESS-QNT.MOD like-VLNK eat.V.PLAT TOP good-INV`
+		* ~"It's bad that I eat so many apples"
+		* lit. "As for my liking to eat too many apples, it is bad"
+
+### 0.24.2 Context
+* *ni* allows you to add as much context as you want regarding a specific topic:
+	* *So ni sua kikitanq. Ni ieiinq - daka kiteisunõ, kamu kamteisunõ... ni yawanigãnq* -> `3SG.M TOP 1SG-A SUP~like-INV | TOP AUG-good-INV | steal thing-1SG.POSS-ACC eat.V.PLAT food.PROD-1SG.POSS-ACC | TOP demon-cat.MOD-INV`
+		* ~"I hate him. He's so bad - he steals my things, eats my food... he's just a dog who brings misfortune (to me)"
+		* p.s. **yawanigãnq** is a severe curse, almost to the level of slurs in English
+	* *Ni sua riwakame kiteisubekã byieji ni, yad, yawã* -> `TOP 1SG-A think-REL thing-all.MOD DEM.PROX.AUG-LOC TOP so demon.MOD`
+		* "(As for me), I think that everything near / around here (~these parts) is f!%ked."
+
+### 0.24.3 Compared to *a*
+* *a* marks the actor
+* If used with an incompatible word type (e.g., adjective), it marks the subject
+* It's about 'identification'
+* Notice and compare:
+	* *Nigo ni meiya* -> `cat TOP fluffy`
+		* "As for cats, **they are cute**"
+	* *Niga meiyã* -> `cat-A fluffy.MOD`
+		* "**It is the cats** that are cute"
+		* the little nuance is that specifically the cats are cute
+			* e.g., if your friend was showing you pictures of his pets, you'd say this over *nigo ni meiya*, as that implies the cats are cute only generally speaking
+
+### 0.24.4 Contrast and softening
+* In Modern Tawa, you can use *ni* for contrasts too:
+	* *So ni ii, sa ni rra* -> `3SG.M TOP good 3SG.F TOP NEG`
+		* "He is good, (but) she is not"
+* It implies an unspoken **but**, like here:
+	* *Chi ni a chihai* -> `water TOP A water-ANTIPROD.V`
+		* "As for water, I'll drink it"
+			* however, let's say a friend offers you a meal
+			* you say the aforementioned sentence
+			* in that circumstance, you are essentially saying 'I'll drink water at the very least,' or that you don't want all of the meal
+* If *ni* is at the end of a sentence, it can soften a sentence:
+	* *Zuõ, kikita ni!* -> `2SG-ACC SUP~like TOP`
+		* "You, (I) love (know it personally)!"
+	* *Kikita zuõ ni* -> `SUP~like 2SG-ACC TOP`
+		* "(I) love you, (really, you know?)"
+	* if anything apart from applicable and compatible moods (e.g., **ana, sai**) comes after *ni*, then the grammar could or would break
+
 ## 0.25 Dictionary inaccuracies
 * some sentence examples in the dictionary's semantic space may be incorrect
 * if unsure, try to reconstruct them yourself or translate them from Japanese, since Tawa is closer to Japanese than it is to most other languages
