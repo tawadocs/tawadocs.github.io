@@ -34,19 +34,23 @@
 		* "A / any fishes"
 
 ## 13.2 Determiners
-| Determiner | IPA     | Gloss |
-| ---------- | ------- | ----- |
-| myo        | `m̥͡mo` | QNT   |
-| rra        | `ɺa`    | NEG   |
+| Determiner | IPA   | Gloss |
+| ---------- | ----- | ----- |
+| myo        | `mʲo` | QNT   |
+| rra        | `ɾa`  | NEG   |
 * These are the base forms
 * They are often used in their modifier form with *-ą*, other than 'rra'
 * Examples:
 	* *nigol* -> `cat-DEF`
 		* "the cat"
 	* *niglós* -> `cat-INDEF.PL`
-		* "any / some cats"
+		* "any / (some) cats"
 	* *nigorra* -> `cat-NEG.MOD`
 		* no cat
 	* *nigmyą* -> `cat-QNT.MOD`
 		* many cats
 		* *myo no niglú* is also fine for 'many of the cats'
+* To say *any* as in "anything" or "anyone," use:
+	* *kiteilen* -> simplest, means "a thing"
+	* *kiteilós* -> means "anything" but sometimes can mean "some," though you have myonq / ita for that
+	* *watadà kiteilen / watadà kiteilós* -> also work for "anything"

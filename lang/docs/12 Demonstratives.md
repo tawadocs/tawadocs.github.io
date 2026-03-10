@@ -24,15 +24,15 @@
 
 ## 12.2 Deixis
 * The same demonstratives can be used for temporal or spatial reference
-* Just use *jią* for spatial reference and *ẑią* for temporal reference
+* Just use *ji* for spatial reference and *zhi* for temporal reference
 	* **SPATIAL**:
-		* *ryojią* -> there
-		* *byojią* -> here (close to listener)
-		* *lyojią* -> that over there (far from speaker and listener)
+		* *ryãji* -> there
+		* *byãji* -> here (close to listener)
+		* *lyãji* -> that over there (far from speaker and listener)
 	* **TEMPORAL**:
-		* *ryoẑią* -> then / back then / that time
-		* *byoẑią* -> now / this time
-		* *lyoẑią* -> long ago
+		* *ryãzhi* -> then / back then / that time
+		* *byãzhi* -> now / this time
+		* *lyãzhi* -> long ago
 
 ## 12.3 Degree
 * ryo, byo, and lyo can also be used for degree:
