@@ -34,6 +34,8 @@
 * *-nin* has additional meanings that *-un* doesn't, so in some contexts, it might be essential, such as:
 	* *haha konin mo mo maku konqnin* -> `laugh day-PER then then cry day-INV-PER`
 		* "Laugh (in glee) through the day, but weep through the night"
+* note that *-nin* is always more visceral or strong, so in powerful metaphors like "having your heart tears mine apart with happiness I can't handle," using *-nin* is the correct choice
+	* although *-nin* sounds cold and detached, here it adds to the gory metaphor, making the sentence elevated and beautiful
 
 ### 18.1.2 Benefactives and malefactives
 * they can be used in this way too:
