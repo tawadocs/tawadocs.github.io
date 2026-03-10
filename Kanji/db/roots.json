@@ -147,5 +147,50 @@
       "Romaji": "shiawase",
       "Japanese": "幸"
     }
+  },
+  {
+    "ID": "1773152864074",
+    "Radical": "⽩",
+    "Strokes": 5,
+    "Alias": "ushi",
+    "Usage": "",
+    "Definitions": [
+      "white"
+    ],
+    "Readings": {
+      "Romaji": "shiro",
+      "Japanese": "しろ"
+    }
+  },
+  {
+    "ID": "1773152911474",
+    "Radical": "冫",
+    "Strokes": 0,
+    "Alias": "ki",
+    "Usage": "",
+    "Definitions": [
+      "two dots",
+      "ice",
+      "cold"
+    ],
+    "Readings": {
+      "Romaji": "nisui",
+      "Japanese": "にすい"
+    }
+  },
+  {
+    "ID": "1773153357564",
+    "Radical": "木",
+    "Strokes": 4,
+    "Alias": "tsu",
+    "Usage": "",
+    "Definitions": [
+      "tree",
+      "wood"
+    ],
+    "Readings": {
+      "Romaji": "ki",
+      "Japanese": "き"
+    }
   }
 ]

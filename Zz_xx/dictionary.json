@@ -184,5 +184,39 @@
         "frequency": 100
       }
     ]
+  },
+  {
+    "word": "ushikitsu",
+    "id": "pilin wile kama",
+    "definitions": [
+      {
+        "text": "fun",
+        "frequency": 100
+      },
+      {
+        "text": "comfort",
+        "frequency": 100
+      },
+      {
+        "text": "enjoy",
+        "frequency": 100
+      },
+      {
+        "text": "pleasant",
+        "frequency": 100
+      },
+      {
+        "text": "delightful",
+        "frequency": 100
+      },
+      {
+        "text": "anticipation",
+        "frequency": 100
+      },
+      {
+        "text": "excited",
+        "frequency": 100
+      }
+    ]
   }
 ]
