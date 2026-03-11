@@ -1,0 +1,120 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Iyuklú | KOYEAH</title>
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;600;800&display=swap" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <style>
+        :root {
+            --bg: #0d0a15;
+            --sidebar-bg: rgba(20, 15, 35, 0.8);
+            --accent: #d4b7ff;
+            --accent-hot: #b485ff;
+            --text: #f5f5ff;
+            --card-border: rgba(180, 133, 255, 0.2);
+            --sidebar-width: 300px;
+        }
+
+        body {
+            background: var(--bg);
+            background-image: radial-gradient(circle at 100% 100%, #1e153d 0%, transparent 60%);
+            color: var(--text);
+            font-family: "Plus Jakarta Sans", sans-serif;
+            margin: 0;
+            display: flex;
+            min-height: 100vh;
+        }
+
+        .sidebar {
+            width: var(--sidebar-width);
+            background: var(--sidebar-bg);
+            backdrop-filter: blur(40px);
+            border-right: 1px solid var(--card-border);
+            height: 100vh;
+            position: fixed;
+            display: flex;
+            flex-direction: column;
+            padding: 3rem 1.5rem;
+            overflow-y: auto;
+        }
+
+        .sidebar-header {
+            font-weight: 800;
+            font-size: 1.2rem;
+            margin-bottom: 2.5rem;
+            color: white;
+            letter-spacing: 0.1em;
+            text-align: center;
+        }
+
+        .nav-item {
+            padding: 1rem 1.2rem;
+            margin-bottom: 0.5rem;
+            border-radius: 15px;
+            cursor: pointer;
+            transition: 0.3s;
+            color: var(--accent);
+            font-weight: 600;
+        }
+
+        .nav-item:hover { background: rgba(255, 255, 255, 0.05); color: white; }
+        .nav-item.active { background: var(--accent-hot); color: white; box-shadow: 0 10px 20px rgba(180, 133, 255, 0.3); }
+
+        .main-content {
+            margin-left: var(--sidebar-width);
+            flex: 1;
+            padding: 6rem 4rem;
+            max-width: 1200px;
+        }
+
+        #doc-content {
+            background: rgba(255, 255, 255, 0.02);
+            backdrop-filter: blur(25px);
+            border: 1px solid var(--card-border);
+            border-radius: 40px;
+            padding: 5rem;
+            line-height: 1.8;
+            box-shadow: 0 30px 60px rgba(0,0,0,0.5);
+        }
+
+        /* Technical MD Styling */
+        h1, h2 { color: var(--accent-hot); border-bottom: 1px solid var(--card-border); padding-bottom: 10px; }
+        table { width: 100%; border-collapse: collapse; margin: 2rem 0; background: rgba(255,255,255,0.02); border-radius: 15px; overflow: hidden; }
+        th { background: var(--accent-hot); color: white; padding: 1rem; text-align: left; }
+        td { padding: 1rem; border-bottom: 1px solid rgba(255,255,255,0.05); }
+    </style>
+</head>
+<body>
+    <div class="sidebar">
+        <div class="sidebar-header">Morphology</div>
+        <div id="nav-list"></div>
+    </div>
+    <div class="main-content">
+        <article id="doc-content"></article>
+    </div>
+
+    <script>
+        const DOCS_DATA = {}; // Injected by build script
+        const navList = document.getElementById('nav-list');
+        const contentArea = document.getElementById('doc-content');
+
+        function renderDoc(filename) {
+            contentArea.innerHTML = marked.parse(DOCS_DATA[filename]);
+            document.querySelectorAll('.nav-item').forEach(btn => btn.classList.toggle('active', btn.dataset.file === filename));
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+        }
+
+        Object.keys(DOCS_DATA).forEach((filename, index) => {
+            const btn = document.createElement('div');
+            btn.className = 'nav-item';
+            btn.dataset.file = filename;
+            btn.textContent = filename.replace(/^\d+\s*/, '').replace('.md', '');
+            btn.onclick = () => renderDoc(filename);
+            navList.appendChild(btn);
+            if (index === 0) renderDoc(filename);
+        });
+    </script>
+</body>
+</html>

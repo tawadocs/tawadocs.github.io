@@ -1,0 +1,240 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>ii miri Tawa | Home</title>
+        <link
+            href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;600;800&display=swap"
+            rel="stylesheet"
+        />
+        <style>
+            :root {
+                --bg: #05070a;
+                --surface: #0f1217;
+                --card-bg: rgba(22, 27, 34, 0.6);
+                --accent: #a5b4fc;
+                --accent-glow: rgba(129, 140, 248, 0.15);
+                --text-main: #f8fafc;
+                --text-dim: #94a3b8;
+                --border: rgba(255, 255, 255, 0.08);
+            }
+
+            body {
+                background: var(--bg);
+                background-image:
+                    radial-gradient(
+                        circle at 50% -20%,
+                        #1e293b 0%,
+                        transparent 50%
+                    ),
+                    radial-gradient(
+                        circle at 0% 100%,
+                        #0f172a 0%,
+                        transparent 30%
+                    );
+                color: var(--text-main);
+                font-family: "Plus Jakarta Sans", sans-serif;
+                margin: 0;
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                min-height: 100vh;
+                padding: 4rem 1rem;
+                box-sizing: border-box;
+            }
+
+            .hero {
+                text-align: center;
+                margin-bottom: 5rem;
+            }
+
+            h1 {
+                font-size: clamp(2.5rem, 8vw, 4rem);
+                font-weight: 800;
+                margin: 0;
+                letter-spacing: -0.05em;
+                background: linear-gradient(180deg, #ffffff 0%, #94a3b8 100%);
+                -webkit-background-clip: text;
+                -webkit-text-fill-color: transparent;
+            }
+
+            .hero p {
+                color: var(--text-dim);
+                font-size: 1.1rem;
+                font-weight: 300;
+                margin-top: 0.75rem;
+                letter-spacing: 0.02em;
+            }
+
+            /* Container Groups */
+            .section-label {
+                width: 100%;
+                max-width: 800px;
+                font-size: 0.75rem;
+                font-weight: 800;
+                text-transform: uppercase;
+                letter-spacing: 0.2em;
+                color: var(--accent);
+                margin-bottom: 1.5rem;
+                opacity: 0.8;
+            }
+
+            .grid-wrapper {
+                width: 100%;
+                max-width: 800px;
+                display: flex;
+                flex-direction: column;
+                gap: 4rem;
+            }
+
+            .grid {
+                display: grid;
+                grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+                gap: 1.25rem;
+            }
+
+            /* Card Styling */
+            .card {
+                background: var(--card-bg);
+                backdrop-filter: blur(12px);
+                border: 1px solid var(--border);
+                border-radius: 20px;
+                padding: 2rem;
+                text-decoration: none;
+                color: white;
+                transition: all 0.4s cubic-bezier(0.15, 0.83, 0.66, 1);
+                position: relative;
+                overflow: hidden;
+                display: flex;
+                flex-direction: column;
+                justify-content: center;
+            }
+
+            .card:hover {
+                transform: translateY(-6px) scale(1.02);
+                border-color: var(--accent);
+                background: rgba(30, 41, 59, 0.5);
+                box-shadow:
+                    0 20px 40px -15px rgba(0, 0, 0, 0.5),
+                    0 0 20px var(--accent-glow);
+            }
+
+            .card h2 {
+                margin: 0 0 10px 0;
+                color: white;
+                font-size: 1.3rem;
+                font-weight: 600;
+                transition: color 0.3s;
+            }
+
+            .card:hover h2 {
+                color: var(--accent);
+            }
+
+            .card p {
+                font-size: 0.9rem;
+                margin: 0;
+                color: var(--text-dim);
+                line-height: 1.5;
+            }
+
+            /* Badge Styling */
+            .badge {
+                position: absolute;
+                top: 12px;
+                right: 12px;
+                background: var(--accent);
+                color: var(--bg);
+                font-size: 10px;
+                font-weight: 800;
+                padding: 4px 10px;
+                border-radius: 20px;
+                letter-spacing: 0.05em;
+            }
+
+            /* Decorative "Glint" */
+            .card::before {
+                content: "";
+                position: absolute;
+                top: 0;
+                left: 0;
+                right: 0;
+                bottom: 0;
+                background: radial-gradient(
+                    circle at top left,
+                    rgba(255, 255, 255, 0.03),
+                    transparent 70%
+                );
+                pointer-events: none;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="hero">
+            <h1>ii miri Tawa</h1>
+            <p>The good medium for progressing.</p>
+        </div>
+
+        <div class="grid-wrapper">
+            <section>
+                <div class="section-label">Core lexicon</div>
+                <div class="grid">
+                    <a href="public/dictionary" class="card">
+                        <h2>Kana ribu</h2>
+                        <p>Core Lexicon</p>
+                    </a>
+                    <a href="Kanji/kanji" class="card">
+                        <div class="badge">NEW</div>
+                        <h2>Kanji no Tawa</h2>
+                        <p>Core Tawish Kanji</p>
+                    </a>
+                </div>
+            </section>
+
+        <section>
+            <div class="section-label">Extended lexicon</div>
+            <div class="grid">
+                <a href="public/extended" class="card">
+                    <div class="badge">NEW</div>
+                    <h2>Kanaitsukoã ribu</h2>
+                    <p>Extended Lexicon</p>
+                </a>
+                <a href="public/kanjibase" class="card">
+                    <div class="badge">NEW</div>
+                    <h2>Ribu no Kanji no Tawa</h2>
+                    <p>Base kanji dictionary</p>
+                </a>
+            </div>
+        </section>
+
+            <section>
+                <div class="section-label">Idioms</div>
+                <div class="grid">
+                    <a href="public/idioms" class="card">
+                        <div class="badge">NEW</div>
+                        <h2>Fofoqeteilós</h2>
+                        <p>Idioms or phrases</p>
+                    </a>
+            </section>
+
+            <section>
+                <div class="section-label">Technical References</div>
+                <div class="grid">
+                    <a href="public/grammar" class="card">
+                        <h2>Gana ribu</h2>
+                        <p>Grammar Reference</p>
+                    </a>
+                    <a href="public/mprf" class="card">
+                        <h2>Iyuklú ẽ pamya no Tawa</h2>
+                        <p>Morphophonology Reference</p>
+                    </a>
+                    <a href="public/orthography" class="card">
+                        <h2>Pamya Tawaji</h2>
+                        <p>Orthography Reference</p>
+                    </a>
+                </div>
+            </section>
+        </div>
+    </body>
+</html>

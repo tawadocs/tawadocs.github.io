@@ -1,0 +1,146 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gana ribu | KOYEAH</title>
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;600;800&display=swap" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <style>
+        :root {
+            --bg: #150a12;
+            --sidebar-bg: rgba(45, 18, 35, 0.7);
+            --accent: #ffb7c5;
+            --accent-hot: #ff85a2;
+            --text: #fff5f7;
+            --card-border: rgba(255, 182, 193, 0.2);
+            --sidebar-width: 300px;
+        }
+
+        body {
+            background: var(--bg);
+            background-image: radial-gradient(circle at 50% 0%, #3d152a 0%, transparent 70%);
+            color: var(--text);
+            font-family: "Plus Jakarta Sans", sans-serif;
+            margin: 0;
+            display: flex;
+            min-height: 100vh;
+        }
+
+        /* Sidebar */
+        .sidebar {
+            width: var(--sidebar-width);
+            background: var(--sidebar-bg);
+            backdrop-filter: blur(40px);
+            border-right: 1px solid var(--card-border);
+            height: 100vh;
+            position: fixed;
+            display: flex;
+            flex-direction: column;
+            padding: 3rem 1.5rem;
+            overflow-y: auto;
+        }
+
+        .sidebar-header {
+            font-weight: 800;
+            font-size: 1.2rem;
+            margin-bottom: 2.5rem;
+            color: white;
+            letter-spacing: 0.1em;
+            text-align: center;
+            text-transform: uppercase;
+        }
+
+        .nav-item {
+            padding: 1rem 1.2rem;
+            margin-bottom: 0.5rem;
+            border-radius: 15px;
+            cursor: pointer;
+            transition: 0.3s;
+            color: var(--accent);
+            font-weight: 600;
+            border: 1px solid transparent;
+        }
+
+        .nav-item:hover {
+            background: rgba(255, 255, 255, 0.05);
+            color: white;
+            padding-left: 1.5rem;
+        }
+
+        .nav-item.active {
+            background: var(--accent-hot);
+            color: white;
+            box-shadow: 0 10px 20px rgba(255, 133, 162, 0.3);
+        }
+
+        /* Content Area */
+        .main-content {
+            margin-left: var(--sidebar-width);
+            flex: 1;
+            padding: 6rem 4rem;
+            max-width: 1200px;
+        }
+
+        #doc-content {
+            background: rgba(255, 255, 255, 0.02);
+            backdrop-filter: blur(20px);
+            border: 1px solid var(--card-border);
+            border-radius: 40px;
+            padding: 5rem;
+            line-height: 1.8;
+            box-shadow: 0 30px 60px rgba(0,0,0,0.4);
+            animation: fadeIn 0.6s ease-out;
+        }
+
+        @keyframes fadeIn { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
+
+        /* MD Styling */
+        h1, h2, h3 { color: var(--accent-hot); margin-top: 2.5rem; }
+        code { background: rgba(255, 133, 162, 0.15); padding: 0.2rem 0.5rem; border-radius: 8px; color: var(--accent); font-family: monospace; }
+        blockquote { border-left: 4px solid var(--accent-hot); margin: 2rem 0; padding: 1rem 2rem; background: rgba(255, 255, 255, 0.02); border-radius: 0 20px 20px 0; font-style: italic; }
+        img { max-width: 100%; border-radius: 20px; }
+    </style>
+</head>
+<body>
+    <div class="sidebar">
+        <div class="sidebar-header">Grammar</div>
+        <div id="nav-list"></div>
+    </div>
+    <div class="main-content">
+        <article id="doc-content"></article>
+    </div>
+
+    <script>
+        const DOCS_DATA = {}; // Injected by build script
+
+        const navList = document.getElementById('nav-list');
+        const contentArea = document.getElementById('doc-content');
+
+        function renderDoc(filename) {
+            contentArea.innerHTML = marked.parse(DOCS_DATA[filename]);
+            
+            // Update Active State
+            document.querySelectorAll('.nav-item').forEach(btn => {
+                btn.classList.toggle('active', btn.dataset.file === filename);
+            });
+            
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+        }
+
+        // Initialize Sidebar
+        Object.keys(DOCS_DATA).forEach((filename, index) => {
+            const btn = document.createElement('div');
+            btn.className = 'nav-item';
+            btn.dataset.file = filename;
+            // Clean up the name (remove number and .md)
+            btn.textContent = filename.replace(/^\d+\s*/, '').replace('.md', '');
+            btn.onclick = () => renderDoc(filename);
+            navList.appendChild(btn);
+
+            // Load first doc by default
+            if (index === 0) renderDoc(filename);
+        });
+    </script>
+</body>
+</html>
