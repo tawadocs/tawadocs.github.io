@@ -131,7 +131,7 @@
 			* went **out to** shop
 		* passive or causative
 			* the boss made the employee write the report
-				* *komunil ni komuninqjia paya monu tetõka*
+				* *komunil ni komuninqjia monu tetõkal*
 				* "the boss **made** the employee write the report"
 	* **un**
 		* instrument or means
