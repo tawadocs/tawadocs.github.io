@@ -82,6 +82,13 @@
 			* "This is for studying"
 		* *ryo ni iite paya* -> `DEM.MED TOP good-INF study`
 			* "This is good to study"
+	* **description**
+		* *ushikitsute paya ita ei* -> `fun-INF study PRTV ANAPH`
+			* "(It is) fun to study about this"
+		* *damite kamu* -> `easy-INF eat.V`
+			* "Easy to eat"
+		* *iite fu* -> `good-INF ACT`
+			* "Good to do"
 
 ## 1.5 Particle table
 | Particle | IPA    | Function                       | Gloss   |
