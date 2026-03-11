@@ -36,8 +36,31 @@
             position: fixed;
             display: flex;
             flex-direction: column;
-            padding: 3rem 1.5rem;
+            padding: 2rem 1.5rem;
             overflow-y: auto;
+        }
+
+        /* Back Button Styling */
+        .back-btn {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            color: var(--accent);
+            text-decoration: none;
+            font-size: 0.9rem;
+            font-weight: 600;
+            margin-bottom: 2rem;
+            padding: 0.5rem 1rem;
+            border-radius: 10px;
+            border: 1px solid var(--card-border);
+            transition: 0.3s;
+            width: fit-content;
+        }
+
+        .back-btn:hover {
+            background: rgba(180, 133, 255, 0.1);
+            color: white;
+            border-color: var(--accent-hot);
         }
 
         .sidebar-header {
@@ -88,6 +111,11 @@
 </head>
 <body>
     <div class="sidebar">
+        <a href="/" class="back-btn">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="19" y1="12" x2="5" y2="12"></line><polyline points="12 19 5 12 12 5"></polyline></svg>
+            Back
+        </a>
+
         <div class="sidebar-header">Morphology</div>
         <div id="nav-list"></div>
     </div>
@@ -96,12 +124,17 @@
     </div>
 
     <script>
-        const DOCS_DATA = {}; // Injected by build script
+        // Placeholder data for demonstration - Replace with your build script injection
+        const DOCS_DATA = {
+            "01 Introduction.md": "# Introduction\nWelcome to the Morphology section.",
+            "02 Nouns.md": "# Nouns\nInformation about nouns goes here."
+        }; 
+
         const navList = document.getElementById('nav-list');
         const contentArea = document.getElementById('doc-content');
 
         function renderDoc(filename) {
-            contentArea.innerHTML = marked.parse(DOCS_DATA[filename]);
+            contentArea.innerHTML = marked.parse(DOCS_DATA[filename] || "");
             document.querySelectorAll('.nav-item').forEach(btn => btn.classList.toggle('active', btn.dataset.file === filename));
             window.scrollTo({ top: 0, behavior: 'smooth' });
         }

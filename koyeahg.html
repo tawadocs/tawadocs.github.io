@@ -9,17 +9,25 @@
     <style>
         :root {
             --bg: #150a12;
-            --sidebar-bg: rgba(45, 18, 35, 0.7);
+            --sidebar-bg: rgba(35, 12, 25, 0.95);
             --accent: #ffb7c5;
             --accent-hot: #ff85a2;
             --text: #fff5f7;
             --card-border: rgba(255, 182, 193, 0.2);
-            --sidebar-width: 300px;
+            --sidebar-width: 320px;
         }
+
+        ::-webkit-scrollbar { width: 6px; }
+        ::-webkit-scrollbar-track { background: transparent; }
+        ::-webkit-scrollbar-thumb { background: var(--card-border); border-radius: 10px; }
+        ::-webkit-scrollbar-thumb:hover { background: var(--accent-hot); }
 
         body {
             background: var(--bg);
-            background-image: radial-gradient(circle at 50% 0%, #3d152a 0%, transparent 70%);
+            background-image: 
+                radial-gradient(circle at 50% 0%, rgba(255, 133, 162, 0.15) 0%, transparent 70%),
+                radial-gradient(circle at 0% 100%, rgba(255, 182, 193, 0.05) 0%, transparent 40%);
+            background-attachment: fixed;
             color: var(--text);
             font-family: "Plus Jakarta Sans", sans-serif;
             margin: 0;
@@ -27,120 +35,253 @@
             min-height: 100vh;
         }
 
-        /* Sidebar */
         .sidebar {
             width: var(--sidebar-width);
             background: var(--sidebar-bg);
-            backdrop-filter: blur(40px);
+            backdrop-filter: blur(50px);
+            -webkit-backdrop-filter: blur(50px);
             border-right: 1px solid var(--card-border);
             height: 100vh;
             position: fixed;
             display: flex;
             flex-direction: column;
-            padding: 3rem 1.5rem;
-            overflow-y: auto;
+            z-index: 1000;
         }
 
-        .sidebar-header {
+        .sidebar-header-area {
+            padding: 2.5rem 1.5rem 1.5rem 1.5rem;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+        }
+
+        .back-btn {
+            display: inline-flex;
+            align-items: center;
+            text-decoration: none;
+            color: var(--accent);
+            font-size: 0.7rem;
             font-weight: 800;
-            font-size: 1.2rem;
-            margin-bottom: 2.5rem;
-            color: white;
-            letter-spacing: 0.1em;
-            text-align: center;
+            letter-spacing: 0.15em;
             text-transform: uppercase;
+            margin-bottom: 1.5rem;
+            transition: 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+        }
+        .back-btn:hover { color: white; transform: translateX(-5px); }
+
+        .search-container { position: relative; }
+        .search-bar {
+            width: 100%;
+            background: rgba(255, 255, 255, 0.03);
+            border: 1px solid var(--card-border);
+            border-radius: 15px;
+            padding: 0.9rem 1.2rem;
+            box-sizing: border-box;
+            color: white;
+            font-family: inherit;
+            font-size: 0.9rem;
+            outline: none;
+            transition: 0.3s;
+            box-shadow: inset 0 2px 4px rgba(0,0,0,0.2);
+        }
+        .search-bar:focus { 
+            border-color: var(--accent-hot); 
+            background: rgba(255, 255, 255, 0.07);
+        }
+
+        #nav-list { 
+            flex: 1; 
+            overflow-y: auto; 
+            padding: 1.5rem;
         }
 
         .nav-item {
-            padding: 1rem 1.2rem;
+            padding: 1rem;
             margin-bottom: 0.5rem;
-            border-radius: 15px;
+            border-radius: 12px;
             cursor: pointer;
             transition: 0.3s;
             color: var(--accent);
             font-weight: 600;
-            border: 1px solid transparent;
+            font-size: 0.95rem;
         }
-
-        .nav-item:hover {
-            background: rgba(255, 255, 255, 0.05);
-            color: white;
-            padding-left: 1.5rem;
-        }
-
-        .nav-item.active {
-            background: var(--accent-hot);
-            color: white;
+        .nav-item:hover { background: rgba(255, 255, 255, 0.05); color: white; }
+        .nav-item.active { 
+            background: var(--accent-hot); 
+            color: white; 
             box-shadow: 0 10px 20px rgba(255, 133, 162, 0.3);
         }
 
-        /* Content Area */
+        .search-result {
+            padding: 1rem;
+            margin-bottom: 0.8rem;
+            border-radius: 12px;
+            cursor: pointer;
+            background: rgba(255, 255, 255, 0.02);
+            border: 1px solid transparent;
+            transition: 0.2s;
+        }
+        .search-result:hover { 
+            background: rgba(255, 255, 255, 0.06); 
+            border-color: var(--accent-hot);
+        }
+        .result-chapter { font-size: 0.65rem; color: var(--accent-hot); font-weight: 900; text-transform: uppercase; letter-spacing: 0.1em; margin-bottom: 4px; display: block; }
+        .result-snippet { font-size: 0.85rem; color: var(--text); opacity: 0.7; margin-top: 5px; display: block; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+        .result-snippet mark { background: var(--accent-hot); color: white; border-radius: 2px; padding: 0 2px; }
+
         .main-content {
             margin-left: var(--sidebar-width);
             flex: 1;
             padding: 6rem 4rem;
-            max-width: 1200px;
+            display: flex;
+            justify-content: center;
         }
 
         #doc-content {
+            width: 100%;
+            max-width: 850px;
             background: rgba(255, 255, 255, 0.02);
             backdrop-filter: blur(20px);
             border: 1px solid var(--card-border);
             border-radius: 40px;
             padding: 5rem;
             line-height: 1.8;
-            box-shadow: 0 30px 60px rgba(0,0,0,0.4);
-            animation: fadeIn 0.6s ease-out;
+            box-shadow: 0 40px 100px rgba(0,0,0,0.3);
+            animation: slideIn 0.8s cubic-bezier(0.23, 1, 0.32, 1);
         }
 
-        @keyframes fadeIn { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
+        @keyframes slideIn { from { opacity: 0; transform: translateY(30px); } to { opacity: 1; transform: translateY(0); } }
 
-        /* MD Styling */
-        h1, h2, h3 { color: var(--accent-hot); margin-top: 2.5rem; }
-        code { background: rgba(255, 133, 162, 0.15); padding: 0.2rem 0.5rem; border-radius: 8px; color: var(--accent); font-family: monospace; }
-        blockquote { border-left: 4px solid var(--accent-hot); margin: 2rem 0; padding: 1rem 2rem; background: rgba(255, 255, 255, 0.02); border-radius: 0 20px 20px 0; font-style: italic; }
-        img { max-width: 100%; border-radius: 20px; }
+        h1, h2, h3 { color: var(--accent-hot); margin-top: 2.5rem; letter-spacing: -0.02em; }
+        h1 { font-size: 2.5rem; }
+        p { margin-bottom: 1.5rem; font-size: 1.05rem; }
+        code { background: rgba(255, 133, 162, 0.15); padding: 0.2rem 0.5rem; border-radius: 8px; color: var(--accent); font-family: 'Courier New', Courier, monospace; }
+        blockquote { border-left: 4px solid var(--accent-hot); margin: 2.5rem 0; padding: 1.5rem 2.5rem; background: rgba(255, 255, 255, 0.01); border-radius: 0 20px 20px 0; font-style: italic; }
+        mark { background: var(--accent-hot); color: white; border-radius: 4px; padding: 0 3px; }
+        
+        @media (max-width: 1000px) {
+            .sidebar { width: 80px; }
+            .sidebar-header-area, .nav-item span { display: none; }
+            .main-content { margin-left: 80px; padding: 2rem; }
+        }
     </style>
 </head>
 <body>
-    <div class="sidebar">
-        <div class="sidebar-header">Grammar</div>
+
+    <nav class="sidebar">
+        <div class="sidebar-header-area">
+            <a href="/" class="back-btn">← DASHBOARD</a>
+            <div class="search-container">
+                <input type="text" id="search" class="search-bar" placeholder="Search KOYEAH...">
+            </div>
+        </div>
         <div id="nav-list"></div>
-    </div>
-    <div class="main-content">
+    </nav>
+
+    <main class="main-content">
         <article id="doc-content"></article>
-    </div>
+    </main>
 
     <script>
-        const DOCS_DATA = {}; // Injected by build script
+        const DOCS_DATA = {}; 
 
         const navList = document.getElementById('nav-list');
         const contentArea = document.getElementById('doc-content');
+        const searchInput = document.getElementById('search');
 
-        function renderDoc(filename) {
-            contentArea.innerHTML = marked.parse(DOCS_DATA[filename]);
+        function cleanName(name) {
+            return name.replace(/^\d+\s*/, '').replace('.md', '').replace(/-/g, ' ');
+        }
+
+        function renderDoc(filename, highlightTerm = null) {
+            const rawContent = DOCS_DATA[filename];
+            if(!rawContent) return;
+
+            contentArea.innerHTML = marked.parse(rawContent);
             
-            // Update Active State
+            if (highlightTerm && highlightTerm.trim() !== "") {
+                const walker = document.createTreeWalker(contentArea, NodeFilter.SHOW_TEXT, null, false);
+                const nodes = [];
+                while(walker.nextNode()) nodes.push(walker.currentNode);
+
+                nodes.forEach(node => {
+                    const text = node.textContent;
+                    const regex = new RegExp(`(${highlightTerm})`, 'gi');
+                    if(regex.test(text)) {
+                        const span = document.createElement('span');
+                        span.innerHTML = text.replace(regex, '<mark>$1</mark>');
+                        node.parentNode.replaceChild(span, node);
+                    }
+                });
+
+                const firstMark = contentArea.querySelector('mark');
+                if (firstMark) firstMark.scrollIntoView({ behavior: 'smooth', block: 'center' });
+            } else {
+                window.scrollTo({ top: 0, behavior: 'smooth' });
+            }
+
             document.querySelectorAll('.nav-item').forEach(btn => {
                 btn.classList.toggle('active', btn.dataset.file === filename);
             });
-            
-            window.scrollTo({ top: 0, behavior: 'smooth' });
         }
 
-        // Initialize Sidebar
-        Object.keys(DOCS_DATA).forEach((filename, index) => {
-            const btn = document.createElement('div');
-            btn.className = 'nav-item';
-            btn.dataset.file = filename;
-            // Clean up the name (remove number and .md)
-            btn.textContent = filename.replace(/^\d+\s*/, '').replace('.md', '');
-            btn.onclick = () => renderDoc(filename);
-            navList.appendChild(btn);
+        function handleSearch(query) {
+            const term = query.toLowerCase().trim();
+            navList.innerHTML = '';
+            
+            if (!term) {
+                initDefaultSidebar();
+                return;
+            }
 
-            // Load first doc by default
-            if (index === 0) renderDoc(filename);
-        });
+            let resultsFound = false;
+            Object.keys(DOCS_DATA).forEach(filename => {
+                const content = DOCS_DATA[filename];
+                const chapterName = cleanName(filename);
+                const lowerContent = content.toLowerCase();
+
+                if (chapterName.toLowerCase().includes(term) || lowerContent.includes(term)) {
+                    resultsFound = true;
+                    const resDiv = document.createElement('div');
+                    resDiv.className = 'search-result';
+                    
+                    let snippet = "";
+                    const index = lowerContent.indexOf(term);
+                    if (index !== -1) {
+                        const start = Math.max(0, index - 30);
+                        const end = Math.min(content.length, index + 50);
+                        snippet = content.substring(start, end).trim().replace(/\n/g, ' ') + "...";
+                    } else {
+                        snippet = "Match in title";
+                    }
+
+                    resDiv.innerHTML = `
+                        <div class="result-chapter">${chapterName}</div>
+                        <div class="result-snippet">${snippet}</div>
+                    `;
+                    resDiv.onclick = () => renderDoc(filename, term);
+                    navList.appendChild(resDiv);
+                }
+            });
+
+            if (!resultsFound) {
+                navList.innerHTML = '<div style="padding:1rem; opacity:0.4; font-size:0.8rem; text-align:center;">No results found ✨</div>';
+            }
+        }
+
+        function initDefaultSidebar() {
+            navList.innerHTML = '';
+            Object.keys(DOCS_DATA).forEach((filename, index) => {
+                const btn = document.createElement('div');
+                btn.className = 'nav-item';
+                btn.dataset.file = filename;
+                btn.textContent = cleanName(filename);
+                btn.onclick = () => renderDoc(filename);
+                navList.appendChild(btn);
+                if (index === 0 && contentArea.innerHTML === "") renderDoc(filename);
+            });
+        }
+
+        searchInput.addEventListener('input', (e) => handleSearch(e.target.value));
+        initDefaultSidebar();
     </script>
 </body>
 </html>

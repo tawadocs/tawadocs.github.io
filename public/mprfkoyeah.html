@@ -36,8 +36,31 @@
             position: fixed;
             display: flex;
             flex-direction: column;
-            padding: 3rem 1.5rem;
+            padding: 2rem 1.5rem;
             overflow-y: auto;
+        }
+
+        /* Back Button Styling */
+        .back-btn {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            color: var(--accent);
+            text-decoration: none;
+            font-size: 0.9rem;
+            font-weight: 600;
+            margin-bottom: 2rem;
+            padding: 0.5rem 1rem;
+            border-radius: 10px;
+            border: 1px solid var(--card-border);
+            transition: 0.3s;
+            width: fit-content;
+        }
+
+        .back-btn:hover {
+            background: rgba(180, 133, 255, 0.1);
+            color: white;
+            border-color: var(--accent-hot);
         }
 
         .sidebar-header {
@@ -88,6 +111,11 @@
 </head>
 <body>
     <div class="sidebar">
+        <a href="/" class="back-btn">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="19" y1="12" x2="5" y2="12"></line><polyline points="12 19 5 12 12 5"></polyline></svg>
+            Back
+        </a>
+
         <div class="sidebar-header">Morphology</div>
         <div id="nav-list"></div>
     </div>
@@ -96,12 +124,14 @@
     </div>
 
     <script>
-        const DOCS_DATA = {"1 Phonetics.md":"## 1.1 Consonant inventory\n|                    | Plosive | Nasal  | Fricative | Affricate | Tap/flap | Glide | Approximant |\n| ------------------ | ------- | ------ | --------- | --------- | -------- | ----- | ----------- |\n| **Bilabial**       | b p     | m m̥͡m | ɸ         |           |          |       |             |\n| **Labiodental**    |         |        |           |           |          |       |             |\n| **Linguolabial**   |         | n̼     |           |           |          |       |             |\n| **Dentialveolar**  | t tʰ d  |        |           | t͡s d͡z   |          |       | l           |\n| **Alveolar**       |         | n      | s z       |           | ɾ        |       |             |\n| **Alveolopalatal** |         | nʲ     | ɕ ʑ       | t͡ɕ d͡ʑ   |          |       |             |\n| **Palatal**        |         |        |           | c͡ç       |          | j     |             |\n| **Velar**          | k kʰ g  | ŋ      |           |           |          |       |             |\n| **Labiovelar**     |         |        |           |           |          | w     |             |\n| **Uvular**         |         | ɴ      |           |           |          |       |             |\n| **Glottal**        | ʔ       |        | h         |           |          |       |             |\n* Koyeah Tawa lost:\n\t* /ɺ ʋ ʎ/\n* and it does not distinguish:\n\t* /ɺ/ or /ɾ/\n\t* /ʋ/ or /w/\n\t* /ʎ/ or /lʲ/\n* Note: **Koyeah** is pronounced ['ko.je.a(h)]\n\n## 1.2 Vowel inventory\n|               | Front | Near-front | Central | Near-back | Back |\n| ------------- | ----- | ---------- | ------- | --------- | ---- |\n| **High**      | i     |            |         |           | u    |\n| **Near-high** |       | ɪ          |         | ʊ         |      |\n| **Mid**       | e     |            | (ə)     |           | o    |\n| **Low-mid**   |       | ɛ          |         | (ʌ)       |      |\n| **Near-low**  | æ     |            |         |           | ɔ    |\n| **Low**       |       |            | a       |           |      |\n* Vowels are split into these groups:\n\t* Regular: *a i u e o*\n\t* Peripheral: *á í ú é ó*\n\t* Neutral vowels are not marked and are non-distinctive\n\n## 1.3 Allophones\n| Phoneme | Allophone | Condition                 |\n| ------- | --------- | ------------------------- |\n| nʲ      | ɲ         | /ɲ/ in consonant clusters |\n| n       | ŋ         | /ŋ/ before velars         |\n| h       | ç         | /ç/ before [i ɪ]          |\n| h       | ɸ         | [ɸ] before [u]            |\n* *n* [n] changes into *m* [m] before bilabials (e.g., *hon* + *ppu* -> *homppu*)\n"}; // Injected by build script
+        // Placeholder data for demonstration - Replace with your build script injection
+        const DOCS_DATA = {"1 Phonetics.md":"## 1.1 Consonant inventory\n|                    | Plosive | Nasal  | Fricative | Affricate | Tap/flap | Glide | Approximant |\n| ------------------ | ------- | ------ | --------- | --------- | -------- | ----- | ----------- |\n| **Bilabial**       | b p     | m m̥͡m | ɸ         |           |          |       |             |\n| **Labiodental**    |         |        |           |           |          |       |             |\n| **Linguolabial**   |         | n̼     |           |           |          |       |             |\n| **Dentialveolar**  | t tʰ d  |        |           | t͡s d͡z   |          |       | l           |\n| **Alveolar**       |         | n      | s z       |           | ɾ        |       |             |\n| **Alveolopalatal** |         | nʲ     | ɕ ʑ       | t͡ɕ d͡ʑ   |          |       |             |\n| **Palatal**        |         |        |           | c͡ç       |          | j     |             |\n| **Velar**          | k kʰ g  | ŋ      |           |           |          |       |             |\n| **Labiovelar**     |         |        |           |           |          | w     |             |\n| **Uvular**         |         | ɴ      |           |           |          |       |             |\n| **Glottal**        | ʔ       |        | h         |           |          |       |             |\n* Koyeah Tawa lost:\n\t* /ɺ ʋ ʎ/\n* and it does not distinguish:\n\t* /ɺ/ or /ɾ/\n\t* /ʋ/ or /w/\n\t* /ʎ/ or /lʲ/\n* Note: **Koyeah** is pronounced ['ko.je.a(h)]\n\n## 1.2 Vowel inventory\n|               | Front | Near-front | Central | Near-back | Back |\n| ------------- | ----- | ---------- | ------- | --------- | ---- |\n| **High**      | i     |            |         |           | u    |\n| **Near-high** |       | ɪ          |         | ʊ         |      |\n| **Mid**       | e     |            | (ə)     |           | o    |\n| **Low-mid**   |       | ɛ          |         | (ʌ)       |      |\n| **Near-low**  | æ     |            |         |           | ɔ    |\n| **Low**       |       |            | a       |           |      |\n* Vowels are split into these groups:\n\t* Regular: *a i u e o*\n\t* Peripheral: *á í ú é ó*\n\t* Neutral vowels are not marked and are non-distinctive\n\n## 1.3 Allophones\n| Phoneme | Allophone | Condition                 |\n| ------- | --------- | ------------------------- |\n| nʲ      | ɲ         | /ɲ/ in consonant clusters |\n| n       | ŋ         | /ŋ/ before velars         |\n| h       | ç         | /ç/ before [i ɪ]          |\n| h       | ɸ         | [ɸ] before [u]            |\n* *n* [n] changes into *m* [m] before bilabials (e.g., *hon* + *ppu* -> *homppu*)\n"}; 
+
         const navList = document.getElementById('nav-list');
         const contentArea = document.getElementById('doc-content');
 
         function renderDoc(filename) {
-            contentArea.innerHTML = marked.parse(DOCS_DATA[filename]);
+            contentArea.innerHTML = marked.parse(DOCS_DATA[filename] || "");
             document.querySelectorAll('.nav-item').forEach(btn => btn.classList.toggle('active', btn.dataset.file === filename));
             window.scrollTo({ top: 0, behavior: 'smooth' });
         }
