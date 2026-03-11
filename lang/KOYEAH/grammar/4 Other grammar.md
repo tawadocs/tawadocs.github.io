@@ -46,6 +46,8 @@
 			* e.g., you'd say *ieiite kamu* -> `AUG-good-INF eat.V`
 				* "better to eat"
 				* ~"I should eat"
+			* or use *monohi*:
+				* *kamu monohi* -> `eat.V possible-BACK`
 		* cases or other particles can specify the type of context (no **zhi/shi** distinction)
 			* do note that the entire relationship system, apart from **zhi**, is intact (e.g., **ze**, **ho**, etc.)
 
@@ -59,3 +61,12 @@
 * Garibankana ending in two *o*'s are simply spelt with **one ′o** in Koyeah Tawa:
 	* *itsukoo* -> *itsuko*
 * Though many simple rules, such as *n* -> *m* before bilabials or *n* -> *ŋ* before velars apply.
+
+## 4.4 Usage of **shi**
+* In Koyeah Tawa, **shi** adds context and does not necessarily only function as a conditional:
+	* *Hateru shi soa yaranai tohi* -> `run.V CTXT 3SG.M-A come IV PFV-BACK`
+		* ~"(I) ran when he came"
+	* *Hateru shi soa yaranai monotohi* -> `run.V CTXT 3SG.M-A come-IV possible-PFV-BACK`
+		* "(I) would run if he (were to) came"
+	* *Kamu shi sa′a fofen ni kiwinq rehi* -> `eat.V CTXT 3SG.F-A speak.NMLZ TOP continue-INV IPFV-BACK`
+		* "(I) will eat if she shuts up"

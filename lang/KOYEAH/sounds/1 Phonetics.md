@@ -29,10 +29,7 @@
 | **Low-mid**   |       | ɛ          |         | (ʌ)       |      |
 | **Near-low**  | æ     |            |         |           | ɔ    |
 | **Low**       |       |            | a       |           |      |
-* Vowels are split into these groups:
-	* Regular: *a i u e o*
-	* Peripheral: *á í ú é ó*
-	* Neutral vowels are not marked and are non-distinctive
+* All vowels are unmarked
 
 ## 1.3 Allophones
 | Phoneme | Allophone | Condition                 |
