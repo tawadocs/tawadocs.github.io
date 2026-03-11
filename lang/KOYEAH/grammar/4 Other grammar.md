@@ -48,3 +48,14 @@
 				* ~"I should eat"
 		* cases or other particles can specify the type of context (no **zhi/shi** distinction)
 			* do note that the entire relationship system, apart from **zhi**, is intact (e.g., **ze**, **ho**, etc.)
+
+## 4.3 Ashi Tawa phonological complexity
+* There is no vowel devoicing in Koyeah Tawa, so:
+	* *fofunai*
+	* *subunai*
+	* *fofoku*
+* ... are all pronounced as they are pronounced
+* ′o-root rules and garibankana rules also no longer apply
+* Garibankana ending in two *o*'s are simply spelt with **one ′o** in Koyeah Tawa:
+	* *itsukoo* -> *itsuko*
+* Though many simple rules, such as *n* -> *m* before bilabials or *n* -> *ŋ* before velars apply.
