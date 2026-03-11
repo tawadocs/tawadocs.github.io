@@ -64,4 +64,6 @@
 | **ri**   | `ɾi`   | Affirms and emphasises         | AFFIRM  |
 | **riyi** | `ɾiji` | -                              | AFFIRM2 |
 | **raya** | `ɾaja` | -                              | NEG2    |
-* **NOTE:** use the *-ute* form of the infinitive for marked verbs, especially for modals like *subute* **(want to)**
+* **NOTE:**
+	* use the *-ute* form of the infinitive for marked verbs, especially for modals like *subute* **(want to)**
+	* the noun marker *-o* does not strictly have to be used; it is often omitted when context or word order makes it clear

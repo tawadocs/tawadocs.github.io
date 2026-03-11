@@ -890,6 +890,10 @@
       {
         "text": "beige",
         "frequency": 100
+      },
+      {
+        "text": "tea",
+        "frequency": 100
       }
     ]
   },
@@ -1444,16 +1448,6 @@
         "frequency": 100
       }
     ]
-  },
-  {
-    "word": "epiku",
-    "definitions": [
-      {
-        "text": "epic",
-        "frequency": 50
-      }
-    ],
-    "id": "epiku"
   },
   {
     "word": "esace",

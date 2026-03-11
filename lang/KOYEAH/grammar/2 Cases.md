@@ -148,3 +148,22 @@
 				* *hon no itanh kita su* -> `person GEN TOT like 1SG`
 			* **completed / fully done** sending the picture:
 				* *senoden o no itanh emono* -> `send.NMLZ ACC GEN TOT picture`
+	* **po**
+		* being in favour or supporting 
+			* she is for him / for his favour / in favour of him
+				* *sa po so* -> `3SG.F FOR 3SG.M`
+		* positioned beside or alongside a thing
+			* I am beside the house **(poji)**
+				* *su poji asa* -> `1SG FOR-LOC house`
+	* **bo**
+		* being against
+			* she is against him
+				* *sa bo so* -> `3SG.F CNTR 3SG.M`
+		* resting against or using a thing as support **(boji)**
+			* I am opposite to / against the house
+				* *su boji asa* -> `1SG CNTR-LOC house`
+			* I'm resting against the house's walls
+				* *sua rawa boji ga no asa* -> `1SG-A rest CNTR-LOC side GEN house`
+		* acting as substitute (instead of)
+			* we need peace instead of war
+				* *na′a anisu o ritarusumata boji shahada* -> `1PL-A need.V soft-essence CNTR-LOC war`

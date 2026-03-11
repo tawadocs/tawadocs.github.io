@@ -1,5 +1,23 @@
 [
   {
+    "word": "epiku",
+    "id": "epiku",
+    "definitions": [
+      {
+        "text": "epic",
+        "frequency": 100
+      },
+      {
+        "text": "amazing",
+        "frequency": 100
+      },
+      {
+        "text": "damn",
+        "frequency": 100
+      }
+    ]
+  },
+  {
     "word": "maraca",
     "id": "unpa e mi, musi e sijelo mi",
     "definitions": [
