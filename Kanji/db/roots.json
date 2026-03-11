@@ -237,5 +237,85 @@
       "Romaji": "nomi",
       "Japanese": "のみ"
     }
+  },
+  {
+    "ID": "1773188638348",
+    "Radical": "衤",
+    "Strokes": 5,
+    "Alias": "hyo",
+    "Usage": "",
+    "Definitions": [
+      "clothing"
+    ],
+    "Readings": {
+      "Romaji": "",
+      "Japanese": ""
+    }
+  },
+  {
+    "ID": "1773188862675",
+    "Radical": "⽤",
+    "Strokes": 5,
+    "Alias": "go",
+    "Usage": "",
+    "Definitions": [
+      "use",
+      "to use"
+    ],
+    "Readings": {
+      "Romaji": "mochiiru",
+      "Japanese": "もちいる"
+    }
+  },
+  {
+    "ID": "1773188995471",
+    "Radical": "十",
+    "Strokes": 2,
+    "Alias": "woi",
+    "Usage": "it often affects labiovelarises the first consonant when appearing in compounds and changes the first and second vowel to -o and -i respectively. In the compound hyogomi, it changes it to hwogimi.",
+    "Definitions": [
+      "cross",
+      "two crossed strokes",
+      "ten"
+    ],
+    "Readings": {
+      "Romaji": "juu",
+      "Japanese": "じゅう"
+    }
+  },
+  {
+    "ID": "1773189048431",
+    "Radical": "丶",
+    "Strokes": 1,
+    "Alias": "mi",
+    "Usage": "",
+    "Definitions": [
+      "a dot"
+    ],
+    "Readings": {
+      "Romaji": "ten",
+      "Japanese": "てん"
+    }
+  },
+  {
+    "ID": "1773190325364",
+    "Radical": "⾦",
+    "Strokes": 0,
+    "Alias": "kare",
+    "Usage": "in compounds, the 'are' form is used (hwaregimi).",
+    "Definitions": [
+      "bell",
+      "ringing bell",
+      "large bell",
+      "gold",
+      "money",
+      "funds",
+      "wealth",
+      "(raw) metal"
+    ],
+    "Readings": {
+      "Romaji": "kane",
+      "Japanese": "かね"
+    }
   }
 ]

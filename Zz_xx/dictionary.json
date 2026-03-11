@@ -314,5 +314,23 @@
         "frequency": 100
       }
     ]
+  },
+  {
+    "word": "hwogimi",
+    "id": "pakala li pini",
+    "definitions": [
+      {
+        "text": "make hole",
+        "frequency": 100
+      },
+      {
+        "text": "mend",
+        "frequency": 100
+      },
+      {
+        "text": "fill (a gap)",
+        "frequency": 100
+      }
+    ]
   }
 ]
