@@ -172,3 +172,5 @@
 * In Ashi Tawa, cases like *ji* combined with *tei* to form nouns such as *jitei* (place)
 * In Koyeah Tawa, this is possible, as it borrows Ashi Tawa vocabulary, even if it doesn't have *-tei*
 * Note that Koyeah Tawa-specific cases can't combine with *-tei* to derive nouns, because *-tei* doesn't even exist here
+* Stuff like *fuppu* is also possible
+	* *fuppu* means "actually / really / (in) fact" and modifies a phrase
