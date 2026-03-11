@@ -6428,6 +6428,10 @@
       {
         "text": "adornment",
         "frequency": 100
+      },
+      {
+        "text": "fancy",
+        "frequency": 100
       }
     ]
   },
