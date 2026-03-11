@@ -6408,6 +6408,10 @@
       {
         "text": "name-drop",
         "frequency": 100
+      },
+      {
+        "text": "entitle",
+        "frequency": 100
       }
     ]
   },
