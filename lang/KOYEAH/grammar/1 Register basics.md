@@ -101,7 +101,11 @@
 | **ri**   | `ɾi`   | Affirms and emphasises         | AFFIRM  |
 | **riyi** | `ɾiji` | -                              | AFFIRM2 |
 | **raya** | `ɾaja` | -                              | NEG2    |
+| **tohi** | `toçi` | Marks perfective aspect        | PFV     |
+| **rehi** | `ɾeçi` | Marks imperfective aspect      | IPFV    |
 * **NOTE:**
 	* use the *-ute* form of the infinitive for marked verbs, especially for modals like *subute* **(want to)**
 	* the noun marker *-o* does not strictly have to be used; it is often omitted when context or word order makes it clear
 	* in some cases, especially due to ambiguity, nominal infinitive constructions take *-o* (e.g., *payateo* -> to study / studying)
+	* gloss *tohi* and *rehi* as PFV and IPFV respectively as they are no longer considered combinations of **to / re + hi** in Koyeah Tawa
+		* they are distinct sentence-final words that mark past or future aspect
