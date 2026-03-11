@@ -12,8 +12,8 @@
 | **po**    | positioned beside or alongside a thing; being in favour or supporting                                                                    |
 | **bo**    | positioned opposite or facing something; resting against or using a thing as support; being against or acting as substitute (instead of) |
 
-### 2.2 Explanation and definition
-* In Kakatte Koyeah, many cases have multiple functions:
+## 2.2 Explanation and definition
+* In Koyeah Tawa, many cases have multiple functions:
 	* **o**
 		* direct object
 		* often left unmarked
@@ -167,3 +167,8 @@
 		* acting as substitute (instead of)
 			* we need peace instead of war
 				* *na′a anisu o ritarusumata boji shahada* -> `1PL-A need.V soft-essence CNTR-LOC war`
+
+## 2.3 Ashi Tawa case nouns
+* In Ashi Tawa, cases like *ji* combined with *tei* to form nouns such as *jitei* (place)
+* In Koyeah Tawa, this is possible, as it borrows Ashi Tawa vocabulary, even if it doesn't have *-tei*
+* Note that Koyeah Tawa-specific cases can't combine with *-tei* to derive nouns, because *-tei* doesn't even exist here
