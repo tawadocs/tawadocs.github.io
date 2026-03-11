@@ -346,5 +346,59 @@
         "frequency": 100
       }
     ]
+  },
+  {
+    "word": "haginkiswo",
+    "id": "pakala lon sijelo",
+    "definitions": [
+      {
+        "text": "tumour",
+        "frequency": 100
+      },
+      {
+        "text": "growth",
+        "frequency": 100
+      },
+      {
+        "text": "swell",
+        "frequency": 100
+      },
+      {
+        "text": "swollen",
+        "frequency": 100
+      },
+      {
+        "text": "inflammation",
+        "frequency": 100
+      },
+      {
+        "text": "lesion",
+        "frequency": 100
+      },
+      {
+        "text": "neoplasm",
+        "frequency": 100
+      },
+      {
+        "text": "boil",
+        "frequency": 100
+      },
+      {
+        "text": "lump",
+        "frequency": 100
+      },
+      {
+        "text": "swollen tissue",
+        "frequency": 100
+      },
+      {
+        "text": "corruption",
+        "frequency": 100
+      },
+      {
+        "text": "harmful growing",
+        "frequency": 100
+      }
+    ]
   }
 ]
