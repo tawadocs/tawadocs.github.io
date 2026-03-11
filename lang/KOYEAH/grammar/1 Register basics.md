@@ -53,7 +53,37 @@
 	* *Ri, ii kamo* -> `AFFIRM good food.NM`
 * Use *riyi* (AFFIRM2) or *raya* (NEG2) in noisy environments to distinguish between the two
 
-## 1.4 Particle table
+## 1.4 Infinitive
+* The infinitive *te* marks something as, well, an infinitive
+* It's uses are listed here:
+	* **purpose** (intentional infinitive)
+		* *fuyu wante paya no?* -> `what one-INF study Q`
+			* "Which one to study?"
+		* *eate kamu* -> `MOV-INF eat.V`
+			* "Go to eat"
+	* **complement of modal / auxiliary verbs**
+		* *nasute paya* -> `ability.V-INF study`
+			* "Can study"
+		* *anisute paya* -> `requirement.V-INF study`
+			* "Must study"
+		* *subute paya* -> `desire.V-INF study`
+			* "Want to study"
+	* **complement of perception / causative verbs**
+		* *kitate nirute so korunai* -> `like-INF see.V-INF 3SG.M die.V-IV`
+			* "(I would) like to see him (be) killed / die"
+		* *rute hashirusun kamu* -> `CAUS.V-INF child-1SG.POSS eat.V`
+			* "Make my child eat"
+	* **subject or object in nominal constructions**
+		* *payate ni ushikitsu* -> `study-INF TOP fun`
+			* "Studying is fun / to study is fun"
+		* *ea kamute* -> `MOV eat.V-INF`
+			* "Going to eat"
+		* *ryo ni payate* -> `DEM.MED TOP study-INF`
+			* "This is for studying"
+		* *ryo ni iite paya* -> `DEM.MED TOP good-INF study`
+			* "This is good to study"
+
+## 1.5 Particle table
 | Particle | IPA    | Function                       | Gloss   |
 | -------- | ------ | ------------------------------ | ------- |
 | **o**    | `o`    | Marks nouns                    | NM      |
@@ -67,3 +97,4 @@
 * **NOTE:**
 	* use the *-ute* form of the infinitive for marked verbs, especially for modals like *subute* **(want to)**
 	* the noun marker *-o* does not strictly have to be used; it is often omitted when context or word order makes it clear
+	* in some cases, especially due to ambiguity, nominal infinitive constructions take *-o* (e.g., *payateo* -> to study / studying)
