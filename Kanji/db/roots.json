@@ -165,7 +165,7 @@
   {
     "ID": "1773152911474",
     "Radical": "冫",
-    "Strokes": 0,
+    "Strokes": 2,
     "Alias": "ki",
     "Usage": "",
     "Definitions": [
@@ -299,8 +299,8 @@
   },
   {
     "ID": "1773190325364",
-    "Radical": "⾦",
-    "Strokes": 0,
+    "Radical": "金",
+    "Strokes": 8,
     "Alias": "kare",
     "Usage": "in compounds, the 'are' form is used (hwaregimi).",
     "Definitions": [
@@ -316,6 +316,89 @@
     "Readings": {
       "Romaji": "kane",
       "Japanese": "かね"
+    }
+  },
+  {
+    "ID": "1773190762462",
+    "Radical": "中",
+    "Strokes": 4,
+    "Alias": "re",
+    "Usage": "",
+    "Definitions": [
+      "middle",
+      "inner",
+      "containment",
+      "within",
+      "inside",
+      "middle level (e.g.",
+      "middle school)",
+      "average",
+      "within (a group)",
+      "inner feeling (in this world)"
+    ],
+    "Readings": {
+      "Romaji": "naka",
+      "Japanese": "なか"
+    }
+  },
+  {
+    "ID": "1773190926129",
+    "Radical": "身",
+    "Strokes": 7,
+    "Alias": "uru",
+    "Usage": "",
+    "Definitions": [
+      "body",
+      "meat",
+      "physique",
+      "corpse",
+      "person"
+    ],
+    "Readings": {
+      "Romaji": "mi",
+      "Japanese": "み"
+    }
+  },
+  {
+    "ID": "1773191086938",
+    "Radical": "⾥",
+    "Strokes": 7,
+    "Alias": "iki",
+    "Usage": "",
+    "Definitions": [
+      "village",
+      "mile",
+      "hamlet",
+      "countryside",
+      "home"
+    ],
+    "Readings": {
+      "Romaji": "sato",
+      "Japanese": "さと"
+    }
+  },
+  {
+    "ID": "1773191516554",
+    "Radical": "皮",
+    "Strokes": 0,
+    "Alias": "awa",
+    "Usage": "it open appears in the -w- form and changes the vowel in front of it to an 'a' (e.g., in re+awa+uru+iki (rewaruiki), the uru changes to aru)",
+    "Definitions": [
+      "skin",
+      "hide",
+      "pelt",
+      "fur",
+      "surface",
+      "peel",
+      "bark",
+      "rind",
+      "wrapping",
+      "sheath",
+      "covering"
+    ],
+    "Readings": {
+      "Romaji": "kawa",
+      "Japanese": "かわ"
     }
   }
 ]

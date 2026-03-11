@@ -332,5 +332,19 @@
         "frequency": 100
       }
     ]
+  },
+  {
+    "word": "rewaruiki",
+    "id": "tame pi len sijelo",
+    "definitions": [
+      {
+        "text": "skin cancer",
+        "frequency": 100
+      },
+      {
+        "text": "mesothelioma",
+        "frequency": 100
+      }
+    ]
   }
 ]
