@@ -658,6 +658,13 @@
 		* "(I) love you, (really, you know?)"
 	* if anything apart from applicable and compatible moods (e.g., **ana, sai**) comes after *ni*, then the grammar could or would break
 
-## 0.25 Dictionary inaccuracies
+## 0.25 Some cultural notes
+* Note that you should use the formal *hyo* and *hya* particles when asking strangers or anyone you don't know well
+	* it is generally rude to use *no?*
+* *ni* is not generally used by men at the end of sentences
+	* men would generally prefer *ana* or *sai*
+	* using *ni* can be derogatory if done by a man
+
+## 0.26 Dictionary inaccuracies
 * some sentence examples in the dictionary's semantic space may be incorrect
 * if unsure, try to reconstruct them yourself or translate them from Japanese, since Tawa is closer to Japanese than it is to most other languages
