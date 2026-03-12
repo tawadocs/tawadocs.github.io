@@ -46,10 +46,9 @@
 			* e.g., you'd say *ieiite kamu* -> `AUG-good-INF eat.V`
 				* "better to eat"
 				* ~"I should eat"
-			* or use *monohi*:
+			* or use *monohi* / *momppu*:
 				* *kamu monohi* -> `eat.V possible-BACK`
-		* cases or other particles can specify the type of context (no **zhi/shi** distinction)
-			* do note that the entire relationship system, apart from **zhi**, is intact (e.g., **ze**, **ho**, etc.)
+		* cases or other particles can specify the type of context
 
 ## 4.3 Ashi Tawa phonological complexity
 * There is no vowel devoicing in Koyeah Tawa, so:
@@ -62,14 +61,9 @@
 	* *itsukoo* -> *itsuko*
 * Though many simple rules, such as *n* -> *m* before bilabials or *n* -> *ŋ* before velars apply.
 
-## 4.4 Usage of **shi**
-* In Koyeah Tawa, **shi** adds context and does not necessarily only function as a conditional:
-	* *Hateru shi soa yaranai tohi* -> `run.V CTXT 3SG.M-A come IV PFV-BACK`
-		* ~"(I) ran when he came"
-	* *Hateru shi soa yaranai monotohi* -> `run.V CTXT 3SG.M-A come-IV possible-PFV-BACK`
-		* "(I) would run if he (were to) came"
-	* *Kamu shi sa′a fofen ni kiwinq rehi* -> `eat.V CTXT 3SG.F-A speak.NMLZ TOP continue-INV IPFV-BACK`
-		* "(I) will eat if she shuts up"
+## 4.4 Usage of **shi** and **zhi**
+* It is the same as Ashi Tawa
+* Forms like *zhista*, *zhinyi*, are also present and fine to use
 
 ## 4.5 Social grammar
 * Koyeah Tawa still has *iku* or *hon'iku* as an honourific

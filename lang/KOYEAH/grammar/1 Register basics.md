@@ -89,6 +89,8 @@
 			* "Easy to eat"
 		* *iite fu* -> `good-INF ACT`
 			* "Good to do"
+		* *ji narana no wanote nuko o kanatanqo, watada yaranai ji su* -> `LOC secret GEN time-INF heart ACC happy-INV-NM secret only come-IV LOC 1SG`
+			* "In times of uncertainty, when you feel sad, just come to me"
 
 ## 1.5 Particle table
 | Particle | IPA    | Function                       | Gloss   |
@@ -105,6 +107,7 @@
 | **rehi** | `ɾeçi` | Marks imperfective aspect      | IPFV    |
 * **NOTE:**
 	* use the *-ute* form of the infinitive for marked verbs, especially for modals like *subute* **(want to)**
+		* if another particle must come after the verb, like a negator, then *suburate* **((do / did) not want to)** is fine
 	* the noun marker *-o* does not strictly have to be used; it is often omitted when context or word order makes it clear
 	* in some cases, especially due to ambiguity, nominal infinitive constructions take *-o* (e.g., *payateo* -> to study / studying)
 	* gloss *tohi* and *rehi* as PFV and IPFV respectively as they are no longer considered combinations of **to / re + hi** in Koyeah Tawa
