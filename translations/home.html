@@ -1,0 +1,390 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>ii miri Tawa | MAINTENANCE</title>
+        <link
+            href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&family=Plus+Jakarta+Sans:wght@200;300;400;600;800&family=Space+Grotesk:wght@300;500&display=swap"
+            rel="stylesheet"
+        />
+        <style>
+            :root {
+                --bg: #030305;
+                --accent: #a78bfa;
+                --accent-soft: rgba(167, 139, 250, 0.2);
+                --glass: rgba(255, 255, 255, 0.02);
+                --glass-border: rgba(255, 255, 255, 0.08);
+                --text-tawa: #ffffff;
+                --text-eng: #94a3b8;
+                --seed-core: #ffffff;
+                --seed-glow: #c084fc;
+            }
+
+            * {
+                box-sizing: border-box;
+                margin: 0;
+                padding: 0;
+            }
+
+            body {
+                background-color: var(--bg);
+                color: var(--text-tawa);
+                font-family: "Plus Jakarta Sans", sans-serif;
+                height: 100vh;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                overflow: hidden;
+                perspective: 1200px;
+            }
+
+            /* --- CELESTIAL OVERLAY (The "Cookie" Evolution) --- */
+            #overlay {
+                position: fixed;
+                inset: 0;
+                background: radial-gradient(
+                    circle at center,
+                    #0a0a12 0%,
+                    #000 100%
+                );
+                z-index: 1000;
+                display: flex;
+                flex-direction: column;
+                justify-content: center;
+                align-items: center;
+                transition:
+                    transform 1.8s cubic-bezier(0.85, 0, 0.15, 1),
+                    opacity 1.5s ease,
+                    visibility 1.5s;
+                cursor: pointer;
+            }
+
+            .seed-container {
+                position: relative;
+                width: 300px;
+                height: 300px;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+            }
+
+            /* The Pulsing Orb */
+            .celestial-seed {
+                width: 80px;
+                height: 80px;
+                background: var(--seed-core);
+                border-radius: 50%;
+                position: relative;
+                z-index: 10;
+                box-shadow:
+                    0 0 40px var(--seed-glow),
+                    0 0 100px var(--accent-soft),
+                    inset -10px -10px 20px var(--accent);
+                animation: seed-pulse 4s ease-in-out infinite;
+                transition: all 0.6s cubic-bezier(0.2, 1, 0.3, 1);
+            }
+
+            /* Rotating Gravity Rings */
+            .gravity-ring {
+                position: absolute;
+                border: 1px solid var(--accent-soft);
+                border-radius: 50%;
+                transition: all 0.8s cubic-bezier(0.2, 1, 0.3, 1);
+            }
+
+            .ring-1 {
+                width: 120px;
+                height: 120px;
+                animation: spin 10s linear infinite;
+                border-style: solid;
+                opacity: 0.6;
+            }
+            .ring-2 {
+                width: 180px;
+                height: 180px;
+                animation: spin 15s linear infinite reverse;
+                border-style: dashed;
+                opacity: 0.3;
+            }
+            .ring-3 {
+                width: 260px;
+                height: 260px;
+                animation: spin 25s linear infinite;
+                border-style: double;
+                opacity: 0.1;
+            }
+
+            /* Interactive States */
+            #overlay:hover .celestial-seed {
+                transform: scale(1.4);
+                box-shadow:
+                    0 0 60px #fff,
+                    0 0 120px var(--seed-glow),
+                    0 0 200px var(--accent-soft);
+            }
+
+            #overlay:hover .ring-1 {
+                width: 150px;
+                height: 150px;
+                opacity: 0.8;
+                border-color: var(--accent);
+            }
+            #overlay:hover .ring-2 {
+                width: 220px;
+                height: 220px;
+                opacity: 0.5;
+            }
+            #overlay:hover .ring-3 {
+                width: 320px;
+                height: 320px;
+                opacity: 0.2;
+            }
+
+            .seed-prompt {
+                margin-top: 40px;
+                font-family: "Cinzel", serif;
+                font-size: 0.7rem;
+                letter-spacing: 12px;
+                color: var(--accent);
+                text-transform: uppercase;
+                opacity: 0.4;
+                transition: all 0.6s ease;
+            }
+
+            #overlay:hover .seed-prompt {
+                opacity: 1;
+                letter-spacing: 18px;
+                transform: translateY(10px);
+                text-shadow: 0 0 10px var(--accent);
+            }
+
+            /* Animations */
+            @keyframes seed-pulse {
+                0%,
+                100% {
+                    transform: scale(1);
+                    filter: brightness(1);
+                }
+                50% {
+                    transform: scale(1.05);
+                    filter: brightness(1.2);
+                }
+            }
+
+            @keyframes spin {
+                from {
+                    transform: rotate(0deg);
+                }
+                to {
+                    transform: rotate(360deg);
+                }
+            }
+
+            /* --- CONTENT STYLES --- */
+            .aurora-bg {
+                position: absolute;
+                inset: 0;
+                z-index: 0;
+                background:
+                    radial-gradient(
+                        circle at 20% 30%,
+                        #1e1b4b 0%,
+                        transparent 40%
+                    ),
+                    radial-gradient(
+                        circle at 80% 70%,
+                        #2e1065 0%,
+                        transparent 40%
+                    ),
+                    #030305;
+                filter: blur(80px);
+                opacity: 0.6;
+                animation: aurora-drift 20s ease-in-out infinite alternate;
+            }
+
+            @keyframes aurora-drift {
+                0% {
+                    transform: scale(1) translate(0, 0);
+                }
+                100% {
+                    transform: scale(1.1) translate(2%, 2%);
+                }
+            }
+
+            .viewport {
+                position: relative;
+                z-index: 10;
+                width: 90%;
+                max-width: 900px;
+                opacity: 0;
+                transform: scale(0.8) translateY(40px);
+                transition: all 2s cubic-bezier(0.16, 1, 0.3, 1);
+            }
+
+            .glass-card {
+                background: var(--glass);
+                backdrop-filter: blur(40px);
+                -webkit-backdrop-filter: blur(40px);
+                border: 1px solid var(--glass-border);
+                border-radius: 40px;
+                padding: 4rem;
+                box-shadow: 0 40px 100px rgba(0, 0, 0, 0.6);
+                text-align: center;
+            }
+
+            .brand-mark {
+                font-family: "Cinzel", serif;
+                font-size: 0.8rem;
+                letter-spacing: 8px;
+                color: var(--accent);
+                margin-bottom: 3rem;
+                opacity: 0.8;
+            }
+
+            .tawa-text {
+                font-family: "Space Grotesk", sans-serif;
+                font-size: clamp(1.4rem, 4vw, 2rem);
+                font-weight: 500;
+                margin-bottom: 0.5rem;
+                background: linear-gradient(to bottom, #fff, #cbd5e1);
+                -webkit-background-clip: text;
+                -webkit-text-fill-color: transparent;
+            }
+
+            .eng-text {
+                font-size: 1rem;
+                font-weight: 300;
+                color: var(--text-eng);
+                font-style: italic;
+            }
+
+            .divider {
+                width: 40px;
+                height: 1px;
+                background: var(--accent);
+                margin: 1.5rem auto;
+                opacity: 0.4;
+            }
+
+            .footer-note {
+                margin-top: 2rem;
+                font-size: 0.75rem;
+                text-transform: uppercase;
+                letter-spacing: 3px;
+                color: var(--accent);
+                animation: pulse 3s ease-in-out infinite;
+            }
+
+            @keyframes pulse {
+                0%,
+                100% {
+                    opacity: 0.4;
+                }
+                50% {
+                    opacity: 1;
+                }
+            }
+
+            /* Triggered State */
+            .active #overlay {
+                opacity: 0;
+                visibility: hidden;
+                transform: scale(4);
+            }
+            .active .viewport {
+                opacity: 1;
+                transform: scale(1) translateY(0);
+            }
+
+            #stars {
+                position: absolute;
+                inset: 0;
+                z-index: 1;
+                pointer-events: none;
+            }
+        </style>
+    </head>
+    <body>
+        <audio id="bg-audio" loop>
+            <source src="../assets/jeopardy.mp3" type="audio/mpeg" />
+        </audio>
+
+        <div id="overlay" onclick="start()">
+            <div class="seed-container">
+                <div class="gravity-ring ring-1"></div>
+                <div class="gravity-ring ring-2"></div>
+                <div class="gravity-ring ring-3"></div>
+                <div class="celestial-seed"></div>
+            </div>
+            <div class="seed-prompt">HEY! CLICK ANYWHERE.</div>
+        </div>
+
+        <div class="aurora-bg"></div>
+        <canvas id="stars"></canvas>
+
+        <div class="viewport">
+            <div class="glass-card">
+                <div class="brand-mark">WAIT</div>
+                <div class="translation-block">
+                    <h2 class="tawa-text">
+                        COMING SOON
+                    </h2>
+                </div>
+            </div>
+        </div>
+
+        <script>
+            function start() {
+                document.body.classList.add("active");
+                const audio = document.getElementById("bg-audio");
+                if (audio) {
+                    audio.volume = 0.5;
+                    audio
+                        .play()
+                        .catch(() => console.log("Audio needs interaction"));
+                }
+                initCanvas();
+            }
+
+            function initCanvas() {
+                const canvas = document.getElementById("stars");
+                const ctx = canvas.getContext("2d");
+                let w,
+                    h,
+                    particles = [];
+
+                function setSize() {
+                    w = canvas.width = window.innerWidth;
+                    h = canvas.height = window.innerHeight;
+                }
+                window.addEventListener("resize", setSize);
+                setSize();
+
+                for (let i = 0; i < 150; i++) {
+                    particles.push({
+                        x: Math.random() * w,
+                        y: Math.random() * h,
+                        r: Math.random() * 1.5 + 0.2,
+                        v: Math.random() * 0.3 + 0.1,
+                        o: Math.random(),
+                    });
+                }
+
+                function draw() {
+                    ctx.clearRect(0, 0, w, h);
+                    particles.forEach((p) => {
+                        ctx.beginPath();
+                        ctx.arc(p.x, p.y, p.r, 0, Math.PI * 2);
+                        ctx.fillStyle = `rgba(167, 139, 250, ${p.o})`;
+                        ctx.fill();
+                        p.y -= p.v;
+                        if (p.y < -10) p.y = h + 10;
+                    });
+                    requestAnimationFrame(draw);
+                }
+                draw();
+            }
+        </script>
+    </body>
+</html>
