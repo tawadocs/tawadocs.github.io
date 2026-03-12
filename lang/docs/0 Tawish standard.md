@@ -659,11 +659,43 @@
 	* if anything apart from applicable and compatible moods (e.g., **ana, sai**) comes after *ni*, then the grammar could or would break
 
 ## 0.25 Some cultural notes
-* Note that you should use the formal *hyo* and *hya* particles when asking strangers or anyone you don't know well
-	* it is generally rude to use *no?*
-* *ni* is not generally used by men at the end of sentences
-	* men would generally prefer *ana* or *sai*
-	* using *ni* can be derogatory if done by a man
+### 0.25.1 Mood
+* use the formal *hyo* and *hya* particles when asking strangers or anyone you don't know well
+	* it is generally rude to use *no?* like that
+* using the *ake* imperative (sentence-initial) is very rude
+	* the *aiko* (sentence-final) form is used, especially for strangers
+
+### 0.25.2 Genderlectical particles
+* *ni* is not used by men at the end of sentences
+	* men would use *ana*
+	* using *ni* is highly derogatory, especially towards women, if done by a man
+* men use the *anafuka* (`AFFEC-REQ`) construction for intimate or personal requests, whereas women use *sai* (`AFFEC.REQ`)
+	* a man's usage of *sai* is (quite) creepy
+
+### 0.25.3 Certain words
+* words like *maku* and *esace* are severe and induce shock
+* always use the diminutive forms (*makusta* and *esacesta* respectively) for general, everyday usage, like 'cry' or 'bleed / hurt'
+* in their base form:
+	* *maku* is weeping from severe, heartwrenching, gut-twisting sorrow
+	* *esace* encodes the feeling of twisting one's balls 360 degrees and then again 2 times
+* also, non-shock words like *kowaisoho* are to be used carefully
+	* *kowaisoho* means "snake" and it is fine to use it for snakes
+	* but using it for food is a direct and derogatory insult to the maker of the food or the food itself
+		* in Tawa, food is highly respected, as it is what keeps you alive
+	* if you are served food that looks long, calling it *kowaisohã* is like calling it a 'turd'
+		* this would hurt the feelings of the maker and would be like screaming every ethnic slur in a group of ethnically diverse individuals if others hear you
+
+### 0.25.4 Romantic-platonic distinctions
+* in Ashi Tawa, *-(r)u* is often used as a general verb
+* it has kind of lost some nuance, so if you say *-(r)u* for anything non-romantic, that's fine
+* for genuine romantic verbs, though, like *love*, you must use **nyu**
+	* this is non-negotiable
+	* when you mean something as romantic, mark that root, verb or noun or not, as romantic
+* however, referring to or using romantic verbs or nouns for something that isn't romantic is either creepy, perverted, or crass, or rude:
+	* using *kamnyu* for eating an apple is perverted and gross
+	* using *kitanyu* for a friend is rude and also could even hurt their feelings (if you aren't romantically involved)
+		* apart from being rude, this is also a major lie
+		* if not romantically involved, the person who said *kitanyu* will be viewed as perverted or a liar, or worse, both
 
 ## 0.26 Dictionary inaccuracies
 * some sentence examples in the dictionary's semantic space may be incorrect

@@ -70,3 +70,11 @@
 		* "(I) would run if he (were to) came"
 	* *Kamu shi sa′a fofen ni kiwinq rehi* -> `eat.V CTXT 3SG.F-A speak.NMLZ TOP continue-INV IPFV-BACK`
 		* "(I) will eat if she shuts up"
+
+## 4.5 Social grammar
+* Koyeah Tawa still has *iku* or *hon'iku* as an honourific
+* It also inherits most of the social rules of Ashi Tawa, minus the romantic-platonic nuances
+* So saying *mamaferenyi* to a friend would have a similar hurt to saying *mamamafere* or just *mamafere* to a friend
+	* p.s. *mamaferenyi* can best be described as the force felt at a blackhole's event horison, only multiplied by one googol
+	* you can only use it to refer to irreversible, ultimate commitments - and even then, it is a heavy, heavy word
+	* saying it to a friend is like saying *"I have no boundaries with you, you are now permanently a part of my inescapable gravity"*
