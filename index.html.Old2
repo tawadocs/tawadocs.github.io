@@ -1,0 +1,338 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>ii miri Tawa | Home</title>
+        <link
+            href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;600;800&display=swap"
+            rel="stylesheet"
+        />
+        <style>
+            :root {
+                --bg: #120810; 
+                --sidebar-bg: rgba(25, 10, 20, 0.9);
+                --card-bg: rgba(255, 192, 203, 0.05);
+                --card-border: rgba(255, 182, 193, 0.2);
+                --accent: #ffb7c5;
+                --accent-hot: #ff4d7d;
+                --accent-glow: rgba(255, 133, 162, 0.3);
+                --text-main: #fff0f3;
+                --text-dim: #ffc0cb;
+                --sidebar-width: 260px;
+            }
+
+            * { 
+                cursor: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" style="fill:%23ffb7c5"><circle cx="8" cy="8" r="4"/></svg>'), auto; 
+                box-sizing: border-box;
+            }
+
+            body {
+                background: var(--bg);
+                background-image:
+                    radial-gradient(circle at 50% -10%, rgba(255, 105, 180, 0.15) 0%, transparent 50%),
+                    radial-gradient(circle at 0% 100%, rgba(255, 182, 193, 0.1) 0%, transparent 40%);
+                background-attachment: fixed;
+                color: var(--text-main);
+                font-family: "Plus Jakarta Sans", sans-serif;
+                margin: 0;
+                display: flex;
+                min-height: 100vh;
+            }
+
+            /* --- Sidebar --- */
+            .sidebar {
+                width: var(--sidebar-width);
+                background: var(--sidebar-bg);
+                backdrop-filter: blur(40px);
+                -webkit-backdrop-filter: blur(40px);
+                border-right: 1px solid var(--card-border);
+                height: 100vh;
+                position: fixed;
+                display: flex;
+                flex-direction: column;
+                padding: 3rem 1.5rem;
+                z-index: 1000;
+            }
+
+            .sidebar-title {
+                font-size: 1.4rem;
+                font-weight: 800;
+                margin-bottom: 3rem;
+                color: white;
+                text-align: center;
+                letter-spacing: -0.02em;
+            }
+
+            .nav-btn {
+                background: transparent;
+                border: none;
+                color: var(--text-dim);
+                padding: 1rem 1.5rem;
+                border-radius: 15px;
+                font-weight: 700;
+                text-align: left;
+                margin-bottom: 0.8rem;
+                transition: 0.3s all ease;
+                font-size: 0.95rem;
+            }
+
+            .nav-btn:hover {
+                background: rgba(255, 255, 255, 0.05);
+                color: white;
+                padding-left: 1.8rem;
+            }
+
+            .nav-btn.active {
+                background: var(--accent);
+                color: var(--bg);
+                box-shadow: 0 8px 20px var(--accent-glow);
+            }
+
+            /* --- Main --- */
+            .main-content {
+                margin-left: var(--sidebar-width);
+                flex: 1;
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                padding: 5rem 2rem;
+            }
+
+            .hero {
+                text-align: center;
+                margin-bottom: 6rem;
+            }
+
+            h1 {
+                font-size: clamp(3rem, 7vw, 5rem);
+                font-weight: 800;
+                margin: 0;
+                background: linear-gradient(180deg, #fff, var(--accent));
+                -webkit-background-clip: text;
+                -webkit-text-fill-color: transparent;
+                filter: drop-shadow(0 0 15px var(--accent-glow));
+            }
+
+            .hero p {
+                color: var(--text-dim);
+                font-size: 1.2rem;
+                margin-top: 0.5rem;
+            }
+
+            .grid-wrapper {
+                width: 100%;
+                max-width: 850px;
+                display: flex;
+                flex-direction: column;
+                gap: 5rem;
+            }
+
+            .section-label {
+                font-size: 0.8rem;
+                font-weight: 800;
+                text-transform: uppercase;
+                letter-spacing: 0.2em;
+                color: var(--accent-hot);
+                margin-bottom: 1.5rem;
+            }
+
+            .grid {
+                display: grid;
+                grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+                gap: 1.5rem;
+                perspective: 1200px;
+            }
+
+            /* --- Card Logic --- */
+            .card {
+                background: var(--card-bg);
+                backdrop-filter: blur(20px);
+                border: 1px solid var(--card-border);
+                border-radius: 30px;
+                padding: 2.5rem;
+                text-decoration: none;
+                color: white;
+                position: relative;
+                display: flex;
+                flex-direction: column;
+                transition: transform 0.6s cubic-bezier(0.23, 1, 0.32, 1), 
+                            box-shadow 0.3s ease, 
+                            border-color 0.3s ease,
+                            background 0.3s ease;
+                transform-style: preserve-3d;
+            }
+
+            .card:hover {
+                transform: translateY(-8px);
+                border-color: rgba(255, 255, 255, 0.4);
+                background: rgba(255, 255, 255, 0.08);
+                box-shadow: 0 20px 40px rgba(0,0,0,0.3);
+            }
+
+            .card h2 { margin: 0 0 8px; font-size: 1.4rem; }
+            .card p { margin: 0; color: var(--text-dim); font-size: 0.95rem; line-height: 1.5; }
+
+            .badge {
+                position: absolute;
+                top: 15px;
+                right: 15px;
+                background: #ffecf0;
+                color: #ff4d7d;
+                font-size: 10px;
+                font-weight: 900;
+                padding: 4px 10px;
+                border-radius: 10px;
+                border: 1.5px solid #ff4d7d;
+                transition: opacity 0.3s ease, transform 0.3s ease;
+            }
+
+            /* --- Animation Classes --- */
+            .flipping {
+                transform: rotateY(90deg) scale(0.95) !important;
+            }
+
+            .koyeah-mode {
+                border-color: var(--accent-hot) !important;
+                background: rgba(255, 77, 125, 0.1) !important;
+                box-shadow: 0 0 30px var(--accent-glow) !important;
+            }
+
+            .koyeah-mode .badge {
+                background: var(--accent-hot) !important;
+                color: white !important;
+                border-color: white !important;
+            }
+        </style>
+    </head>
+    <body>
+
+        <nav class="sidebar">
+            <div class="sidebar-title">ii miri Tawa</div>
+            <button id="btn-ashi" class="nav-btn active">Ashi Tawa</button>
+            <button id="btn-koyeah" class="nav-btn">Koyeah Tawa</button>
+        </nav>
+
+        <div class="main-content">
+            <div class="hero">
+                <h1>ii miri Tawa</h1>
+                <p>The good medium for progressing.</p>
+            </div>
+
+            <div class="grid-wrapper">
+                <section>
+                    <div class="section-label">Core lexicon</div>
+                    <div class="grid">
+                        <a href="public/dictionary" class="card">
+                            <h2>Kana ribu</h2>
+                            <p>Core Lexicon</p>
+                        </a>
+                        <a href="Kanji/kanji" class="card">
+                            <h2>Tawa no Kanji</h2>
+                            <p>Core Tawish Kanji</p>
+                        </a>
+                    </div>
+                </section>
+
+                <section>
+                    <div class="section-label">Extended lexicon</div>
+                    <div class="grid">
+                        <a href="public/extended" class="card">
+                            <h2>Kanaitsukoã ribu</h2>
+                            <p>Extended Lexicon</p>
+                        </a>
+                        <a href="public/kanjibase" class="card">
+                            <h2>Tawa no Kanji no Ribu</h2>
+                            <p>Base kanji dictionary</p>
+                        </a>
+                    </div>
+                </section>
+
+                <section>
+                    <div class="section-label">Idioms</div>
+                    <div class="grid">
+                        <a href="public/idioms" class="card">
+                            <div class="badge">NEW</div>
+                            <h2>Fofoqeteilós</h2>
+                            <p>Idioms or phrases</p>
+                        </a>
+                    </div>
+                </section>
+
+                <section id="tech-section">
+                    <div class="section-label">Technical References</div>
+                    <div class="grid">
+                        <a href="public/grammar" id="card-grammar" class="card">
+                            <h2>Gana ribu</h2>
+                            <p>Grammar Reference</p>
+                        </a>
+                        <a href="public/mprf" id="card-mprf" class="card">
+                            <h2>Tawa no iyuklú ẽ pamya</h2>
+                            <p>Morphophonology Reference</p>
+                        </a>
+                        <a href="public/orthography" class="card">
+                            <h2>Pamya Tawaji</h2>
+                            <p>Orthography Reference</p>
+                        </a>
+                    </div>
+                </section>
+            </div>
+        </div>
+
+        <script>
+            const btnAshi = document.getElementById('btn-ashi');
+            const btnKoyeah = document.getElementById('btn-koyeah');
+            const cardGrammar = document.getElementById('card-grammar');
+            const cardMprf = document.getElementById('card-mprf');
+            const techSection = document.getElementById('tech-section');
+
+            function updateUI(mode) {
+                const isKoyeah = mode === 'koyeah';
+                
+                btnAshi.classList.toggle('active', !isKoyeah);
+                btnKoyeah.classList.toggle('active', isKoyeah);
+
+                const targets = [cardGrammar, cardMprf];
+
+                targets.forEach(card => {
+                    card.classList.add('flipping');
+
+                    setTimeout(() => {
+                        let badge = card.querySelector('.badge');
+
+                        if (isKoyeah) {
+                            card.classList.add('koyeah-mode');
+                            card.href = card.id.includes('grammar') ? 'public/grammarkoyeah' : 'public/mprfkoyeah';
+                            
+                            // If badge doesn't exist, create it!
+                            if (!badge) {
+                                badge = document.createElement('div');
+                                badge.className = 'badge';
+                                card.appendChild(badge);
+                            }
+                            badge.textContent = 'KOYEAH';
+                        } else {
+                            card.classList.remove('koyeah-mode');
+                            card.href = card.id.includes('grammar') ? 'public/grammar' : 'public/mprf';
+                            
+                            if (badge && badge.textContent === 'KOYEAH') {
+                                badge.remove();
+                            }
+                        }
+                        
+                        card.classList.remove('flipping');
+                    }, 300);
+                });
+
+                if (isKoyeah) {
+                    setTimeout(() => {
+                        techSection.scrollIntoView({ behavior: 'smooth', block: 'center' });
+                    }, 400);
+                }
+            }
+
+            btnAshi.addEventListener('click', () => updateUI('ashi'));
+            btnKoyeah.addEventListener('click', () => updateUI('koyeah'));
+        </script>
+    </body>
+</html>

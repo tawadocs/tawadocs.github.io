@@ -1,338 +1,559 @@
 <!doctype html>
 <html lang="en">
-    <head>
-        <meta charset="UTF-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <title>ii miri Tawa | Home</title>
-        <link
-            href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;600;800&display=swap"
-            rel="stylesheet"
-        />
-        <style>
-            :root {
-                --bg: #120810; 
-                --sidebar-bg: rgba(25, 10, 20, 0.9);
-                --card-bg: rgba(255, 192, 203, 0.05);
-                --card-border: rgba(255, 182, 193, 0.2);
-                --accent: #ffb7c5;
-                --accent-hot: #ff4d7d;
-                --accent-glow: rgba(255, 133, 162, 0.3);
-                --text-main: #fff0f3;
-                --text-dim: #ffc0cb;
-                --sidebar-width: 260px;
-            }
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>ii miri Tawa | Home</title>
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;800&display=swap" rel="stylesheet" />
+    <style>
+        :root {
+            --bg-base: #000000;
+            --bg-surface: rgba(255, 182, 193, 0.03);
+            --bg-surface-hover: rgba(255, 182, 193, 0.08);
+            --border-subtle: rgba(255, 182, 193, 0.1);
+            --border-focus: rgba(255, 182, 193, 0.3);
+            --text-primary: #ffffff;
+            --text-secondary: #ffb7c5;
+            --text-muted: rgba(255, 182, 193, 0.6);
+            --accent-soft: #ffb7c5;
+            --accent-hot: #f57a9a;
+            --sidebar-width: 280px;
+            --topbar-height: 80px;
+            --radius-lg: 24px;
+            --radius-md: 16px;
+            --radius-sm: 8px;
+            --transition: 0.5s cubic-bezier(0.16, 1, 0.3, 1);
+        }
 
-            * { 
-                cursor: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" style="fill:%23ffb7c5"><circle cx="8" cy="8" r="4"/></svg>'), auto; 
-                box-sizing: border-box;
-            }
+        body {
+            margin: 0;
+            background-color: var(--bg-base);
+            color: var(--text-primary);
+            font-family: "Plus Jakarta Sans", sans-serif;
+            display: flex;
+            min-height: 100vh;
+            overflow-x: hidden;
+        }
 
-            body {
-                background: var(--bg);
-                background-image:
-                    radial-gradient(circle at 50% -10%, rgba(255, 105, 180, 0.15) 0%, transparent 50%),
-                    radial-gradient(circle at 0% 100%, rgba(255, 182, 193, 0.1) 0%, transparent 40%);
-                background-attachment: fixed;
-                color: var(--text-main);
-                font-family: "Plus Jakarta Sans", sans-serif;
-                margin: 0;
-                display: flex;
-                min-height: 100vh;
-            }
+        /* --- Splash Screen --- */
+        #splash-screen {
+            position: fixed;
+            inset: 0;
+            background: var(--bg-base);
+            z-index: 9999;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            transition: opacity 0.8s ease, visibility 0.8s;
+            cursor: pointer;
+        }
+        #splash-screen.hidden {
+            opacity: 0;
+            visibility: hidden;
+            pointer-events: none;
+        }
+        .splash-content {
+            text-align: center;
+            animation: pulse 2s infinite ease-in-out;
+            pointer-events: none;
+        }
+        .enter-btn {
+            background: transparent;
+            border: 1px solid var(--accent-hot);
+            color: var(--accent-hot);
+            padding: 1rem 2.5rem;
+            border-radius: 50px;
+            font-family: inherit;
+            font-weight: 800;
+            letter-spacing: 0.2em;
+            margin-top: 2rem;
+            transition: all 0.3s ease;
+        }
 
-            /* --- Sidebar --- */
-            .sidebar {
-                width: var(--sidebar-width);
-                background: var(--sidebar-bg);
-                backdrop-filter: blur(40px);
-                -webkit-backdrop-filter: blur(40px);
-                border-right: 1px solid var(--card-border);
-                height: 100vh;
-                position: fixed;
-                display: flex;
-                flex-direction: column;
-                padding: 3rem 1.5rem;
-                z-index: 1000;
-            }
+        /* --- Ambient Background --- */
+        .ambient-bg {
+            position: fixed;
+            top: 0; left: 0; width: 100vw; height: 100vh;
+            pointer-events: none;
+            z-index: -1;
+            background: 
+                radial-gradient(circle at 15% 50%, rgba(255, 77, 125, 0.08) 0%, transparent 40%),
+                radial-gradient(circle at 85% 30%, rgba(255, 183, 197, 0.05) 0%, transparent 50%);
+            filter: blur(60px);
+            transition: filter 1s ease;
+        }
 
-            .sidebar-title {
-                font-size: 1.4rem;
-                font-weight: 800;
-                margin-bottom: 3rem;
-                color: white;
-                text-align: center;
-                letter-spacing: -0.02em;
-            }
+        /* --- Sidebar --- */
+        .sidebar {
+            width: var(--sidebar-width);
+            background: rgba(10, 5, 8, 0.6);
+            backdrop-filter: blur(20px);
+            -webkit-backdrop-filter: blur(20px);
+            border-right: 1px solid var(--border-subtle);
+            display: flex;
+            flex-direction: column;
+            padding: 2rem 1.5rem;
+            position: fixed;
+            height: 100vh;
+            box-sizing: border-box;
+            z-index: 100;
+        }
+        .brand {
+            font-size: 1.5rem;
+            font-weight: 800;
+            margin-bottom: 3rem;
+            color: var(--text-primary);
+            letter-spacing: -0.03em;
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+        .brand::before {
+            content: '';
+            display: block;
+            width: 12px;
+            height: 12px;
+            background: var(--accent-hot);
+            border-radius: 50%;
+            box-shadow: 0 0 15px var(--accent-hot);
+        }
+        .nav-section-title {
+            font-size: 0.75rem;
+            text-transform: uppercase;
+            letter-spacing: 0.15em;
+            color: var(--text-muted);
+            margin: 1.5rem 0 0.75rem 0.5rem;
+            font-weight: 600;
+        }
+        .sidebar-link {
+            text-decoration: none;
+            color: var(--text-secondary);
+            padding: 0.85rem 1rem;
+            border-radius: var(--radius-sm);
+            font-size: 0.95rem;
+            font-weight: 500;
+            transition: var(--transition);
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+        .sidebar-link:hover {
+            background: var(--bg-surface-hover);
+            color: var(--text-primary);
+            transform: translateX(4px);
+        }
+        .sidebar-link.highlight-koyeah {
+            background: rgba(255, 77, 125, 0.15);
+            color: var(--text-primary);
+            border-left: 3px solid var(--accent-hot);
+            box-shadow: inset 20px 0 30px -20px rgba(255, 77, 125, 0.3);
+        }
 
-            .nav-btn {
-                background: transparent;
-                border: none;
-                color: var(--text-dim);
-                padding: 1rem 1.5rem;
-                border-radius: 15px;
-                font-weight: 700;
-                text-align: left;
-                margin-bottom: 0.8rem;
-                transition: 0.3s all ease;
-                font-size: 0.95rem;
-            }
+        /* --- Main Wrapper --- */
+        .main-wrapper {
+            margin-left: var(--sidebar-width);
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            min-height: 100vh;
+        }
+        .topbar {
+            height: var(--topbar-height);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 0 3rem;
+            background: rgba(10, 5, 8, 0.4);
+            backdrop-filter: blur(15px);
+            border-bottom: 1px solid var(--border-subtle);
+            position: sticky;
+            top: 0;
+            z-index: 50;
+        }
+        .tab-container {
+            display: flex;
+            gap: 0.5rem;
+            background: var(--bg-surface);
+            padding: 0.5rem;
+            border-radius: var(--radius-md);
+            border: 1px solid var(--border-subtle);
+        }
+        .tab-btn {
+            background: transparent;
+            border: none;
+            color: var(--text-secondary);
+            padding: 0.75rem 1.5rem;
+            border-radius: var(--radius-sm);
+            font-family: inherit;
+            font-weight: 600;
+            font-size: 0.95rem;
+            cursor: pointer;
+            transition: var(--transition);
+        }
+        .tab-btn.active {
+            background: var(--text-primary);
+            color: var(--bg-base);
+            box-shadow: 0 4px 15px rgba(255, 255, 255, 0.1);
+        }
 
-            .nav-btn:hover {
-                background: rgba(255, 255, 255, 0.05);
-                color: white;
-                padding-left: 1.8rem;
-            }
+        /* --- Content Area --- */
+        .content-area {
+            padding: 4rem;
+            max-width: 1200px;
+            margin: 0 auto;
+            width: 100%;
+            box-sizing: border-box;
+        }
+        .view {
+            display: none;
+            animation: fadeIn 0.6s cubic-bezier(0.22, 1, 0.36, 1) forwards;
+        }
+        .view.active { display: block; }
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(20px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+        .hero h1 {
+            font-size: clamp(3rem, 5vw, 4.5rem);
+            font-weight: 800;
+            margin: 0;
+            line-height: 1.1;
+            letter-spacing: -0.02em;
+        }
+        .hero p {
+            font-size: 1.25rem;
+            color: var(--text-muted);
+            margin: 1.5rem 0;
+            max-width: 600px;
+            line-height: 1.6;
+        }
 
-            .nav-btn.active {
-                background: var(--accent);
-                color: var(--bg);
-                box-shadow: 0 8px 20px var(--accent-glow);
-            }
+        /* --- Cards --- */
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+            gap: 1.5rem;
+            margin-top: 1.5rem;
+        }
+        .card {
+            background: var(--bg-surface);
+            border: 1px solid var(--border-subtle);
+            border-radius: var(--radius-lg);
+            padding: 2.5rem 2rem;
+            text-decoration: none;
+            color: var(--text-primary);
+            position: relative;
+            display: flex;
+            flex-direction: column;
+            transition: all 0.5s cubic-bezier(0.16, 1, 0.3, 1);
+            overflow: hidden;
+        }
+        .card:hover {
+            transform: translateY(-8px) scale(1.02);
+            border-color: var(--border-focus);
+            box-shadow: 0 30px 60px rgba(0,0,0,0.5);
+        }
+        .card.koyeah-mode {
+            border-color: rgba(255, 77, 125, 0.5);
+            background: linear-gradient(135deg, rgba(255, 77, 125, 0.08), transparent);
+        }
+        .badge {
+            position: absolute;
+            top: 1.5rem;
+            right: 1.5rem;
+            background: var(--accent-hot);
+            color: white;
+            font-size: 0.65rem;
+            font-weight: 800;
+            padding: 4px 10px;
+            border-radius: 20px;
+            box-shadow: 0 0 15px rgba(255, 77, 125, 0.4);
+            animation: badgePop 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+        }
+        @keyframes badgePop {
+            from { transform: scale(0); opacity: 0; }
+            to { transform: scale(1); opacity: 1; }
+        }
 
-            /* --- Main --- */
-            .main-content {
-                margin-left: var(--sidebar-width);
-                flex: 1;
-                display: flex;
-                flex-direction: column;
-                align-items: center;
-                padding: 5rem 2rem;
-            }
+        /* --- Audio Controls --- */
+        .audio-controls {
+            position: fixed;
+            bottom: 2rem;
+            right: 2rem;
+            background: rgba(20, 10, 15, 0.6);
+            backdrop-filter: blur(15px);
+            border: 1px solid var(--border-subtle);
+            padding: 0.75rem 1.25rem;
+            border-radius: 100px;
+            display: flex;
+            align-items: center;
+            gap: 15px;
+            z-index: 1000;
+            transition: var(--transition);
+        }
+        .ctrl-btn {
+            background: none; border: none; color: white; cursor: pointer;
+            padding: 5px; display: flex; align-items: center; justify-content: center;
+            opacity: 0.8; transition: 0.2s;
+        }
+        .ctrl-btn:hover { opacity: 1; transform: scale(1.1); }
+        .volume-slider {
+            width: 0; transition: width 0.4s ease; cursor: pointer;
+            height: 4px; appearance: none; background: rgba(255, 255, 255, 0.1);
+            border-radius: 2px; overflow: hidden;
+        }
+        .audio-controls:hover .volume-slider { width: 80px; }
+        .volume-slider::-webkit-slider-thumb {
+            appearance: none; width: 0; box-shadow: -80px 0 0 80px var(--accent-hot);
+        }
+        @keyframes pulse {
+            0%, 100% { transform: scale(1); opacity: 1; }
+            50% { transform: scale(1.05); opacity: 0.8; }
+        }
+    </style>
+</head>
+<body>
 
-            .hero {
-                text-align: center;
-                margin-bottom: 6rem;
-            }
-
-            h1 {
-                font-size: clamp(3rem, 7vw, 5rem);
-                font-weight: 800;
-                margin: 0;
-                background: linear-gradient(180deg, #fff, var(--accent));
-                -webkit-background-clip: text;
-                -webkit-text-fill-color: transparent;
-                filter: drop-shadow(0 0 15px var(--accent-glow));
-            }
-
-            .hero p {
-                color: var(--text-dim);
-                font-size: 1.2rem;
-                margin-top: 0.5rem;
-            }
-
-            .grid-wrapper {
-                width: 100%;
-                max-width: 850px;
-                display: flex;
-                flex-direction: column;
-                gap: 5rem;
-            }
-
-            .section-label {
-                font-size: 0.8rem;
-                font-weight: 800;
-                text-transform: uppercase;
-                letter-spacing: 0.2em;
-                color: var(--accent-hot);
-                margin-bottom: 1.5rem;
-            }
-
-            .grid {
-                display: grid;
-                grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-                gap: 1.5rem;
-                perspective: 1200px;
-            }
-
-            /* --- Card Logic --- */
-            .card {
-                background: var(--card-bg);
-                backdrop-filter: blur(20px);
-                border: 1px solid var(--card-border);
-                border-radius: 30px;
-                padding: 2.5rem;
-                text-decoration: none;
-                color: white;
-                position: relative;
-                display: flex;
-                flex-direction: column;
-                transition: transform 0.6s cubic-bezier(0.23, 1, 0.32, 1), 
-                            box-shadow 0.3s ease, 
-                            border-color 0.3s ease,
-                            background 0.3s ease;
-                transform-style: preserve-3d;
-            }
-
-            .card:hover {
-                transform: translateY(-8px);
-                border-color: rgba(255, 255, 255, 0.4);
-                background: rgba(255, 255, 255, 0.08);
-                box-shadow: 0 20px 40px rgba(0,0,0,0.3);
-            }
-
-            .card h2 { margin: 0 0 8px; font-size: 1.4rem; }
-            .card p { margin: 0; color: var(--text-dim); font-size: 0.95rem; line-height: 1.5; }
-
-            .badge {
-                position: absolute;
-                top: 15px;
-                right: 15px;
-                background: #ffecf0;
-                color: #ff4d7d;
-                font-size: 10px;
-                font-weight: 900;
-                padding: 4px 10px;
-                border-radius: 10px;
-                border: 1.5px solid #ff4d7d;
-                transition: opacity 0.3s ease, transform 0.3s ease;
-            }
-
-            /* --- Animation Classes --- */
-            .flipping {
-                transform: rotateY(90deg) scale(0.95) !important;
-            }
-
-            .koyeah-mode {
-                border-color: var(--accent-hot) !important;
-                background: rgba(255, 77, 125, 0.1) !important;
-                box-shadow: 0 0 30px var(--accent-glow) !important;
-            }
-
-            .koyeah-mode .badge {
-                background: var(--accent-hot) !important;
-                color: white !important;
-                border-color: white !important;
-            }
-        </style>
-    </head>
-    <body>
-
-        <nav class="sidebar">
-            <div class="sidebar-title">ii miri Tawa</div>
-            <button id="btn-ashi" class="nav-btn active">Ashi Tawa</button>
-            <button id="btn-koyeah" class="nav-btn">Koyeah Tawa</button>
-        </nav>
-
-        <div class="main-content">
-            <div class="hero">
-                <h1>ii miri Tawa</h1>
-                <p>The good medium for progressing.</p>
-            </div>
-
-            <div class="grid-wrapper">
-                <section>
-                    <div class="section-label">Core lexicon</div>
-                    <div class="grid">
-                        <a href="public/dictionary" class="card">
-                            <h2>Kana ribu</h2>
-                            <p>Core Lexicon</p>
-                        </a>
-                        <a href="Kanji/kanji" class="card">
-                            <h2>Tawa no Kanji</h2>
-                            <p>Core Tawish Kanji</p>
-                        </a>
-                    </div>
-                </section>
-
-                <section>
-                    <div class="section-label">Extended lexicon</div>
-                    <div class="grid">
-                        <a href="public/extended" class="card">
-                            <h2>Kanaitsukoã ribu</h2>
-                            <p>Extended Lexicon</p>
-                        </a>
-                        <a href="public/kanjibase" class="card">
-                            <h2>Tawa no Kanji no Ribu</h2>
-                            <p>Base kanji dictionary</p>
-                        </a>
-                    </div>
-                </section>
-
-                <section>
-                    <div class="section-label">Idioms</div>
-                    <div class="grid">
-                        <a href="public/idioms" class="card">
-                            <div class="badge">NEW</div>
-                            <h2>Fofoqeteilós</h2>
-                            <p>Idioms or phrases</p>
-                        </a>
-                    </div>
-                </section>
-
-                <section id="tech-section">
-                    <div class="section-label">Technical References</div>
-                    <div class="grid">
-                        <a href="public/grammar" id="card-grammar" class="card">
-                            <h2>Gana ribu</h2>
-                            <p>Grammar Reference</p>
-                        </a>
-                        <a href="public/mprf" id="card-mprf" class="card">
-                            <h2>Tawa no iyuklú ẽ pamya</h2>
-                            <p>Morphophonology Reference</p>
-                        </a>
-                        <a href="public/orthography" class="card">
-                            <h2>Pamya Tawaji</h2>
-                            <p>Orthography Reference</p>
-                        </a>
-                    </div>
-                </section>
-            </div>
+    <div id="splash-screen" onclick="initExperience()">
+        <div class="splash-content">
+            <h1 style="font-weight: 800; letter-spacing: -0.05em; margin-bottom: 0.5rem;">ii miri Tawa</h1>
+            <p style="color: var(--text-muted);">A medium for progressing.</p>
+            <div class="enter-btn">CLICK ANYWHERE</div>
         </div>
+    </div>
 
-        <script>
-            const btnAshi = document.getElementById('btn-ashi');
-            const btnKoyeah = document.getElementById('btn-koyeah');
-            const cardGrammar = document.getElementById('card-grammar');
-            const cardMprf = document.getElementById('card-mprf');
-            const techSection = document.getElementById('tech-section');
+    <div class="ambient-bg"></div>
 
-            function updateUI(mode) {
-                const isKoyeah = mode === 'koyeah';
-                
-                btnAshi.classList.toggle('active', !isKoyeah);
-                btnKoyeah.classList.toggle('active', isKoyeah);
+    <nav class="sidebar">
+        <div class="brand">ii miri Tawa</div>
+        <div class="nav-section-title">Core</div>
+        <a href="public/dictionary" class="sidebar-link">Kana ribu</a>
+        <a href="Kanji/kanji" class="sidebar-link">Tawa no Kanji</a>
+        <div class="nav-section-title">Extended</div>
+        <a href="public/extended" class="sidebar-link">Kanaitsukoã ribu</a>
+        <a href="public/kanjibase" class="sidebar-link">Tawa no Kanji no Ribu</a>
+        <div class="nav-section-title">Technical Reference</div>
+        <a href="public/grammar" id="side-grammar" class="sidebar-link">Gana ribu</a>
+        <a href="public/mprf" id="side-mprf" class="sidebar-link">Tawa no iyuklú</a>
+        <a href="public/orthography" class="sidebar-link">Pamya Tawaji</a>
+    </nav>
 
-                const targets = [cardGrammar, cardMprf];
+    <div class="main-wrapper">
+        <header class="topbar">
+            <div class="tab-container">
+                <button class="tab-btn active" data-target="view-tawa" data-mode="ashi">Ashi Tawa</button>
+                <button class="tab-btn" data-target="view-tawa" data-mode="koyeah">Koyeah Tawa</button>
+                <button class="tab-btn" data-target="view-resources">Resources</button>
+            </div>
+        </header>
 
-                targets.forEach(card => {
-                    card.classList.add('flipping');
+        <main class="content-area">
+            <div id="view-tawa" class="view active">
+                <div class="hero">
+                    <h1>The good medium<br>for progressing.</h1>
+                    <p>Welcome to the central hub for learning and referencing the ii miri Tawa languages.</p>
+                </div>
+                <div class="grid-wrapper">
+                    <section>
+                        <div class="nav-section-title" style="margin-left:0; color:var(--accent-hot)">Core Lexicon</div>
+                        <div class="grid">
+                            <a href="public/dictionary" class="card">
+                                <h2>Kana ribu</h2>
+                                <p>Core Lexicon</p>
+                            </a>
+                            <a href="Kanji/kanji" class="card">
+                                <h2>Tawa no Kanji</h2>
+                                <p>Core Tawish Kanji</p>
+                            </a>
+                        </div>
+                    </section>
+                    <section style="margin-top: 4rem;">
+                        <div class="nav-section-title" style="margin-left:0; color:var(--accent-hot)">Technical References</div>
+                        <div class="grid">
+                            <a href="public/grammar" id="card-grammar" class="card">
+                                <h2>Gana ribu</h2>
+                                <p>Grammar Reference</p>
+                            </a>
+                            <a href="public/mprf" id="card-mprf" class="card">
+                                <h2>Tawa no iyuklú ẽ pamya</h2>
+                                <p>Morphophonology Reference</p>
+                            </a>
+                        </div>
+                    </section>
+                </div>
+            </div>
 
-                    setTimeout(() => {
-                        let badge = card.querySelector('.badge');
+            <div id="view-resources" class="view">
+                <div class="hero">
+                    <h1>Resources & Culture</h1>
+                    <p>Dive deeper into the expressions, history, and translated literature of the language.</p>
+                </div>
+                <div class="grid">
+                    <a href="public/idioms" class="card">
+                        <h2>Fofoqeteilós</h2>
+                        <p>Idioms and everyday phrases</p>
+                    </a>
+                    <a href="translations/home" class="card">
+                        <h2>Yumetei Tawaji</h2>
+                        <p>Literature and text adaptations</p>
+                    </a>
+                </div>
+            </div>
+        </main>
+    </div>
 
-                        if (isKoyeah) {
-                            card.classList.add('koyeah-mode');
-                            card.href = card.id.includes('grammar') ? 'public/grammarkoyeah' : 'public/mprfkoyeah';
-                            
-                            // If badge doesn't exist, create it!
-                            if (!badge) {
-                                badge = document.createElement('div');
-                                badge.className = 'badge';
-                                card.appendChild(badge);
-                            }
-                            badge.textContent = 'KOYEAH';
-                        } else {
-                            card.classList.remove('koyeah-mode');
-                            card.href = card.id.includes('grammar') ? 'public/grammar' : 'public/mprf';
-                            
-                            if (badge && badge.textContent === 'KOYEAH') {
-                                badge.remove();
-                            }
-                        }
-                        
-                        card.classList.remove('flipping');
-                    }, 300);
-                });
+    <div class="audio-controls">
+        <button class="ctrl-btn" id="play-pause" title="Play/Pause">
+            <svg id="icon-play" width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg>
+            <svg id="icon-pause" width="20" height="20" viewBox="0 0 24 24" fill="currentColor" style="display:none;"><path d="M6 19h4V5H6v14zm8-14v14h4V5h-4z"/></svg>
+        </button>
+        <input type="range" class="volume-slider" id="volume" min="0" max="100" value="50">
+    </div>
 
-                if (isKoyeah) {
-                    setTimeout(() => {
-                        techSection.scrollIntoView({ behavior: 'smooth', block: 'center' });
-                    }, 400);
-                }
+    <div id="lofi-player" style="position: absolute; width: 1px; height: 1px; opacity: 0; pointer-events: none;">
+        <div id="youtube-frame"></div>
+    </div>
+
+    <script>
+        let player;
+        let isReturningUser = sessionStorage.getItem('tawa-entered') === 'true';
+
+        // --- Persistence Check ---
+        if (isReturningUser) {
+            document.getElementById('splash-screen').style.display = 'none';
+        }
+
+        // --- YouTube Setup ---
+        const tag = document.createElement('script');
+        tag.src = "https://www.youtube.com/iframe_api";
+        document.head.appendChild(tag);
+
+        const playBtn = document.getElementById('play-pause');
+        const iconPlay = document.getElementById('icon-play');
+        const iconPause = document.getElementById('icon-pause');
+        const volumeSlider = document.getElementById('volume');
+
+        function onYouTubeIframeAPIReady() {
+            player = new YT.Player('youtube-frame', {
+                height: '1', width: '1',
+                videoId: 'jfKfPfyJRdk',
+                playerVars: { 'autoplay': 0, 'controls': 0, 'loop': 1, 'playlist': 'jfKfPfyJRdk' },
+                events: { 'onReady': onPlayerReady }
+            });
+        }
+
+        function onPlayerReady(event) {
+            const savedVol = localStorage.getItem('tawa-volume') || 50;
+            volumeSlider.value = savedVol;
+            player.setVolume(savedVol);
+            
+            // If returning user, wait for the first click on the document to start music
+            if (isReturningUser && localStorage.getItem('tawa-music-on') !== 'false') {
+                document.addEventListener('click', forceStartOnInteraction, { once: true });
             }
+        }
 
-            btnAshi.addEventListener('click', () => updateUI('ashi'));
-            btnKoyeah.addEventListener('click', () => updateUI('koyeah'));
-        </script>
-    </body>
+        // The "Secret" trigger for returning users
+        function forceStartOnInteraction() {
+            if (player && typeof player.playVideo === 'function') {
+                player.playVideo();
+                toggleIcons(true);
+            }
+        }
+
+        function initExperience() {
+            document.getElementById('splash-screen').classList.add('hidden');
+            sessionStorage.setItem('tawa-entered', 'true');
+            
+            if (localStorage.getItem('tawa-music-on') !== 'false') {
+                player.playVideo();
+                toggleIcons(true);
+                localStorage.setItem('tawa-music-on', 'true');
+            }
+        }
+
+        playBtn.addEventListener('click', (e) => {
+            e.stopPropagation();
+            const state = player.getPlayerState();
+            if (state === 1) { // playing
+                player.pauseVideo();
+                toggleIcons(false);
+                localStorage.setItem('tawa-music-on', 'false');
+            } else {
+                player.playVideo();
+                toggleIcons(true);
+                localStorage.setItem('tawa-music-on', 'true');
+            }
+        });
+
+        volumeSlider.addEventListener('input', (e) => {
+            const vol = e.target.value;
+            player.setVolume(vol);
+            localStorage.setItem('tawa-volume', vol);
+        });
+
+        function toggleIcons(isPlaying) {
+            iconPlay.style.display = isPlaying ? 'none' : 'block';
+            iconPause.style.display = isPlaying ? 'block' : 'none';
+        }
+
+        // --- View & Mode Switching ---
+        const tabBtns = document.querySelectorAll('.tab-btn');
+        const views = document.querySelectorAll('.view');
+        const dynamicElements = [
+            { card: document.getElementById('card-grammar'), side: document.getElementById('side-grammar'), baseHref: 'public/grammar' },
+            { card: document.getElementById('card-mprf'), side: document.getElementById('side-mprf'), baseHref: 'public/mprf' }
+        ];
+
+        function setMode(mode) {
+            const isKoyeah = mode === 'koyeah';
+            document.querySelector('.ambient-bg').style.filter = isKoyeah ? 'blur(60px) hue-rotate(320deg)' : 'blur(60px) hue-rotate(0deg)';
+            dynamicElements.forEach(item => {
+                const targetHref = isKoyeah ? `${item.baseHref}koyeah` : item.baseHref;
+                item.card.href = targetHref;
+                item.side.href = targetHref;
+                item.side.classList.toggle('highlight-koyeah', isKoyeah);
+                item.card.classList.toggle('koyeah-mode', isKoyeah);
+                let badge = item.card.querySelector('.badge');
+                if (isKoyeah) {
+                    if (!badge) {
+                        badge = document.createElement('div');
+                        badge.className = 'badge'; badge.textContent = 'KOYEAH';
+                        item.card.appendChild(badge);
+                    }
+                } else if (badge) {
+                    badge.style.animation = 'badgePop 0.3s reverse forwards';
+                    setTimeout(() => badge.remove(), 300);
+                }
+            });
+        }
+
+        tabBtns.forEach(btn => {
+            btn.addEventListener('click', () => {
+                tabBtns.forEach(b => b.classList.remove('active'));
+                btn.classList.add('active');
+                const targetViewId = btn.getAttribute('data-target');
+                views.forEach(view => {
+                    view.classList.remove('active');
+                    if(view.id === targetViewId) view.classList.add('active');
+                });
+                const mode = btn.getAttribute('data-mode');
+                if (mode) setMode(mode);
+            });
+        });
+
+        document.querySelectorAll('.card').forEach(card => {
+            card.addEventListener('mousemove', e => {
+                const rect = card.getBoundingClientRect();
+                const x = e.clientX - rect.left;
+                const y = e.clientY - rect.top;
+                card.style.background = `radial-gradient(600px circle at ${x}px ${y}px, rgba(255, 182, 193, 0.06), transparent 40%), var(--bg-surface)`;
+            });
+            card.addEventListener('mouseleave', () => {
+                card.style.background = `var(--bg-surface)`;
+            });
+        });
+    </script>
+</body>
 </html>
