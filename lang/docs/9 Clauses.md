@@ -66,3 +66,5 @@
 	* *imnyi* -> equative (`EQ`)
 		* *su ni imnyi karabalú - óltoi!* -> `1SG TOP EQ creamfruit-DEF.PL EXCESS-sweet`
 			* "I'm a creamfruit - way too sweet!"
+* The *imimo* form implies 'just like,' just one notch below equation
+	* yes, it can mean equation, but its usually not interpreted that way, as you have *imnyi* for that
