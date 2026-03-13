@@ -15,6 +15,8 @@
 * Koyeah Tawa lost:
 	* /ɺ ʋ ʎ n̼ m̥͡m ɴ/
 * and it does not distinguish:
+	* /m̥͡m/~/mʲ/
+		* *mh* is always pronounced /mʲ/ in Koyeah Tawa
 	* /ɺ/~/ɾ/
 		* though /l/ is distinctive, along with its *alveolopalatal counterpart* (like in **lyo**, the demonstrative)
 		* unlike Ashi Tawa, the pronunciation of the rhotic consonant is not immutable, so:
