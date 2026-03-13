@@ -92,6 +92,27 @@
 		* *ji narana no wanote nuko o kanatanqo, watada yaranai ji su* -> `LOC secret GEN time-INF heart ACC happy-INV-NM secret only come-IV LOC 1SG`
 			* "In times of uncertainty, when you feel sad, just come to me"
 
+### 1.4.1 Case omission
+* Using the infinitive form of a verb (e.g., *haterute*) allows for case omission:
+	* *haterute hana aiko!* -> `run.V-INF bump IMP`
+		* "Run **to** the bump!"
+	* *senodzute su o ribu fuka* -> `send.V-INF 1SG ACC book REQ`
+		* "Send (**to**) me the book, please"
+	* *kamute tetezun* -> `eat.V-INF hand-2SG.POSS`
+		* lit. "Eat (**to**) your hands"
+		* ~"Eat with your hands"
+* Note that accusatives are always marked:
+	* *shirete so su* -> `know-INF 3SG.M 1SG`
+		* "Know (?) him (?) me"
+			* know him with me
+			* know me through him
+			* etc.
+		* context might be able to disambiguate, but you should still avoid being too cryptic
+		* unless the accusative is the only argument, you need to mark them:
+			* *shirete su o so* -> `know-INF 1SG ACC 3SG.M`
+				* "Know me through / with him"
+				* etc.
+
 ## 1.5 Particle table
 | Particle | IPA    | Function                       | Gloss   |
 | -------- | ------ | ------------------------------ | ------- |
