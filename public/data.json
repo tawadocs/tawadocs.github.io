@@ -7,5 +7,50 @@
     "english": "When something ends up happening the opposite way it was supposed to.",
     "notes": "Often used as a shorthand for 'the other way around' in some contexts.",
     "description": "It refers to when the opposite of something happens. For example, if you said 'Subuthu hahaen konin ẽ payaru payawanoãieji. Subĩ nasũ ninru ana?' (I wanted to play through the day and study near the time for the exam. I should be able to pass, right?), but failed, then you could say that the apple ate the human. Another example: you devise a plan, pretending to be children; however, when the plan is executed, everyone thinks you're grown men. The apple ate the human!"
+  },
+  {
+    "phrase": "Atora no riwakango",
+    "ipa": "atoɺa no ɺiwakəŋo",
+    "gloss": "apple GEN think-SRC.WHOLE",
+    "literal": "Brain of apple / An apple for a brain",
+    "english": "When someone is being extremely idiotic or acting creepy or perverted.",
+    "notes": "Extremely vulgar, since 'apple' here refers to a boob.",
+    "description": "If someone says something creepy or weird, you would use this, like in 'so ni atora no riwakango;' however, since this phrase is quite harsh and vulgar, it often is better not to say it, unless the context allows for it."
+  },
+  {
+    "phrase": "Au chisun",
+    "ipa": "au t͡ɕisʊn",
+    "gloss": "HAVE.V.PLAT water-1SG.POSS",
+    "literal": "Have my water",
+    "english": "To signal that you're free or to tell someone to wait.",
+    "notes": "Usually paired with the germane imperative or request marker.",
+    "description": "Use 'au chisun aiko' in respectful and formal contexts, 'ake au chisun' to signal immediacy or annoyance, like saying 'enough!' and use 'fuka' for a simple request, like 'please, wait.' This is the standard phrase for wait / hold it / one second / you have me (to you). You can also use it in moments like, 'wait a minute... something seems off.' it attention, a potential change in stance, and even disbelief."
+  },
+  {
+    "phrase": "Chisuno taranai",
+    "ipa": "t͡ɕisʊno taɺanai",
+    "gloss": "water-1SG.POSS-U spill-IV",
+    "literal": "My water has been spilt",
+    "english": "Marks resignation or defeat.",
+    "notes": "Paired with particles like 'yad' or a tired tone.",
+    "description": "This is the stereotypical idiomatic expression for when a project fails, something goes wrong, or when you 'give up.'"
+  },
+  {
+    "phrase": "Kiwinq tetezun",
+    "ipa": "kiwiɴ tetezʊn",
+    "gloss": "continue-INV hand-2SG.POSS",
+    "literal": "Stop your hand",
+    "english": "Asking the other person to be gentle, calm, or more patient.",
+    "notes": "Needs to be paired with the germane mood particle.",
+    "description": "Used to ask others to calm down, relax, or take a breather. It must be used with the proper mood particle (e.g., ake, aiko, or fuka) depending on politeness and if its a command or request. It can also be used to mean 'stop,' especially in favour of 'have my water' if you don't want the other nuance."
+  },
+  {
+    "phrase": "(Ni) au nirosun",
+    "ipa": "(ɲi) au niɺo̥sʊn",
+    "gloss": "(TOP) HAVE.V.PLAT eye-1SG.POSS",
+    "literal": "(X) have/has my eye",
+    "english": "Telling someone you've got their back.",
+    "notes": "Use the romantic form in relationships or for highly intimate commitments. Romantic form (annyu instead of au) can't be used and should not be used casually.",
+    "description": "Should be constructed with an omitted pronoun or the proper pronoun / referent particle based on context."
   }
 ]
