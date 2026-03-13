@@ -29,7 +29,8 @@
 		* point of detachment
 			* leave (from) *home*
 				* *kuenau o asao*
-			* step (off) the *bus*
+			* get (out of) the *cart*
+				* *ea o eaen natse*
 	* **ji**
 		* indirect object
 			* give a gift **to** a friend

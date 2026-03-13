@@ -35,11 +35,15 @@
 		* the assertion or emphatic particle **ya** is retained
 		* grammaticalised evidentiality (**ipappu** / **ipa-**), desideratives (**atai**), and optatives (**are**) remain
 		* only one way to ask questions, it is by adding *no?* to the end
-	* *modal particles* and the *nominaliser*
+	* *modal particles*
 		* the modal particle *ũ* has been turned into an infinitive *te* here
 		* *te* functions the same as the English **to** in terms of modifying verbs, like in *kitate riwaka* (like **to** think)
-		* the nominaliser is also *te* now
-			* *kitate ni ii* -> ~ **to like / liking is good**
+		* most uses of the nominaliser also fit *te* now
+			* *kitate ni ii* -> ~**to like / liking is good**
+		* however, uses such as stative-adjectives and as such, do not:
+			* *eaen natse* -> ~**moving square (e.g., cart)**
+			* *eaen natseo* -> ~**moving square (as a noun)**
+				* here, *eaen natseo* is one concept, so it means a 'cart' which could even be unmoving
 	* *noun-compounding marker*
 		* **ce** does not exist
 	* *advanced conditionality particles*
