@@ -77,3 +77,19 @@
 	* *ĉihai* would be drink or sip, as opposed to ĉiĉ itself, which is any liquid as a noun
 	* ĉitei would be the product of the action, so **what** one drinks (e.g., water) would be ĉitei (e.g., water)
 	* but ĉihai is the opposite of that, so **how** one acts for that (e.g., you drink liquid) would be ĉihai (e.g., drink)
+
+## 7.5 Better section on the nominaliser
+* The nominalizer **-en** (IPA: /ɛn/) is a descendant of the **Takan** auxiliary for "to do the act that which is [verb]"
+* It is the mandatory bridge for turning any verbal root into a grammatical noun capable of taking particles like the topic marker **ni** *and as such*
+* For example:
+	* *kita ni ii* -> `like TOP good`
+		* this implies that the 'love' of like is good, not that the action of liking people or exhibiting it is
+	* *kitaen ni ii* -> `like-NMLZ TOP good`
+		* "To like / liking is good"
+* *en* also has a tendency to be poetic or intense, especially in stative constructions:
+	* *unsen pokiunsji* -> `live-NMLZ big-life-LOC`
+		* lit. "Living in a big life"
+		* ~"Being tall / being rich / etc."
+* Nominalised verbs can also be possessed to describe the possessor:
+	* *so no fuenlos* -> `3SG.F GEN ACT-NMLZ-INDEF.PL`
+		* "Doings of hers / her various deeds or acts"

@@ -524,6 +524,32 @@
 		* ~"Man of steel"
 		* "Man of silver"
 
+### 0.21.1 Case replacement
+* *no* is very good at replacing cases or complex descriptions:
+	* *ngoshi ni yaranai asalla no nanda* -> `bird TOP come-IV house-ALL GEN down`
+		* lit. "The bird came to the down of the house"
+		* "The bird came to the house's porch / floor"
+	* *sua au tetenq no tete* -> `1SG-A HAVE.V.PLAT hand-INV GEN hand`
+		* lit. "I have foot of hand"
+		* ~"My hands are where my feet are"
+		* ~"I have feet for hands"
+	* *zua au atora no riwakango* -> `2SG-A HAVE.V.PLAT apple GEN think-SRC.WHOLE`
+		* lit. "You have apple of brain"
+		* ~"You have an apple for a brain"
+			* **p.s.** this is a vulgar expression, better translated as 'you have tits for a brain'
+			* it can refer to creepiness, pervertedness, or extreme idiocy
+
+### 0.21.2 Nominaliser or causal final
+* in the Modern registers (Ashi Tawa and Koyeah Tawa), it can nominalise:
+	* *dakareu mafol no ya* -> `steal-IPFV.V.PLAT red-DEF NM ASSERT`
+		* "Going to / will take the red one"
+	* *pokil no ya* -> `big-DEF NM ASSERT`
+		* "The big one"
+* it can also strengthen assertion or add a 'stop asking me anymore' nuance:
+	* *unsa yaranai ni tachiryãl no ya* -> `life-A come-IV TOP way-DEM.MED.MOD-DEF NM ASSERT`
+		* lit. "This is the way (that) life unfolds / comes"
+		* ~"It is how it is - life just unfolds like that"
+
 ## 0.22 New question system
 * the Modern Tawish question system does not use *hya* (polar question) or *hyo* (non-polar question) markers
 * instead, it uses the genitive *no* for this
