@@ -2519,7 +2519,7 @@
   },
   {
     "word": "harana",
-    "id": "uta",
+    "id": "uta, uta lili",
     "definitions": [
       {
         "text": "mouth",
@@ -5684,36 +5684,6 @@
     ]
   },
   {
-    "word": "maku",
-    "id": "palisa",
-    "definitions": [
-      {
-        "text": "stick",
-        "frequency": 100
-      },
-      {
-        "text": "rod",
-        "frequency": 100
-      },
-      {
-        "text": "stake",
-        "frequency": 100
-      },
-      {
-        "text": "pole",
-        "frequency": 100
-      },
-      {
-        "text": "branch",
-        "frequency": 100
-      },
-      {
-        "text": "staff",
-        "frequency": 100
-      }
-    ]
-  },
-  {
     "word": "mani",
     "definitions": [
       {
@@ -6191,6 +6161,36 @@
       },
       {
         "text": "violet",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "myako",
+    "id": "palisa",
+    "definitions": [
+      {
+        "text": "stick",
+        "frequency": 100
+      },
+      {
+        "text": "rod",
+        "frequency": 100
+      },
+      {
+        "text": "stake",
+        "frequency": 100
+      },
+      {
+        "text": "pole",
+        "frequency": 100
+      },
+      {
+        "text": "branch",
+        "frequency": 100
+      },
+      {
+        "text": "staff",
         "frequency": 100
       }
     ]

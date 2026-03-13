@@ -1,5 +1,31 @@
 [
   {
+    "word": "bopu",
+    "id": "mama telo",
+    "definitions": [
+      {
+        "text": "boob",
+        "frequency": 100
+      },
+      {
+        "text": "breast",
+        "frequency": 100
+      },
+      {
+        "text": "tit",
+        "frequency": 100
+      },
+      {
+        "text": "lactate",
+        "frequency": 100
+      },
+      {
+        "text": "milk (producing) organ",
+        "frequency": 100
+      }
+    ]
+  },
+  {
     "word": "epiku",
     "id": "epiku",
     "definitions": [
@@ -47,6 +73,62 @@
       },
       {
         "text": "orgasmic",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "sorama",
+    "id": "sewi telo",
+    "definitions": [
+      {
+        "text": "precipitation",
+        "frequency": 100
+      },
+      {
+        "text": "rain",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "tara",
+    "id": "pakala e telo, kama tan poki",
+    "definitions": [
+      {
+        "text": "spill",
+        "frequency": 100
+      },
+      {
+        "text": "overflow",
+        "frequency": 100
+      },
+      {
+        "text": "leak",
+        "frequency": 100
+      },
+      {
+        "text": "flaw in boundary",
+        "frequency": 100
+      },
+      {
+        "text": "vent",
+        "frequency": 100
+      },
+      {
+        "text": "grumble",
+        "frequency": 100
+      },
+      {
+        "text": "genuine",
+        "frequency": 100
+      },
+      {
+        "text": "cannot help (X)",
+        "frequency": 100
+      },
+      {
+        "text": "(let) slip",
         "frequency": 100
       }
     ]

@@ -400,5 +400,167 @@
         "frequency": 100
       }
     ]
+  },
+  {
+    "word": "umiari",
+    "id": "kiwen linja",
+    "definitions": [
+      {
+        "text": "bone",
+        "frequency": 100
+      },
+      {
+        "text": "phallus",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "ongutsu",
+    "id": "suli, lawa, lon",
+    "definitions": [
+      {
+        "text": "root",
+        "frequency": 100
+      },
+      {
+        "text": "radical",
+        "frequency": 100
+      },
+      {
+        "text": "head (pimple)",
+        "frequency": 100
+      },
+      {
+        "text": "fundamental basis",
+        "frequency": 100
+      },
+      {
+        "text": "mathematical root",
+        "frequency": 100
+      },
+      {
+        "text": "root or origin of authority (law",
+        "frequency": 100
+      },
+      {
+        "text": "computing)",
+        "frequency": 100
+      },
+      {
+        "text": "guts",
+        "frequency": 100
+      },
+      {
+        "text": "willpower",
+        "frequency": 100
+      },
+      {
+        "text": "spirit",
+        "frequency": 100
+      },
+      {
+        "text": "ground (as basis)",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "cowarin",
+    "id": "akesi lawa",
+    "definitions": [
+      {
+        "text": "louse",
+        "frequency": 100
+      },
+      {
+        "text": "parasite",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "hajireme",
+    "id": "supa waso pi jan sewi",
+    "definitions": [
+      {
+        "text": "angel wings",
+        "frequency": 100
+      },
+      {
+        "text": "cupid wings",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "uruku",
+    "id": "lon noka",
+    "definitions": [
+      {
+        "text": "stand",
+        "frequency": 100
+      },
+      {
+        "text": "on (one's) feet",
+        "frequency": 100
+      },
+      {
+        "text": "keep up",
+        "frequency": 100
+      },
+      {
+        "text": "stay up",
+        "frequency": 100
+      },
+      {
+        "text": "built",
+        "frequency": 100
+      },
+      {
+        "text": "erected",
+        "frequency": 100
+      },
+      {
+        "text": "rise",
+        "frequency": 100
+      },
+      {
+        "text": "emerge",
+        "frequency": 100
+      },
+      {
+        "text": "established",
+        "frequency": 100
+      },
+      {
+        "text": "set (up)",
+        "frequency": 100
+      },
+      {
+        "text": "position",
+        "frequency": 100
+      },
+      {
+        "text": "standpoint or point of view",
+        "frequency": 100
+      },
+      {
+        "text": "helpful or useful",
+        "frequency": 100
+      },
+      {
+        "text": "stall",
+        "frequency": 100
+      },
+      {
+        "text": "frame or hoisting apparatus",
+        "frequency": 100
+      },
+      {
+        "text": "kiosk",
+        "frequency": 100
+      }
+    ]
   }
 ]

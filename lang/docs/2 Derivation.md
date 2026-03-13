@@ -108,3 +108,11 @@
 * This simply refers to the parent category of any root
 * So, mafongu would be 'reddish', since the parent category of 'mafo' (red) is, well, reddish colours
 	* it would refer to intense, emotional, angry, or 'reddish' colours, as opposed to azhurungu, which are cooler colours like grue
+
+## 2.5 Derivation from bare Tanji
+* From the bare Tanji, which are Tawish kanji radical borrowings, you can derive nouns or contextual products with *-(y)ch* or *-tei* respectively:
+	* *emetei* -> wing
+	* *kiukotwana no emetei* -> blades of a fan / propeller / air machine
+	* *matei* -> flowing water, three drops of water
+	* *katei* -> rice, rice paddy
+	* *urutei* -> body, physique

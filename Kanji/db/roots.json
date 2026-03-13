@@ -54,13 +54,15 @@
     "Radical": "氵",
     "Strokes": 3,
     "Alias": "ma",
+    "Usage": "",
     "Definitions": [
       "three drops of water",
       "water",
       "liquid",
       "flowing",
       "wetness",
-      "water-related"
+      "water-related",
+      "weather"
     ],
     "Readings": {
       "Romaji": "sanzui",
@@ -463,6 +465,110 @@
     "Readings": {
       "Romaji": "niku",
       "Japanese": "にく"
+    }
+  },
+  {
+    "ID": "1773389068640",
+    "Radical": "冖",
+    "Strokes": 2,
+    "Alias": "umi",
+    "Usage": "",
+    "Definitions": [
+      "crown",
+      "superfluous",
+      "superficial",
+      "surface",
+      "cover",
+      "covering",
+      "veil"
+    ],
+    "Readings": {
+      "Romaji": "wakanmuri",
+      "Japanese": "わかんむり"
+    }
+  },
+  {
+    "ID": "1773389393845",
+    "Radical": "冂",
+    "Strokes": 2,
+    "Alias": "ari",
+    "Usage": "",
+    "Definitions": [
+      "down box",
+      "wilderness",
+      "upside-down (box)"
+    ],
+    "Readings": {
+      "Romaji": "keigamae",
+      "Japanese": "けいがまえ"
+    }
+  },
+  {
+    "ID": "1773389455824",
+    "Radical": "骨",
+    "Strokes": 10,
+    "Alias": "owa",
+    "Usage": "",
+    "Definitions": [
+      "bone"
+    ],
+    "Readings": {
+      "Romaji": "hone",
+      "Japanese": "ほね"
+    }
+  },
+  {
+    "ID": "1773390448348",
+    "Radical": "艮",
+    "Strokes": 10,
+    "Alias": "ongo",
+    "Usage": "often a connective, taking the vowel of the word before and after it",
+    "Definitions": [
+      "stop",
+      "to stop",
+      "stopping"
+    ],
+    "Readings": {
+      "Romaji": "ushitora",
+      "Japanese": "うしとら"
+    }
+  },
+  {
+    "ID": "1773394161894",
+    "Radical": "髟",
+    "Strokes": 10,
+    "Alias": "orin",
+    "Usage": "usually aspirates the main consonant, so kowo+orin -> cowarin. The preceding vowel changes to 'a' to harmonise with 'i' in (a)rin. If the word is consonant-final, like hon, then the vowel harmonises with the latest vowel in the word. as for hon, this is 'o,' so o->u to match 'i', becoming honurin.",
+    "Definitions": [
+      "long hair",
+      "hair top",
+      "head hair",
+      "human air",
+      "flowing hair",
+      "abundant hair"
+    ],
+    "Readings": {
+      "Romaji": "kamikanmuri",
+      "Japanese": "かみかんむり"
+    }
+  },
+  {
+    "ID": "1773395095528",
+    "Radical": "羽",
+    "Strokes": 6,
+    "Alias": "eme",
+    "Usage": "often takes the previous vowel, so naiwa+eme->naiweme. iki+eme->ikeme. but for smaller units, like bare CV or VV, it does not, so ma+eme->maeme.",
+    "Definitions": [
+      "feather",
+      "wing",
+      "blade (shuttlecock",
+      "fan",
+      "propeller)",
+      "to flap wings"
+    ],
+    "Readings": {
+      "Romaji": "hane",
+      "Japanese": "はね"
     }
   }
 ]

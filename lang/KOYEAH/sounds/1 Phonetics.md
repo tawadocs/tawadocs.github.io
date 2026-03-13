@@ -5,7 +5,7 @@
 | **Labiodental**    |         |       |           |           |          |       |             |
 | **Linguolabial**   |         |       |           |           |          |       |             |
 | **Dentialveolar**  | t tʰ d  |       |           | t͡z d͡z   |          |       |             |
-| **Alveolar**       |         | n     | s z       |           | ɺ~ɾ      |       | l           |
+| **Alveolar**       |         | n     | s z       |           | ɺ~ɾ~r    |       | l           |
 | **Alveolopalatal** |         | nʲ    | ɕ ʑ       | t͡ɕ d͡ʑ   |          |       |             |
 | **Palatal**        |         |       |           | c͡ç       |          | j     |             |
 | **Velar**          | k kʰ g  | ŋ     |           |           |          |       |             |
@@ -17,6 +17,9 @@
 * and it does not distinguish:
 	* /ɺ/~/ɾ/
 		* though /l/ is distinctive, along with its *alveolopalatal counterpart* (like in **lyo**, the demonstrative)
+		* unlike Ashi Tawa, the pronunciation of the rhotic consonant is not immutable, so:
+			* /ɺ/~/ɾ/~/r/~/ɹ/ and so on
+		* ... are completely fine
 	* /ʋ/~/w/
 	* /ʎ/~/lʲ/
 	* /n/~/n̼/
