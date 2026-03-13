@@ -1,5 +1,15 @@
 [
   {
+    "word": "agona",
+    "id": "toki ante",
+    "definitions": [
+      {
+        "text": "dialect",
+        "frequency": 100
+      }
+    ]
+  },
+  {
     "word": "bopu",
     "id": "mama telo",
     "definitions": [
@@ -39,6 +49,28 @@
       },
       {
         "text": "damn",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "gana",
+    "id": "toki, toki ante",
+    "definitions": [
+      {
+        "text": "language",
+        "frequency": 100
+      },
+      {
+        "text": "way of speaking",
+        "frequency": 100
+      },
+      {
+        "text": "linguistics",
+        "frequency": 100
+      },
+      {
+        "text": "grammar",
         "frequency": 100
       }
     ]
