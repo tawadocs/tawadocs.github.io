@@ -15,7 +15,7 @@
 	* *advanced aspect*
 		* it only has: **tohi/toppu** and **rehi/reppu**
 		* aspect are unbound morphemes in Koyeah Tawa:
-			* *su kamu myo atora tohi* -> `1SG eat.V QNT apple PFV-BACK`
+			* *su kamu myo atora tohi* -> `1SG eat.V QNT apple PFV`
 				* "I ate many apples"
 	* *articles*
 	* *plural articles*
@@ -35,9 +35,11 @@
 		* the assertion or emphatic particle **ya** is retained
 		* grammaticalised evidentiality (**ipappu** / **ipa-**), desideratives (**atai**), and optatives (**are**) remain
 		* only one way to ask questions, it is by adding *no?* to the end
-	* *modal particles*
+	* *modal particles* and the *nominaliser*
 		* the modal particle *ũ* has been turned into an infinitive *te* here
 		* *te* functions the same as the English **to** in terms of modifying verbs, like in *kitate riwaka* (like **to** think)
+		* the nominaliser is also *te* now
+			* *kitate ni ii* -> ~ **to like / liking is good**
 	* *noun-compounding marker*
 		* **ce** does not exist
 	* *advanced conditionality particles*
