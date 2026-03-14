@@ -723,6 +723,37 @@
 		* apart from being rude, this is also a major lie
 		* if not romantically involved, the person who said *kitanyu* will be viewed as perverted or a liar, or worse, both
 
-## 0.26 Dictionary inaccuracies
+## 0.26 The valency inverser
+* The valency inverser *-nai* is deceptive in name
+* It may inverse valency (active<->passive) but... it's very sneaky - it does many things
+* Look at this sentence, for example:
+	* *Harinai baitaõ* -> `exchange-IV fruit-PRTV-ACC`
+		* wtf?! how is the passive verb *harinai* (from **hari**, 'to exchange / strike a deal') taking a DIRECT OBJECT?
+* To understand this, stop viewing *-nai* as a simple, static valency inverser
+* Instead, view it as an **argument reductor**:
+	* *Hari asananõ asasambo* -> `exchange house-1PL.POSS-ACC house-3SG.F.POSS.OPP`
+		* "I exchanged our house for her house"
+			* see? here, the verb *hari* takes more than one argument
+	* *Harinai asananõ asasambo*
+		* "I bought our house instead of her house"
+			* here, *harinai* just means buy, it can't take another argument
+			* therefore, "*asasambo*" just refers to the other option you ignored
+* This usage is even more prominent with the use of *yara*:
+	* *Soa yararranai byolla no?* -> `3SG.M-A come-NEG-IV DEM.PROX-ALL Q`
+		* ~"Didn't he come here?"
+			* **yara** is an ambitransitive verb, since it changes valency depending on argument without needing *nai*:
+				* *yaraũ shire saita* -> `come-VLNK know 3SG.F-PRTV`
+					* "Come to know about her"
+					* ~"Learn about her"
+				* *yaraen hashiru no mahokamas* -> `come-NMLZ child GEN magic-AG`
+					* ~"(I) am becoming a child's magician / party magician"
+				* *mo mo, suo yaraeru ii!* -> `but 1SG-U come-CONT good`
+					* ~"But, I am being good"
+					* lit. "But, I am undergoing coming to good"
+			* this is why **yaranai** is often the standard for 'come' in its normal, intransitive form:
+				* *Yaranai byolla aiko!* -> `come-IV DEM.PROX-ALL IMP`
+					* ~"Come here, (now)!"
+
+## 0.27 Dictionary inaccuracies
 * some sentence examples in the dictionary's semantic space may be incorrect
 * if unsure, try to reconstruct them yourself or translate them from Japanese, since Tawa is closer to Japanese than it is to most other languages
