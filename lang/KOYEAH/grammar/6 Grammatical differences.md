@@ -31,4 +31,4 @@
 			* "he would see me if I run to him"
 				* when it combines with verbs, it takes the *uoi* form (V.IRR)
 				* the noun form *oei* is also available
-* modal system is the same, but instead of **ũ**, the infinitive *te* is used (e.g., *subute* :: want to (...))
+* modal system is the same, but instead of **ũ**, the infinitive *te* is used (e.g., *subute* :: want to (...))
