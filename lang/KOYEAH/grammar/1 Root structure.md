@@ -146,3 +146,18 @@
 ## 1.7 Similatives
 * All similative particles are the same as Ashi Tawa's
 * System is used in the same manner (e.g., *osarara su imnyi so* - 'don't call me him!' is fine in Koyeah Tawa)
+
+## 1.8 Omitting particles
+* Never omit *ni*, but you may omit the topic itself if clear from context:
+	* *To, ni so a ai* :: `PFV TOP 3SG.M A help`
+		* lit. "As for (me), he helped"
+		* ~"He helped (me)"
+			* the pronoun *su* is omitted, but the topic remains
+* The actor particle can be omitted many times:
+	* *To, ni so ai* :: `PFV TOP 3SG.M help`
+		* "He helped me"
+			* here, there are two things that help ensure the phrase is parsable:
+				* *so ai* comes before the topic (we now know this is a comment)
+				* no copular (we now know this is not a description)
+				* **pronoun + root** construction
+					* a copularless comment comprising of a pronoun + root is, well, very likely an action
