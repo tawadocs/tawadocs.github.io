@@ -100,3 +100,15 @@
 	* due to the strict **SVO** order, it is normally understood that the last noun will be the object of whatever verb coming before it
 	* so this is fine:
 		* *sa koha su ji ii koha*
+
+## 2.2 Particle stacking
+* Particles can be stacked to derive a type of a type:
+	* *hana* (nose, bump, hill)
+	* *hananu* (smooth, round, curved)
+	* *hananuoe* (smoothness, round as a noun)
+* ... and so on
+* Ashi Tawa's particles like *-tei* and as such are also available in Koyeah Tawa but they must be avoided unless really necessary
+* Instead, the grammaticalised words of Ashi Tawa (e.g., *sumatà*, written as *sumata* in Koyeah Tawa) are preferred
+* Case roots, like *jitei*, change to *-oe* forms
+	* you can use *jitei* but it's generally archaic and not preferable in Koyeah Tawa
+	* so, better to say something like *fuyu ji**oe** no?* than *fuyu ji**tei** no?*
