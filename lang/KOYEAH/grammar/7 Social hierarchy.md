@@ -10,7 +10,7 @@
 * Furthermore, you use the *ue* form:
 	* *su ni Miku ue*
 * If the root is an adjective, then you mark it:
-	* *su ni iinu ue* (the *(ii)nu ue* is pronounced **/nue~nu(h)e~nu(w)e/** because *iinu* + *ue* assimilate)
+	* *su ni iinu ue* (the *(ii)nu ue* is pronounced **`/nue~nu(h)e~nu(w)e/`** because *iinu* + *ue* assimilate)
 * So, marked root types + *ue* is the most formal, whereas just using *ue* with less marking is polite
 * The bare form *i* is used casually or between friends; it can be ruder or more 'direct'
 * You'd use *ue* when speaking to your elders and also mark all the words when speaking to your boss or teacher

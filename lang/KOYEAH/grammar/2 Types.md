@@ -20,8 +20,8 @@
 		* if you said *so ni ii*, then that would mean 'he is good'
 
 ### 2.1.2 Modifying
-* Modifiers don't take the *i* copular if they're overtly marked:
-	* *su ni iinu i* :: `1SG TOP good`
+* Use *-nu*:
+	* *su ni iinu i* :: `1SG TOP good-MOD COP`
 		* "I am good"
 * Otherwise:
 	* *su ni mafo i* :: `1SG TOP red COP`
