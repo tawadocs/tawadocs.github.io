@@ -1,7 +1,7 @@
 ## 7.1 Social particles
 | Particle | IPA             | Gloss   |
 | -------- | --------------- | ------- |
-| ue       | `/ue/`          | COP.HON |
+| ue       | `/ue/`          | COP.POL |
 | dae      | `/dae/`         | FORM    |
 | ara      | `/aɾa/`~`/aɺa/` | POL     |
 

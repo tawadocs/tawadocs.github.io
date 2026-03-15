@@ -1318,6 +1318,36 @@
     ]
   },
   {
+    "word": "e",
+    "id": "a, n, seme",
+    "definitions": [
+      {
+        "text": "huh",
+        "frequency": 100
+      },
+      {
+        "text": "what",
+        "frequency": 100
+      },
+      {
+        "text": "eh",
+        "frequency": 100
+      },
+      {
+        "text": "let's see",
+        "frequency": 100
+      },
+      {
+        "text": "uh",
+        "frequency": 100
+      },
+      {
+        "text": "why",
+        "frequency": 100
+      }
+    ]
+  },
+  {
     "word": "ẽ",
     "id": "en",
     "definitions": [
@@ -6906,6 +6936,28 @@
     ]
   },
   {
+    "word": "ng",
+    "id": "n",
+    "definitions": [
+      {
+        "text": "hmm",
+        "frequency": 100
+      },
+      {
+        "text": "umm",
+        "frequency": 100
+      },
+      {
+        "text": "uhh",
+        "frequency": 100
+      },
+      {
+        "text": "soo",
+        "frequency": 100
+      }
+    ]
+  },
+  {
     "word": "ngopo",
     "id": "sike insa, insa",
     "definitions": [
@@ -10073,16 +10125,6 @@
       },
       {
         "text": "whereas",
-        "frequency": 100
-      }
-    ]
-  },
-  {
-    "word": "yad",
-    "id": "n",
-    "definitions": [
-      {
-        "text": "see Grammar:15",
         "frequency": 100
       }
     ]

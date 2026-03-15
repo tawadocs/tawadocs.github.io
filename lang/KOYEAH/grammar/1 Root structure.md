@@ -165,3 +165,12 @@
 				* no copular (we now know this is not a description)
 				* **pronoun + root** construction
 					* a copularless comment comprising of a pronoun + root is, well, very likely an action
+* Bare copular constructions also don't always need particles:
+	* *Asa ue* :: `house COP.POL`
+		* "(That/this) is a house"
+			* context fills in the gaps
+			* if you said this pointing or out to a stranger, they'd know what you're talking about
+	* *Onokoizun i* :: `friend-2SG.POSS COP`
+		* "I'm your friend"
+	* *Wan poki, poki ngoshi i* :: `one big big bird COP`
+		* "That is one big, big bird"
