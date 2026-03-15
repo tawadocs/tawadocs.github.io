@@ -727,12 +727,12 @@
 		* if not romantically involved, the person who said *kitanyu* will be viewed as perverted or a liar, or worse, both
 
 ## 0.26 The valency inverser
-* The valency inverser *-nai* is deceptive in name
-* It may inverse valency (active<->passive) but... it's very sneaky - it does many things
-* Look at this sentence, for example:
+* the valency inverser *-nai* is deceptive in name
+* it may inverse valency (active<->passive) but... it's very sneaky - it does many things
+* look at this sentence, for example:
 	* *Harinai baitaõ* -> `exchange-IV fruit-PRTV-ACC`
 		* wtf?! how is the passive verb *harinai* (from **hari**, 'to exchange / strike a deal') taking a DIRECT OBJECT?
-* To understand this, stop viewing *-nai* as a simple, static valency inverser
+* to understand this, stop viewing *-nai* as a simple, static valency inverser
 * Instead, view it as an **argument reductor**:
 	* *Hari asananõ asasambo* -> `exchange house-1PL.POSS-ACC house-3SG.F.POSS.OPP`
 		* "I exchanged our house for her house"
@@ -741,7 +741,7 @@
 		* "I bought our house instead of her house"
 			* here, *harinai* just means buy, it can't take another argument
 			* therefore, "*asasambo*" just refers to the other option you ignored
-* This usage is even more prominent with the use of *yara*:
+* this usage is even more prominent with the use of *yara*:
 	* *Soa yararranai byolla no?* -> `3SG.M-A come-NEG-IV DEM.PROX-ALL Q`
 		* ~"Didn't he come here?"
 			* **yara** is an ambitransitive verb, since it changes valency depending on argument without needing *nai*:
@@ -756,6 +756,18 @@
 			* this is why **yaranai** is often the standard for 'come' in its normal, intransitive form:
 				* *Yaranai byolla aiko!* -> `come-IV DEM.PROX-ALL IMP`
 					* ~"Come here, (now)!"
+* and also its use in *shire(nai)*:
+	* using `-nai` decouples the knowledge from the process
+	* it reduces the verb to a pure, isolated state of possession
+		* *ake shire ryõ!* -> `IMP know DEM.MED.ACC`
+			* "Know this!"
+				* as a command, *shire* is an active verb, meaning something like 'do know X'
+				* you can say *ake shirenai ryõ* but it's clunky for no good reason, since it's like telling someone 'I command you to undergo eating' - what? how do you even command someone to undergo something
+		* *sua shirenai sõ* -> `1SG-A know-MID 3SG.M.ACC`
+			* "I know him"
+				* here, *shirenai* is attributing the knowledge of *sõ* (him) to *su* (you)
+	* so, you'd usually use *shirenai*
+	* some snippets use *shire* but that is incorrect, since this is the proper Ashi Tawa standard
 
 ## 0.27 Dictionary inaccuracies
 * some sentence examples in the dictionary's semantic space may be incorrect
