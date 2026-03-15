@@ -54,7 +54,7 @@
 * For complex constructions, it usually is not:
 	* *twana ni lili mani* :: `tool TOP little money`
 		* "As for the tool, (it) little money"
-			* this is fine, but it's preferable to say:
+			* this could be understood, but it's preferable to say:
 				* *twana ni lili mani i*
 
 ### 2.1.3 Property particle
@@ -90,9 +90,13 @@
 		* using *eanu-natse* is fine but it implies a specifically moving cart or trolley that is in motion
 		* if you want to use it as one concept, you would add *-oe*:
 			* *eanu-natseoe* (trolley)
-* It can also be used for the direct object:
-	* *koha poki, poki atoraoe* :: `gift big big apple-NM`
+* For the direct object, just mark the verb as a verb if it's ever ambiguous:
+	* *koha(ru) poki, poki atora(oe)* :: `gift-(V) big big apple-(NM)`
 		* "(I) gift a big, big apple (to X)"
 			* even though *oe* just marks *atoraoe* as a noun here, it implies that one root here is a verb (*koha*)
-	* *sa koha ji su ii kohaoe* :: `1SG gift LOC 1SG good gift-NM`
+	* *sa koha(ru) su ji ii koha(oe)* :: `1SG gift-(V) LOC 1SG good gift-(NM)`
 		* "She gifted me a good gift"
+* p.s. marking either the verb as a verb or the object with the noun marker is fine:
+	* due to the strict **SVO** order, it is normally understood that the last noun will be the object of whatever verb coming before it
+	* so this is fine:
+		* *sa koha su ji ii koha*

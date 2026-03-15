@@ -137,8 +137,8 @@
 	* *Ri, lyo ni haku i* = yeah, that's true
 	* *Ra, su fofu me arene i* = no, what I said is different
 	* *Ra, su fofura ryoe!* = no, I didn't say this!
-		* for reported speech, what is being reported is the 'direct object' of the verb (e.g., speak (fofu))
-		* so 'he said he's epic' is *so fofu ryoe: so ni epiku* (he says this: he is epic)
+		* for reported speech, what is being reported is nested with **me**
+		* so 'he said he's epic' is *so fofu **me** so ni epiku* (he says (that) he is epic)
 			* for quotations, just use *mo*:
 				* *so fofu mo 'su ni epiku'* (he said, "I am epic")
 	* *Riwakara ita ei, ra...* = didn't think about that, no...

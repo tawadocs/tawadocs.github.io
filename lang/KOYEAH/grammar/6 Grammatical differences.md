@@ -3,7 +3,7 @@
 * *óy* and *t* are now *oy* `/ɔjḁ/` and `/tḁ/`
 	* pronounced roughly the same but the devoiced vowels preserve (C)V(N) structure
 * *mh* `/m̥͡m/` is pronounced `/mʲ/`
-* *q* `/c͡ç/` is pronounced `/x~ħ/`, but `/c͡ç/` can be acceptable
+* *q* `/c͡ç/` is pronounced `/ç~x/`, but `/c͡ç/` is also acceptable
 * *r* and *rr* `/ɺ ɾ/` are simply pronounced `/ɺ~ɾ~r/`
 * *nh*, *ng*, and *nq* `/n̼ ŋ ɴ/` are simply pronounced `/ŋ~ɴ/`
 * *w* and *v* `/w ʋ/` are simply `/w~ʋ/`
@@ -27,7 +27,7 @@
 		* *subeoite kamu* :: `desire.IRR eat.V`
 			* "Should eat"
 				* though Koyeah Tawa prefers *ieiite kamu* (better to eat) and avoids complex particles, like irrealis ones
-		* *so a niruoi su shi a hateru ji so* :: `3SG.M A see.V.IRR 1SG COND A run.V LOC 3SG.M`
+		* *so a niruoi su shi a hateru so ji* :: `3SG.M A see.V.IRR 1SG COND A run.V 3SG.M LOC`
 			* "he would see me if I run to him"
 				* when it combines with verbs, it takes the *uoi* form (V.IRR)
 				* the noun form *oei* is also available
