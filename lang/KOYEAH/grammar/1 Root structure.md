@@ -153,6 +153,10 @@
 		* lit. "As for (me), he helped"
 		* ~"He helped (me)"
 			* the pronoun *su* is omitted, but the topic remains
+* It is only acceptable to omit *ni* in highly frank, intimate, or casual contexts, and only if the context makes parsable the sentence:
+	* *Asa ii i* :: `house good COP`
+		* "The house is good"
+			* since there is no other reading with the copular *i* present
 * The actor particle can be omitted many times:
 	* *To, ni so ai* :: `PFV TOP 3SG.M help`
 		* "He helped me"
