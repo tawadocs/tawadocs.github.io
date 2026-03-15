@@ -135,10 +135,14 @@
 	* *Yararinai* = (indeed) came
 * They are not only suffixes:
 	* *Ri, lyo ni haku i* = yeah, that's true
-	* *Ra, su fofu me arene i* = no, what I said is different
+	* *Ra, su fofu eu arene i* = no, what I said is different
 	* *Ra, su fofura ryoe!* = no, I didn't say this!
 		* for reported speech, what is being reported is nested with **me**
 		* so 'he said he's epic' is *so fofu **me** so ni epiku* (he says (that) he is epic)
 			* for quotations, just use *mo*:
 				* *so fofu mo 'su ni epiku'* (he said, "I am epic")
 	* *Riwakara ita ei, ra...* = didn't think about that, no...
+
+## 1.7 Similatives
+* All similative particles are the same as Ashi Tawa's
+* System is used in the same manner (e.g., *osarara su imnyi so* - 'don't call me him!' is fine in Koyeah Tawa)

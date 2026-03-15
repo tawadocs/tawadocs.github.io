@@ -2,6 +2,7 @@
 | Particle | IPA     | Gloss |
 | -------- | ------- | ----- |
 | **me**   | `/me/`  | REL   |
+| **eu**   | `/eu/`  | COMP  |
 | **mas**  | `/mas/` | AGNR  |
 
 ## 3.2 Nesting
@@ -24,3 +25,24 @@
 * Do note that the copular may be omitted, so:
 	* *hon me korumas*
 * ... is fine
+
+## 3.4 Embedding
+* Use *eu* to embed states or report speech:
+	* *fofu eu reo yaranai arene wano* :: `speak.V COMP IPFV come-MID TEMP different time`
+		* "He said that (he) will come another time"
+* *eu* can also behave like a mood, indicating second-hand reporting of something:
+	* *to niru eu asa ni lili mani i* :: `PFV see.V COMP house TOP little money COP`
+		* "I saw that the house was of little money"
+			* this implies that you 'saw' it second-hand, so maybe through a picture, maybe indirectly, maybe you imagined it:
+			* this is what you might say afterwards if you imagined it:
+				* *mo mo eira* :: `but ANAPH-NEG`
+					* '... but it wasn't'
+* *eu* also nests further clauses inside *me-clauses* like this:
+	* *nigonq a hateru nigo do me daka sami eu harinai*
+		* ~"The dog that chases the cat stole the fish that (I) bought"
+	* if you used *me*:
+		* *nigonq a hateru nigo do me daka sami me harinai
+			* ~"The dog that chases the cat that stole the fish that I bought"
+			* fine, but has a lot of stacking fatigue
+			* parsing it like:
+				* As for the dog chases the cat, as for the fish he steals, I bought (it)
