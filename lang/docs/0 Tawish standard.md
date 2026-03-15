@@ -545,6 +545,9 @@
 		* "Going to / will take the red one"
 	* *pokil no ya* -> `big-DEF NM ASSERT`
 		* "The big one"
+* even *fuyu no* (what (one) / what thing / which) is fine
+	* *fuyu no hyo?* -> `what NM OPEN.Q`
+		* "Which one? What (thing)?"
 * it can also strengthen assertion or add a 'stop asking me anymore' nuance:
 	* *unsa yaranai ni tachiryãl no ya* -> `life-A come-IV TOP way-DEM.MED.MOD-DEF NM ASSERT`
 		* lit. "This is the way (that) life unfolds / comes"

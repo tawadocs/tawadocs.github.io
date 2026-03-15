@@ -32,3 +32,10 @@
 				* when it combines with verbs, it takes the *uoi* form (V.IRR)
 				* the noun form *oei* is also available
 * modal system is the same, but instead of **ũ**, the infinitive *te* is used (e.g., *subute* :: want to (...))
+
+## 6.2 Questions
+* In Koyeah Tawa, *yo* (`Q.ALT`) is another question particle used when *no* nominalises a thing and that nominalisation is marked a question:
+	* *fuyu no?* :: `what Q`
+		* "What?"
+	* *fuyu no yo?* :: `what NM Q.ALT`
+		* "What thing? / Which one?"
