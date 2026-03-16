@@ -27,3 +27,7 @@
 * Do note that whilst *oe* also marks an accusative or object, it's often used to mark a root as nominal
 * If you see it with verbs, though, then it would obviously be marking the direct object
 * It is often not really needed
+
+## 8.3 Features from Ashi Tawa
+* Stuff like *butei* (property, from *bu* (PROP) + tei (PROD)) is still possible, even if not formally codified
+	* *butei* would refer to a property, like in *butei a daminu nampangutas* (a property is easily measurable...)
