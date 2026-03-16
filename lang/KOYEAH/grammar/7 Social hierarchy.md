@@ -1,9 +1,9 @@
 ## 7.1 Social particles
-| Particle | IPA             | Gloss   |
-| -------- | --------------- | ------- |
-| ue       | `/ue/`          | COP.POL |
-| dae      | `/dae/`         | FORM    |
-| ara      | `/aɾa/`~`/aɺa/` | POL     |
+| Particle | IPA         | Gloss   |
+| -------- | ----------- | ------- |
+| ue       | `/ue/`      | COP.POL |
+| dae      | `/dae/`     | FORM    |
+| ara      | `/aɾa~aɺa/` | POL     |
 
 ## 7.2 Polite copular
 * The copular is mandatory in polite constructions
