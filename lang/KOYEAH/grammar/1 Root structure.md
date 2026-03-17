@@ -93,6 +93,12 @@
 	* *jananq no hon* :: `heaven-ANT GEN person`
 		* lit. "A person of hell"
 		* ~"Dweller of hellfire"
+* some more sentences focusing on noun linking:
+	* *desga no asa* :: `opposite-side GEN house`
+		* "House to the opposite side"
+	* *asawun ni asanan no desga ue no?* :: `house-3SG.POSS TOP house-1PL.POSS GEN opposite-side COP.POL Q`
+		* lit. "As for their home, our home's opposite ((it) is)?"
+		* ~"Is their house opposite to our home?"
 
 ## 1.5 Infinitive
 - The infinitive _te_ marks infinitives
