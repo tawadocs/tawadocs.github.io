@@ -31,3 +31,13 @@
 ## 8.3 Features from Ashi Tawa
 * Stuff like *butei* (property, from *bu* (PROP) + tei (PROD)) is still possible, even if not formally codified
 	* *butei* would refer to a property, like in *butei a daminu nampangutas* (a property is easily measurable...)
+
+## 8.4 Sentence order
+* Koyeah Tawa has a strong tendency towards SOV in marked or complex constructions
+* So, verb-final order predominates when postpositions, particles, or embedded structures are present:
+	* *na a ii kamo we pitsa ji ea* :: `1PL A good food ADD pizza LOC MOV`
+		* lit. "we, good food and pizza in, move"
+		* ~"We went out for some good food and pizza"
+	* *poki hon me urukuen ryo ji ue niru no?* :: `big person REL stand-VBZ DEM.MED LOC COP.POL see.V Q`
+		* lit. "Big man that standing this (location is), see?"
+		* ~"(Do you) see the big guy (that is) standing over there?"

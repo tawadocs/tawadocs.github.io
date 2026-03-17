@@ -1,5 +1,5 @@
 ## 1.1 Sentences
-* Sentence structure is SVO
+* Sentence structure is SVO-SOV
 * Modifiers go before the noun
 	* *meiya (soft) ngoshi (bird)* -> soft bird
 * Topic-comment structure
