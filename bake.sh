@@ -7,3 +7,5 @@ node kanjibase.js
 echo "done"
 node koyeah.js
 echo "done"
+bash texts/Bypass.sh
+echo "done"
