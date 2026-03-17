@@ -407,7 +407,40 @@
             50% { transform: scale(1.5); opacity: 0.5; }
             100% { transform: scale(1); opacity: 1; }
         }
+        /* Koyeah Toggle Styling */
+        .koyeah-ctrl {
+            margin-bottom: 2rem;
+            display: flex;
+            justify-content: flex-end;
+        }
 
+        .btn-koyeah {
+            background: rgba(255, 77, 109, 0.05);
+            border: 1px solid var(--border-subtle);
+            color: var(--text-muted);
+            padding: 0.5rem 1rem;
+            border-radius: var(--radius-sm);
+            font-size: 0.75rem;
+            font-weight: 700;
+            letter-spacing: 0.1em;
+            cursor: pointer;
+            transition: var(--transition);
+            text-transform: uppercase;
+        }
+
+        .btn-koyeah.active {
+            background: var(--accent-hot);
+            color: white;
+            border-color: var(--accent-hot);
+            box-shadow: 0 0 20px rgba(255, 77, 109, 0.4);
+        }
+
+        /* The Splash Highlight */
+        .koyeah-highlight {
+            border-color: var(--accent-hot) !important;
+            box-shadow: 0 0 30px rgba(255, 77, 109, 0.2) !important;
+            transform: translateY(-4px); /* Slight lift to emphasize the splash */
+        }
     </style>
 </head>
 <body>
@@ -496,12 +529,16 @@
                     <p>Master the structural rules, grammatical logic, and phonetic systems that govern the language.</p>
                 </div>
 
+                <div class="koyeah-ctrl">
+                    <button id="koyeahToggle" class="btn-koyeah">Koyeah Reference</button>
+                </div>
+
                 <div class="grid">
-                    <a href="public/grammar" class="card">
+                    <a href="public/grammar" class="card" id="card-grammar">
                         <h3>Gana ribu</h3>
                         <p>Complete Grammar Reference. Sentence structure, cases, and syntactic rules.</p>
                     </a>
-                    <a href="public/mprf" class="card">
+                    <a href="public/mprf" class="card" id="card-mprf">
                         <h3>Tawa no iyuklú ẽ pamya</h3>
                         <p>Morphophonology. The rules governing sound changes and syllable structures.</p>
                     </a>
@@ -582,6 +619,33 @@
             card.addEventListener('mouseleave', () => {
                 card.style.setProperty('--mouse-x', 'transparent');
             });
+        });
+        const koyeahToggle = document.getElementById('koyeahToggle');
+        const cardGrammar = document.getElementById('card-grammar');
+        const cardMprf = document.getElementById('card-mprf');
+
+        let koyeahActive = false;
+
+        koyeahToggle.addEventListener('click', () => {
+            koyeahActive = !koyeahActive;
+            
+            // Toggle Button UI
+            koyeahToggle.classList.toggle('active');
+            koyeahToggle.textContent = koyeahActive ? 'Koyeah Mode' : 'Koyeah Reference';
+
+            // Apply Splash Highlight
+            [cardGrammar, cardMprf].forEach(card => {
+                card.classList.toggle('koyeah-highlight');
+            });
+
+            // Update Redirect Links
+            if (koyeahActive) {
+                cardGrammar.setAttribute('href', 'public/grammarkoyeah.html');
+                cardMprf.setAttribute('href', 'public/mprfkoyeah.html');
+            } else {
+                cardGrammar.setAttribute('href', 'public/grammar');
+                cardMprf.setAttribute('href', 'public/mprf');
+            }
         });
     </script>
 </body>
