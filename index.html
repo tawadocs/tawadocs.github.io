@@ -3,27 +3,39 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>ii miri Tawa | Home</title>
-    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;800&display=swap" rel="stylesheet" />
+    <title>ii miri Tawa | Hub</title>
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&display=swap" rel="stylesheet" />
     <style>
         :root {
-            --bg-base: #000000;
-            --bg-surface: rgba(255, 182, 193, 0.03);
-            --bg-surface-hover: rgba(255, 182, 193, 0.08);
-            --border-subtle: rgba(255, 182, 193, 0.1);
-            --border-focus: rgba(255, 182, 193, 0.3);
-            --text-primary: #ffffff;
-            --text-secondary: #ffb7c5;
-            --text-muted: rgba(255, 182, 193, 0.6);
-            --accent-soft: #ffb7c5;
-            --accent-hot: #f57a9a;
+            /* Colour */
+            --bg-base: #140b0e; 
+            --bg-surface: rgba(255, 179, 198, 0.03);
+            --bg-surface-hover: rgba(255, 179, 198, 0.08);
+            --bg-core: rgba(255, 77, 109, 0.06);
+            
+            /* Borders */
+            --border-subtle: rgba(255, 179, 198, 0.12);
+            --border-focus: rgba(255, 117, 143, 0.4);
+            --border-core: rgba(255, 77, 109, 0.3);
+            
+            /* Typography */
+            --text-primary: #fff0f3;
+            --text-secondary: #ffc2d1;
+            --text-muted: rgba(255, 179, 198, 0.6);
+            
+            /* Accents */
+            --accent-soft: #ff8fa3;
+            --accent-hot: #ff4d6d;
+            
+            /* Sizing */
             --sidebar-width: 280px;
             --sidebar-collapsed-width: 80px;
             --topbar-height: 80px;
-            --radius-lg: 24px;
-            --radius-md: 16px;
+            --radius-xl: 32px;
+            --radius-lg: 20px;
+            --radius-md: 12px;
             --radius-sm: 8px;
-            --transition: 0.5s cubic-bezier(0.16, 1, 0.3, 1);
+            --transition: 0.4s cubic-bezier(0.2, 0.8, 0.2, 1);
         }
 
         body {
@@ -34,25 +46,28 @@
             display: flex;
             min-height: 100vh;
             overflow-x: hidden;
+            -webkit-font-smoothing: antialiased;
         }
 
+        /* Atmosphere */
         .ambient-bg {
             position: fixed;
             top: 0; left: 0; width: 100vw; height: 100vh;
             pointer-events: none;
             z-index: -1;
             background: 
-                radial-gradient(circle at 15% 50%, rgba(255, 77, 125, 0.08) 0%, transparent 40%),
-                radial-gradient(circle at 85% 30%, rgba(255, 183, 197, 0.05) 0%, transparent 50%);
-            filter: blur(60px);
-            transition: filter 1s ease;
+                radial-gradient(circle at 10% 0%, rgba(255, 77, 109, 0.06) 0%, transparent 45%),
+                radial-gradient(circle at 90% 80%, rgba(255, 143, 163, 0.04) 0%, transparent 50%),
+                radial-gradient(circle at 50% 50%, rgba(255, 179, 198, 0.02) 0%, transparent 60%);
+            filter: blur(80px);
         }
 
+        /* --- Sidebar --- */
         .sidebar {
             width: var(--sidebar-width);
-            background: rgba(10, 5, 8, 0.6);
-            backdrop-filter: blur(20px);
-            -webkit-backdrop-filter: blur(20px);
+            background: rgba(20, 11, 14, 0.65);
+            backdrop-filter: blur(24px);
+            -webkit-backdrop-filter: blur(24px);
             border-right: 1px solid var(--border-subtle);
             display: flex;
             flex-direction: column;
@@ -64,6 +79,7 @@
             transition: width var(--transition), padding var(--transition);
         }
 
+        /* Collapsed by default */
         .sidebar.collapsed {
             width: var(--sidebar-collapsed-width);
             padding: 2rem 0.75rem;
@@ -72,69 +88,47 @@
         .sidebar-toggle {
             position: absolute;
             top: 2.2rem;
-            right: -12px;
-            width: 24px;
-            height: 24px;
-            background: var(--accent-hot);
-            border: none;
+            right: -14px;
+            width: 28px;
+            height: 28px;
+            background: var(--bg-base);
+            border: 1px solid var(--border-focus);
             border-radius: 50%;
             cursor: pointer;
             display: flex;
             align-items: center;
             justify-content: center;
-            color: white;
-            font-size: 12px;
-            box-shadow: 0 0 10px var(--accent-hot);
+            color: var(--accent-hot);
+            font-size: 10px;
+            box-shadow: 0 4px 12px rgba(255, 77, 109, 0.2);
             z-index: 101;
             transition: var(--transition);
         }
 
-        .sidebar.collapsed .sidebar-toggle {
+        .sidebar-toggle:hover {
+            background: var(--accent-hot);
+            color: white;
+            transform: scale(1.1);
+        }
+
+        .sidebar:not(.collapsed) .sidebar-toggle {
             transform: rotate(180deg);
         }
 
         .brand {
-            font-size: 1.5rem;
+            font-size: 1.4rem;
             font-weight: 800;
             margin-bottom: 3rem;
             color: var(--text-primary);
-            letter-spacing: -0.03em;
+            letter-spacing: -0.02em;
             display: flex;
             align-items: center;
-            gap: 12px;
+            gap: 14px;
             white-space: nowrap;
             overflow: hidden;
         }
 
-        .sidebar.collapsed .brand span {
-            display: none;
-        }
-
-        .brand::before {
-            content: '';
-            display: block;
-            min-width: 12px;
-            height: 12px;
-            background: var(--accent-hot);
-            border-radius: 50%;
-            box-shadow: 0 0 15px var(--accent-hot);
-        }
-
-        .nav-section-title {
-            font-size: 0.75rem;
-            text-transform: uppercase;
-            letter-spacing: 0.15em;
-            color: var(--text-muted);
-            margin: 1.5rem 0 0.75rem 0.5rem;
-            font-weight: 600;
-            white-space: nowrap;
-            overflow: hidden;
-            transition: opacity 0.3s ease;
-        }
-
-        .sidebar.collapsed .nav-section-title {
-            opacity: 0;
-        }
+        .sidebar.collapsed .brand span { display: none; }
 
         .sidebar-link {
             text-decoration: none;
@@ -146,29 +140,32 @@
             transition: var(--transition);
             display: flex;
             align-items: center;
-            gap: 10px;
+            gap: 12px;
             white-space: nowrap;
+            margin-bottom: 0.25rem;
         }
 
-        .sidebar.collapsed .sidebar-link span {
-            display: none;
+        .sidebar-link i {
+            font-style: normal;
+            font-size: 1.1rem;
+            min-width: 24px;
+            text-align: center;
         }
 
-        .sidebar-link:hover {
+        .sidebar.collapsed .sidebar-link span { display: none; }
+
+        .sidebar-link:hover, .sidebar-link.active {
             background: var(--bg-surface-hover);
             color: var(--text-primary);
-            transform: translateX(4px);
         }
-
-        .sidebar-link.highlight-koyeah {
-            background: rgba(255, 77, 125, 0.15);
-            color: var(--text-primary);
+        .sidebar-link.active {
             border-left: 3px solid var(--accent-hot);
-            box-shadow: inset 20px 0 30px -20px rgba(255, 77, 125, 0.3);
+            background: linear-gradient(90deg, rgba(255, 77, 109, 0.1), transparent);
         }
 
+        /* --- Main Layout --- */
         .main-wrapper {
-            margin-left: var(--sidebar-width);
+            margin-left: var(--sidebar-collapsed-width); /* Default to collapsed width */
             flex: 1;
             display: flex;
             flex-direction: column;
@@ -176,8 +173,8 @@
             transition: margin-left var(--transition);
         }
 
-        body:has(.sidebar.collapsed) .main-wrapper {
-            margin-left: var(--sidebar-collapsed-width);
+        body:has(.sidebar:not(.collapsed)) .main-wrapper {
+            margin-left: var(--sidebar-width);
         }
 
         .topbar {
@@ -186,8 +183,9 @@
             align-items: center;
             justify-content: center;
             padding: 0 3rem;
-            background: rgba(10, 5, 8, 0.4);
+            background: rgba(20, 11, 14, 0.4);
             backdrop-filter: blur(15px);
+            -webkit-backdrop-filter: blur(15px);
             border-bottom: 1px solid var(--border-subtle);
             position: sticky;
             top: 0;
@@ -197,9 +195,9 @@
         .tab-container {
             display: flex;
             gap: 0.5rem;
-            background: var(--bg-surface);
-            padding: 0.5rem;
-            border-radius: var(--radius-md);
+            background: rgba(0,0,0,0.2);
+            padding: 0.35rem;
+            border-radius: 100px;
             border: 1px solid var(--border-subtle);
         }
 
@@ -207,24 +205,30 @@
             background: transparent;
             border: none;
             color: var(--text-secondary);
-            padding: 0.75rem 1.5rem;
-            border-radius: var(--radius-sm);
+            padding: 0.65rem 1.5rem;
+            border-radius: 100px;
             font-family: inherit;
             font-weight: 600;
-            font-size: 0.95rem;
+            font-size: 0.9rem;
             cursor: pointer;
             transition: var(--transition);
         }
 
-        .tab-btn.active {
-            background: var(--text-primary);
-            color: var(--bg-base);
-            box-shadow: 0 4px 15px rgba(255, 255, 255, 0.1);
+        .tab-btn:hover {
+            color: var(--text-primary);
         }
 
+        .tab-btn.active {
+            background: var(--bg-surface-hover);
+            color: var(--text-primary);
+            border: 1px solid var(--border-focus);
+            box-shadow: 0 4px 20px rgba(255, 77, 109, 0.15);
+        }
+
+        /* --- Content Area --- */
         .content-area {
-            padding: 4rem;
-            max-width: 1200px;
+            padding: 4rem 3rem;
+            max-width: 1100px;
             margin: 0 auto;
             width: 100%;
             box-sizing: border-box;
@@ -232,178 +236,301 @@
 
         .view {
             display: none;
-            animation: fadeIn 0.6s cubic-bezier(0.22, 1, 0.36, 1) forwards;
+            animation: fadeIn 0.5s cubic-bezier(0.2, 0.8, 0.2, 1) forwards;
         }
 
         .view.active { display: block; }
 
         @keyframes fadeIn {
-            from { opacity: 0; transform: translateY(20px); }
+            from { opacity: 0; transform: translateY(15px); }
             to { opacity: 1; transform: translateY(0); }
         }
 
+        .hero { margin-bottom: 4rem; }
+        
         .hero h1 {
-            font-size: clamp(3rem, 5vw, 4.5rem);
+            font-size: clamp(2.5rem, 4vw, 3.5rem);
             font-weight: 800;
             margin: 0;
             line-height: 1.1;
-            letter-spacing: -0.02em;
+            letter-spacing: -0.03em;
+            background: linear-gradient(135deg, #fff, var(--accent-soft));
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
         }
 
         .hero p {
-            font-size: 1.25rem;
+            font-size: 1.15rem;
             color: var(--text-muted);
-            margin: 1.5rem 0;
-            max-width: 600px;
+            margin: 1.25rem 0 0;
+            max-width: 550px;
             line-height: 1.6;
         }
 
+        /* --- Section Styling --- */
+        .section-header {
+            margin: 3.5rem 0 1.5rem;
+            display: flex;
+            align-items: baseline;
+            gap: 1rem;
+        }
+
+        .section-header h2 {
+            font-size: 1.25rem;
+            font-weight: 700;
+            color: var(--text-primary);
+            margin: 0;
+            letter-spacing: -0.01em;
+        }
+
+        .section-header p {
+            font-size: 0.9rem;
+            color: var(--text-muted);
+            margin: 0;
+        }
+
+        /* --- Grids & Cards --- */
         .grid {
             display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
-            gap: 1.5rem;
-            margin-top: 1.5rem;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 1.25rem;
         }
 
         .card {
             background: var(--bg-surface);
             border: 1px solid var(--border-subtle);
             border-radius: var(--radius-lg);
-            padding: 2.5rem 2rem;
+            padding: 2rem;
             text-decoration: none;
             color: var(--text-primary);
             position: relative;
             display: flex;
             flex-direction: column;
-            transition: all 0.5s cubic-bezier(0.16, 1, 0.3, 1);
+            transition: all 0.4s cubic-bezier(0.2, 0.8, 0.2, 1);
             overflow: hidden;
+            z-index: 1;
         }
 
         .card:hover {
-            transform: translateY(-8px) scale(1.02);
+            transform: translateY(-4px);
             border-color: var(--border-focus);
-            box-shadow: 0 30px 60px rgba(0,0,0,0.5);
+            box-shadow: 0 20px 40px rgba(0,0,0,0.3);
+            background: var(--bg-surface-hover);
         }
 
-        .card.koyeah-mode {
-            border-color: rgba(255, 77, 125, 0.5);
-            background: linear-gradient(135deg, rgba(255, 77, 125, 0.08), transparent);
-        }
-
-        .badge {
+        /* Magnetic Hover Glow */
+        .card::before {
+            content: "";
             position: absolute;
-            top: 1.5rem;
-            right: 1.5rem;
-            background: var(--accent-hot);
-            color: white;
-            font-size: 0.65rem;
-            font-weight: 800;
-            padding: 4px 10px;
-            border-radius: 20px;
-            box-shadow: 0 0 15px rgba(255, 77, 125, 0.4);
-            animation: badgePop 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+            top: 0; left: 0; right: 0; bottom: 0;
+            border-radius: inherit;
+            background: var(--mouse-x, transparent);
+            z-index: -1;
+            opacity: 0;
+            transition: opacity 0.3s ease;
+        }
+        .card:hover::before { opacity: 1; }
+
+        .card h3 {
+            font-size: 1.4rem;
+            font-weight: 700;
+            margin: 0 0 0.5rem 0;
+            color: var(--text-primary);
         }
 
-        @keyframes badgePop {
-            from { transform: scale(0); opacity: 0; }
-            to { transform: scale(1); opacity: 1; }
+        .card p {
+            font-size: 0.95rem;
+            color: var(--text-muted);
+            margin: 0;
+            line-height: 1.5;
         }
+
+        /* --- Mandatory/Core Styling --- */
+        .grid.core-grid {
+            grid-template-columns: repeat(auto-fit, minmax(340px, 1fr));
+            gap: 1.5rem;
+        }
+
+        .card.core-card {
+            background: linear-gradient(145deg, var(--bg-core), rgba(20, 11, 14, 0.8));
+            border: 1px solid var(--border-core);
+            padding: 2.5rem 2rem;
+            box-shadow: inset 0 0 40px rgba(255, 77, 109, 0.03);
+        }
+
+        .card.core-card:hover {
+            border-color: var(--accent-hot);
+            box-shadow: 0 20px 50px rgba(255, 77, 109, 0.15), inset 0 0 40px rgba(255, 77, 109, 0.08);
+        }
+
+        .badge-essential {
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            background: rgba(255, 77, 109, 0.15);
+            color: var(--accent-hot);
+            font-size: 0.7rem;
+            font-weight: 800;
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+            padding: 6px 12px;
+            border-radius: 100px;
+            margin-bottom: 1.25rem;
+            border: 1px solid rgba(255, 77, 109, 0.3);
+            width: fit-content;
+        }
+
+        .badge-essential::before {
+            content: '';
+            width: 6px;
+            height: 6px;
+            background: var(--accent-hot);
+            border-radius: 50%;
+            box-shadow: 0 0 8px var(--accent-hot);
+            animation: pulse 2s infinite;
+        }
+
+        .badge-placeholder {
+            position: absolute;
+            top: 1.5rem; right: 1.5rem;
+            background: var(--bg-surface-hover);
+            color: var(--text-muted);
+            font-size: 0.7rem;
+            font-weight: 600;
+            padding: 4px 10px;
+            border-radius: 100px;
+            border: 1px solid var(--border-subtle);
+        }
+
+        @keyframes pulse {
+            0% { transform: scale(1); opacity: 1; }
+            50% { transform: scale(1.5); opacity: 0.5; }
+            100% { transform: scale(1); opacity: 1; }
+        }
+
     </style>
 </head>
 <body>
     <div class="ambient-bg"></div>
 
-    <nav class="sidebar" id="mainSidebar">
-        <button class="sidebar-toggle" id="sidebarToggle">◀</button>
+    <nav class="sidebar collapsed" id="mainSidebar">
+        <button class="sidebar-toggle" id="sidebarToggle">▶</button>
         <div class="brand"><span>ii miri Tawa</span></div>
-        <div class="nav-section-title">Core</div>
-        <a href="public/dictionary" class="sidebar-link"><span>Kana ribu</span></a>
-        <a href="Kanji/kanji" class="sidebar-link"><span>Tawa no Kanji</span></a>
-        <div class="nav-section-title">Extended</div>
-        <a href="public/extended" class="sidebar-link"><span>Kanaitsukoã ribu</span></a>
-        <a href="public/kanjibase" class="sidebar-link"><span>Tawa no Kanji no Ribu</span></a>
-        <div class="nav-section-title">Technical Reference</div>
-        <a href="public/grammar" id="side-grammar" class="sidebar-link"><span>Gana ribu</span></a>
-        <a href="public/mprf" id="side-mprf" class="sidebar-link"><span>Tawa no iyuklú</span></a>
-        <a href="public/orthography" class="sidebar-link"><span>Pamya Tawaji</span></a>
+        
+        <a href="#" class="sidebar-link active" data-nav="view-lexicon">
+            <i>1</i><span>Lexicon Reference</span>
+        </a>
+        <a href="#" class="sidebar-link" data-nav="view-technical">
+            <i>2</i><span>Technical Reference</span>
+        </a>
+        <a href="#" class="sidebar-link" data-nav="view-resources">
+            <i>3</i><span>Resources & Culture</span>
+        </a>
     </nav>
 
     <div class="main-wrapper">
         <header class="topbar">
             <div class="tab-container">
-                <button class="tab-btn active" data-target="view-tawa" data-mode="ashi">Ashi Tawa</button>
-                <button class="tab-btn" data-target="view-tawa" data-mode="koyeah">Koyeah Tawa</button>
+                <button class="tab-btn active" data-target="view-lexicon">Lexicon</button>
+                <button class="tab-btn" data-target="view-technical">Technical</button>
                 <button class="tab-btn" data-target="view-resources">Resources</button>
             </div>
         </header>
 
         <main class="content-area">
-            <div id="view-tawa" class="view active">
+            
+            <div id="view-lexicon" class="view active">
                 <div class="hero">
-                    <h1>The good medium<br>for progressing.</h1>
-                    <p>Welcome to the central hub for learning and referencing the ii miri Tawa languages.</p>
+                    <h1>Lexicon Reference</h1>
+                    <p>The definitive dictionary and radical database for the ii miri Tawa language. Begin with the mandatory core concepts.</p>
                 </div>
-                <div class="grid-wrapper">
-                    <section>
-                        <div class="nav-section-title" style="margin-left:0; color:var(--accent-hot)">Core Lexicon</div>
-                        <div class="grid">
-                            <a href="public/dictionary" class="card">
-                                <h2>Kana ribu</h2>
-                                <p>Core Lexicon</p>
-                            </a>
-                            <a href="Kanji/kanji" class="card">
-                                <h2>Tawa no Kanji</h2>
-                                <p>Core Tawish Kanji</p>
-                            </a>
-                        </div>
-                    </section>
 
-                    <section>
-                        <div class="nav-section-title" style="margin-left:0; color:var(--accent-hot)">Core Lexicon</div>
-                        <div class="grid">
-                            <a href="public/extended" class="card">
-                                <h2>Kanaitsukoã ribu</h2>
-                                <p>Extended lexicon</p>
-                            </a>
-                            <a href="public/kanjibase" class="card">
-                                <h2>Tawa no Kanji no Ribu</h2>
-                                <p>Tawish Kanji dictionary</p>
-                            </a>
-                        </div>
-                    </section>
+                <div class="section-header" style="margin-top: 0;">
+                    <h2>The Foundation</h2>
+                    <p>Mandatory starting points for all learners.</p>
+                </div>
+                <div class="grid core-grid">
+                    <a href="public/dictionary" class="card core-card">
+                        <div class="badge-essential">Essential</div>
+                        <h3>Kana ribu</h3>
+                        <p>Core Lexicon. The essential vocabulary required to understand and speak the language.</p>
+                    </a>
+                    <a href="Kanji/kanji" class="card core-card">
+                        <div class="badge-essential">Essential</div>
+                        <h3>Tawa no Kanji</h3>
+                        <p>Core Tawish Kanji. The mandatory root radicals used in written expression.</p>
+                    </a>
+                </div>
 
-                    <section style="margin-top: 4rem;">
-                        <div class="nav-section-title" style="margin-left:0; color:var(--accent-hot)">Technical References</div>
-                        <div class="grid">
-                            <a href="public/grammar" id="card-grammar" class="card">
-                                <h2>Gana ribu</h2>
-                                <p>Grammar Reference</p>
-                            </a>
-                            <a href="public/mprf" id="card-mprf" class="card">
-                                <h2>Tawa no iyuklú ẽ pamya</h2>
-                                <p>Morphophonology Reference</p>
-                            </a>
-                        </div>
-                    </section>
+                <div class="section-header">
+                    <h2>Extended Roots & Compounds</h2>
+                    <p>Expand your fluency with deeper vocabulary and complex character combinations.</p>
+                </div>
+                <div class="grid">
+                    <a href="public/extended" class="card">
+                        <h3>Ribukanaitsukoã</h3>
+                        <p>Extended Lexicon. Nuanced roots and expanded vocabulary for advanced speakers.</p>
+                    </a>
+                    <a href="public/kanjibase" class="card">
+                        <h3>Tawa no Kanji no Ribu</h3>
+                        <p>Tawish Kanji Dictionary. Comprehensive dataset of combined Tanji compounds.</p>
+                    </a>
+                </div>
+
+                <div class="section-header">
+                    <h2>Advanced Datasets</h2>
+                    <p>For technical jargon, niche neologisms, and scientific terminology.</p>
+                </div>
+                <div class="grid">
+                    <a href="#" class="card" style="opacity: 0.7; pointer-events: none;">
+                        <span class="badge-placeholder">SOON</span>
+                        <h3>Tanjiiedaminqã</h3>
+                        <p>Technical or extended radicals.</p>
+                    </a>
+                </div>
+            </div>
+
+            <div id="view-technical" class="view">
+                <div class="hero">
+                    <h1>Technical Reference</h1>
+                    <p>Master the structural rules, grammatical logic, and phonetic systems that govern the language.</p>
+                </div>
+
+                <div class="grid">
+                    <a href="public/grammar" class="card">
+                        <h3>Gana ribu</h3>
+                        <p>Complete Grammar Reference. Sentence structure, cases, and syntactic rules.</p>
+                    </a>
+                    <a href="public/mprf" class="card">
+                        <h3>Tawa no iyuklú ẽ pamya</h3>
+                        <p>Morphophonology. The rules governing sound changes and syllable structures.</p>
+                    </a>
+                    <a href="public/orthography" class="card">
+                        <h3>Pamya Tawaji</h3>
+                        <p>Orthography. Standardised writing rules, punctuation, and script guidelines.</p>
+                    </a>
                 </div>
             </div>
 
             <div id="view-resources" class="view">
                 <div class="hero">
                     <h1>Resources & Culture</h1>
-                    <p>Dive deeper into the expressions, history, and translated literature of the language.</p>
+                    <p>Immerse yourself in translated literature, common idioms, and the cultural context of the language.</p>
                 </div>
+                
                 <div class="grid">
                     <a href="public/idioms" class="card">
-                        <h2>Fofoqeteilós</h2>
-                        <p>Idioms and everyday phrases</p>
+                        <h3>Fofoqeteilós</h3>
+                        <p>A curated collection of idioms, everyday phrases, and conversational shortcuts.</p>
                     </a>
-                    <a href="texts/home" class="card">
-                        <h2>Yumetei Tawaji</h2>
-                        <p>Literature and text adaptations</p>
+                    <a href="#" class="card" style="opacity: 0.7; pointer-events: none;">
+                        <span class="badge-placeholder">SOON</span>
+                        <h3>Yumetei Tawaji</h3>
+                        <p>Literature hub featuring texts, poetry, and adaptations.</p>
                     </a>
                 </div>
             </div>
+
         </main>
     </div>
 
@@ -413,49 +540,35 @@
 
         sidebarToggle.addEventListener('click', () => {
             sidebar.classList.toggle('collapsed');
+            sidebarToggle.textContent = sidebar.classList.contains('collapsed') ? '▶' : '◀';
         });
 
         const tabBtns = document.querySelectorAll('.tab-btn');
+        const sideLinks = document.querySelectorAll('.sidebar-link');
         const views = document.querySelectorAll('.view');
-        const dynamicElements = [
-            { card: document.getElementById('card-grammar'), side: document.getElementById('side-grammar'), baseHref: 'public/grammar' },
-            { card: document.getElementById('card-mprf'), side: document.getElementById('side-mprf'), baseHref: 'public/mprf' }
-        ];
 
-        function setMode(mode) {
-            const isKoyeah = mode === 'koyeah';
-            document.querySelector('.ambient-bg').style.filter = isKoyeah ? 'blur(60px) hue-rotate(320deg)' : 'blur(60px) hue-rotate(0deg)';
-            dynamicElements.forEach(item => {
-                const targetHref = isKoyeah ? `${item.baseHref}koyeah` : item.baseHref;
-                item.card.href = targetHref;
-                item.side.href = targetHref;
-                item.side.classList.toggle('highlight-koyeah', isKoyeah);
-                item.card.classList.toggle('koyeah-mode', isKoyeah);
-                let badge = item.card.querySelector('.badge');
-                if (isKoyeah) {
-                    if (!badge) {
-                        badge = document.createElement('div');
-                        badge.className = 'badge'; badge.textContent = 'KOYEAH';
-                        item.card.appendChild(badge);
-                    }
-                } else if (badge) {
-                    badge.style.animation = 'badgePop 0.3s reverse forwards';
-                    setTimeout(() => badge.remove(), 300);
-                }
+        function switchView(targetId) {
+            tabBtns.forEach(b => b.classList.remove('active'));
+            document.querySelector(`.tab-btn[data-target="${targetId}"]`)?.classList.add('active');
+
+            sideLinks.forEach(b => b.classList.remove('active'));
+            document.querySelector(`.sidebar-link[data-nav="${targetId}"]`)?.classList.add('active');
+
+            views.forEach(view => {
+                view.classList.remove('active');
+                if(view.id === targetId) view.classList.add('active');
             });
+            window.scrollTo({ top: 0, behavior: 'smooth' });
         }
 
         tabBtns.forEach(btn => {
-            btn.addEventListener('click', () => {
-                tabBtns.forEach(b => b.classList.remove('active'));
-                btn.classList.add('active');
-                const targetViewId = btn.getAttribute('data-target');
-                views.forEach(view => {
-                    view.classList.remove('active');
-                    if(view.id === targetViewId) view.classList.add('active');
-                });
-                const mode = btn.getAttribute('data-mode');
-                if (mode) setMode(mode);
+            btn.addEventListener('click', () => switchView(btn.getAttribute('data-target')));
+        });
+
+        sideLinks.forEach(link => {
+            link.addEventListener('click', (e) => {
+                e.preventDefault();
+                switchView(link.getAttribute('data-nav'));
             });
         });
 
@@ -464,10 +577,10 @@
                 const rect = card.getBoundingClientRect();
                 const x = e.clientX - rect.left;
                 const y = e.clientY - rect.top;
-                card.style.background = `radial-gradient(600px circle at ${x}px ${y}px, rgba(255, 182, 193, 0.06), transparent 40%), var(--bg-surface)`;
+                card.style.setProperty('--mouse-x', `radial-gradient(800px circle at ${x}px ${y}px, rgba(255, 179, 198, 0.05), transparent 40%)`);
             });
             card.addEventListener('mouseleave', () => {
-                card.style.background = `var(--bg-surface)`;
+                card.style.setProperty('--mouse-x', 'transparent');
             });
         });
     </script>
