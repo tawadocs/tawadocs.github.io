@@ -4,3 +4,4 @@ lang/.obsidian/
 .obsidian/
 ID/
 node_modules/
+.venv
