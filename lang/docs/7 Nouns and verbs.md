@@ -25,6 +25,7 @@
 		* "Doings of his"
 	* *fuenzun* -> `ACT-NMLZ-2SG.POSS`
 		* "Your doings"
+* *nyu* and *en* always combine to form **nyen** (`ROM.NMLZ`)
 
 ## 7.2 Products
 * *tei* turns any root into its product, but it is context-dependent
