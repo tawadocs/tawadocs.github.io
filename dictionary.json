@@ -3864,6 +3864,24 @@
     ]
   },
   {
+    "word": "jamu",
+    "id": "jan sewi, sewi",
+    "definitions": [
+      {
+        "text": "God",
+        "frequency": 100
+      },
+      {
+        "text": "the one God",
+        "frequency": 100
+      },
+      {
+        "text": "God Himself",
+        "frequency": 100
+      }
+    ]
+  },
+  {
     "word": "jana",
     "id": "ma sewi",
     "definitions": [
@@ -10349,20 +10367,6 @@
       },
       {
         "text": "story",
-        "frequency": 100
-      }
-    ]
-  },
-  {
-    "word": "zhamu",
-    "id": "sewi, jan sewi",
-    "definitions": [
-      {
-        "text": "God",
-        "frequency": 100
-      },
-      {
-        "text": "deity",
         "frequency": 100
       }
     ]

@@ -186,5 +186,19 @@
         "frequency": 100
       }
     ]
+  },
+  {
+    "word": "zhamu",
+    "id": "sewi, jan sewi",
+    "definitions": [
+      {
+        "text": "God",
+        "frequency": 100
+      },
+      {
+        "text": "deity",
+        "frequency": 100
+      }
+    ]
   }
 ]
