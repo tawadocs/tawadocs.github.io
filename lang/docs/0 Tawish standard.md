@@ -81,6 +81,8 @@
 	* the o does not always need to be omitted (ryo)
 	* banned syllables are not allowed, use accepted alternatives (so to+ru->thu and to+ĩ->thĩ)
 		* do not use tsu or chi (standard alternatives) as they are alien when compared to an aspirated *t*, which sounds closest to *to*
+		* it, however, does not follow for romantic forms:
+			* *chyu* (PFV.V.ROM)
 * though if its a demonstrative like ryo or ends with yo, then ryji-type constructions are fine, though ryjiã would be wrong (ryãji is correct)
 	* still, *ryotei* or *ryoji* is the standard
 
