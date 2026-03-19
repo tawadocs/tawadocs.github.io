@@ -197,3 +197,28 @@
 * You always use the *core* preposition particles and **ONLY IF** nuance is needed, you use the other available ones
 * More often than not, particles like *ye* or *yen* are not needed
 * The only exception to this is *ita* and maybe some of the locative class
+
+## 4.4 The 'wa' word particle
+* Apart from its domains as per Ashi Tawa grammar, it also inherits a domain from the Japanese も (**mo**) particle, like in:
+	* *ii hon oi wa futa a unsunai* :: `good person EXCESS-COP too cap A live.V-MID`
+		* "There has to be a limit to being too much of a good person!"
+			* literally, *wa* here is like saying 'there also/even has to be a limit...' / 'there has to be a limit as well / too'
+			* however, more properly, it's behaving akin to a comitative
+* The difference between *mo* and *wa*:
+	* *wa* is an inclusive and additive
+		* *su wa ii* :: ~"I am also good / I am good too"
+	* *mo* is a relational and sequential and has many functions
+		* *su ii mo* :: ~"Me with good"
+		* *su mo ii* :: ~"Me, then good"
+* Keep this in mind when choosing which to use:
+	* *mo*: here is how A relates to B
+		* *ii hon oi futa a unsunai mo*
+			* being too good comes with a limit that exists
+		* *ii hon oi mo futa a unsunai*
+			* being too good, then a limit exists
+	* *wa*: here is one more thing to consider
+		* *ii hon oi wa futa a unsunai*
+			* there has to be a limit to being too good...
+* ... and note that:
+	* *wa* can replace *a* and *ni* naturally, and it can also topicalise clauses
+	* *mo* is a postposition and can't do this - and because the language highly prefers SVO (unless it's formal or complex/technical writing), using *mo* actually makes the phrase harder to parse (unless reordered in SOV, which is redundant already) and more redundant

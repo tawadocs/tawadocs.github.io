@@ -303,7 +303,7 @@ async function inspectWord(wEnc, gEnc, iEnc, isEncoded = false) {
     let gloss = isEncoded ? decodeURIComponent(escape(atob(gEnc))) : gEnc;
     let ipa = isEncoded ? decodeURIComponent(escape(atob(iEnc))) : iEnc;
 
-    const cleanWord = word.toLowerCase().replace(/[.,\/#!$%\^&\*;:{}=\-_`~()]/g,"");
+    const cleanWord = word.toLowerCase().replace(/\p{P}/gu, "");
 
     new Audio(`static/assets/${cleanWord}.m4a`).play().catch(() => {});
 

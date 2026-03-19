@@ -40,6 +40,7 @@
 	* *su wa ii* -> I am also good / I'm good too
 	* *sa**o** wa korru* / *sao korru wa* -> She was killed as well
 		* here, *o* wasn't dropped
+* it **can** work similarly to a domain of the Japanese 'mo'
 
 ## 20.2 When to and not to use them
 * Don't literally use it for building every root

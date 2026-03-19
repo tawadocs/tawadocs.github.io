@@ -2,6 +2,11 @@
 * Sentence structure is SVO-SOV
 * Modifiers go before the noun
 	* *meiya (soft) ngoshi (bird)* -> soft bird
+* Modifiers **can** go after the noun:
+	* *ngoshi meiya* -> soft bird
+	* *haeku iehatero* -> walk faster
+		* especially if they're marked (explicitly):
+			* *jitei asanu* -> a comfortable place / place like home
 * Topic-comment structure
 * Context-first and pro-drop
 

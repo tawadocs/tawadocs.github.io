@@ -10,6 +10,7 @@
 * *ni* is simply `/ni/`, there is no palatal allophony anymore
 * mono- and direduplication as well as degree remains, but:
 	* *sta* is pronounced `/su̥ta/`
+	* *ól* is simply *o* now (pronounced `/ɔ/`)
 * romantic-platonic distinction is preserved but:
 	* it's not commonly used, if at all
 	* only *cha/che* and *-(r)u* are commonly used for gender and verb marking respectively

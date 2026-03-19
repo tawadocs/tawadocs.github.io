@@ -1,0 +1,7 @@
+The actor particle (A). In sentences, its role is to mark that which precedes it as a doer of that which follows it.
+
+Take these words: 'nigo' (cat) and 'kamu' (the verbal form of kamo (eat/food-stem)).
+
+To show that the specifically the cat, and no one else, is eating as a subject, you say: nigo a kamu (the cat (and no one else) eats).
+
+'a' may not be used for non-actor subjects. Saying 'nigo a iinu' is grammatically incorrect. You would either omit it or use copula and/or topic-based constructions.

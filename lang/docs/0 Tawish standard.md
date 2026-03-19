@@ -358,26 +358,26 @@
 	* *kamuthu hya?* `eat.V.PLAT-PFV.V.PLAT Q` -> "Have (you) eaten?"
 	* *sua hateruthu* `1SG-A run.V.PLAT-PFV.V.PLAT` -> "I ran"
 * Use *o* to mark an entity being affected by something:
-	* *sao korru* `3SG.F-U kill.V.PLAT` -> "She was killed"
+	* *sao koru* `3SG.F-U kill.V.PLAT` -> "She was killed"
 * The *a* `A` particle only marks the doer; however, it does not necessitate that a verb must follow; instead, any word type can follow, and the sentence is parsed depending on the word type:
 	* *sua iitei* `1SG-A good-PROD` -> "I am good"
 * Compare these sentences:
-	* *sao korru* `3SG.F-U kill.V.PLAT` -> "She was killed"
-	* *sao korrunai* `3SG.F-U kill.V.PLAT-IV` -> "She died"
-	* *sa′a korrunai* `3SG.F-A kill.V.PLAT-IV` -> "She died"
-	* *sa ni korrunai* `3SG.F TOP kill.V.PLAT-IV` -> "She is / has dead / died"
+	* *sao koru* `3SG.F-U kill.V.PLAT` -> "She was killed"
+	* *sao korunai* `3SG.F-U kill.V.PLAT-IV` -> "She died"
+	* *sa′a korunai* `3SG.F-A kill.V.PLAT-IV` -> "She died"
+	* *sa ni korunai* `3SG.F TOP kill.V.PLAT-IV` -> "She is / has dead / died"
 * You might be confused: don't they all mean the same thing?
-	* **sao korru**
+	* **sao koru**
 		* the focus is on the death 'inflicted' upon her
 		* a killer is implied (could be a disease poetically)
-		* *korru* is transitive
+		* *koru* is transitive
 			* "she is killed"
-	* **sao korrunai**
+	* **sao korunai**
 		* the focus is on her as the undergoer of death; no killer is implied
-		* *korrunai* is intransitive
+		* *korunai* is intransitive
 		* `{UNDERGOER}o {VERB}nai` constructions are always used to place focus on the undergoer
 			* "she dies"
-	* **sa′a korrunai**
+	* **sa′a korunai**
 		* the focus is on her as the agent of death here
 		* so this automatically implicates her in her dying
 		* `{ACTOR}a {VERB}nai` constructions are always used to place the focus on the agent
@@ -385,7 +385,7 @@
 			* "her death was her fault"
 			* "she chose to die"
 			* "she killed herself"
-	* **sa ni korrunai**
+	* **sa ni korunai**
 		* the topic particle changes the meaning here a little
 		* the focus is on the death itself or the state itself
 			* "(as for her), she (is) dead"
@@ -396,7 +396,7 @@
 		* ~"I purchase fish at the market"
 	* *sua kachi samiõ* -> `1SG-A bite fish-ACC`
 		* ~"I bite the fish"
-	* *suo kachinai samilnin* -> `1SG-U bite fish-DEF-PER`
+	* *suo kachinai samilnin* -> `1SG-U bite-IV fish-DEF-PER`
 		* ~"I am bitten by the fish"
 		* here, the focus is on you; a natural response would be to inquire about where the fish bit you
 	* *suo kachi samiõ* -> `1SG-U bite fish-ACC`
@@ -770,6 +770,13 @@
 				* here, *shirenai* is attributing the knowledge of *sõ* (him) to *su* (you)
 	* so, you'd usually use *shirenai*
 	* some snippets use *shire* but that is incorrect, since this is the proper Ashi Tawa standard
+* one more thing:
+	* *-nai* also marks verbs that don't take objects
+	* for example, take this sentence:
+		* *Kamuthunai hya?* -> `eat.V-PFV.V.PLAT Q`
+			* "Have you eaten?"
+	* here, *kamuthu* takes no objects, and since *kamuthu* is strongly transitive, *-nai* reduces an argument; therefore, *kamuthunai* (to have eaten) is used
+	* even though *kamuthu hya?* is actually grammatically allowed and permissible, the (preferable and) **more formal or polite** construction is *kamuthunai*
 
 ## 0.27 Dictionary inaccuracies
 * some sentence examples in the dictionary's semantic space may be incorrect

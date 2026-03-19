@@ -41,3 +41,10 @@
 	* *poki hon me urukuen ryo ji ue niru no?* :: `big person REL stand-VBZ DEM.MED LOC COP.POL see.V Q`
 		* lit. "Big man that standing this (location is), see?"
 		* ~"(Do you) see the big guy (that is) standing over there?"
+
+## 8.5 Copular modification
+* In some cases, the copular can take morphemes, such as degree markers; however, the copular can never be reduplicated for non-augmentative superlative degree and is forced to take the augmentative superlative:
+	* *oi* :: `EXCESS-COP`
+		* "To be too much of something"
+		* e.g., *hashiru oi* :: `child EXCESS-COP`
+			* "Too childish / (is being / to be) too much of a child"

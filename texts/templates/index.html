@@ -278,7 +278,7 @@ async function inspectWord(wEnc, gEnc, iEnc, isEncoded = false) {
     let ipa = isEncoded ? decodeURIComponent(escape(atob(iEnc))) : iEnc;
 
     // Remove punctuation for file system search only
-    const cleanWord = word.toLowerCase().replace(/[.,\/#!$%\^&\*;:{}=\-_`~()]/g,"");
+    const cleanWord = word.toLowerCase().replace(/\p{P}/gu, "");
     
     new Audio(`/static/assets/${cleanWord}.m4a`).play().catch(() => {});
     
