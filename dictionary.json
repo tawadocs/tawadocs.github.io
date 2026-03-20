@@ -894,6 +894,10 @@
       {
         "text": "tea",
         "frequency": 100
+      },
+      {
+        "text": "chocolate",
+        "frequency": 100
       }
     ]
   },
@@ -7291,6 +7295,10 @@
       },
       {
         "text": "milk",
+        "frequency": 100
+      },
+      {
+        "text": "white chocolate",
         "frequency": 100
       }
     ]

@@ -574,5 +574,23 @@
       "Romaji": "hane",
       "Japanese": "はね"
     }
+  },
+  {
+    "ID": "1774021980317",
+    "Radical": "⽶",
+    "Strokes": 6,
+    "Alias": "ca",
+    "Usage": "often used in compounds denoting semi-solidity or chocolatey or velvety textures, like in 'bunica' (brown chocolate) or 'ohiraca' (milk/white chocolate).",
+    "Definitions": [
+      "rice",
+      "semi-solid",
+      "sticky",
+      "goo",
+      "sludge"
+    ],
+    "Readings": {
+      "Romaji": "こめ",
+      "Japanese": "こめ"
+    }
   }
 ]
