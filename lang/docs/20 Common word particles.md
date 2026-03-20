@@ -1,34 +1,30 @@
 ## 20.1 Common grammaticalised particles
-| Word        | Usage                                        | Grammatical usage                                                                    |
-| ----------- | -------------------------------------------- | ------------------------------------------------------------------------------------ |
-| **tachi**   | *way, manner, method*                        | **kamutachi** (manner of eating / way of eating); **irimetachi hyo?** (how to work?) |
-| **hatero**  | *run, persist, series*                       | **uns'haterã** (the system of life)                                                 |
-| **irime**   | *job, work, craft*                           | **mahokairime** (witchcraft)                                                         |
-| **tan**     | *why, reason, because of, source*            | **meitan** (biology)                                                                 |
-| **twana**   | *device, tool*                               | **kiuktwanãsta** ((~insect) wings)                                                  |
-| **wa**      | *too, also*                                  | **zu wa kita atoraõ** (you also like apples)                                        |
-| **shí**    | *primordial unit, particle, particulate*     | **riwakashí** (neurone, concept, symbol)                                            |
-| **yara**    | *become, come*                               | **taheteyarã** (digitise, electronise)                                              |
-| **sumatà** | *liver, intense courage*                     | **unssumatã** (vitality)                                                            |
-| **miri**    | *middle, medium, moderate, amongst, (~core)* | **arenemiritas** (interchangeable)                                                   |
+| Word      | Usage                                        | Grammatical usage                                                                    |
+| --------- | -------------------------------------------- | ------------------------------------------------------------------------------------ |
+| **hwo**   | *liver, intense courage*                     | **unshwã** / **uns'hwã** (vitality)                                                |
+| **two**   | *device, tool*                               | **kiuktwãsta** ((~insect) wings)                                                    |
+| **hato**  | *run, persist, series*                       | **unshatã** / **uns'hatã** (the system of life)                                    |
+| **yaro**  | *become, come*                               | **taheteyarã** (digitise, electronise)                                              |
+| **tachi** | *way, manner, method*                        | **kamutachi** (manner of eating / way of eating); **irimetachi hyo?** (how to work?) |
+| **irime** | *job, work, craft*                           | **mahokarime** (witchcraft)                                                          |
+| **tan**   | *why, reason, because of, source*            | **meitan** (biology)                                                                 |
+| **wa**    | *too, also*                                  | **zu wa kita atoraõ** (you also like apples)                                        |
+| **shí**  | *primordial unit, particle, particulate*     | **riwakashí** (neurone, concept, symbol)                                            |
+| **miri**  | *middle, medium, moderate, amongst, (~core)* | **arenemiritas** (interchangeable)                                                   |
 * These four particles are very important in grammar
 * Without them, a large chunk of semantic expression is lost:
 	* *iinq kamutachi* -> bad manners of eating (e.g., chewing loudly)
-	* *twana'haterã* -> the device/tool ecosystem
+	* *twana'hatã* -> the device/tool ecosystem
 	* *mahokairime* -> witchcraft
 	* *meitan* -> biology
-	* *tabetetwana* -> electroshock weapons, restraint chairs, torture weapons
-	* *esacetwana*
+	* *tabetetwã* -> electroshock weapons, restraint chairs, torture weapons
+	* *esacetwã*
 		* no direct translation, but think Jigsaw or Saw traps, probably (even) worse
-	* *gayamonãch*
+	* *gayashí*
 		* atoms, atomic particles
-	* *tahetemonãch*
-		* charge / charged, electrons
-	* *tanshí*
-		* atom, subatomic particle
 	* *damiyarã*
 		* simplify, make easier
-	* *honsumatã*
+	* *honhwa*
 		* humanity, humanness
 	* *arenemiritas*
 		* amongst that which has the potential (to) change
@@ -49,3 +45,17 @@
 * For example:
 	* *Zu ni damitansun* -> `2SG TOP light-reason-1SG.POSS`
 		* "You are the reason why (my life is so) light."
+
+## 20.3 Standard update
+* According to the v3.1.3 update of the Modern Tawish Standard, the following particles are used instead of their older counterparts:
+	* **sumata** -> **hwo**
+		* *honhwã*
+	* **mono** -> **shí**
+		* *gayashí*
+	* **twana** -> **two**
+		* *tabetetwã*
+	* **hatero** -> **hato**
+		* *unshatã* / *uns'hatã*
+	* **yara** -> **yaro**
+		* *taheteyarã*
+* Note that the **′o-roots** should take the appropriate particle
