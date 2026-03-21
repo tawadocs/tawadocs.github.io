@@ -48,3 +48,52 @@
 		* "To be too much of something"
 		* e.g., *hashiru oi* :: `child EXCESS-COP`
 			* "Too childish / (is being / to be) too much of a child"
+
+## 8.6 Different usages of **ni**
+* The topic particle can be **contrastive** if used more than once:
+	* *su ni sami ni kita* :: `1SG TOP fish TOP like`
+		* lit. "As for me, as for fish, like"
+		* ~"I like fish, at least"
+			* it implies that you like fish but you might not like other things, like beef
+	* *su ni kita nigooe, nigonq ni a kitanq* :: `1SG TOP like cat-ACC cat-ANT TOP A like-ANT`
+		* lit. "As for me, like cat, as for dog, (they) dislike"
+		* ~"I like cats, but not dogs"
+* It can also show **opinion**:
+	* *su ni o to iinu* :: `1SG TOP U PFV good-MOD`
+		* lit. "As for me, you experienced good"
+		* ~"You were good to me / I thought you were good / For me, you used to be good"
+			* *su ni* sets the stage (i.e., the comment is **in regards to what**)
+			* *o to iinu* is the comment
+				* *o* is the undergoer (`U`) particle
+				* *to* is the perfective aspect
+				* *iinu* is the adjective form of 'good' (*ii*)
+				* *to iinu* would mean 'was good (modifier)'
+				* adding this (*to iinu*) after *o* would then attribute the predicate 'was good' to *o*, which would be the undergoer
+				* since context disambiguates the undergoer (*zu*), the undergoer is omitted
+		* you can also phrase it as:
+			* *O to iinu* :: `U PFV good-MOD`
+				* ~"You were good (to me)"
+					* no *su ni* needed, as it is inferred from context
+					* if you really wanted to make it explicit that this is regarding *su*, you could say:
+						* *Ni o to iinu* :: `TOP U PFV good-MOD`
+							* ~"You were good to (me)"
+
+## 8.7 When to and not to use the copular
+* *su ni o to kitanai* :: `1SG TOP U PFV like-MID`
+	* lit. "As for me, (you) were liked"
+	* ~"I liked (you)"
+		* *o* after the topic marks that something (inferred from context) is 'liked' (kitanai)
+		* the copular is not used, because *o to kitanai* is a verb phrase
+* *ryo ngoshi ni iepokinu* :: `DEM.MED bird TOP AUG~big-MOD`
+	* "This bird is quite big"
+		* *-nu* is a modifier
+		* the modifier inherently carries a 'to be / is'
+		* in such constructions, a copular is often omitted
+		* the copular *ue* can be stated if it is a formal or polite construction
+		* if it is not, either no copular is used or *i* is used to make it 'more casual / intimate'
+* *hon ni meiyanu sami i* :: `person TOP cute-MOD fish COP`
+	* "The man is a cute fish"
+		* an odd sentence, but it's fine for the sake of demonstration
+		* here, the descriptor (the comment) is a modifier chain (*meiya* + *sami*)
+		* if you said *meiyanu saminu*, that might be understood, but it would feel incomplete, awkward, and off
+		* for chains, the copular is always added to the last modifier
