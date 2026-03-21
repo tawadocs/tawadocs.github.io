@@ -26,6 +26,21 @@
 	* *fuenzun* -> `ACT-NMLZ-2SG.POSS`
 		* "Your doings"
 * *nyu* and *en* always combine to form **nyen** (`ROM.NMLZ`)
+* the *′o* isn't omitted if it results in illegal clustering and in some cases, just the *yu* form is used
+* examples:
+	* *sowo* -> *sownyu* (no need for *yu*)
+	* *ainàwa* -> *ainàwanyu*
+	* *kamo* -> *kamnyu*
+	* *miyo* -> *miyyu*
+	* *miro* -> *miryu*
+	* *nigo* -> *nigyu*
+	* *ryo* -> *ryyu*
+	* *hatero* -> *hateryu*
+	* *iyuko* -> *iyukyu*
+	* *jiteko* -> *jitekyu*
+	* *kó* -> *konyu*
+	* *mono* -> *monnyu*
+	* *ngopo* -> *ngopyu*
 
 ## 7.2 Products
 * *tei* turns any root into its product, but it is context-dependent

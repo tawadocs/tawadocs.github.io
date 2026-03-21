@@ -1,15 +1,15 @@
 ## 2.1 Social connotation
-| Particle | IPA    | Gloss    |
-| -------- | ------ | -------- |
-| nya      | `nʲa`  | F.ROM    |
-| nye      | `nʲe`  | M.ROM    |
-| ĉa      | `tɕa`  | F.PLAT   |
-| ĉe      | `tɕe`  | M.PLAT   |
-| óy      | `ɔj`   | POSITIVE |
-| t        | `t`    | NEGATIVE |
-| rei      | `ɺei`  | INANIM   |
-| mei      | `mei`  | ANIM     |
-| qe       | `c͡çe` | EMO      |
+| Particle | IPA     | Gloss    |
+| -------- | ------- | -------- |
+| nya      | `nʲa`   | F.ROM    |
+| nye      | `nʲe`   | M.ROM    |
+| ĉa      | `tɕa`   | F.PLAT   |
+| ĉe      | `tɕe`   | M.PLAT   |
+| óí     | `ɔj~ɔɪ` | POSITIVE |
+| t        | `t`     | NEGATIVE |
+| rei      | `ɺei`   | INANIM   |
+| mei      | `mei`   | ANIM     |
+| qe       | `c͡çe`  | EMO      |
 * *kanojnya* `partner.F.ROM`: girlfriend
 * *kanojnye* `partner.M.ROM`: boyfriend
 * *kanojĉa* `partner.F.PLAT`: female friend (platonic)

@@ -21,20 +21,114 @@
 		* "I will eat"
 
 ### 8.2.1 Extended aspect
-|            | Particle | IPA       | Gloss         | English equivalent                                         |
-| ---------- | -------- | --------- | ------------- | ---------------------------------------------------------- |
-| **Suffix** | teru     | `teɺu`    | PFV.CONT      | *(will) have been / (would) have been / has (always) been* |
-| **Suffix** | reteru   | `ɺeteɺu`  | IPFV.PFV.CONT | *will have been*                                           |
-| **Suffix** | teruiro  | `teruiɺo` | PRSV.PFV.CONT | *have kept*                                                |
-| **Suffix** | eruto    | `eɺuto`   | CONT.PFV      | *was (happening)*                                          |
-| **Suffix** | ciro     | `kʰiɺo`   | PFV.PRSV      | *completed with a lasting result / have (done)*            |
-| **Suffix** | reiro    | `ɺeiɺo`   | IPFV.PRSV     | *to be completed with a lasting result / will have (done)* |
-| **Suffix** | ireru    | `iɺeɺu`   | PRSV.CONT     | *remains*                                                  |
-| **Suffix** | cireru   | `kʰiɺeɺu` | PFV.PRSV.CONT | *used to*                                                  |
-| **Suffix** | reeru    | `ɺeːɺu`   | IPFV.CONT     | *will keep*                                                |
-* Not used in normal or casual speech
-* Archaic forms, only for formal texts
-* Only use if necessary
+|            | Particle | IPA    | Gloss       | English equivalent                                         |
+| ---------- | -------- | ------ | ----------- | ---------------------------------------------------------- |
+| **Suffix** | naku     | `nəku` | `PST.PROG`  | *was (happening)*                                          |
+| **Suffix** | naga     | `nəga` | `PST.HAB`   | *used to*                                                  |
+| **Suffix** | saru     | `saɺu` | `PERF.RES`  | *(will) have been / (would) have been / has (always) been* |
+| **Suffix** | reta     | `ɺeta` | `RESL`      | *completed with a lasting result / have (done)*            |
+| **Suffix** | fure     | `ɸuɺe` | `FUT.RESL`  | *to be completed with a lasting result / will have (done)* |
+| **Suffix** | rasu     | `ɺasu` | `PERS`      | *remains*                                                  |
+| **Suffix** | nata     | `nəta` | `FUT.CONT`  | *will keep*                                                |
+| **Suffix** | shibu    | `ɕibu` | `CONT.PRSV` | *have kept*                                                |
+| **Suffix** | iva      | `iʋa`  | `FUT.PROG`  | *will have been*                                           |
+| **Suffix** | rewa     | `ɺewa` | `FUT.PFV`   | *will have*                                                |
+* Usually aren't necessary, but can be used
+* Also reserved for poetry or formal texts
+
+#### 8.2.1.1 Usage
+* *naku* (~was happening)
+	* it can refer to basic interruption:
+		* *soramarunaku* -> `rain-V.PLAT-PST.PROG`
+			* "It was raining (when something else happened)"
+	* and nostalgic-adjacent states, without contrast:
+		* *hajirãnaku* -> `angel.MOD-PST.PROG`
+			* "It was beautiful/angelic (back then / in that moment)"
+* *naga* (~used to)
+	* denotes a lost skill or habit:
+		* *so ni haterunaga* -> `3SG.M TOP run.V.PLAT-PST.HAB`
+			* "He used to run (every day) back then"
+	* nostalgic, former states, with contrast:
+		* *hajirãnaga* -> `angel.MOD-PST.HAB`
+			* "It used to beautiful/angelic (in those days, but it isn't anymore)"
+* *saru* (~has always been)
+	* describes eternal states:
+		* *sowusaru* -> `shine.V.PLAT-PERF.RES`
+			* "It has (always) been shining (and still is)"
+	* and completed changes:
+		* *gaidanaisaru* -> `open-MID-PERF.RES`
+			* "It has opened (and now shows everything it holds)"
+		* *urukunaisaru* -> `stand-MID-PERF.RES`
+			* "It has stood (and now stands at its height)"
+		* *miyahajirã sownyunaisaru* -> `plant.A-angel.MOD shine.V.ROM-MID-PERF.RES`
+			* "The awe-inspiring plant has bloomed/shined (and it is now in full bloom)"
+* *reta* (~ended up)
+	* resultative; denotes the resultative state
+	* similar to *to* (PFV); however, it can denote **(1) regret**, **(2) total completion**, or a **(3) lack of control**
+	* to distinguish between the three, the speaker's tone and context matters a lot
+	* *-t* (*retat*, negative) or *-óí* (*retóí*, positive) can be used as well but they are often dropped as tone and context are often enough:
+		* *rawareta* -> `sleep-RESL`
+			* ~"I couldn't help but sleep"
+			* ~"I drifted off unintentionally"
+		* *makustareta* -> `cry-DIM.SUP-RESL`
+			* ~"I ended up crying"
+		* *kamureta kamteisunitanh* -> `eat.V-RESL food.PROD-1SG.POSS-PRTV-G.INV`
+			* ~"I completely finished all of my food (the whole of my food)"
+	* you can use it for mistakes, accidents, or regrets like this; in such constructions, it is almost the equivalent of the English 'oops' or similar:
+		* *Teqekarrareta* -> `recount<EMO>-NEG-RESL`
+			* ~"Oh crap, (I) don't remember"
+			* ~"(I'm) sorry... I don't remember"
+		* *Kamureta... kamteisan* -> `eat.V-RESL food.PROD-3SG.F.POSS`
+			* ~"(I'm) guilty of eating her food"
+			* ~"Well... (I) kinda ate her food"
+			* ~"I accidentally ate her food"
+			* ~"(I'm) sorry, (because I) ate her food"
+* *fure* (~to be done)
+	* a future accomplishment
+		* *sowufure* -> `shine.V.PLAT-FUT.RESL`
+			* ~"Will (finally) have shined (and stay shining)"
+	* a lasting result
+		* *fiyuifure* -> `remove-FUT.RESL`
+			* ~"(It) will be removed with a lasting result"
+* *rasu* (~remains)
+	* to simply remain in a state (**-rasen** for the (explicit) nominalised form)
+		* *sowrasen* -> `shine.PERS.NMLZ`
+			* ~"It remains shining"
+		* *sowurasu* -> `shine.V.PLAT-PERS`
+			* ~"It still / persists (to) shine / remains shining"
+	* to denote uninterruption:
+		* *fofwasen* -> `speak.PERS.NMLZ`
+			* ~"(They are) still talking (even though it's late)"
+				* note: *wasen* is a variant of *rasen* used when the root ends in a consonant like *f-* which cannot cluster with *-r* (so *fr* turns into *fw*, hence *fofwasen*)
+* *nata* (~will keep)
+	* to continue in the future:
+		* *sowunata* -> `shine.V.PLAT-FUT.CONT`
+			* ~"It shall continue to shine"
+	* sticking with something:
+		* *fofunata* -> `speak.V.PLAT-FUT.CONT`
+			* ~"They'll keep talking (on and on / anyway)"
+* *iva* (~will have been)
+	* future completion:
+		* *eaiva* -> `MOV-FUT.PROG`
+			* ~"(I) will have have been going (by the time you arrive)"
+		* *sowuiva* -> `shine.V.PLAT-FUT.PROG`
+			* ~"It will have been shining"
+* *rewa* (~will have)
+	* perfective future:
+		* *earewa* -> `MOV-FUT.PFV`
+			* ~"I will have gone (by the time you arrive)"
+		* *sowuchiva* -> `shine.V.PLAT-FUT.PFV`
+			* ~"It will have shined (and finished, (by then))"
+* *shibu* (~have kept / maintained)
+	* deliberate or intentional:
+		* *sowushibu(t/óí)* -> `shine.V.PLAT-CONT.PRSV-(NEGATIVE/POSITIVE)`
+			* ~"(It) has kept shining (intentionally / deliberately)"
+				* if the intention or deliberate act was negative, you could use *shibut*, and if it was positive, you could use *shibóí*
+				* without the connotation particles *-t* or *-óí*, it often does not carry intentionality
+	* maintenance:
+		* *teqekashibu* -> `recount<EMO>-CONT.PRSV`
+			* lit. "(I) have continued to remember"
+			* ~"I have kept it in my heart / I have maintained this memory"
 
 ## 8.3 Mood
 ### 8.3.1 Particle table
