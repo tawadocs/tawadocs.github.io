@@ -13,7 +13,7 @@
 
 ## 3.2 Recursion
 * Just embed a *me-clause* into a *me-clause*:
-	* *ngoshi a kamu atora me nandanai ika tsu me unsu* :: `bird A eat.V apple REL down-MID ABL tree REL live.V`
+	* *ngoshi a kamu atora me tsu dan nandanai me unsu* :: `bird A eat.V apple REL tree ABL down-MID REL live.V`
 		* The bird that ate the apple that fell from the tree lives
 
 ## 3.3 Clausal description
