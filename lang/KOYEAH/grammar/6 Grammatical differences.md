@@ -1,15 +1,16 @@
 ## 6.1 What's gone or changed
-* the vocative *ta* is gone (just use 'waka' combined with hon/'iku/hon'iku)
+* the vocative *ta* remains (for calling or doing vocative things)
 * *óy* and *t* are now *oy* `/ɔjḁ/` and `/tḁ/`
 	* pronounced roughly the same but the devoiced vowels preserve (C)V(N) structure
-* *mh* `/m̥͡m/` is pronounced `/mʲ/`
+* *mh* `/m̥͡m/` is pronounced `/m̥͡m~mʲ/`
 * *q* `/c͡ç/` is pronounced `/ç~x/`, but `/c͡ç/` is also acceptable
 * *r* and *rr* `/ɺ ɾ/` are simply pronounced `/ɺ~ɾ~r/`
-* *nh*, *ng*, and *nq* `/n̼ ŋ ɴ/` are simply pronounced `/ŋ~ɴ/`
-* *w* and *v* `/w ʋ/` are simply `/w~ʋ/`
-* *ni* is simply `/ni/`, there is no palatal allophony anymore
+* *nh* is pronounced `/n/` simply
+* *nq* `/ɴ/` is pronounced `/ɴ~q~ɢ/`
+* *w* `/ʋ/` and *v* `/w/` are simply `/w~ʋ/`
+* *ni* is simply `/ni/` for there is no palatal allophony anymore
 * mono- and direduplication as well as degree remains, but:
-	* *sta* is pronounced `/su̥ta/`
+	* *sta* is written as *suta* (e.g., **nandasuta**) and pronounced `/su̥ta/`
 	* *ól* is simply *o* now (pronounced `/ɔ/`)
 * romantic-platonic distinction is preserved but:
 	* it's not commonly used, if at all
@@ -17,7 +18,7 @@
 * no articles nor plurality
 * full relation system is intact
 * discourse particles are intact but:
-	* *am* is pronounced `/æn/`
+	* *am* is pronounced `/æn/`, but the nasal becomes bilabial if followed by a bilabial consonant or velar if followed by a velar consonant
 	* *yad* is pronounced `/jæː/`
 	* *ani* is simply pronounced `/æni/`
 * conditionality and temporal markers remain intact

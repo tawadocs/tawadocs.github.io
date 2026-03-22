@@ -96,4 +96,4 @@
 		* an odd sentence, but it's fine for the sake of demonstration
 		* here, the descriptor (the comment) is a modifier chain (*meiya* + *sami*)
 		* if you said *meiyanu saminu*, that might be understood, but it would feel incomplete, awkward, and off
-		* for chains, the copular is always added to the last modifier
+		* for chains, the copular is always added after the last modifier
