@@ -1,0 +1,86 @@
+## 9.1 Usage of **ni**
+*ni* is the topic particle, just like は (wa) in Japanese:
+- **The 'As For' Clause:*
+	- *ni* is best understood as 'as for [noun]'
+	- the particle 'sets the stage'
+- **Information Status:**
+	- it is used for 'Old' or 'Given' information
+	- but it can introduce a 'New' topic
+	- *ni* can be used to refer back to aforementioned persons or objects
+- **Scope of Influence:**
+	- an established topic (with *ni*) remains the topic until a new topic is re-established with *ni*
+- **Contrastive Usage:**
+	- it often shows a difference between things:
+		- *atora ni mafo i, su ni ohira* :: `apple TOP red 1SG TOP white`
+			- ~"The apple is red, but I am white"
+- **Generic Statements:**
+	- used for general truths, definitions, or habitual actions where the subject is a known category
+		- *sowo ni sowu sora ji* :: `sun TOP shine.V sky LOC`
+			- ~"The sun shines in the sky"
+
+## 9.2 Usage of **a**
+- **The 'Identity' Focus:**
+	- it answers the question 'Who did it?' or 'Which one?'
+- **Information Status:**
+	- it gives new information
+	- when introducing a person or thing for the very first time in a story or report, 'a' would be used
+- **Spontaneous Description:**
+	- used for reporting immediate, observed events or states that weren't previously being discussed
+		- *ngoshi a kamen* :: `bird A eat.VBZ`
+			- ~"The bird is eating"
+		- *sora a chien* :: `sky A water-VBZ`
+			- lit. "The sky is watering"
+			- ~"It is raining"
+- **Exclusionary Abilities:**
+	- it carries an inherent sense of 'this one and no other'
+		- *Jon a kamumas i* :: `john A eat.V-AG COP`
+			- ~"John is a gourmand"
+				- it implies that it is John (and no other) that is specifically holding the role of being a gourmand
+
+### 9.2.1 Note on the actor particle
+* Whilst *a* is an 'actor' particle that frequently forces even non-verbs appearing after it to be verbalised, it doesn't mean that it can't take non-verbs
+* For example, in the sentence *jon a kamumas i*, *a* takes *kamumas i*, which is a predicate with the *i* copular particle
+* Here, *a* cannot verbalise *kamumas* because it is:
+	* explicitly a noun (*-mas* is an agentivised noun)
+	* present with a copular (*i* attributes the predicate to the subject)
+
+## 9.3 New to Old
+In cohesive discourse, there is a standard 'hand-off' between these two particles to maintain flow.
+- **The Introduction Rule:**
+- A common pattern is to introduce a noun with 'a' and then switch to 'ni' for every subsequent mention.
+	- *To nigo a kamu kamteisun. Nigo ni iepokinu* :: `PFV cat A eat.V food.PROD-1SG.POSS | cat TOP AUG~big-MOD`
+		- ~"A cat ate my food. It (the cat) was very big/fat."
+- **Question and Answer Logic:**
+* Questions take *a* and answers too:
+    - *fuyu hon a kamunai kamsun no?* :: `what person A eat.V-MID food.1SG.POSS Q`
+	    - ~"Who (what person) ate my food?"
+	- *Honrra ya! Nigo a ei* :: `person-NEG ASSERT | cat A ANAPH`
+		- ~"Not a person! The cat did / it was a cat"
+
+## 2.2 Structural Constraints
+These markers interact differently depending on the complexity of the sentence.
+* Nested clauses take *a* because *ni* would be jarring:
+	* *ribu me fosho a harinai* :: `book REL boy A exchange-MID`
+		* "The book that the boy bought"
+- In casual speech, if the topic is already clear, the entire *noun ni* phrase is often dropped
+	- *a*, though, is rarely dropped because it provides the essential 'new' identity required to understand the sentence.
+- If you want to make the object of a sentence the main topic (topicalisation), you replace the object marker with 'ni'.
+    - *keka ni kamu* :: `cake TOP eat.V`
+	    - ~"I ate the cake"
+
+### 2.2.1 Why topicalise
+* Let's compare two sentences:
+	* (topicalised object) *keka ni kamu* :: `cake TOP eat.V`
+	* (direct object) *kamu keka* :: `eat.V cake`
+* Both translate to:
+	* "I ate the cake"
+* ... but mean something different:
+	* *keka ni kamu* is like saying: 'as for the cake, I ate it (but maybe not the rest / but I don't know about other food)'
+	* *kamu keka* is like stating a simple fact: 'I ate the cake'
+
+### 2.2.2 Japanese-esque constructions
+* Because of the way *a* works, constructions like this is fine, and sometimes even natural:
+	* *ryo kamtei ni kamqe a iewaoioinu* :: `DEM.MED food.PROD TOP food.EMO A AUG-taste-POSITIVE-MOD`
+		* ~"This food tastes really good"
+			* however, it's a little more poetic than that
+			* it's like saying 'the feeling I get from eating this is really pleasing (for me)'
