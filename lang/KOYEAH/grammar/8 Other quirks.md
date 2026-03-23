@@ -31,6 +31,12 @@
 ## 8.3 Features from Ashi Tawa
 * Stuff like *butei* (property, from *bu* (PROP) + tei (PROD)) is still possible, even if not formally codified
 	* *butei* would refer to a property, like in *butei a daminu nampangutas* (a property is easily measurable...)
+* *fu* is also used roughly the same, but it's a little more codified, in that Koyeah Tawa formally allows constructions like these
+	* *kana me fu kizute no do* :: `word REL ACT spike GEN PER`
+		* lit. "Words that do spike through(ing)"
+		* ~"Words that pierce"
+		* ~"Piercing words"
+			* usually, you'd just say ~*kizute no do no kana*, but this is fine for demonstrative purposes
 
 ## 8.4 Sentence order
 * Koyeah Tawa has a strong tendency towards SOV in marked or complex constructions
