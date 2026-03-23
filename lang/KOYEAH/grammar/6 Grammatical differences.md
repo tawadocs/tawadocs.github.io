@@ -1,6 +1,6 @@
 ## 6.1 What's gone or changed
 * the vocative *ta* remains (for calling or doing vocative things)
-* *óy* and *t* are now *oy* `/ɔjḁ/` and `/tḁ/`
+* *óy*/*óí* and *t* are now *oi* `/ɔɪ/` and `/tḁ/`
 	* pronounced roughly the same but the devoiced vowels preserve (C)V(N) structure
 * *mh* `/m̥͡m/` is pronounced `/m̥͡m~mʲ/`
 * *q* `/c͡ç/` is pronounced `/ç~x/`, but `/c͡ç/` is also acceptable
