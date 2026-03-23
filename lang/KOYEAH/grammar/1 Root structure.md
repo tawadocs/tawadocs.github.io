@@ -105,6 +105,23 @@
 		* lit. "As for their home, our home's opposite ((it) is)?"
 		* ~"Is their house opposite to our home?"
 
+### 1.4.1 Little note
+* When *no* is forced to appear at the end of a sentence but you aren't asking a question, then tone decides if you're using *no* for marking a noun or asking a question
+* Further, *ng* (often an interjection or filler) can mark it as a non-interrogative:
+	* *Poki no ng* :: `big NMZ FIL`
+		* lit. "(A) big thing, so"
+		* ~"(A) big thing"
+			* it feels incomplete if read literally, but *ng* is preceded by *no*
+			* this is a special case: when *ng* is preceded by *no*, it functions more as a verbal full-stop, unless something else comes after:
+				* *poki no ngggg... hon* :: `big GEN FIL person`
+					* lit. "Person of big"
+					* ~"(A) big... person"
+						* though this usually wouldn't be a normal sentence that you'd drop, it's fine for the purposes of demonstration
+* But for marking it as a question, use *yo*:
+	* *poki no yo?* :: `big NMZ Q2`
+		* ~"(It's) big?"
+		* or whatever the reading is supposed to be based on the context
+
 ## 1.5 Infinitive
 - The infinitive _te_ marks infinitives
 - It's uses are listed here:

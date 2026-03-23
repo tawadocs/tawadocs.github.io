@@ -78,7 +78,7 @@ These markers interact differently depending on the complexity of the sentence.
 	* *keka ni kamu* is like saying: 'as for the cake, I ate it (but maybe not the rest / but I don't know about other food)'
 	* *kamu keka* is like stating a simple fact: 'I ate the cake'
 
-### 9.4.2 Japanese-esque constructions
+### 9.4.2 Modifier attribution
 * Because of the way *a* works, constructions like this is fine, and sometimes even natural:
 	* *ryo kamtei ni kamqe a iewaoioinu* :: `DEM.MED food.PROD TOP food.EMO A AUG-taste-POSITIVE-MOD`
 		* ~"This food tastes really good"
@@ -114,3 +114,49 @@ These markers interact differently depending on the complexity of the sentence.
 		* unless you want to emphasise the exactness of what you saw or heard, you use *eu*
 	* the other degrees of *mo* for more control over exactness or absoluteness
 * Note that *mo* is very strong: if you misconstrue a person and you used *mo*, then that would be a very big lie, whereas with *eu* it could be seen as a genuine mistake
+
+## 9.6 Postposition interaction with **ni**
+* *X ji ni Y*
+	* X is in/at/to Y (contrast)
+	* *asasan ji ni reo eanai* :: `house-3SG.F.POSS LOC TOP IPFV go-MID`
+		* ~"To her house, I will go (e.g., but not his)"
+* *X un ni Y*
+	* At X / by X (contrast)
+	* *byo ni kamenrra un* :: `DEM.PROX TOP eat.VBZ-NEG INSTR`
+		* ~"I am not eating here (e.g., but I'll eat a home)"
+* *X mo ni Y*
+	* With X (relationship), Y (contrast)
+	* *so mo ni fofurra* :: `3SG.M COM TOP speak.V-NEG`
+		* ~"I won't talk to him"
+			* implies that you'd talk to others, just not him
+	* *so mo ni imorranai* :: `3SG.M COM TOP SIM-NEG-MID`
+		* ~"I am not like him"
+			* if you just said *so ni imorranai*, it would have a different meaning, unless you explicitly compared with yourself
+			* instead of overly verbose constructions like that, using the *X mo ni Y* relationship is easier
+	* *sami mo ni omoko a daeii ue* :: `fish CMPR TOP chicken A FORM-good COP.POL`
+		* ~"Rather than fish, the chicken is more exquisite"
+			* this is something you'd usually say at a dinner
+			* it's formal
+			* with friends, you can just say *sami ni ieii mo omoko* :: `fish TOP AUG-good CMPR chicken`
+				* the copular after *ieii* is omitted here (see **8:8.7**)
+* *X dan ni Y*
+	* From X, Y (contrast)
+	* *ko dan ni reo iekitaen hon ji i* :: `tomorrow ABL TOP IPFV AUG-like-VBZ person LOC COP`
+		* "Starting tomorrow (unlike today), I'll be more loving towards people"
+* *X da ni Y*
+	* Towards X, Y (contrast)
+	* *asasun un ni nanda da ni earranai* :: `house-1SG.POSS INSTR TOP down ALL TOP MOV-NEG-MID`
+		* "In my house, specifically in the downwards direction, don't go (up may be fine)"
+			* note that *nanda ji* is preferred instead of *nanda da*, since the latter is more 'poetic' than it is conversational
+	* *so da ni hvaitei a unsunai* :: `3SG.M ALL TOP fear-PROD A live.V-MID`
+		* "Towards him, fear/monsters live"
+* *X no ni Y*
+	* X (phrase, clause, or adjective) (as a thing / noun), Y
+	* *mafo no ni sa ji ue* :: `red NM TOP 3SG.F LOC COP.POL`
+		* "the red one is meant for her"
+* *X do ni Y*
+	* X (traverses / detaches) (at/from) Y
+	* *jimei do ni haeku* :: `LOC-ANIM ACC TOP walk.V`
+		* "Through the land, (I) walk"
+	* but note that *X do ni Y* is usually never used
+	* it's very redundant, and saying *jimei ni haeku* is actually fine 99% of the time

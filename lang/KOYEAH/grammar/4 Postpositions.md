@@ -97,7 +97,7 @@
                 - _kare iyuku mo 'jing'_ -> `bell sound.V QUOT ding`
             - he said **that** "I will come"
                 - _so fofu mo yaranai_ -> `3SG speak.V QUOT come-MID`
-        - comparison
+        - comparison (glossed as `CMPR`)
             - bigger **than** him
                 - _iepoki mo so_ -> `AUG-big COMP 3SG.M`
         - temporal sequence or sequentiality
