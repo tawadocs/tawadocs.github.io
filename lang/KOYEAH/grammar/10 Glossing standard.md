@@ -13,7 +13,7 @@
 | rri      | **AFF**                       |
 | no       | **GEN** / **NMZ** / **Q**     |
 | oe       | **N**                         |
-| da       | **PER**                       |
+| do       | **PER**                       |
 | nu       | **MOD**                       |
 | bu       | **PROP**                      |
 | (r)u     | **V**                         |
