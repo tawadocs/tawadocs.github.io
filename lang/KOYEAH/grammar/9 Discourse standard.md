@@ -57,7 +57,7 @@ In cohesive discourse, there is a standard 'hand-off' between these two particle
 	- *Honrra ya! Nigo a ei* :: `person-NEG ASSERT | cat A ANAPH`
 		- ~"Not a person! The cat did / it was a cat"
 
-## 2.2 Structural Constraints
+## 9.4 Structural Constraints
 These markers interact differently depending on the complexity of the sentence.
 * Nested clauses take *a* because *ni* would be jarring:
 	* *ribu me fosho a harinai* :: `book REL boy A exchange-MID`
@@ -68,7 +68,7 @@ These markers interact differently depending on the complexity of the sentence.
     - *keka ni kamu* :: `cake TOP eat.V`
 	    - ~"I ate the cake"
 
-### 2.2.1 Why topicalise
+### 9.4.1 Why topicalise
 * Let's compare two sentences:
 	* (topicalised object) *keka ni kamu* :: `cake TOP eat.V`
 	* (direct object) *kamu keka* :: `eat.V cake`
@@ -78,9 +78,39 @@ These markers interact differently depending on the complexity of the sentence.
 	* *keka ni kamu* is like saying: 'as for the cake, I ate it (but maybe not the rest / but I don't know about other food)'
 	* *kamu keka* is like stating a simple fact: 'I ate the cake'
 
-### 2.2.2 Japanese-esque constructions
+### 9.4.2 Japanese-esque constructions
 * Because of the way *a* works, constructions like this is fine, and sometimes even natural:
 	* *ryo kamtei ni kamqe a iewaoioinu* :: `DEM.MED food.PROD TOP food.EMO A AUG-taste-POSITIVE-MOD`
 		* ~"This food tastes really good"
 			* however, it's a little more poetic than that
 			* it's like saying 'the feeling I get from eating this is really pleasing (for me)'
+
+## 9.5 **eu** vs. **mo**
+* In terms of reported speech, the difference between *eu* and *mo* is vital
+* *eu* is used to report speech generally and can behave like a mood particle marking second-hand reporting
+* *mo* is a much more specific particle and is akin to saying 'these were his exact, unadulterated words that came out of his mouth, one for one'
+* *mo* has two commonly used degrees:
+	* *mosuta*
+		* ~'these were **probably/likely** the exact words he said'
+		* ~'I may misremember, but he said something along these lines'
+	* *mosutanyi*
+		* ~'I have the faintest, most minimal inkling that this is what he said'
+		* ~'If I'm being forced to say that this is what he said, it's by the thinnest margin possible'
+* In any case, you'd often use *eu* unless you're writing a story or quoting someone
+* Examples:
+	* *to riwaka mo, eeeehhh, shirerranai* :: `PFV think QUOT INTERJ know-NEG-MID`
+		* ~"I thought exactly... like, uhhh, (never mind), I don't know"
+	* *sa a fofu mo 'su a kitanq zuoe'* :: `3SG.F A speak.V QUOT 1SG A like-ANT 2SG-ACC`
+		* lit. "She says, 'I hate you'"
+		* ~"She said that she hates me"
+	* *niru mosuta so* :: `see.V QUOT-MAX.DIM 3SG.M`
+		* ~"I'm almost certain I saw him"
+		* ~"Pretty sure that I saw him (though I may misremember a little)"
+	* *niru mosutanyi so* :: `see.V QUOT-MAX.DIM-AUG.SUP 3SG.M`
+		* ~"I have the faintest glimpse that I thought that I saw him"
+* Rule of thumb:
+	* *mo* for any regular quote: a saying of some philosopher or character dialogues
+	* *eu* for general reported speech: someone said something, you heard about an event, or you saw something, you use this
+		* unless you want to emphasise the exactness of what you saw or heard, you use *eu*
+	* the other degrees of *mo* for more control over exactness or absoluteness
+* Note that *mo* is very strong: if you misconstrue a person and you used *mo*, then that would be a very big lie, whereas with *eu* it could be seen as a genuine mistake
