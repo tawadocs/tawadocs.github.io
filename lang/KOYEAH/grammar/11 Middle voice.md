@@ -48,6 +48,21 @@
 	* *sa a koru* -> she kills
 	* *sa a korunai* -> she dies (and it is her fault) / she kills herself
 	* *sa o korunai* -> she dies
+* **Grammatical valency / argument demotion**
+	* For example, take the case of *-tenai*
+		* when *-te* (infinitive that must take an argument) is demoted via *-nai*, the 'clause' or 'argument' it takes is also omitted
+		* so, that 'argument' becomes totally dependent on context
+		* if you were having a conversation about pizza and said:
+			* *nggggg, na a nasute eanaitenai...* :: `FIL 1PL A ability.V-INF MOV-MID-INF-MID`
+				* ~"well, we can go out (to do something)..."
+		* then it would be clear that you were talking about going out to get pizza
+	* *Kedesurranaite ukaju aioe* :: `shame-NEG-MID-INF find.V help-N`
+		* ~"Don't feel that you're singled out to find help"
+		* ~"Don't feel ashamed to get help"
+	* *Kedesurranaitenai* :: `shame-NEG-MID-INF-MID`
+		* ~"Don't feel ashamed (to get help / to do this)"
+	* *Eanaitenai* :: `MOV-MID-INF-MID`
+		* ~"Going out (to eat / do something)"
 * **Reciprocality (Agentive and patientive reflexive)**
 	* *so a jitekunai* -> he pees himself (and it is his fault)
 	* *so o jitekunai* -> he pees himself (accidentally)
