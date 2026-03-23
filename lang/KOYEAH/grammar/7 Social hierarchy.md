@@ -23,7 +23,7 @@
 			* it marks a verb as being formal
 			* optionally, the sentence may be concluded with a *ya* for emphasis and the extra-formal tone
 * Roots take *ara* (prefix) in polite constructions, though:
-	* *Arakitanqu ryo itagi* :: `POL-like-INV-V DEM.MED idea`
+	* *Arakitanqu ryo itagi* :: `POL-like-ANT-V DEM.MED idea`
 		* lit. "I dislike your idea"
 			* it's much safer than saying *kitanqu ryo ita*, which can be harsh
 			* this is like saying **"I see what you mean by this, but, in my humble opinion, I would do it this way"** instead

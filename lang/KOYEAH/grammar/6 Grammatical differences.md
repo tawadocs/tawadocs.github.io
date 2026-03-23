@@ -12,6 +12,7 @@
 * mono- and direduplication as well as degree remains, but:
 	* *sta* is written as *suta* (e.g., **nandasuta**) and pronounced `/su̥ta/`
 	* *ól* is simply *o* now (pronounced `/ɔ/`)
+	* *stanyi* (*sutanyi*) is a formal, grammaticalised degree, indicating the "most" of a "least" (e.g., *kitasutanyi* - faintest glimmer of like) (in Ashi Tawa, it wasn't formalised, but was still buildable)
 * romantic-platonic distinction is preserved but:
 	* it's not commonly used, if at all
 	* only *cha/che* and *-(r)u* are commonly used for gender and verb marking respectively
