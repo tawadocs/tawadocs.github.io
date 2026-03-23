@@ -165,3 +165,15 @@
 				* in the case of pronouns, the postposition always take the respective pronominal possessive
 				* so, for *sa* (she), *-san* is taken
 				* *wesan*, then, means 'her additivity'
+
+### 8.8.1 Stacking
+* Formally, you'd always use something like:
+	* *unsen byo no do ji* :: `live.VBZ DEM.PROX GEN PER LOC`
+		* ~"Living in (and through) the present"
+* ... but in casual speech, you can just drop the **no**:
+	* *unsen byo jido* :: `live.VBZ DEM.PROX LOC-PER`
+		* ~"Living in and through the present"
+			* the stacking order isn't super fixed or strict
+* Note that in the two examples, the proximal demonstrative *byo* was used in its temporal meaning ('now' / 'present' / 'current time'):
+	* *yaranai byo ji zhi byo, fuka* :: `come-MID DEM.PROX LOC TEMP DEM.PROX REQ`
+		* ~"come here now, please"
