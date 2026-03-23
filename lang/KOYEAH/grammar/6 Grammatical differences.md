@@ -17,7 +17,9 @@
 	* it's not commonly used, if at all
 	* only *cha/che* and *-(r)u* are commonly used for gender and verb marking respectively
 * no articles nor plurality
-* full relation system is intact
+* full relational system is intact
+	* temporal relations and relations of the like can replace *ni* or *a*, but not *o* if undergoing has to be explicitly marked
+	* so *sora ze reosowunai* (the skies will shine again) is fine
 * discourse particles are intact but:
 	* *am* is pronounced `/æn/`, but the nasal becomes bilabial if followed by a bilabial consonant or velar if followed by a velar consonant
 	* *yad* is pronounced `/jæː/`
