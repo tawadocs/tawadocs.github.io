@@ -112,3 +112,11 @@
 * Case roots, like *jitei*, change to *-oe* forms
 	* you can use *jitei* but it's generally archaic and not preferable in Koyeah Tawa
 	* so, better to say something like *fuyu ji**oe** no?* than *fuyu ji**tei** no?*
+
+### 2.2.1 Scope
+* Using *-tei* or *-oe* affects scope:
+	* *gadenigonq* :: `disgusting-cat-REVS`
+		* ~"disgusting dog"
+	* *gadenigooenq* :: `disgusting-cat-N-REVS`
+		* ~"commendable dog"
+* In the first example, *-nq* was antonymising the word that was directly before it; however, in the other example, due to the presence of *-oe*, the whole compound *gadenigo* was antonymised as one unit

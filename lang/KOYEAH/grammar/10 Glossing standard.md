@@ -5,8 +5,8 @@
 | a        | **A**                         |
 | o        | **U**                         |
 | nai      | **MID**                       |
-| nq       | **REV**                       |
-| nh / n   | **G.REV**                     |
+| nq       | **REVS**                      |
+| nh / n   | **G.REVS**                    |
 | te       | **INF**                       |
 | yo       | **Q2**                        |
 | rra      | **NEG**                       |
