@@ -97,3 +97,65 @@
 		* here, the descriptor (the comment) is a modifier chain (*meiya* + *sami*)
 		* if you said *meiyanu saminu*, that might be understood, but it would feel incomplete, awkward, and off
 		* for chains, the copular is always added after the last modifier
+
+## 8.8 Postposition-genitive patterns
+* Postpositions can be paired with genitives in this pattern:
+	* *X no POST*
+		* X is attributed to the postposition
+* where *POST* is any postposition and *X* is a root
+* For example, take *ita*:
+	* *hon no ita* :: `person GEN PRTV`
+		* ~"Somebody / some person / some of the people"
+* Let's take a look at some basic interrogative examples with each postposition:
+	* *hon no ji* :: `person GEN LOC`
+		* ~"Person's location / place"
+		* often preferred in Koyeah Tawa for describing place
+			* *hon no ji ni fuyu i no?* :: `person GEN LOC TOP what COP Q`
+				* lit. "As for the place of this person, (it) is what?"
+				* ~"Where is this person?"
+	* *hon no un* :: `person GEN INSTR`
+		* ~"Person's means / way"
+		* often preferred in Koyeah Tawa for describing manner
+			* *kamen no un byo ji ni fuyu i no?* :: `eat.VBZ GEN INSTR DEM.PROX LOC TOP what COP Q`
+				* lit. "As for eating's means here, (it) is what?"
+				* ~"Are there any manners regarding eating that I should know about here?"
+	* *hon no do* :: `person GEN PER`
+		* ~"Through / from / out of the person"
+		* can attribute a 'through' quality to roots
+			* *kizute no do no kana* :: `spike GEN PER GEN word`
+				* lit. "Words of spike's through"
+				* ~"Piercing words"
+	* *hon no da* :: `person GEN ALL`
+		* ~"Person's progression / towards person"
+			* *ii no da no ni ieii mo iinq ya!* :: `good GEN ALL NMZ TOP AUG-good CMPR good-REVS`
+				* lit. "As for good's progression, better than bad - (indeed)!"
+				* ~"(Do make no mistake), good triumphing over evil is better!"
+	* *hon no dan* :: `person GEN ABL`
+		* ~"Person's source / temporospatial starting point or origin"
+			* *hon no dan ni fuyu i no?* :: `person GEN ABL TOP what COP Q`
+				* lit. "As for the person's origin, (it) is what?"
+				* ~"Where is the person coming from?"
+				* ~"Where is the person starting out from?"
+				* ~"What level is the person at?"
+				* etc.
+	* *hon no mo* :: `person GEN SEQ`
+		* ~"Person's continuation / sequentiality"
+			* *hon no mo ni fuyu i no?* :: `person GEN SEQ TOP what COP Q`
+				* lit. "As for the person's sequentiality, it is what?"
+				* ~"What is the person going to do next?"
+				* ~"What will the person continue (next)?"
+				* ~"What is the person's next move?"
+	* *hon no we* :: `person GEN ADD`
+		* ~"Person's additivity"
+			* *hon no we ni fuyu i no?* :: `person GEN ADD TOP what COP Q`
+				* lit. "As for the person's additivity, (it) is what?"
+				* ~"Who is the person including?"
+				* ~"Who is the person bringing along?"
+				* ~"Who will the person be accompanying?"
+* You can then scale these modularly:
+	* *nggg, toriwaka eu wesan ni na no subeko i...* :: `FIL PFV-think COMP ADD-3SG.F.POSS TOP 1PL GEN all COP`
+		* ~"But, like, I thought that she was going to bring us all..."
+			* did you notice something? instead of the genitive pattern, *we* takes *-san*
+				* in the case of pronouns, the postposition always take the respective pronominal possessive
+				* so, for *sa* (she), *-san* is taken
+				* *wesan*, then, means 'her additivity'
