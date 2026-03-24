@@ -8810,6 +8810,10 @@
       {
         "text": "(number) one",
         "frequency": 100
+      },
+      {
+        "text": "mono",
+        "frequency": 100
       }
     ]
   },
@@ -10435,6 +10439,10 @@
       },
       {
         "text": "(pronoun) you",
+        "frequency": 100
+      },
+      {
+        "text": "di",
         "frequency": 100
       }
     ]

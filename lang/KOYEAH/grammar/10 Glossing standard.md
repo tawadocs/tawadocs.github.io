@@ -19,4 +19,6 @@
 | (r)u     | **V**                         |
 | mo       | **CMPR** for comparative role |
 | en       | **VBZ**                       |
+| ake      | **IMP.DIR**                   |
+| aiko     | **IMP.POL**                   |
 * Others stay the same, as described

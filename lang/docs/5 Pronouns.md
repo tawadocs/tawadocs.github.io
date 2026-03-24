@@ -9,6 +9,10 @@
 | *zu*       | `zu` | you                | 2SG   |
 | *za*       | `za` | you (pl.)          | 2PL   |
 | *ei*       | `ei` | that (proposition) | ANAPH |
+* Note that each, when functioning as a prefix, denotes number:
+	* *su* -> ~mono-
+	* *zu* -> ~bi/di-
+	* *wu* -> ~tri-
 
 ## 5.2 Genitives
 * Genitives are simply marked by appending *-n* [n̻] to the regular pronominal:

@@ -5,7 +5,7 @@
 * *mh* `/m̥͡m/` is pronounced `/m̥͡m~mʲ/`
 * *q* `/c͡ç/` is pronounced `/ç~x/`, but `/c͡ç/` is also acceptable
 * *r* and *rr* `/ɺ ɾ/` are simply pronounced `/ɺ~ɾ~r/`
-* *nh* is pronounced `/n/` simply
+* *nh* is pronounced `/n̥͡n/`
 * *nq* `/ɴ/` is pronounced `/ɴ~q~ɢ/`
 * *w* `/ʋ/` and *v* `/w/` are simply `/w~ʋ/`
 * *ni* is simply `/ni/` for there is no palatal allophony anymore
