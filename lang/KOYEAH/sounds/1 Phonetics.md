@@ -8,7 +8,7 @@
 | **Palatal**        | cʰ      |                |           | c͡ç       |          | j           |
 | **Velar**          | k g     | ŋ              |           |           |          |             |
 | **Labiovelar**     |         |                |           |           |          | w~ʋ         |
-| **Uvular**         |         | ɴ~q~ɢ          |           |           |          |             |
+| **Uvular**         |         | `ɴ~q~ɢ`        |           |           |          |             |
 | **Glottal**        | ʔ       |                | h         |           |          |             |
 * Note the differences from Ashi Tawa (see full differences in **6 Grammatical Differences** in *KOYEAH grammar* documentation)
 * And other than that, there's voiceless vowels and a few other quirks
