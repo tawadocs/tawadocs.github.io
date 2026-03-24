@@ -63,6 +63,50 @@
 		* ~"Don't feel ashamed (to get help / to do this)"
 	* *Eanaitenai* :: `MOV-MID-INF-MID`
 		* ~"Going out (to eat / do something)"
-* **Reciprocality (Agentive and patientive reflexive)**
-	* *so a jitekunai* -> he pees himself (and it is his fault)
-	* *so o jitekunai* -> he pees himself (accidentally)
+
+### 11.2.1 Reciprocality
+* Use *pai* for this:
+	* *so a jitekupai* :: he pees himself (and it is his fault)
+		* **agentive reflexive**
+	* *so o jitekupai* :: he pees himself (accidentally)
+		* **patientive reflexive**
+* They differ from:
+	* *so a jitekunai* -> peeing happens by him
+	* *so o jitekunai* -> peeing happens to him
+* Take a look at this with *kamu*:
+	* *so a kamupai* :: he engages in autocannibalism
+	* *so o kamupai* :: he accidentally ate himself
+	* *so a kamunai* :: eating is done by him (and it is his fault)
+	* *so o kamunai* :: eating happens to him
+		* here, **eating happens to him** means he is eaten
+		* you can state the actor:
+			* *sa a, so o kamunai* :: `3SG.F A 3SG.M U eat.V-MID`
+				* "He is eaten by her"
+
+### 11.2.3 Examples
+* **ex. 1 (compare)**
+	* *ryo ni toshirenai sa dan*
+		* `DEM.MED TOP PFV-know-MID 3SG.F ABL`
+			* lit. "As for this, (I) know from her"
+			* ~"I learnt this from her"
+	* *toshire ryōe sa dan*
+		* `PFV-know DEM.MED-N 3SG.F ABL`
+			* ~"(I) learnt this from her"
+* in the former sentence, because *toshire* (learnt) takes no direct object, the *toshirenai* (know) form is used
+* **ex. 2 (compare)**
+	* *ryo ni toshirenaimgai sa ji*
+		* `DEM.MED TOP PFV-know-MID-G.REVS.MID 3SG.F LOC`
+			* lit. "As for this, (I) taught to her"
+			* ~"(I) taught this to her"
+	* *toshirenaimg ryōe sa ji*
+		* `PFV-know-MID-G.REVS DEM.MED-N 3SG.F LOC`
+			* ~"(I) taught this to her"
+* the preferable construction is the latter one, as it avoids the *mgai* redundancy
+	* note: *mgai* is an irregular form formed when *nai* appears after *mg* for whatever reason
+* **ex. 3 (compare)**
+	* *sa a kedesu sōe*
+		* `3SG.F A shame 3SG.M-N`
+			* ~"She shamed him / made him feel ashamed"
+	* *sa o kedesunai*
+		* `3SG.F U shame-MID`
+			* ~"She was ashamed / felt ashamed"
