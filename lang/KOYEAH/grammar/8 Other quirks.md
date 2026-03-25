@@ -177,3 +177,15 @@
 * Note that in the two examples, the proximal demonstrative *byo* was used in its temporal meaning ('now' / 'present' / 'current time'):
 	* *yaranai byo ji zhi byo, fuka* :: `come-MID DEM.PROX LOC TEMP DEM.PROX REQ`
 		* ~"come here now, please"
+
+## 8.9 Repair
+* Because *-ppu* and *-hi* still exist in Koyeah Tawa, even if they are less commonly used, conversational repair is very easy:
+	* if you forgot to say *eoi* when talking about an irreal event, just add it at the end as *eoihi*
+	* sometimes, you can even drop the *-hi* if you take a long pause, and it would automatically be interpreted as you conveying that everything you said before *eoi* is irreal
+* This also means that other Ashi Tawa nuances can be borrowed:
+	* *fuppu* for an explicit 'actually, in reality, even, do:'
+		* *fuppu riwakanai me...*
+			* 'I really think...'
+			* 'I do think...'
+			* 'Indeed, I think...'
+			* 'In the end, I think...'
