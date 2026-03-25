@@ -3,8 +3,9 @@
 | --------- | -------- | ---------- | ----- |
 | **n.**    | **oe**   | `/oe/`     | NM    |
 | **v.**    | **(r)u** | `/(ɺ~ɾ)u/` | V     |
-| **mod**   | **nu**   | `/nu/`     | MOD   |
 | **prop.** | **bu**   | `/bu/`     | PROP  |
+| **mod**   | **nu**   | `/nu/`     | MOD   |
+| **mod2**  | **i**    | `/i/`      | ATTR  |
 | **cop.**  | **i**    | `/i/`      | COP   |
 
 ### 2.1.1 Verbs
@@ -120,3 +121,28 @@
 	* *gadenigooenq* :: `disgusting-cat-N-REVS`
 		* ~"commendable dog"
 * In the first example, *-nq* was antonymising the word that was directly before it; however, in the other example, due to the presence of *-oe*, the whole compound *gadenigo* was antonymised as one unit
+
+## 2.3 Natural and unnatural modifiers
+* Remember these rules for the two markers:
+	* *i* (attributive)
+		1. The root is naturally modifier-adjacent
+	* *nu* (modifier)
+		1. The root ends in **i**
+		2. The root is strongly non-modifier-adjacent
+* So, use *-nu* on **i-final** roots that are often not used as adjectives
+* *kachi* is the best example of this, as it is focused on biting or nibbling:
+	* *kachinu hon* :: `bite-MOD person`
+		* ~"A biting person"
+		* ~"A bitey person"
+* But, *hatero* doesn't take *-nu* because it doesn't end in **i**:
+	* *hateri hon* :: `run.ATTR person`
+		* ~"A fast / swift / runny person"
+* Example chains (with pronunciation - morae and stress unmarked):
+	* *hateri, ohirai, pokii hon* :: `run.ATTR white-ATTR big-ATTR person`
+		* `/hateɺi ʔoçi̥ɺai poki̥ː hɔn/`
+			* also pronounced **/hateɺi ʔoçiɺai pokiː hɔn/**
+			* depends on dialect
+	* *kurui kedesui ngoshi* :: `black-ATTR shame-ATTR bird`
+		* `/kuɺui ce̥tɛ̥su̥i ŋoɕi̥/`
+			* also pronounced **/kuɺui kedɛsui ŋoɕi/**
+			* depends on dialect
