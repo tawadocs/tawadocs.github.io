@@ -189,3 +189,9 @@
 			* 'I do think...'
 			* 'Indeed, I think...'
 			* 'In the end, I think...'
+
+## 8.10 Word particles
+* Word particles like *yaro* always take *-mg* to form their structural opposites
+* This includes *shi* (primordial unit), which takes *-mg* to form *shimg* (complex / developed system)
+* Word particles ending in *-o* have an irregular form with *-nai*:
+	* *yaro* + *nai* is *yarai*, not *yaronai*
