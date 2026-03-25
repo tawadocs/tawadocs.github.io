@@ -110,3 +110,15 @@
 	* *sa o kedesunai*
 		* `3SG.F U shame-MID`
 			* ~"She was ashamed / felt ashamed"
+
+## 11.3 Promotion
+* General valency or arguments can be promoted with *naimg*:
+	* *Shirenaimg* :: teach (`know-MID-G.REVS`)
+		* *Shirenaimgai sa ji* :: `know-MID-G.REVS 3SG.F LOC`
+			* ~"I taught (something) to her"
+				* the object is omitted
+	* *Kanatanaimg* :: happy with / make happy (`happy-MID-G.REVS`)
+		* *Asasun a kanatanaimg* :: `house-1SG.POSS A happy-MID-G.REVS`
+			* ~"My house makes (me) happy"
+		* *Sa a kanatanaimgai* :: `3SG.F A happy-MID-G.REVS.MID`
+			* ~"She is cheered up / made happy"
