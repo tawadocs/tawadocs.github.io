@@ -562,5 +562,15 @@
         "frequency": 100
       }
     ]
+  },
+  {
+    "word": "horochi",
+    "id": "potato, pan",
+    "definitions": [
+      {
+        "text": "potato",
+        "frequency": 100
+      }
+    ]
   }
 ]
