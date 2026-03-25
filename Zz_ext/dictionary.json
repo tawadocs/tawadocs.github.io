@@ -76,6 +76,24 @@
     ]
   },
   {
+    "word": "hyongu",
+    "id": "seme",
+    "definitions": [
+      {
+        "text": "question",
+        "frequency": 100
+      },
+      {
+        "text": "interrogation",
+        "frequency": 100
+      },
+      {
+        "text": "interrogative",
+        "frequency": 100
+      }
+    ]
+  },
+  {
     "word": "maraca",
     "id": "unpa e mi, musi e sijelo mi",
     "definitions": [
