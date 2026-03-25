@@ -626,5 +626,36 @@
       "Romaji": "kusakanmuri",
       "Japanese": "くさかんむり"
     }
+  },
+  {
+    "ID": "1774480674700",
+    "Radical": "⼜",
+    "Strokes": 2,
+    "Alias": "nso",
+    "Usage": "",
+    "Definitions": [
+      "right hand",
+      "grasping",
+      "again",
+      "further"
+    ],
+    "Readings": {
+      "Romaji": "mata",
+      "Japanese": "また"
+    }
+  },
+  {
+    "ID": "1774480768303",
+    "Radical": "⼚",
+    "Strokes": 2,
+    "Alias": "kyu",
+    "Usage": "",
+    "Definitions": [
+      "cliff"
+    ],
+    "Readings": {
+      "Romaji": "gandare",
+      "Japanese": "がんだれ"
+    }
   }
 ]

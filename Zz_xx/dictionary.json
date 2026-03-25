@@ -572,5 +572,31 @@
         "frequency": 100
       }
     ]
+  },
+  {
+    "word": "kyunso",
+    "id": "isi pi sona ala, toki pi nasin sona, wile sona",
+    "definitions": [
+      {
+        "text": "hypothesis",
+        "frequency": 100
+      },
+      {
+        "text": "proposition",
+        "frequency": 100
+      },
+      {
+        "text": "supposition",
+        "frequency": 100
+      },
+      {
+        "text": "premise",
+        "frequency": 100
+      },
+      {
+        "text": "(provisional) assumption",
+        "frequency": 100
+      }
+    ]
   }
 ]
