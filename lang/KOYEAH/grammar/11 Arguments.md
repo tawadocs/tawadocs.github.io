@@ -64,7 +64,21 @@
 	* *Eanaitenai* :: `MOV-MID-INF-MID`
 		* ~"Going out (to eat / do something)"
 
-### 11.2.1 Reciprocality
+### 11.2.1 Valency-sensitivity transitivity marking exception
+* Marking **transitivity in valency-sensitive verbs** is skipped
+	* since *-nai* attaches to even transitive verbs when they omit their object, this can get tricky with *valency-sensitive* verbs
+* Take *fofu*, for example
+* As a verb, it means 'speak X to Y'
+* When demoted, it means 'hear X (context)' or 'ask X (context),' depending on the postposition
+	* e.g.
+		* *mo fofunai su ji, fuka* means 'then, ask me, please'
+		* *mo fufunai su dan, fuka* means 'then, (why don't you) hear (it) from me, please'
+* So, if *fofu* does not take a direct object, like in:
+	* *fofu eu...* :: speak / tell / say (that)
+* it still doesn't take *-nai*, because that would change the meaning:
+	* *fofunai eu...* :: hear (that)... / listen (that)... / know that...
+
+### 11.2.2 Reciprocality
 * Use *pai* for this:
 	* *so a jitekupai* :: he pees himself (and it is his fault)
 		* **agentive reflexive**

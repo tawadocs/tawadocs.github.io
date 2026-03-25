@@ -18,3 +18,13 @@
 		* so *mga* can be:
 			* `/m͡ŋa~m͡ga~məga/`
 * The vowel system is basically the same as Ashi Tawa
+
+## 1.2 Vowel inventory
+|               | Front  | Near-front | Central | Near-back | Back   |
+| ------------- | ------ | ---------- | ------- | --------- | ------ |
+| **High**      | i (ĩ) |            |         |           | u (ũ) |
+| **Near-high** |        | ɪ          |         | ʊ         |        |
+| **Mid**       | e (ẽ) |            | ə       |           | o (õ) |
+| **Low-mid**   |        | ɛ          |         | ʌ         |        |
+| **Near-low**  | æ      |            |         |           | ɔ      |
+| **Low**       |        |            | a (ã)  |           |        |
