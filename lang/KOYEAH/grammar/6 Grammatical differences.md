@@ -7,6 +7,8 @@
 * *r* and *rr* `/ɺ ɾ/` are simply pronounced `/ɺ~ɾ~r/`
 * *nh* is pronounced `/n̥͡n/`
 * *nq* `/ɴ/` is pronounced `/ɴ~q~ɢ/`
+	* it takes the form *-nq* /əɴ/ when it appears before another nasal
+	* so *hon* + *-nq* is *honnq* /hɔnəɴ/
 * *w* `/ʋ/` and *v* `/w/` are simply `/w~ʋ/`
 * *ni* is simply `/ni/` for there is no palatal allophony anymore
 * mono- and direduplication as well as degree remains, but:
