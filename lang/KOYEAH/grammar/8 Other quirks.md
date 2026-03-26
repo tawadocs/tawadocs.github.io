@@ -195,3 +195,37 @@
 * This includes *shi* (primordial unit), which takes *-mg* to form *shimg* (complex / developed system)
 * Word particles ending in *-o* have an irregular form with *-nai*:
 	* *yaro* + *nai* is *yarai*, not *yaronai*
+* *de* isn't a word particle, so don't get confused, even though it can seem like one in:
+	* *de a toii* (well-received)
+		* this is just a phrase
+		* *de* means 'to receive' and *a* (*de a*) makes *de* a subject
+		* *ii* just means 'well' or 'good' and describes *de*
+		* *toii* is the perfective aspect, meaning 'was good'
+			* note: its better to avoid aspect in simple phrases or on simple roots like *ii*
+			* either place aspect at the appropriate position in the sentence... or, better yet, just drop it
+
+## 8.11 Irregular aspect and copular quirks
+* The extended aspects, such as *reta*, always go after the root, even though simple aspects, like *to*, are prefixes
+* Extended aspects can be standalone, so you can start with *reta* or end with *retahi* (casually or sometimes *reta* at the end could be okay, if followed by a long pause)
+* *shi* or other functional mood / conditional particles take aspect as a suffix, so say *shito* when starting a past condition (if was...)
+* The copular can carry the predicate and can take a few particles:
+	* *irra* :: is not / not being
+	* *irranai* :: is not being
+		* difference:
+			* *hon irranai* :: the person does not exist
+				* *shi hon irranai, su wa irranai*
+					* if the person did not exist, I also would not
+			* *hon irra* :: the person is not
+				* *shi hon irra, su wa irranai*
+					* if there was no person, I would not be
+	* so:
+		* *irra* is static negation, referring to absence
+		* *irranai* suggests the process of 'being' is non-occurring, since the middle voice indicates that *i* happens back to the subject
+			* the grammatical structure for:
+				* `if no X, Y would not be`
+			* ... is *shi ... X irra, ... irranai*
+* The copular taking *-nai* turns it into a 'happen' word:
+	* *iinq inai* :: bad (things) happened
+	* *ii no inai* :: good thing happened
+	* *mo... hashirusan inai* :: then, her child just happened
+* The copular can't take any aspect or usually any other particle, so never say *toinai* or anything, just put the aspect somewhere else
