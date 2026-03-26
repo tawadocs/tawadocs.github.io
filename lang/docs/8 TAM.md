@@ -83,6 +83,8 @@
 			* ~"Well... (I) kinda ate her food"
 			* ~"I accidentally ate her food"
 			* ~"(I'm) sorry, (because I) ate her food"
+	* you can use *retóí* or *retoi/retamg* (in Koyeah Tawa) (positive connotation) for a 'thankfully' effect
+		* *retamg* is used for a simple 'thankfully ended up' effect, whereas *retoi* is used for a 'even though I regret it, I did it for a positive reason / it ended up being positive' nuance
 * *fure* (~to be done)
 	* a future accomplishment
 		* *sowufure* -> `shine.V.PLAT-FUT.RESL`

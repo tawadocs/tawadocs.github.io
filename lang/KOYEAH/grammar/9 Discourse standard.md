@@ -160,3 +160,19 @@ These markers interact differently depending on the complexity of the sentence.
 		* "Through the land, (I) walk"
 	* but note that *X do ni Y* is usually never used
 	* it's very redundant, and saying *jimei ni haeku* is actually fine 99% of the time
+
+## 9.7 Underspecified subject particle
+* In fast speech, speakers use *ga* over *a* or *o* to mark the subject
+* *ga* is not informal nor is it "casual," but it is modern
+* *a* and *o* would still be used in formal or official documents, even though *ga* is the spoken variant
+* So, you'd say:
+	* *sa ga au kambu no ng* :: `3SG.F NOM HAVE.V food.PROP NMZ FIL`
+		* ~"She has something that resembles food"
+		* ~"She has (some) kind of food"
+	* *sa ga aumg kambu no ng* :: `3SG.F NOM HAVE.V-G.REVS food.PROP NMZ FIL`
+		* ~"She will get some weird food"
+		* ~"She's going to get some type of food"
+			* notice: *aumg* is used
+			* *aumg* is the proper variant of *au* used when you want to say 'get' or 'obtain'
+			* it is only used when *ga* is also present in the sentence
+			* otherwise, if *ga* was not present, you would use *demg*

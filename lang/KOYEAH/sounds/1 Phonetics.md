@@ -14,9 +14,10 @@
 * And other than that, there's voiceless vowels and a few other quirks
 * *hy* is always pronounced /ç͡j/ or just /çj/ for simplicity
 * Note that:
-	* *m͡ŋ* can also be pronounced `/m͡g~məg/`
+	* *m͡ŋ* can also be pronounced `/m͡g~məgu̥/`
 		* so *mga* can be:
 			* `/m͡ŋa~m͡ga~məga/`
+		* the `/u̥/` is omitted if something comes after *mg* in the velar pronunciation
 * The vowel system is basically the same as Ashi Tawa
 
 ## 1.2 Vowel inventory
