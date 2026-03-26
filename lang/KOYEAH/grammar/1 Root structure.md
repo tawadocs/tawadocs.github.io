@@ -156,6 +156,11 @@
             - "Easy to eat"
         - _iite fu_ -> `good-INF ACT`
             - "Good to do"
+- Take a look at these examples:
+	- *rawanqnaite chihai kofi we eanaite payaen no asa* :: `sleep-REVS-MID-INF water-ANTIPROD.V coffee ADD MOV-MID-INF study-VBZ GEN house`
+		- ~"I woke up and drank coffee and then went to school"
+	- *namekurrate makusutanai, fuka!* :: `mistake.V-NEG-INF cry-DIM.SUP-MID REQ`
+		- ~"Don't make a mistake and then cry (about it), please!"
 
 ## 1.6 Polarity
 * *ra* and *ri* are both used to negate and affirm, respectively:

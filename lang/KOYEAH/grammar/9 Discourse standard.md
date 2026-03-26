@@ -52,7 +52,7 @@ In cohesive discourse, there is a standard 'hand-off' between these two particle
 		- ~"A cat ate my food. It (the cat) was very big/fat."
 - **Question and Answer Logic:**
 * Questions take *a* and answers too:
-    - *fuyu hon a kamunai kamsun no?* :: `what person A eat.V-MID food.1SG.POSS Q`
+    - *fuyu hon a kamu kamsun no?* :: `what person A eat.V food.1SG.POSS Q`
 	    - ~"Who (what person) ate my food?"
 	- *Honrra ya! Nigo a ei* :: `person-NEG ASSERT | cat A ANAPH`
 		- ~"Not a person! The cat did / it was a cat"

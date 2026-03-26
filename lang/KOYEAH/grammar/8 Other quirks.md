@@ -229,3 +229,14 @@
 	* *ii no inai* :: good thing happened
 	* *mo... hashirusan inai* :: then, her child just happened
 * The copular can't take any aspect or usually any other particle, so never say *toinai* or anything, just put the aspect somewhere else
+
+## 8.12 Omission of the temporal relational
+* *zhi* is omitted if you're using a 'time' word, like *ko* (day/tomorrow/yesterday) or *wanō* (time) itself:
+	* *Ko, reokamu* :: `tomorrow IPFV-eat.V`
+		* ~"Tomorrow, (we) will eat"
+	* *Ryo wanō, namekurrate makusutanai, fukaya!* :: `DEM.MED time mistake.V-NEG-INF cry-DIM.SUP-MID REQ-ASSERT`
+		* ~"(Maybe) next time, you shouldn't be crying after making such mistakes (please, I mean it)!"
+	* *Zuoe, kikitasaru wanō no subeko* :: `2SG-N INTENS~like-PERF.RES time GEN all`
+		* ~"I have and always will love you forever"
+* Note that *ni* would usually be used to set the temporal context as the topic
+	* *ni* is often omitted because 'time clauses' can behave like their own topic, if fronted

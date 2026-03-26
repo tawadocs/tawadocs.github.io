@@ -33,3 +33,4 @@
 				* after *aa*, the statement *(...) me su a tohakennq (...)* (that I was lying) follows
 				* this sets that statement as a 'fact' that can't be negated by *des* later
 				* so *des* negates everything except that
+* Superlatives are **INTENS~** now
