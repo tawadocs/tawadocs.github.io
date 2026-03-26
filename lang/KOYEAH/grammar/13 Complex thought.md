@@ -49,3 +49,30 @@
 			* *no* after *jijinu makure* allows it to modify *futasumg kana ji* (undoable in words / cannot put into words)
 			* so *jijinu makure no futasumg kana ji* means 'precisely the emotions that cannot be put into words'
 				* more literally: **precise emotions' undoable/undoability in words**
+
+## 13.4 Postpositional infinitives
+* Verbs like *ea* hate postpositions in their middle voice form:
+	* *eanaite kamu* :: (I) go out to eat
+		* but if you said:
+			* *eanai kam**u** ji*
+		* then this doesn't parse well because *kamu* is a verb (to eat)
+		* you'd use *eanai kam**en** ji* (I went out for eating)
+			* this is formal, and not something you'd say with a friend or acquaintance
+		* you could also say *eanai kamu un ji* (I went for at eating), which is grammatically correct, **but its a bit like saying something like such as similar to like what I just said**
+* *-te* is especially even more preferable when you need to use a clause as the purposive of another:
+	* *Tosubute eanai hariasa jite nirunaimg ryo honoe, lyo atora ji* :: `PFV-desire.V-MID MOV-MID exchange-house LOC-INF show.V-MID-G.REVS DEM.MED person-N DEM.DIST apple LOC`
+		* ~"I waned to go to the store to show this person that apple over there"
+			* here, *ji* marks *tosubute eanai hariasa* as the purposive, and *te* attributes it to *niru ryo honoe lyo atora ji*
+
+## 13.5 Demonstratives and postpositions
+* Use *un* for location of action:
+	* *urukuennnai lyo un* :: `stand-VBZ-MID DEM.DIST INSTR`
+		* ~"Standing over there"
+* Use *ji* for location of existence:
+	* *urukuennai lyo ji* :: `stand-VBZ-MID DEM.DIST LOC`
+		* ~"Standing in (over) there"
+* Or omit the case and let context do the work, since *uruku* by default accepts another argument that describes the **where**:
+	* *urukuen byōe* :: `stand-VBZ DEM.PROX-N`
+		* ~"Standing here"
+	* *urukuen ryōe* :: `stand-VBZ DEM.MED-N`
+		* ~"Standing at this point / there (near us)"
