@@ -21,18 +21,18 @@
 		* "I will eat"
 
 ### 8.2.1 Extended aspect
-|            | Particle | IPA    | Gloss       | English equivalent                                         |
-| ---------- | -------- | ------ | ----------- | ---------------------------------------------------------- |
-| **Suffix** | naku     | `nəku` | `PST.PROG`  | *was (happening)*                                          |
-| **Suffix** | naga     | `nəga` | `PST.HAB`   | *used to*                                                  |
-| **Suffix** | saru     | `saɺu` | `PERF.RES`  | *(will) have been / (would) have been / has (always) been* |
-| **Suffix** | reta     | `ɺeta` | `RESL`      | *completed with a lasting result / have (done)*            |
-| **Suffix** | fure     | `ɸuɺe` | `FUT.RESL`  | *to be completed with a lasting result / will have (done)* |
-| **Suffix** | rasu     | `ɺasu` | `PERS`      | *remains*                                                  |
-| **Suffix** | nata     | `nəta` | `FUT.CONT`  | *will keep*                                                |
-| **Suffix** | shibu    | `ɕibu` | `CONT.PRSV` | *have kept*                                                |
-| **Suffix** | iva      | `iʋa`  | `FUT.PROG`  | *will have been*                                           |
-| **Suffix** | rewa     | `ɺewa` | `FUT.PFV`   | *will have*                                                |
+|            | Particle | IPA    | Gloss          | English equivalent                                         |
+| ---------- | -------- | ------ | -------------- | ---------------------------------------------------------- |
+| **Suffix** | naku     | `nəku` | `PST.PROG`     | *was (happening)*                                          |
+| **Suffix** | naga     | `nəga` | `PST.HAB`      | *used to*                                                  |
+| **Suffix** | saru     | `saɺu` | `PRF.STAT`     | *(will) have been / (would) have been / has (always) been* |
+| **Suffix** | reta     | `ɺeta` | `RESL`         | *completed with a lasting result / have (done)*            |
+| **Suffix** | fure     | `ɸuɺe` | `FUT.RESL`     | *to be completed with a lasting result / will have (done)* |
+| **Suffix** | rasu     | `ɺasu` | `PRST`         | *remains*                                                  |
+| **Suffix** | nata     | `nəta` | `FUT.CONT`     | *will keep*                                                |
+| **Suffix** | shibu    | `ɕibu` | `DUR.PRSV`     | *have kept*                                                |
+| **Suffix** | iva      | `iʋa`  | `FUT.PFV.PROG` | *will have been*                                           |
+| **Suffix** | rewa     | `ɺewa` | `FUT.PFV`      | *will have*                                                |
 * Usually aren't necessary, but can be used
 * Also reserved for poetry or formal texts
 
