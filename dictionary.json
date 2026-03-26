@@ -4125,24 +4125,6 @@
   },
   {
     "word": "joi",
-    "id": "teje",
-    "definitions": [
-      {
-        "text": "right",
-        "frequency": 100
-      },
-      {
-        "text": "right side",
-        "frequency": 100
-      },
-      {
-        "text": "starboard",
-        "frequency": 100
-      }
-    ]
-  },
-  {
-    "word": "joinq",
     "id": "teje ala",
     "definitions": [
       {
@@ -4151,6 +4133,24 @@
       },
       {
         "text": "left side",
+        "frequency": 100
+      },
+      {
+        "text": "port",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "joinq",
+    "id": "teje",
+    "definitions": [
+      {
+        "text": "right",
+        "frequency": 100
+      },
+      {
+        "text": "right side",
         "frequency": 100
       },
       {
