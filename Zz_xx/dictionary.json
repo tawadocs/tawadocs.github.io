@@ -616,5 +616,25 @@
         "frequency": 100
       }
     ]
+  },
+  {
+    "word": "rwankaden",
+    "id": "tomo tawa pi nasin kiwen",
+    "definitions": [
+      {
+        "text": "train",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "rwankuta",
+    "id": "ilo toki",
+    "definitions": [
+      {
+        "text": "phone",
+        "frequency": 100
+      }
+    ]
   }
 ]
