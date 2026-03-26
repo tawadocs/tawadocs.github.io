@@ -598,5 +598,23 @@
         "frequency": 100
       }
     ]
+  },
+  {
+    "word": "makure",
+    "id": "pilin, pilin pona, pilin ike",
+    "definitions": [
+      {
+        "text": "emotion",
+        "frequency": 100
+      },
+      {
+        "text": "inner cry",
+        "frequency": 100
+      },
+      {
+        "text": "longing",
+        "frequency": 100
+      }
+    ]
   }
 ]

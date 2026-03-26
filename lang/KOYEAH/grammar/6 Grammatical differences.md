@@ -1,11 +1,11 @@
 ## 6.1 What's gone or changed
 * the vocative *ta* remains (for calling or doing vocative things)
-* *óy*/*óí* and *t* are now *oi* `/ɔɪ/` and `/tḁ/`
+* *óy*/*óí* and *t* are now *oi* `/ɔɪ/` and *ta* `/tḁ/`
 	* pronounced roughly the same but the devoiced vowels preserve (C)V(N) structure
-* *mh* `/m̥͡m/` is pronounced `/m̥͡m~mʲ/`
+* *mh* `/m̥͡m/` is pronounced `/m̥͡m/`, no difference
 * *q* `/c͡ç/` is pronounced `/ç~x/`, but `/c͡ç/` is also acceptable
 * *r* and *rr* `/ɺ ɾ/` are simply pronounced `/ɺ~ɾ~r/`
-* *nh* is pronounced `/n̥͡n/`
+* *nh* is pronounced `/n̥͡n/`, but *mg* `/m͡ŋ~m͡g/` replaced *nh*'s role
 * *nq* `/ɴ/` is pronounced `/ɴ~q~ɢ/`
 	* it takes the form *-nq* /əɴ/ when it appears before another nasal
 	* so *hon* + *-nq* is *honnq* /hɔnəɴ/
@@ -16,6 +16,7 @@
 	* *sta* is written as *suta* (e.g., **nandasuta**) and pronounced `/su̥ta/`
 	* *ól* is simply *o* now (pronounced `/ɔ/`)
 	* *stanyi* (*sutanyi*) is a formal, grammaticalised degree, indicating the "most" of a "least" (e.g., *kitasutanyi* - faintest glimmer of like) (in Ashi Tawa, it wasn't formalised, but was still buildable)
+* *tas* is written and pronounced *tasu* `/tasu̥/`
 * romantic-platonic distinction is preserved but:
 	* it's not commonly used, if at all
 	* only *cha/che* and *-(r)u* are commonly used for gender and verb marking respectively
@@ -25,7 +26,7 @@
 	* so *sora ze reosowunai* (the skies will shine again) is fine
 * discourse particles are intact but:
 	* *am* is pronounced `/æn/`, but the nasal becomes bilabial if followed by a bilabial consonant or velar if followed by a velar consonant
-	* *yad* is pronounced `/jæː/`
+	* *yad* is pronounced `/jæː/` and written *yada*
 	* *ani* is simply pronounced `/æni/`
 * conditionality and temporal markers remain intact
 * irrealis is mostly intact; however:

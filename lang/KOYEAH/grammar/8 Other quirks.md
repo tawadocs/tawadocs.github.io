@@ -159,7 +159,7 @@
 				* ~"Who is the person bringing along?"
 				* ~"Who will the person be accompanying?"
 * You can then scale these modularly:
-	* *nggg, toriwaka eu wesan ni na no subeko i...* :: `FIL PFV-think COMP ADD-3SG.F.POSS TOP 1PL GEN all COP`
+	* *nggg, toriwaka eu wesan ni subeko no na i...* :: `FIL PFV-think COMP ADD-3SG.F.POSS TOP all GEN 1PL COP`
 		* ~"But, like, I thought that she was going to bring us all..."
 			* did you notice something? instead of the genitive pattern, *we* takes *-san*
 				* in the case of pronouns, the postposition always take the respective pronominal possessive
@@ -236,7 +236,7 @@
 		* ~"Tomorrow, (we) will eat"
 	* *Ryo wanō, namekurrate makusutanai, fukaya!* :: `DEM.MED time mistake.V-NEG-INF cry-DIM.SUP-MID REQ-ASSERT`
 		* ~"(Maybe) next time, you shouldn't be crying after making such mistakes (please, I mean it)!"
-	* *Zuoe, kikitasaru wanō no subeko* :: `2SG-N INTENS~like-PERF.RES time GEN all`
+	* *Zuoe, kikitasaru subeko no wanō* :: `2SG-N INTENS~like-PERF.RES all GEN time`
 		* ~"I have and always will love you forever"
 * Note that *ni* would usually be used to set the temporal context as the topic
 	* *ni* is often omitted because 'time clauses' can behave like their own topic, if fronted
