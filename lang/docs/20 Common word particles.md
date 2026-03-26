@@ -59,3 +59,8 @@
 	* **yara** -> **yaro**
 		* *taheteyarã*
 * Note that the **′o-roots** should take the appropriate particle
+* *hwo* aspirates if:
+	* *...to* + *hwo*
+		* *thwo*
+	* *...ko* + *hwo*
+		* *cwo*
