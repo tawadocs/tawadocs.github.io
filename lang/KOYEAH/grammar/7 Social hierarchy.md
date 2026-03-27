@@ -4,6 +4,7 @@
 | ue       | `/ue/`      | COP.POL |
 | dae      | `/dae/`     | FORM    |
 | ara      | `/aɾa~aɺa/` | POL     |
+| iku      | `/iku~icu/` | HON     |
 
 ## 7.2 Polite copular
 * The copular is mandatory in polite constructions
@@ -27,3 +28,5 @@
 		* lit. "I dislike your idea"
 			* it's much safer than saying *kitanqu ryo ita*, which can be harsh
 			* this is like saying **"I see what you mean by this, but, in my humble opinion, I would do it this way"** instead
+* *iku* is an honourific, it comes after a proper noun, like in *Jamuiku* (God) or for softening your tone when speaking to someone
+* It is a term of respect

@@ -84,6 +84,9 @@
 		* **agentive reflexive**
 	* *so o jitekupai* :: he pees himself (accidentally)
 		* **patientive reflexive**
+* They can also be used with postpositions:
+	* *osarapai ji* :: `call-REFL LOC`
+		* ~"call to (oneself)"
 * They differ from:
 	* *so a jitekunai* -> peeing happens by him
 	* *so o jitekunai* -> peeing happens to him

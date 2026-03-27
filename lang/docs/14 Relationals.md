@@ -3,11 +3,11 @@
 | ---------- | ------- | ----------------------------- | ----- |
 | **mha**    | `m̥͡ma` | *Completed / already*         | PRF   |
 | **ha**     | `ha`    | *Incipient / about to happen* | INCP  |
-| **be**     | `be`    | *Imminent / soon*             | IMM   |
+| **be**     | `be`    | *Imminent / soon*             | PROX  |
 | **ze**     | `ze`    | *Recurrent / repeated*        | ITER  |
-| **wari**   | `waɺi`  | *Frequent / a lot, often*     | FREQ  |
-| **he**     | `he`    | *Recent / just occurred*      | JUS   |
-| **ho**     | `ho`    | *Delayed / not yet*           | PEND  |
+| **wari**   | `waɺi`  | *Frequent / a lot, often*     | HAB   |
+| **he**     | `he`    | *Recent / just occurred*      | RECP  |
+| **ho**     | `ho`    | *Delayed / not yet*           | REPL  |
 | **źi**    | `ʑi`    | *When / during*               | TEMP  |
 * They're free particles and usually go before or after the verb
 * You may also use *nihi (X)* where *(X)* is your temporal relational:

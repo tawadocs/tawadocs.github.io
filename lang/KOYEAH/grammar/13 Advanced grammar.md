@@ -78,6 +78,51 @@
 	* the other hand of his is good
 * but when we restate *ni ieiibu*, it changes the state from *iinq i* to *ieiibu* (a little bit / kind of better)
 
+### 13.1.3 Copular predicates
+* The copula can carry predicates
+* For example:
+	* *so ni sarei i* :: `3SG.M TOP 3SG.F-INANIM COP`
+		* lit. ~"As for him, dead she is"
+		* ~"She's dead to him"
+			* more idiomatically, it reads as 'he does not think she deserves to be acknowledged as a living person'
+* If you were to try to translate it directly from English:
+	* *so ni sa ga sarei i* :: `3SG.M TOP 3SG.F NOM 3SG.F-INANIM COP`
+		* ~"To him, she is who is a dead she"
+			* a literal, descriptive fact
+			* it treats her as a living subject (due to *sa*) who is an inanimate subject (*sarei*)
+* The latter is redundant and much less punchy or hurtful than *so ni sarei i*, because the former uses an inanimate pronoun
+* More examples:
+	* *so ni su i, riwakanai* :: `3SG.M TOP 1SG COP think-MID`
+		* ~"He acknowledges me, I think"
+			* recommended to construct it as *so ni su inai, riwakanai*
+				* this is like saying 'as for him, I (do) happen, I think'
+				* the former one is like saying 'as for him, I am, I think'
+	* *to, byo asa i* :: `PFV DEM.PROX house COP`
+		* lit. "Was, here house is"
+		* ~"There used to be a house over here"
+	* *toii* :: `PFV-good`
+		* lit. "Was good"
+		* ~"(I) was good"
+			* *ii* ends in *i* and is already a strong modifier
+			* it does not need take the copular
+			* depending on context, *toii* can mean:
+				* that was good
+				* I was good
+				* she was good
+			* ... etc.
+	* *wurei inai zhi byo* :: `3SG-INANIM COP-MID TEMP DEM.PROX`
+		* lit. "Dead-they happened when here"
+		* ~"They are dead now"
+			* note, *byo* (proximal demonstrative) is used like the English 'now' when appearing after *zhi*
+			* it does not mean 'just now,' it just refers to current time
+			* for 'just now:'
+				* *wurei he inai* :: `3SG-INANIM RECP COP-MID`
+					* ~"They just died"
+* Note that these sentences can be highly offensive, especially due to the inanimate pronouns
+* It is better to avoid saying things so directly:
+	* *Wu ni Jamuiku ga osarapai ji* :: `3SG TOP one.god-HON NOM call-REFL LOC`
+		* ~"They were called by God to Himself"
+
 ## 13.2 Clausal actors
 * A whole predicate can be an 'actor:'
 	* *kanatashimg makure a fofu hakuhwōe* :: `word-POT.ATTR-G.REVS emotion A speak.V real-essence-N`
@@ -303,3 +348,11 @@
 					* ~"When I was eating, it was my inner reserve of strength that kept me awake"
 						* *rawanq* strongly is transitive, so when dropping an object or topic, it is understood that **something or someone** is being acted upon
 						* otherwise, just add *su ni* to the start if you want to explicitly state the topic or what *rawanq* is affecting
+
+## 13.11 Inanimate pronouns
+* Inanimate pronouns are a part of advanced grammar and using them for a person can be highly vulgar:
+	* *mo, fofu sorei ji eu ake utari, fukano?* :: `SEQ speak.V 3SG.M-INANIM LOC COMP IMP.DIR sing REQ-Q`
+		* lit. "Then, tell dead him to sing, (pretty) please?"
+		* ~"Then, why (don't you) tell that useless sack of shit (him) to sing (like a canary), please?"
+			* the *fukano?* contrasts with the harsh and vulgar tone of *sorei* paired with the direct imperative *ake*
+			* it creates a highly sardonic sentence
