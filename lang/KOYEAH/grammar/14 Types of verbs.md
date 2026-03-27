@@ -33,3 +33,44 @@
 			* *su a yaranai* :: I came
 			* *su a yara* :: I made (X) become (Y)
 			* *su o yara* :: I became (X)
+
+### 14.1.2 Experiencer particle
+* Koyeah Tawa has two particles that are not commonly used:
+	* *amg* (`EXP.VOL`)
+		* voluntary experiencer
+	* *omg* (`EXP.NVOL`)
+		* involuntary experiencer
+* Let's say you want to say:
+	* 'well, one thing led to another, she slipped, the universe conspired, physics happened, and someone died'
+* You'd say:
+	* *sa o koru* :: `3SG.F U kill.V`
+		* ~"She experienced killing"
+			* remember that it doesn't mean she is the one being killed
+* If you want to say 'she was killed:'
+	* *sa ga tokori no i* :: `3SG.F NOM PFV-kill.ATTR NMZ COP`
+		* ~"She is the one that was killed"
+* Or 'she died:'
+	* *sa o korunai* :: `3SG.F U kill.V-MID`
+		* ~"She died"
+* With *amg* or *omg*, you can simply do:
+	* *sa omg koru* :: `3SG.F EXP.NVOL kill.V`
+		* lit. "She experiences killing"
+		* ~"The universe conspired, physics happened, and someone died accidentally as she was there"
+			* e.g., 'she slipped, the gun went off, total accident'
+	* *sa omg korunai* :: `3SG.F EXP.NVOL kill.V-MID`
+		* lit. "She experiences death"
+		* ~"At that moment, her heart just happened to decide to cease its beating"
+	* *sa amg koru* :: `3SG.F EXP.VOL kill.V`
+		* lit. "She experiences killing intentionally"
+		* ~"The universe conspired in such a way that someone died, as planned by her"
+			* she did choose to do it, but the focus is on **her feeling of doing it**
+	* *sa amg korunai* :: `3SG.F EXP.VOL kill.V-MID`
+		* lit. "She chose to pass away"
+		* ~"She experienced death willingly"
+			* good for describing suicide, martyrdom, or euthanasia:
+				* *korutanai* :: `kill.V-NEGATIVE-MID`
+					* negative connotation on *korunai* makes it suicide in this case
+				* *koruoinai* :: `kill.V-POSITIVE-MID`
+					* to die a martyr or offer sacrifice (by dying)
+				* *koronyunai* :: `kill-V.ROM-MID`
+					* to be euthanised or mercy-killed
