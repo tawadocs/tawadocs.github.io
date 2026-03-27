@@ -55,3 +55,31 @@
 		- ~"We went out to eat a meal"
 - **Irimen asahaien** (Working + Residing = Lifestyle/Living)
 - **Harinaien eanaien** (Buying + Going = Running errands/Shopping)
+
+## 15.5 Glossing
+* **nouns**:
+	* *kamōe pamōe* :: `eat-N RED:ASSOC-N`
+		* ~"Foodstuffs"
+		* ~"Food and whatever"
+	* *kamōe damōe* :: `eat-N RED:PEJ-N`
+		* ~"Food and shit"
+		* ~"Food and crap"
+* **verbs**:
+	* *kamu pamu* :: `eat.V RED.PLUR:ASSOC`
+		* ~"To snack mindlessly"
+		* ~"To eat whatever"
+	* *kamu damu* :: `eat.V RED.PLUR:PEJ`
+		* ~"To eat whatever shit"
+		* ~"To eat and shit"
+		* ~"To eat whatever crap one is offered"
+* **modifier** (same for both *nu* and *i* modifiers):
+	* *kamoi pamoi* :: `food-ATTR RED:ASSOC-ATTR`
+		* ~"Like edible and all that"
+	* *kamoi damoi* :: `food-ATTR RED:PEJ-ATTR`
+		* ~"Like food and shit"
+		* ~"Edible and all that crap"
+* **adverbs**:
+	* *haterui paterui* :: `run.V-ATTR RED:ASSOC.V-ATTR`
+		* ~"Like swiftly and stuff"
+	* *haterui daterui* :: `run.V-ATTR RED:PEJ.V-ATTR`
+		* ~"Like fast and shit"
