@@ -300,13 +300,29 @@
 			* you can omit *su*:
 				* *a, itagi o funai* :: `A idea U ACT-MID`
 					* depending on context, *a* can mean 'I/me'
+* Compare with *inai*:
+	* *Su ni itagi inai* :: `1SG TOP idea COP-MID`
+		* ~"An idea exists for me / an idea is being for me"
+	* *Itagi inai* :: `idea COP-MID`
+		* ~"An idea exists"
+		* ~"An idea happens"
 
 ## 13.10 Usage of **ga**
 * *ga* marks the subject of a sentence
 * It is used in place of *a* or *o* in fast speech
 	* in spoken language, *ga* **does not** feel informal nor impolite
 * It is not as commonly used in written language, unless between close friends
-	* in written language, substituting *a/o* for *ga* **does** feel very informal and impolite (to strangers or elders)
+	* in written language, substituting *a/o* (and sometimes even *ni*, though that could be incorrect) for *ga* **does** feel very informal and impolite (to strangers or elders)
+		* so, saying:
+			* *ryo ga ii* (this is good)
+			* *su ga kamu* (I eat)
+		* can be impolite or jarring in written form
+		* even for complex sentences:
+			* *Kamen ga, su o rawaretanai*
+			* *Motore ga, o rawanq zhi kamen*
+		* there, you would use respectively:
+			* *kamen a*
+			* *motore a*
 * It is not a dummy pronoun:
 	* *a, itagi o funai* :: I had an idea
 		* the actor before *a* is omitted if context is clear
