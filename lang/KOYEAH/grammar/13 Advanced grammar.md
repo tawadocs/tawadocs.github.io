@@ -306,7 +306,7 @@
 * It is used in place of *a* or *o* in fast speech
 	* in spoken language, *ga* **does not** feel informal nor impolite
 * It is not as commonly used in written language, unless between close friends
-	* in written language, *ga* **does** feel very informal and impolite
+	* in written language, substituting *a/o* for *ga* **does** feel very informal and impolite (to strangers or elders)
 * It is not a dummy pronoun:
 	* *a, itagi o funai* :: I had an idea
 		* the actor before *a* is omitted if context is clear
