@@ -79,7 +79,7 @@
 	* *fofunai eu...* :: hear (that)... / listen (that)... / know that...
 
 ### 11.2.2 Reciprocality
-* Use *pai* for this:
+* Use *pai* (`REFL`) for this:
 	* *so a jitekupai* :: he pees himself (and it is his fault)
 		* **agentive reflexive**
 	* *so o jitekupai* :: he pees himself (accidentally)

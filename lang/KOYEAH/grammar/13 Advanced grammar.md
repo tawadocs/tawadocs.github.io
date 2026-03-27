@@ -241,3 +241,65 @@
 		* *subekinu ribu* :: anything related to books (e.g., pens and paper)
 		* *subekinu hon* :: anything related to humans (e.g., life, organs)
 		* *subekinu chi* :: anything related to water (e.g., liquid, drinks, solvent, cups)
+
+## 13.9 Occurrence
+* The middle voice form of *fu* (*funai*) is used to denote the 'happening' of an event:
+	* *Itagi o funai* :: `idea U ACT-MID`
+		* ~"An idea occurred"
+		* ~"An idea actualised"
+* It is particularly useful in constructions like
+	* *Su ni itagi o funai* :: `1SG TOP idea U ACT-MID`
+		* lit. "As for me, an idea actualised"
+		* ~"I just thought of something"
+		* ~"I have an idea"
+			* you can omit *su*:
+				* *a, itagi o funai* :: `A idea U ACT-MID`
+					* depending on context, *a* can mean 'I/me'
+
+## 13.10 Usage of **ga**
+* *ga* marks the subject of a sentence
+* It is used in place of *a* or *o* in fast speech
+	* in spoken language, *ga* **does not** feel informal nor impolite
+* It is not as commonly used in written language, unless between close friends
+	* in written language, *ga* **does** feel very informal and impolite
+* It is not a dummy pronoun:
+	* *a, itagi o funai* :: I had an idea
+		* the actor before *a* is omitted if context is clear
+	* *ga, itagi o funai* :: the idea which happened...
+		* incomplete sentence
+		* comma is misleading and feels jarring to parse as well
+* It can promote topics to subjects (poetic and literary):
+	* *Sa ni, wan niro o nirutashimgai ga naiwanqtasu* :: `3SG.F TOP one eye U see.V-POT.ATTR-G.REVS.MID NOM happy-REVS-POT`
+		* lit. "As for her one eye suffering non-seeing-ability able to sadden"
+		* ~"The fact that she can't see in one eye makes me sad"
+
+### 13.10.1 **ga** stacking with other particles
+* This is where *ga* shines
+* It can exist with *a* and *o* to layer meaning
+* For example:
+	* *Kamen ga su o rawaretanai* :: `eat.VBZ NOM 1SG U sleep-RESL-MID`
+		* ~"Oops, eating made me pass out"
+			* or just drop the pronoun:
+				* *kamen ga, o rawaretanai*
+					* ~"Oops, eating made (me) pass out (unintentionally)"
+	* *Kamen ga rawareta suoe* :: `eat.VBZ NOM sleep-RESL 1SG-N`
+		* ~"Eating ended up making me sleep"
+			* and you can drop *suoe*:
+				* *kamen ga rawareta*
+					* ~"Oops, eating made me sleep"
+					* here, intent (intentionality) is underspecified, since no *a* or *o* exists to hint at it
+* Here is a slightly more complex sentence:
+	* *Su a rawanqpai moto mo zhi kamen* :: `1SG A sleep-REVS-REFL strength COM TEMP eat.VBZ`
+		* lit. "My strength and I stayed awake whilst eating / I stayed awake with strength when eating"
+		* ~"It took strength to stay awake when eating"
+* But more naturally, you'd say:
+	* *Motore ga, o rawanq zhi kamen* :: `strength-inner NOM U sleep-REVS TEMP eat.VBZ`
+		* lit. "Inner strength naturally made stay awake (me) when eating"
+		* ~"The inner reserve of strength is what kept me awake when eating"
+			* here, *o rawanq* is like saying 'my inner strength just naturally makes me stay awake'
+			* if it's more about strength needed to stay awake:
+				* *motore ga rawanq zhi kamen* :: `strength-inner NOM sleep-REVS TEMP eat.VBZ`
+					* lit. "Inner reserve of strength stayed someone awake when eating"
+					* ~"When I was eating, it was my inner reserve of strength that kept me awake"
+						* *rawanq* strongly is transitive, so when dropping an object or topic, it is understood that **something or someone** is being acted upon
+						* otherwise, just add *su ni* to the start if you want to explicitly state the topic or what *rawanq* is affecting

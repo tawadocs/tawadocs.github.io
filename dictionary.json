@@ -1952,28 +1952,6 @@
     ]
   },
   {
-    "word": "ga",
-    "id": "poka",
-    "definitions": [
-      {
-        "text": "side",
-        "frequency": 100
-      },
-      {
-        "text": "hip",
-        "frequency": 100
-      },
-      {
-        "text": "beside",
-        "frequency": 100
-      },
-      {
-        "text": "aside",
-        "frequency": 100
-      }
-    ]
-  },
-  {
     "word": "gade",
     "id": "jaki",
     "definitions": [
@@ -2043,6 +2021,28 @@
       },
       {
         "text": "monkey",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "gai",
+    "id": "poka",
+    "definitions": [
+      {
+        "text": "side",
+        "frequency": 100
+      },
+      {
+        "text": "hip",
+        "frequency": 100
+      },
+      {
+        "text": "beside",
+        "frequency": 100
+      },
+      {
+        "text": "aside",
         "frequency": 100
       }
     ]
