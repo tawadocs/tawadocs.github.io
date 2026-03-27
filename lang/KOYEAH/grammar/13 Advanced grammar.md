@@ -120,7 +120,7 @@
 					* ~"They just died"
 * Note that these sentences can be highly offensive, especially due to the inanimate pronouns
 * It is better to avoid saying things so directly:
-	* *Wu ni Jamuiku ga osarapai ji* :: `3SG TOP one.god-HON NOM call-REFL LOC`
+	* *Wu ni Jamuiku ga osaratepai* :: `3SG TOP one.god-HON NOM call-INF-REFL LOC`
 		* ~"They were called by God to Himself"
 
 ## 13.2 Clausal actors

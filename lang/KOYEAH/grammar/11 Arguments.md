@@ -84,9 +84,13 @@
 		* **agentive reflexive**
 	* *so o jitekupai* :: he pees himself (accidentally)
 		* **patientive reflexive**
-* They can also be used with postpositions:
-	* *osarapai ji* :: `call-REFL LOC`
+* They can also be used with postpositions, but require an infinitive to link them to the postposition:
+	* *osaratepai* :: `call-INF-REFL`
 		* ~"call to (oneself)"
+			* bare infinitives take *-pai* directly on the verb
+	* *tokamu motepai* :: `PFV-eat.V COM-INF-REFL`
+		* ~"(I) ate with myself"
+			* the postposition takes the infinitive *-te* to link it to *-pai*
 * They differ from:
 	* *so a jitekunai* -> peeing happens by him
 	* *so o jitekunai* -> peeing happens to him
