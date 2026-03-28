@@ -18,7 +18,7 @@
 | bu       | **PROP**                      |
 | (r)u     | **V**                         |
 | mo       | **CMPR** for comparative role |
-| en       | **VBZ**                       |
+| en       | **GER**                       |
 | ake      | **IMP.DIR**                   |
 | aiko     | **IMP.POL**                   |
 | aa       | **CONC**                      |
@@ -26,6 +26,17 @@
 | suta     | **MAX.DIM**                   |
 | nyi      | **AUG.SUP**                   |
 | sutanyi  | **MAX.DIM-AUG.SUP**           |
+| cha      | **PLT.F**                     |
+| che      | **PLT.M**                     |
+| nya      | **ROM.F**                     |
+| nye      | **ROM.M**                     |
+| oi       | **MEL**                       |
+| ta       | **PEJ**                       |
+| (r)u     | **PLT.V**                     |
+| nyu      | **ROM.V**                     |
+| masu     | **AGT**                       |
+| masumg   | **AGT-G.REVS**                |
+| qe       | **AFF**                       |
 * Others stay the same, as described
 * Note:
 	* *aa* also asserts what comes after it as something the two speakers are clear on
@@ -37,3 +48,17 @@
 				* this sets that statement as a 'fact' that can't be negated by *des* later
 				* so *des* negates everything except that
 * Superlatives are **INTENS~** now
+* The *en* particle is **GER** (gerund) now
+* *nyu* is an irregular particle, as it drops the *-u* in place of the next affix's vowel (if it begins with a vowel):
+	* *nyen* :: `ROM.V.GER`
+	* *nyoi* :: `ROM.V.MEL`
+	* *nyuta* :: `ROM.V-PEJ` (*u* not dropped, since *ta* does not begin with any vowel)
+* It drops *n* if appearing after an affix:
+	* *iiǵyu* :: `good-REVS.ROM.V`
+		* 'to badden'
+* With *nai*, the *yai* form is used:
+	* *iiǵyai* :: `good-REVS.ROM.V.MID`
+		* 'to be baddened'
+* Also, *masumg* is used for patientives:
+	* *pamyamasu* :: writer
+	* *pamyamasumg* :: written work / manuscript
