@@ -75,14 +75,14 @@
 				* *koronyunai* :: `kill-V.ROM-MID`
 					* to be euthanised or mercy-killed
 
-## 14.2 Intransitiviser (**NSKT 3.2**)
-* The intransitiviser (`INTR`) particle *-mai* can be used to flip transitivity
+## 14.2 Transitiviser (**NSKT 3.2**)
+* The transitiviser (`TR`) particle *-mai* can be used to flip transitivity
 * It has been introduced in **New Standard Koyeah Tawa 03020** (*v3.2*)
 * It is virtually the same as *naimg*:
 	* *kamunaimg* :: to feed X / to make X eat Y
 	* *kamumai* :: to feed X Y
 		* NSKT 3.2 prefers *mai* over *naimg*
-* You'd use the middle voice form (`MID.INTR`) for something like this:
+* You'd use the middle voice form (`MID.TR`) for something like this:
 	* *Kamunamai* :: to be fed X
 		* this is the same as *naimgai*
 * More examples:
