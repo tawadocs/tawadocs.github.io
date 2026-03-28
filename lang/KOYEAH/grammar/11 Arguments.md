@@ -103,6 +103,7 @@
 		* you can state the actor:
 			* *sa a, so o kamunai* :: `3SG.F A 3SG.M U eat.V-MID`
 				* "He is eaten by her"
+* *pai* is better glossed `REFL.MID`
 
 ### 11.2.3 Examples
 * **ex. 1 (compare)**

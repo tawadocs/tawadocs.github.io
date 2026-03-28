@@ -114,6 +114,7 @@
 		* lit. "Dead-they happened when here"
 		* ~"They are dead now"
 			* note, *byo* (proximal demonstrative) is used like the English 'now' when appearing after *zhi*
+				* similar to how *lyo* (distal demonstrative) is used like the English 'back then' / 'then' when appearing after *zhi*
 			* it does not mean 'just now,' it just refers to current time
 			* for 'just now:'
 				* *wurei he inai* :: `3SG-INANIM RECP COP-MID`

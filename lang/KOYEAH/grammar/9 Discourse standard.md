@@ -85,10 +85,7 @@ These markers interact differently depending on the complexity of the sentence.
 			* however, it's a little more poetic than that
 			* it's like saying 'the feeling I get from eating this is really pleasing (for me)'
 
-## 9.5 **eu** vs. **mo**
-* In terms of reported speech, the difference between *eu* and *mo* is vital
-* *eu* is used to report speech generally and can behave like a mood particle marking second-hand reporting
-* *mo* is a much more specific particle and is akin to saying 'these were his exact, unadulterated words that came out of his mouth, one for one'
+## 9.5 **mo** in reporting speech
 * *mo* has two commonly used degrees:
 	* *mosuta*
 		* ~'these were **probably/likely** the exact words he said'
@@ -96,24 +93,39 @@ These markers interact differently depending on the complexity of the sentence.
 	* *mosutanyi*
 		* ~'I have the faintest, most minimal inkling that this is what he said'
 		* ~'If I'm being forced to say that this is what he said, it's by the thinnest margin possible'
-* In any case, you'd often use *eu* unless you're writing a story or quoting someone
+* In any case, you'd often use plain word order or **demonstratives** unless you're writing a story or quoting someone
 * Examples:
-	* *to riwaka mo, eeeehhh, shirerranai* :: `PFV think QUOT INTERJ know-NEG-MID`
+	* *toriwaka mo, nggggggg, shirerranai* :: `PFV-think QUOT FIL know-NEG-MID`
 		* ~"I thought exactly... like, uhhh, (never mind), I don't know"
 	* *sa a fofu mo 'su a kitanq zuoe'* :: `3SG.F A speak.V QUOT 1SG A like-ANT 2SG-ACC`
 		* lit. "She says, 'I hate you'"
 		* ~"She said that she hates me"
-	* *niru mosuta so* :: `see.V QUOT-MAX.DIM 3SG.M`
+	* *nirunai mosuta so* :: `see.V-MID QUOT-MAX.DIM 3SG.M`
 		* ~"I'm almost certain I saw him"
 		* ~"Pretty sure that I saw him (though I may misremember a little)"
-	* *niru mosutanyi so* :: `see.V QUOT-MAX.DIM-AUG.SUP 3SG.M`
+	* *nirunai mosutanyi so* :: `see.V-MID QUOT-MAX.DIM-AUG.SUP 3SG.M`
 		* ~"I have the faintest glimpse that I thought that I saw him"
 * Rule of thumb:
 	* *mo* for any regular quote: a saying of some philosopher or character dialogues
-	* *eu* for general reported speech: someone said something, you heard about an event, or you saw something, you use this
-		* unless you want to emphasise the exactness of what you saw or heard, you use *eu*
 	* the other degrees of *mo* for more control over exactness or absoluteness
-* Note that *mo* is very strong: if you misconstrue a person and you used *mo*, then that would be a very big lie, whereas with *eu* it could be seen as a genuine mistake
+* Note that *mo* is very strong: if you misconstrue a person and you used *mo*, then that would be a very big lie
+
+### 9.5.1 Demonstratives
+* Apart from strict word order, you can quote people using demonstratives, but the strength of your reporting depends on the demonstrative used
+* The demonstrative must be in the -oe form:
+	* *sa fofu byōe: zu ga iinq ue* :: `3SG.F speak.V DEM.PROX-N 2SG NOM good-REVS COP.POL`
+		* lit. "She politely told me that I was bad"
+		* ~"She said right there and right then that I was a pile of shit, politely"
+			* *... iinq ue* is a very sardonic and rude construction, especially when paired with `X ga`, where `X` can be a pronoun like *zu* (you)
+	* *so fofu ryōe: kita samioe* :: `3SG.M speak.V DEM.MED-N like fish-N`
+		* lit. "He said this: like fish"
+		* ~"He said that he likes fish between us"
+			* compared to *byōe*, *ryōe* is a little more direct, but less strong (in quotations), and always has a 'between us' nuance
+	* *na fofu lyōe: kitanq samioe* :: `1PL speak.V DEM.DIST-N like-REVS fish-N`
+		* lit. "We said that there: hate fish"
+		* ~"We said that we hate fish"
+			* *lyōe* is the least direct
+			* often has a 'back then' or 'then' nuance, like 'we said (then)'
 
 ## 9.6 Postposition interaction with **ni**
 * *X ji ni Y*

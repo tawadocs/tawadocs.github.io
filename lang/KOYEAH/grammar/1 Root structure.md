@@ -20,8 +20,8 @@
 | nq       | `/ŋ~ɴ/`   | ANT     |
 | te       | `/te/`    | INF     |
 | no       | `/no/`    | GEN / Q |
-| ra       | `/ɺa~ɾa/` | NEG     |
-| ri       | `/ɺi~ɾi/` | AFFIRM  |
+| rra      | `/ɾa~ra/` | NEG     |
+| rri      | `/ɾi~ri/` | AFFIRM  |
 * **ni** marks the topic:
 	* *atora ni kamu* :: `apple TOP eat.V`
 		* lit. "As for the apple, (I) eat (it)"

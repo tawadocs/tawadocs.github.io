@@ -23,6 +23,9 @@
 | aiko     | **IMP.POL**                   |
 | aa       | **CONC**                      |
 | ani      | **PROV-CIRC.PRIV**            |
+| suta     | **MAX.DIM**                   |
+| nyi      | **AUG.SUP**                   |
+| sutanyi  | **MAX.DIM-AUG.SUP**           |
 * Others stay the same, as described
 * Note:
 	* *aa* also asserts what comes after it as something the two speakers are clear on
