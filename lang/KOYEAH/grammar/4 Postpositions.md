@@ -44,7 +44,7 @@
                 - _komuni komuninq ji a monu tetoeka_
                 - "the boss **made** the employee write the report"
     - **un**
-        - instrument or means (DON'T confuse wth comitative 'mo')
+        - instrument or means (DON'T confuse with comitative 'mo')
             - wrote the book **digitally** / **in/via** electronic interface
                 - _paya ribuoe tahete un_ -> `write book-NM electronic INSTR`
             - ate **with** a spoon
