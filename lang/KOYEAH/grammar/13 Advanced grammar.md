@@ -122,6 +122,8 @@
 * It is better to avoid saying things so directly:
 	* *Wu ni Jamuiku ga osaratepai* :: `3SG TOP one.god-HON NOM call-INF-REFL LOC`
 		* ~"They were called by God to Himself"
+		* even here, *jamuiku ga* is not preferable
+		* see **13.12**
 
 ## 13.2 Clausal actors
 * A whole predicate can be an 'actor:'
@@ -372,3 +374,52 @@
 		* ~"Then, why (don't you) tell that useless sack of shit (him) to sing (like a canary), please?"
 			* the *fukano?* contrasts with the harsh and vulgar tone of *sorei* paired with the direct imperative *ake*
 			* it creates a highly sardonic sentence
+
+## 13.12 Politeness
+* Never be direct:
+	* **ryo ga iinq ue**
+		* the polite copular *ue* makes this even worse
+		* it's like saying 'this is shit, politely'
+		* it's the opposite of polite and can feel sardonic or sarcastic
+* You have to read the room and choose the appropriate response:
+	* *tokuenanqai jamuiku ji* :: `PFV-lose.REVS.MID one.god-HON LOC`
+		* ~"Returned to the God"
+			* often synonymous with the English 'passing away'
+			* very respectful
+			* saying something like *jamuiku a* or to state *jamuiku* as an actor is generally avoided, since one cannot certainly know that God did exactly that
+			* so, we use passive constructions, where *jamuiku* is the ultimate location or goal
+* Here are some situations and example responses:
+	* **you had a drink at a family dinner before, but now the drink doesn't taste that good**
+		* *Lyo konga, chingu ga waoi. Myomg no ng ni arene ue ga futasu, arariwakanai no?*
+			* `DEM.DIST day-SRC.PART water-SRC.LEX NOM appeasing | QNT-G.REVS NMZ FIL TOP different COP.POL NOM ACT-POT POL-think-MID Q`
+				* lit. "That time of day, drink elicited a positive sensory feeling (i.e., was appeasing). As for some, different is possible, think?"
+				* ~"That time of day, the drink was appeasing to me. Do you think that it's possible that maybe something is different today?"
+	* **an itchy, ugly shirt was given to you as a gift**
+		* *eeeehh! araii riwakaen. Iehaku ue, hakuǵrra ue. Ryo ga ieashi. Yadaaa, aumg gayasun ji myomg no wanōete damiyaru kohazun mo, fukāna*
+			* `hey POL-good think-VBZ | AUG-truth COP.POL truth-REVS-NEG COP.POL | DEM.MED NOM AUG-new | so HAVE.V-G.REVS body-1SG.POSS LOC QNT-G.REVS GEN time-N-INF easy-become.V gift-2SG.POSS COM REQ-AFFEC`
+				* lit. "Eyyyy, good thinking. Really is, lie isn't. This newer. Soooo, give my body to some time easy become your gift with, please, (you know)"
+				* ~"Eyyyy, good thinking! Really, I mean it. This is quite new. Sooo, please give my body some time to ease into your gift."
+					* *aumg* is more polite than using *demg*
+					* *fukāna* is an affectionate request
+					* *gayasun* diverts attention from **you** (I) as the actor or active agent
+					* *damiyaru* is the verb form of the *damiyaro* (become easy) compound
+	* **you want to end a boring conversation**
+		* *Yada, aa arapara no nampangu, shirenai, (...), iehakui riwakanai*
+			* `so CONC POL-tolerate GEN number-SRC.LEX know-MID ... AUG-true-ATTR think-MID`
+				* lit. "Well, even though tolerance's measure, (I) know, ... really true, (I) think"
+				* ~"Well, even though this could feel jarring, I think ... is true"
+					* here, *(...)* can be a genuine reason, the most common of which being:
+						* *riwakangosun no miri o myo no ng a itanai*
+							* `think-SRC.WHOLE-1SG.POSS GEN middle U QNT NMZ FIL A PRTV-MID`
+								* lit. "My mind's middle experiences many things circumambulating"
+								* ~"I've got a lot on my mind"
+								* ~"There's a lot going round my mind"
+* Abrupt vs. flow:
+	* *yaro* does not imply natural or abrupt transitions, it only implies some sort of becoming
+	* with *dami* or words that sound soft, it can have a natural, slowly adjusting connotation:
+		* *damiyaru* :: to ease (into)...
+	* other words, like *tahete*, which sound sharp, usually mean 'fast' or unnatural changes:
+		* *taheteyaru* :: digitise
+			* since *tahete* is also a word opposed to nature (it refers to non-natural, digital things, like electronics), the 'transition' is also unnatural
+	* to soften 'digitise,' you use *damiyarute* compounds:
+		* *damiyarute tahete...* :: to ease into digital...
