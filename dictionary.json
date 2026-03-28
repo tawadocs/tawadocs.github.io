@@ -10180,6 +10180,40 @@
     ]
   },
   {
+    "word": "yada",
+    "id": "kin, ali, mute",
+    "definitions": [
+      {
+        "text": "quite",
+        "frequency": 100
+      },
+      {
+        "text": "pretty",
+        "frequency": 100
+      },
+      {
+        "text": "so",
+        "frequency": 100
+      },
+      {
+        "text": "enough",
+        "frequency": 100
+      },
+      {
+        "text": "remarkable",
+        "frequency": 100
+      },
+      {
+        "text": "unusual",
+        "frequency": 100
+      },
+      {
+        "text": "noteworthy",
+        "frequency": 100
+      }
+    ]
+  },
+  {
     "word": "yara",
     "id": "kama",
     "definitions": [
