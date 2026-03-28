@@ -18,3 +18,13 @@
 	* *tokamu no?* :: `PFV-eat.V Q`
 		* "Did (you) eat?"
 * The *hya/hyo* distinction has been replaced with just *no?*
+
+## 5.2 Stacking aspect
+* Simple aspects (prefixes) can be stacked with complex aspect (suffixes):
+	* *Ryo ni watada reofutashinata* :: `DEM.MED TOP only IPFV-ACT-POT.ATTR-FUT.CONT`
+		* lit. "Only this will ever continue to be be actualisable"
+			* it's like saying 'what will stick to happening from now on is this'
+* Here's a reasonably complex sentence to demonstrate it:
+	* *Fofen no yo? Eiǵ ni watada reofutasunata* :: `speak.GER NMZ Q | ANAPH-REVS TOP only IPFV-ACT-POT-FUT.CONT`
+		* lit. "Speaking? Only the opposite of that will ever be actualisable (onwards)"
+		* ~"Speaking (about it)? I won't even think of it from now on"
