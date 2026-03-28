@@ -28,3 +28,4 @@
 	* *Fofen no yo? Eiǵ ni watada reofutasunata* :: `speak.GER NMZ Q | ANAPH-REVS TOP only IPFV-ACT-POT-FUT.CONT`
 		* lit. "Speaking? Only the opposite of that will ever be actualisable (onwards)"
 		* ~"Speaking (about it)? I won't even think of it from now on"
+			* it's like saying: 'as for this 'speaking thing' you're suggesting? it will keep on never happening'
