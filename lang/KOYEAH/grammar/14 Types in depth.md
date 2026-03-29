@@ -187,40 +187,66 @@
 		* *kamunyi* :: to eat most intensely / hard / severe
 		* *okamu* :: to eat too much / in excess
 		* *kamusuta* :: to eat too little
+		* *iekamu* :: eat not too much not too little / pretty good eating
 	* **see**
 		* *niniru* :: to concentrate / focus hard
 		* *nirunyi* :: to strain one's eyes / severely focus
 		* *oniru* :: to see too much
 		* *nirusuta* :: to see too little
+		* *ieniru* :: see fine / see enough
 	* **run**
 		* *hahateru* :: to run intensely / hard
 		* *haterunyi* :: to run unhealthily / severely
 		* *ohateru* :: to run too much
 		* *haterusuta* :: to run too little
+		* *iehateru* :: run pretty much
 	* **talk**
 		* *fofofu* :: to speak intensely / harshly (in tone or volume)
 		* *fofunyi* :: to shout / scream
 		* *ofofu* :: to speak too much / blab a lot
 		* *fofusuta* :: to speak too little
+		* *iefofu* :: speak fine / speak enough
 * General rule:
-	* **syllabic reduplication**: intense, harsh, or 'higher'
+	* **moraic reduplication**: intense, harsh, or 'higher'
 	* **-nyi**: severely, extremely, often in a way that can hurt or be painful
 	* **-suta**: too little, not enough
 	* **o-**: too much, in excess
+	* **ie-**: pretty much, not too little and not too much, enough, fine
 ### 14.3.2 Nouns
 * Examples:
 	* **house**
-		* *asasa* :: most like a house
-		* *asanyi* :: severely home-like
-		* *oasa* :: too much like a house
-		* *asasuta* :: too little like a home
+		* *asasa* :: mansion
+		* *asanyi* :: villa, castle, McMansion
+		* *oasa* :: estate
+		* *asasuta* :: slum house
+			* refers to any house that is too little of a home
+			* 'to little' means 'less,' not literally 'small'
+			* so, a lesser house would be one that doesn't function much like a house
+			* this includes slum "homes"
+		* *ieasa* :: fine/decent house
 	* **water**
-		* *chichi* :: most water-like
-		* *chinyi* :: severely water-like
-		* *ochi* :: too much like water
-		* *chisuta* :: too little like water
+		* *chichi* :: lake
+		* *chinyi* :: sea
+		* *ochi* :: ocean
+		* *chisuta* :: too little water
+			* *chisusuta* would mean 'drops / a trickle' (the least)
+			* *chisutanyi* would mean 'a faint glimmer of a trickle' (most of the least)
+		* *iechi* :: enough water
 	* **person / human**
-		* *hohon* :: most humanoid
-		* *honnyi* :: severely human-like
-		* *ohon* :: too much like a human
-		* *honsuta* :: too little like a human (robotic)
+		* *hohon* :: group
+		* *honnyi* :: crowd
+		* *ohon* :: overpopulation / overcrowding / an excess of people
+		* *honsuta* :: sparsely populated / too little people
+		* *iehon* :: enough people / decent amount of people
+* The rule:
+	* **moraic reduplication**: a bigger / more intense form
+	* **-nyi**: a grand form
+	* **-suta**: too little, not enough, sparse
+	* **o-**: unimaginably huge, too much, copious amounts
+	* **ie-**: pretty good, decent, enough, OK, fine
+
+### 14.4 Degree degree
+* Degree with degree on it (*degree degree*) can be formed like this:
+	* *suta* (little) + *nyi* (most) = most of a least (*sutanyi*)
+* And you can reduplicate them too:
+	* *suta* :: *susuta* (least)
