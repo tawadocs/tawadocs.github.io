@@ -173,3 +173,6 @@
 * But often, you'd simply break up the phrase and never use *maimg*
 * The only circumstance where *maimg* **may be considered** is only in the case of *hateru* (run)
 * *maimg* is a lexicalised transitiviser, so don't apply it to every verb; just memorise a few common ones that may use it
+	* *korumaimg* and *kamumaimg* aren't necessary to memorise
+	* they were used for the sake of demonstration
+	* in reality, only a few roots like *hateru* use them, if ever
