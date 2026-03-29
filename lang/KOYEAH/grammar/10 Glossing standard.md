@@ -70,3 +70,14 @@
 * Also, *masumg* is used for patientives:
 	* *pamyamasu* :: writer
 	* *pamyamasumg* :: written work / manuscript
+* But, the preferred form is *tei* (from Ashi Tawa, glossed as `PAT` in Koyeah Tawa) suffix:
+	* *pamyatei* :: written work
+	* *haterotei* :: the path run on / running path
+	* *rawatei* :: the dream
+	* *riwakatei* :: a thought
+	* *fofotei* :: the spoken words / speech
+* A lot of these can just take *-oe* instead:
+	* *pamyaoe* :: the writing
+	* *fofōe* :: speech / speaking
+	* *riwakaoe* :: thought / thinking
+* But *haterōe* or *rawaoe* would not imply 'running path' or 'dream,' since *oe* is a noun suffix, not patientive
