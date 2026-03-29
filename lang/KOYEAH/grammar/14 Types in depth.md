@@ -212,6 +212,7 @@
 	* **-suta**: too little, not enough
 	* **o-**: too much, in excess
 	* **ie-**: pretty much, not too little and not too much, enough, fine
+
 ### 14.3.2 Nouns
 * Examples:
 	* **house**
