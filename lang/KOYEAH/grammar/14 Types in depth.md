@@ -177,3 +177,50 @@
 	* they were used for the sake of demonstration
 	* in reality, only a few roots like *hateru* use them, if ever
 	* postposition verbs are also exceptions, like *llaru* which innately has a 'goal / destination'
+
+## 14.3 Degree on each type
+### 14.3.1 Verbs
+* Degrees on verbs behave differently than degree on other word types
+* Here are all the degrees on different verbs:
+	* **eat**
+		* *kakamu* :: to eat intensely / hard
+		* *kamunyi* :: to eat most intensely / hard / severe
+		* *okamu* :: to eat too much / in excess
+		* *kamusuta* :: to eat too little
+	* **see**
+		* *niniru* :: to concentrate / focus hard
+		* *nirunyi* :: to strain one's eyes / severely focus
+		* *oniru* :: to see too much
+		* *nirusuta* :: to see too little
+	* **run**
+		* *hahateru* :: to run intensely / hard
+		* *haterunyi* :: to run unhealthily / severely
+		* *ohateru* :: to run too much
+		* *haterusuta* :: to run too little
+	* **talk**
+		* *fofofu* :: to speak intensely / harshly (in tone or volume)
+		* *fofunyi* :: to shout / scream
+		* *ofofu* :: to speak too much / blab a lot
+		* *fofusuta* :: to speak too little
+* General rule:
+	* **syllabic reduplication**: intense, harsh, or 'higher'
+	* **-nyi**: severely, extremely, often in a way that can hurt or be painful
+	* **-suta**: too little, not enough
+	* **o-**: too much, in excess
+### 14.3.2 Nouns
+* Examples:
+	* **house**
+		* *asasa* :: most like a house
+		* *asanyi* :: severely home-like
+		* *oasa* :: too much like a house
+		* *asasuta* :: too little like a home
+	* **water**
+		* *chichi* :: most water-like
+		* *chinyi* :: severely water-like
+		* *ochi* :: too much like water
+		* *chisuta* :: too little like water
+	* **person / human**
+		* *hohon* :: most humanoid
+		* *honnyi* :: severely human-like
+		* *ohon* :: too much like a human
+		* *honsuta* :: too little like a human (robotic)
