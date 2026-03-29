@@ -143,7 +143,7 @@
                 - _sa so po i_ -> `3SG.F FOR 3SG.M COP`
         - positioned beside or alongside a thing
             - I am beside the house **(poji)**
-                - _su asa asapoji i_ -> `1SG house FOR-LOC COP`
+                - _su asa poji i_ -> `1SG house FOR-LOC COP`
     - **bo**
         - being against
             - she is against him

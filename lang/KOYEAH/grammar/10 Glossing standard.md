@@ -38,6 +38,10 @@
 | masumg   | **AGT-G.REVS**                |
 | qe       | **AFF**                       |
 | ng       | **FIL / PRT / SFP.DECL**      |
+| po       | **BESIDE**                    |
+| bo       | **AGST**                      |
+| mei      | **AN**                        |
+| rei      | **INAN**                      |
 * Others stay the same, as described
 * *ng* is a dummy if it marks *no* as nominaliser
 * Note:
@@ -51,6 +55,7 @@
 				* so *des* negates everything except that
 * Superlatives are **INTENS~** now
 * Interjections are **INTJ** now
+* Pronouns' proper glosses are reflected in **16:16.3**
 * The *en* particle is **GER** (gerund) now
 * *nyu* is an irregular particle, as it drops the *-u* in place of the next affix's vowel (if it begins with a vowel):
 	* *nyen* :: `ROM.V.GER`
