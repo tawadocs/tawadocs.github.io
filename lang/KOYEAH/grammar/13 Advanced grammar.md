@@ -469,3 +469,29 @@
 			* note that *ji* is added after *Jamuiku* to explicitly mark *Jamu* (God) as the ultimate destination / goal of *daellāranyai* (also why the middle voice is used, since *lla(ru/nyu)* encodes a 'destination' or 'towards' innately)
 			* the dummy particle *ng* marks the end of the sentence
 				* used in formal constructions like serious oaths to explicitly mark when said oath ends to kill exploitation of issues like ambiguity
+
+## 13.14 Register
+* Register shifts depending on tone (e.g., intonation), particles (e.g., *dae*, *ara*), and grammar
+* For example, you'd never say:
+	* *ii lyo i* :: `good DEM.DIST COP`
+		* lit. "Good that is / exists"
+		* ~"That's good"
+* ... to your boss
+* You'd say:
+	* *Lyo ni daeii ue* :: `DEM.DIST TOP FORM-good COP.POL`
+* For elders and respected people, you refer to them by *-honiku*:
+	* *Jon'honiku* :: `john-person-HON`
+* For family, *'iku* can be fine
+* Parents are never referred to by real name
+* Parents often talk to children by their role:
+	* *Karicha ga eanaite hariasa*
+		* ~"Mommy is going to the store"
+* Young children or women use their real name instead of a pronoun
+	* boys can, but they often grow out of it
+	* younger siblings usually use their name in place of a pronoun when talking to older siblings
+* A name may be used in place of a pronoun in especially flirtatious/spoiled (but in a charming/sweet way) settings or within family:
+	* *Sumi ga subu ryōe!* :: `sumi NOM desire.V DEM.MED-N`
+		* ~"Sumi (I) wants this!"
+* But outside of those settings, it would likely come off as incredibly immature, unprofessional, and crass
+	* between friends, a young woman could, but it would depend on level of closeness and social dynamic
+* A man (not a child) referring to himself by name would almost always carry a specific ('cringe') vibe

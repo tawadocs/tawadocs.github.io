@@ -23,12 +23,15 @@
 			* this is something you'd say in a (business) meeting
 			* it marks a verb as being formal
 			* optionally, the sentence may be concluded with a *ya* for emphasis and the extra-formal tone
-* Roots take *ara* (suffix) in polite constructions, though:
-	* *Kitanqara ryōe itagi* :: `like-ANT-POL DEM.MED-N idea`
+* Roots take *ara* (also a prefix) in polite constructions, though:
+	* *Arakitanq ryōe itagi* :: `like-ANT-POL DEM.MED-N idea`
 		* lit. "I dislike your idea"
 			* it's much safer than saying *kitanqu ryo ita*, which can be harsh
 			* this is like saying **"I see what you mean by this, but, in my humble opinion, I would do it this way"** instead
 * *iku* is an honourific, it comes after a proper noun, like in *Jamuiku* (God) or for softening your tone when speaking to someone
 * It is a term of respect
-* The most formal and polite you can get is by attaching *dae* and *ara* on a root:
+* The most formal and polite you can get is by using the *dae-X-ara* circumfix:
 	* *Daeiiara* :: exquisite (politely)
+* Alone, *ara* is a prefix, like *dae*, though:
+	* *Daeii* :: exquisite (formal)
+	* *Araii* :: good / fine (polite)
