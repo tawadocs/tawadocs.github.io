@@ -76,7 +76,28 @@
 					* to be euthanised or mercy-killed
 
 ## 14.2 Transitiviser (**NSKT 3.2**)
-* The transitiviser (`TR`) particle *-mai* can be used to flip transitivity
+* The transitiviser (`TR`) particle *-mai* can be used to transitivise a verb
+	* it forms the following combinations with postpositions:
+		* *jimai*
+			* `LOC-TR`
+			* it follows for other forms of postpositions:
+				* *jinyai* `LOC-AUG.SUP.TR`
+		* *unmai*
+			* `INSTR-TR`
+		* *domai*
+			* `PER-TR`
+		* *dai*
+			* `ALL.TR`
+		* *danmai*
+			* `ABL-TR`
+		* *momai*
+			* `COM-TR`
+		* *yai*
+			* `BEN.TR`
+		* *yenmai*
+			* `MAL-TR`
+		* *ninmai*
+			* `ABESS-TR`
 * It has been introduced in **New Standard Koyeah Tawa 03020** (*v3.2*)
 * It is virtually the same as *naimg*:
 	* *kamunaimg* :: to feed X / to make X eat Y
@@ -90,13 +111,64 @@
 	* *haterunai* :: be run (like a program)
 		* *su o haterunai* means 'I am run (like a tool)' / 'they really made a fool out of me'
 			* if you want to say 'run over,' consider:
-				* *su o haterunai jinyi* :: I was trampled / I was run above
-				* *su o haterunai do* :: I was run through / run over
-					* the more formal form would be *jinyisun o haterunai* or *dosun o haterunai*, but using elipsis with a postposition works fine in such constructions
-					* so remember the template, as it follows for other similar verbs
+				* **spoken forms**
+					* *su o haterunai jinyi* :: I was trampled / I was run above
+					* *su o haterunai do* :: I was run through / run over
+						* the more formal form would be *jinyisun o haterunai* or *dosun o haterunai*, but using elipsis with a postposition works fine in such constructions
+						* so remember the template, as it follows for other similar verbs
+				* **NSKT 3.2**
+					* *su o haterudonamai* :: `1SG U run.V-PER-MID.TR`
+						* ~"I was run over"
+					* *su a haterujinyai sōe* :: `1SG U run.V-LOC-AUG.SUP.TR 3SG.M-N`
+						* ~"I ran over him (intentionally)"
 	* *haterumai* :: make X run
 	* *haterunamai* :: be made to run
 	* *naiwa* :: happy
 	* *naiwamai* :: make X happy
 	* *naiwanamai* :: to be made happy
 * ... and so on
+
+### 14.2.1 Postpositional transitivisation family
+* The postpositional transitivisers, like *jinyinamai* or *unmai* are used to transitivise a verb with an inherent 'adposition' relation:
+	* *hateru* :: to run
+	* *haterumai* :: make X run
+	* *haterunamai* :: be made to run
+	* *haterudomai* :: run over X
+		* you can't say *haterumai*, as it's causative; *mai* carries causative by default, unless paired with an appropriate postposition
+		* *haterudomai* would mean 'to run through X'
+		* or you could use *haterujinyai*, meaning 'to run over X / to trample'
+* These are modern forms (**NSKT 3.2**), so you'd still usually use:
+	* *Su o tohaterunai jinyi* :: `1SG U PFV-run.V-MID LOC-AUG.SUP`
+		* ~"I was run over"
+	* Or *jinyisun o tohaterunai* for formality's sake
+* Most of these postpositional forms are only usable with intransitive verbs anyway:
+	* *Hateruyai sōe* :: `run.V-BEN.TR 3SG.M-N`
+		* ~"Run for him / for his sake"
+* Since if you used it with a transitive verb:
+	* *Kamuyai sōe* :: `eat.V-BEN.TR 3SG.M-N`
+		* ~"Eat (something) for him"
+			* this is fine if the object can be omitted
+			* but if the object of *kamu* must be stated, then you'd have to break *yai* apart and say:
+				* *kamu ryōe so ye* (ate this for his sake)
+
+### 14.2.2 Spoken
+* Whilst **NSKT 3.2** introduces new nuance, this nuance is often reserved for poetic or literary context
+* Memorising this is not necessary and it is only recommended to learn *mai* and *namai*, and nothing else
+* You can always express something like 'ran over him' with a simple:
+	* *Hateru so jinyi* :: `run.V 3SG.M LOC-AUG.SUP`
+* Or 'I was run over' with:
+	* *Su o haterennai funai jinyi* :: `1SG U run.GER-MID ACT-MID LOC-AUG.SUP`
+		* lit. "I suffered running happening above"
+		* ~"I was trampled / ran over"
+* Some verbs also innately have a natural 'relation'
+* Use *maimg* for this:
+	* *haterumaimg* :: `run.V-TR-G.REVS`
+		* 'to run over / trample'
+* It follows for other verbs too:
+	* *korumaimg* :: `kill.V-TR-G.REVS`
+		* 'to kill for X'
+			* not 'to achieve X,' for that you can use *korumaimgte*
+	* *kamumaimg* :: `eat.V-TR-G.REVS`
+		* 'to eat using X'
+* But often, you'd simply break up the phrase and never use *maimg*
+* The only circumstance where *maimg* **may be considered** is only in the case of *hateru* (run)
