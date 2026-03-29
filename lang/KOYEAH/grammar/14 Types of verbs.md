@@ -172,3 +172,4 @@
 		* 'to eat using X'
 * But often, you'd simply break up the phrase and never use *maimg*
 * The only circumstance where *maimg* **may be considered** is only in the case of *hateru* (run)
+* *maimg* is a lexicalised transitiviser, so don't apply it to every verb; just memorise a few common ones that may use it
