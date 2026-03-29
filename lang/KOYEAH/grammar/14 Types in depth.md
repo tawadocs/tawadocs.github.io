@@ -34,6 +34,33 @@
 			* *su a yara* :: I made (X) become (Y)
 			* *su o yara* :: I became (X)
 
+#### 14.1.1.1 *tasu* and *nai*
+* Whenever 'X-able' is attributed to or modifies anything, you use the *tashi* form:
+	* *Kitatashi hon* :: likeable person
+	* *Sa ga kitatashi* :: she is likeable
+* But if it is used as a verb, the bare *tasu* form will be used, often transitive as *matasu*:
+	* *Fumatasu* :: `ACT-TR.POT.PLT.V`
+		* ~"To make X doable"
+	* *Kamumatasu* :: `eat.PLT.V-TR.POT.PLT.V`
+		* ~"To make (something) edible"
+* Examples:
+	* *Ryōe o kamumatashi, so a* :: `DEM.MED-N U eat.PLT.V-TR.POT.ATTR 3.SG.M A`
+		* ~"This was made edible by him"
+	* *So a kamumatasu ryōe* :: `3.SG.M A eat.PLT.V-TR.POT.PLT.V DEM.MED-N`
+		* ~"He made this edible"
+* The *tasai* (`POT.MID`) form is used in constructions like these:
+	* *Sa o tokorutasai* :: `3.SG.F U PFV-kill.PLT.V-POT.MID`
+		* ~"She was able to die"
+		* ~"She was killable (maybe now she isn't)"
+	* *Zu ga kitanagatashyai* :: `2.SG.AN NOM like-PST.HAB-POT.ROM.V.MID`
+		* ~"You used to be loveable"
+			* *tashyai* is used for *tasu* + *nyu* + *nai*
+			* otherwise, *tashyu* is used for *tasu* + *nyu* (`POT.ROM.V`), since *tasu* alone is (`POT.PLT.V`)
+* Here's one crazy sentence:
+	* *Wumei omg kitaivamatashyai* :: `3.SG.INAN.NAT.NHUM EXP.NVOL like-FUT.PFV.PROG-TR.POT.ROM.V.MID`
+		* ~"It so just happens to be the case that it will have been accidentally made likeable"
+			* *wumei* (it) refers to a natural, inanimate, non-human thing, such as a random rock or irrelevant dust
+
 ### 14.1.2 Experiencer particle
 * Koyeah Tawa has two particles that are not commonly used:
 	* *amg* (`EXP.VOL`)
