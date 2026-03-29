@@ -79,3 +79,4 @@
 	* they **are** significant and revered
 * *sa* is also used for other natural creations which are vital directly to or in supporting life:
 	* water, dirt, and other resources
+* Use *wunmei* for the possessive variant
