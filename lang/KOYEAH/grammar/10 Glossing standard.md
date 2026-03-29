@@ -37,7 +37,9 @@
 | masu     | **AGT**                       |
 | masumg   | **AGT-G.REVS**                |
 | qe       | **AFF**                       |
+| ng       | **FIL / PRT / SFP.DECL**      |
 * Others stay the same, as described
+* *ng* is a dummy if it marks *no* as nominaliser
 * Note:
 	* *aa* also asserts what comes after it as something the two speakers are clear on
 	* so, for example, if you say:
@@ -48,6 +50,7 @@
 				* this sets that statement as a 'fact' that can't be negated by *des* later
 				* so *des* negates everything except that
 * Superlatives are **INTENS~** now
+* Interjections are **INTJ** now
 * The *en* particle is **GER** (gerund) now
 * *nyu* is an irregular particle, as it drops the *-u* in place of the next affix's vowel (if it begins with a vowel):
 	* *nyen* :: `ROM.V.GER`

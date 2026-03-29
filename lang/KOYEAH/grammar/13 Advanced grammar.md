@@ -225,6 +225,11 @@
 		* ~"Ever wish that you and I were together?"
 
 ## 13.8 Determiners
+* The default `DET no / DET-ATTR/MOD ng` construction resolves to:
+	* **DET-thing**
+* So if you said *subeki ng*, it would mean:
+	* **everything**
+
 ### 13.8.1 **Many** and **some**
 * **Pattern**
 	* `myo no X` = many X
@@ -424,3 +429,43 @@
 			* since *tahete* is also a word opposed to nature (it refers to non-natural, digital things, like electronics), the 'transition' is also unnatural
 	* to soften 'digitise,' you use *damiyarute* compounds:
 		* *damiyarute tahete...* :: to ease into digital...
+
+## 13.13 Expletives (profanities)
+* Tawa handles profanities:
+	* `profanity [reason]`
+* So, English-like constructions, such as 'damn me,' don't exist
+* If you want to express 'damn me! everything's gone to shit,' you'd say:
+	* *yawa a dakata subeki ngoe, n!* :: `demon A steal-PEJ total.ATTR DUM-N EXCL.VULG`
+		* ~"The demon stole everything!"
+			* *n* is an expletive or profane interjection
+			* if *n* is used without a profanity or expletive, it isn't vulgar and just expresses anger or frustration:
+				* *Nnn, baka!* :: `EXCL\EMPH fool`
+					* "AAAAAA, you idiot!"
+* Rule:
+	* if *n* is in a vulgar or profane sentence, it intensifies vulgarity or expression (not anger, unless it is lengthened)
+		* `EXCL.VULG`
+		* `EXCL.VULG\EMPH` (**if lengthened**)
+	* otherwise, *n* marks anger:
+		* `EXCL` (ugh, whatever, blah blah blah, shit)
+			* if someone says 'can you get the water?' and you say '*n*,' it's like conveying 'whatever dude / shut up man (i'll do it)'
+		* `EXCL\EMPH` (anger)
+			* saying *nnnn!* to 'can you get water?' is like saying 'shut up / leave me alone / go away!' but still implies that you'll begrudgingly do it (since *n* is not a no/yes)
+
+### 13.13.1 Oaths or swears
+* General swears or oaths are done with the generic deity word *zhamu*:
+	* *Tete llaru zhamu, reofunai!* :: `hand ALL-PLT.V god IPFV-ACT-MID`
+		* ~"Hand to God (it) will happen!"
+		* ~"Hand to God I'll do it!"
+			* **never** use the romantic form (e.g., *llanyu* (`ALL-ROM.V`)) involving *zhamu*
+			* it would come off as crass, since then it would imply you're praying to some sort of deity
+			* saying this is also a promise, so if you didn't do whatever you said you would, it would be the equivalent of breaking a promise and probably someone's trust
+			* note that *llaru/llanyu* are the verb forms of the allative postposition
+* Use *Jamu* (The God) for serious, religious oaths:
+	* *Teteara daellāranyai Jamuiku ji, reofunai ng* :: `hand-POL FORM-ALL-POL-ROM.V.MID one.god-HON LOC IPFV-ACT-MID SFP.DECL`
+		* ~"My right hand to God that I will do it / it will happen"
+			* this is a highly serious, extremely religious commitment
+			* breaking it would likely have high social consequences
+			* it is a taboo (slur-level) to use it as a general oath
+			* note that *ji* is added after *Jamuiku* to explicitly mark *Jamu* (God) as the ultimate destination / goal of *daellāranyai* (also why the middle voice is used, since *lla(ru/nyu)* encodes a 'destination' or 'towards' innately)
+			* the dummy particle *ng* marks the end of the sentence
+				* used in formal constructions like serious oaths to explicitly mark when said oath ends to kill exploitation of issues like ambiguity

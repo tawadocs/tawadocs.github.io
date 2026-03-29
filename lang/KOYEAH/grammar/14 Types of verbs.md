@@ -176,3 +176,4 @@
 	* *korumaimg* and *kamumaimg* aren't necessary to memorise
 	* they were used for the sake of demonstration
 	* in reality, only a few roots like *hateru* use them, if ever
+	* postposition verbs are also exceptions, like *llaru* which innately has a 'goal / destination'
