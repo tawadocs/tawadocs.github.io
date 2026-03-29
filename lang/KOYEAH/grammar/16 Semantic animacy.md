@@ -62,7 +62,13 @@
 		* *sa* (she)
 		* *na* (we)
 	* **unknown biological sex**
-		* *so* is used generally until the sex of the person is learnt
+		* *so* is used generally until the biological sex of the person is learnt
+		* or a demonstrative pair is used:
+			* *lyo hon* :: that person (far from us both)
+			* *ryo hon* :: this person (near us both)
+			* *byo hon* :: this person here (near me)
+		* you may also just refer to them by name
+			* *Aiuiku* :: Aiu
 
 ### 16.3.1 *sa* vs. *wumei*
 * *wumei* is used for random, everyday inanimate natural objects
