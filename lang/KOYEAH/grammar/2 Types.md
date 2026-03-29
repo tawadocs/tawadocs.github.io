@@ -102,6 +102,18 @@
 	* so this is fine:
 		* *sa koha su ji ii koha*
 
+#### 2.1.3.1 Negation
+* *rraoe* means 'non/not'
+* So, *chirraoe* would mean 'non-water'
+* Further, *chingurraoe* would mean 'non-liquid' / 'non-drink'
+* Simple test question: say **non-water drink**
+* Here is the answer:
+	* *chirrangu* / *chirranguoe*
+		* *-ngu* already turns most roots into a noun
+		* *-oe* can be omitted
+		* *chirra* means 'non-water / not water'
+		* adding *-ngu* takes lexical category (non-water drinks)
+
 ## 2.2 Particle stacking
 * Particles can be stacked to derive a type of a type:
 	* *hana* (nose, bump, hill)
