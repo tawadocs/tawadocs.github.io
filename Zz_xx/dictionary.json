@@ -636,5 +636,23 @@
         "frequency": 100
       }
     ]
+  },
+  {
+    "word": "ariumi",
+    "id": "ijo li lon sama lon tu",
+    "definitions": [
+      {
+        "text": "quantum superposition",
+        "frequency": 100
+      },
+      {
+        "text": "existence at two places at once",
+        "frequency": 100
+      },
+      {
+        "text": "superposition",
+        "frequency": 100
+      }
+    ]
   }
 ]
