@@ -183,7 +183,7 @@
 	* if you forgot to say *eoi* when talking about an irreal event, just add it at the end as *eoihi*
 	* sometimes, you can even drop the *-hi* if you take a long pause, and it would automatically be interpreted as you conveying that everything you said before *eoi* is irreal
 * This also means that other Ashi Tawa nuances can be borrowed:
-	* *fuppu* for an explicit 'actually, in reality, even, do:'
+	* *fuppu* / *fui* for an explicit 'actually, in reality, even, do:'
 		* *fuppu riwakanai me...*
 			* 'I really think...'
 			* 'I do think...'
