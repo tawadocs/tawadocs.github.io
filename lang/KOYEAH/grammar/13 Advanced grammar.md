@@ -239,6 +239,8 @@
 * Examples:
 	* *Myo no atora* :: many apples
 	* *Myomg no atora* :: a few / some apples
+* Casually:
+	* *myi* and its variants are used
 
 ### 13.8.2 **Any** and **little**
 * **Pattern for any**
@@ -259,6 +261,9 @@
 * **Pattern for little**
 	* `lili no X` = a little X
 		* e.g., *lili mani no X* = poor/impoverished X
+* Casually:
+	* *lilii* is used
+	* *wenu* is used
 
 ### 13.8.3 **Wh-ever** words
 * **Whatever, whichever, whenever, wherever**
@@ -278,6 +283,8 @@
 				* *sa a haterunaite sōe* :: she ran after him
 * The same patterns are used for:
 	* **anyone, anything, anywhere, anytime**
+* Casually:
+	* use *wenu ng* or *wenu X*
 
 ### 13.8.4 **Every** and **all**
 * **Patterns for every and all**
