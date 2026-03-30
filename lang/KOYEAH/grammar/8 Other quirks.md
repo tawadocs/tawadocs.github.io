@@ -37,6 +37,7 @@
 		* ~"Words that pierce"
 		* ~"Piercing words"
 			* usually, you'd just say ~*kizute no do no kana*, but this is fine for demonstrative purposes
+* Word for stay is *eamg*, though
 
 ## 8.4 Sentence order
 * Koyeah Tawa has a strong tendency towards SOV in marked or complex constructions
