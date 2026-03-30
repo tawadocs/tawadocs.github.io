@@ -100,3 +100,15 @@
 * You also use demonstratives since there is no dummy pronoun:
 	* *Ryo ni ii ue* (~this is good)
 		* somewhat like saying ~"it's good"
+
+## 16.6 Assuming intent
+* Usually, you say:
+	* *Na o aen chioe hahana dan* :: `1.PL U HAVE.GER water-N INTENS~hill ABL`
+		* lit. "We experience having water from mountain"
+		* ~"We are given water from the mountain"
+* Because saying:
+	* *Hahana a demgen chioe na ji* :: `INTENS~hill A REC-G.REVS-GER water-N 1.PL LOC`
+		* ~"The mountain gives us water"
+* ... would be assuming the intent of the mountain
+* The mountain does not know she's keeping you alive, God just made her beauty in that way
+	* the mountain gives water to fulfil her true nature, to exist as she is, and does so without seeking approval or human appreciation
