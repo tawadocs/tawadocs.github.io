@@ -175,6 +175,11 @@
 			* for quotations, just use *mo*:
 				* *so fofu mo 'su ni epiku'* (he said, "I am epic")
 	* *Riwakara ita ei, ra...* = didn't think about that, no...
+* In the latest **NSKT**, *rra* and *rri* are used
+* Use the *rrai* form if you need to negate a noun instead of implying 'no:'
+	* *rrai payamasu* :: not a student
+	* *rra payamasu* :: no, a student **(accidental affirmation)**
+	* *payamasurra* :: no students **(existence)**
 
 ## 1.7 Similatives
 * All similative particles are the same as Ashi Tawa's
