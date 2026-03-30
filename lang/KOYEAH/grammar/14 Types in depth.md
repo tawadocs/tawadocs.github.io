@@ -5,20 +5,6 @@
 	* **Underspecified** (if unmarked, their affect is ambiguous)
 
 ### 14.1.1 Basic patterns
-* **Performed**
-	* `X a Y` :: X does Y
-		* *su a kamu* :: I eat
-		* *su a rawa* :: I made (someone) sleep
-	* `X o Y` :: X experiences Y
-		* *su o kamu* :: I experienced eating
-		* *su o rawa* :: I was made to sleep
-* **Experienced**
-	* `X a Y-nai` :: X experiences Y (intentionally)
-		* *su a kamunai* :: I am eaten (and it is my fault)
-		* *su a rawanai* :: I slept
-	* `X o Y-nai` :: X experiences Y (unintentionally)
-		* *su o kamunai* :: I am eaten
-		* *su o rawanai* :: I passed out
 * **Underspecified**
 	* *ga* and *ni* usually don't encode undergoing nor acting without more context
 	* there are some underspecified verbs, like *fofu* and *yara*:
@@ -37,27 +23,34 @@
 #### 14.1.1.1 *tasu* and *nai*
 * Whenever 'X-able' is attributed to or modifies anything, you use the *tashi* form:
 	* *Kitatashi hon* :: likeable person
-	* *Sa ga kitatashi* :: she is likeable
-* But if it is used as a verb, the bare *tasu* form will be used, often transitive as *matasu*:
+* Otherwise, the *-tasu* form is fine:
+	* *Sa ga kitatasu i* :: she is likeable
+	* or *sa ga kitatashi* if omitting copular
+* As a verb, the bare *tasu* form is also used, but it's often transitive as *matasu*:
 	* *Fumatasu* :: `ACT-TR.POT.PLT.V`
 		* ~"To make X doable"
 	* *Kamumatasu* :: `eat.PLT.V-TR.POT.PLT.V`
 		* ~"To make (something) edible"
 * Examples:
-	* *Ryōe o kamumatashi, so a* :: `DEM.MED-N U eat.PLT.V-TR.POT.ATTR 3.SG.M A`
+	* *Ryōe o kamumatasai, so a* :: `DEM.MED-N U eat.PLT.V-TR.POT.MID 3.SG.M A`
 		* ~"This was made edible by him"
+			* *-tasai* is from *tasu* + *nai*
+			* it is used when there is no direct object or when the verb goes back onto the subject
 	* *So a kamumatasu ryōe* :: `3.SG.M A eat.PLT.V-TR.POT.PLT.V DEM.MED-N`
 		* ~"He made this edible"
-* The *tasai* (`POT.MID`) form is used in constructions like these:
-	* *Sa o tokorutasai* :: `3.SG.F U PFV-kill.PLT.V-POT.MID`
+			* now, *kamumatasu* takes *ryōe* as a direct object
+			* no *-matasai* can be used
+	* *Sa o tokorutashinai* :: `3.SG.F U PFV-kill.PLT.V-POT.ATTR-MID`
 		* ~"She was able to die"
+			* no direct object
 		* ~"She was killable (maybe now she isn't)"
-	* *Zu ga kitanagatashyai* :: `2.SG.AN NOM like-PST.HAB-POT.ROM.V.MID`
+			* less accurate in terms of translation
+	* *Zu ga kitanagatashyai ue* :: `2.SG.AN NOM like-PST.HAB-POT.ROM.V.MID COP.POL`
 		* ~"You used to be loveable"
 			* *tashyai* is used for *tasu* + *nyu* + *nai*
 			* otherwise, *tashyu* is used for *tasu* + *nyu* (`POT.ROM.V`), since *tasu* alone is (`POT.PLT.V`)
 * Here's one crazy sentence:
-	* *Wumei omg kitaivamatashyai* :: `3.SG.INAN.NAT.NHUM EXP.NVOL like-FUT.PFV.PROG-TR.POT.ROM.V.MID`
+	* *Wumei omg kitaivamatashyai ue* :: `3.SG.INAN.NAT.NHUM EXP.NVOL like-FUT.PFV.PROG-TR.POT.ROM.V.MID COP.POL`
 		* ~"It so just happens to be the case that it will have been accidentally made likeable"
 			* *wumei* (it) refers to a natural, inanimate, non-human thing, such as a random rock or irrelevant dust
 
@@ -153,6 +146,9 @@
 	* *naiwa* :: happy
 	* *naiwamai* :: make X happy
 	* *naiwanamai* :: to be made happy
+	* *maku* :: cry
+	* *makumai* :: make X cry
+	* *makunamai* :: to be made to cry
 * ... and so on
 
 ### 14.2.1 Postpositional transitivisation family

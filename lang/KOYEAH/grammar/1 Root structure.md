@@ -180,6 +180,8 @@
 	* *rrai payamasu* :: not a student
 	* *rra payamasu* :: no, a student **(accidental affirmation)**
 	* *payamasurra* :: no students **(existence)**
+* *Rri* may be used in constructions like:
+	* *ryōe wa rri* :: this is also affirmed / true / correct
 
 ## 1.7 Similatives
 * All similative particles are the same as Ashi Tawa's

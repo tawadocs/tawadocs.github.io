@@ -1,3 +1,88 @@
+# OUTDATED
+* In **NSKT 3.3**, the voice system is quite different
+* **Do not use anything below the following as a reference**
+
+# NSKT 3.3
+## 11.1 Modifiers
+* Modifiers are used for state:
+	* *Naiwa ue* :: `happy COP.POL`
+		* ~"I am happy"
+* With **a/o** distinction:
+	* *O naiwa ue* :: `U happy COP.POL`
+		* ~"I experience happiness / I am naturally happy"
+	* *A naiwa ue* :: `A happy COP.POL`
+		* ~"I am actively being happy / I am the actor of my happiness"
+		* ~"I'm being happy"
+		* ~"I'm doing something that makes me happy"
+
+## 11.2 Verbs
+* *-nai* simply kills the direct object:
+	* *A rawanai* :: `A sleep-MID`
+		* ~"I am actively sleeping / I sleep"
+			* *a rawa* can be used in casual chatter
+	* *O rawanai* :: `U sleep-MID`
+		* ~"I fell asleep / I unintentionally slept"
+* *-nai* can be omitted in highly informal contexts:
+	* *su a rawa*
+		* can be impolite
+		* between friends, it could be fine
+* Also, note:
+	* *Su a, so o rawanai*
+		* I made him pass out
+			* you did it intentionally (making him sleep), but his sleeping was unintentional
+	* *Su a rawamai sōe*
+		* I put him to sleep
+			* *rawamai* is the explicit transitivised form of *rawa*
+* But non-affective verbs usually don't do this:
+	* *A fofu* :: I speak (actively)
+	* *O fofu* :: I speak (accidentally)
+	* *A fofunai* :: I hear (actively)
+	* *O fofunai* :: I heard / unintentionally heard
+	* *A hateru* :: I run
+	* *O hateru* :: I accidentally ran
+	* *A haterunai* :: I am intentionally run (like a program)
+	* *O haterunai* :: I was accidentally run (like a program)
+* You could then use *haterumai* (make X run) and other forms
+* Since 'running' doesn't happen to you (you do it), it's a non-affective verb, whereas sleep is an affective verb, because it happens to you
+* Simple test for you:
+	* I go to the store :: will *ea* be used or *eanai*
+	* I moved the item to the store :: will *ea* be used or *eanai*
+* Here's the answer:
+	* former sentence uses *eanai*, since **you** are going
+	* second one uses *ea*, since it takes an object and you're doing it
+
+## 11.3 Reflexives
+* So, let's look at:
+	* I ate myself intentionally
+	* I accidentally ate myself
+* And translate them:
+	* *Su a kamu* :: `1.SG A eat.PLT.V`
+		* ~"I eat (intentionally)"
+	* *Su a kamunai* :: `1.SG A eat.PLT.V-MID`
+		* ~"I am eaten (intentionally)"
+			* if no other subjects are given, it's parsed as if you said, 'I intentionally practised autocannibalism'
+	* *Su o kamu* :: `1.SG U eat.PLT.V`
+		* ~"I eat (unintentionally)"
+	* *Su o kamunai* :: `1.SG U eat.PLT.V-MID`
+		* ~"I am eaten (unintentionally)"
+			* same logic, without more context, default parsing is that you accidentally ate yourself
+* With *koru*, the logic becomes clearer:
+	* *Su a koru* :: I kill
+	* *Su a korunai* :: I kill myself / I die intentionally
+	* *Su o koru* :: I accidentally kill
+	* *Su o korunai* :: I accidentally die / I died (unintentionally)
+* If you wanted to imply an actor:
+	* *Su a korunamai* :: I was murdered / killed
+		* *-namai* turns *koru* into a transitivised middle voice
+		* so *korunai* means die, but *korunamai* means 'cause to die' (i.e., to execute or kill someone)
+	* *Su a kamunamai* :: I was eaten (by someone)
+* Archaic or poetic constructions can be done with *-pai* (`REFL`):
+	* *Su a kamupai* :: I eat myself
+		* but it's archaic, literary, and poetic
+
+
+---
+
 ## 11.1 The middle voice
 * The middle voice *-nai* can be a very difficult concept to grok, especially when you see it appearing everywhere without understanding what it does:
 	* *Earranai* :: ~"I did not go"
@@ -72,7 +157,7 @@
 * When demoted, it means 'hear X (context)' or 'ask X (context),' depending on the postposition
 	* e.g.
 		* *mo fofunai su ji, fuka* means 'then, ask me, please'
-		* *mo fufunai su dan, fuka* means 'then, (why don't you) hear (it) from me, please'
+		* *mo fofunai su dan, fuka* means 'then, (why don't you) hear (it) from me, please'
 * So, if *fofu* does not take a direct object, like in:
 	* *fofu eu...* :: speak / tell / say (that)
 * it still doesn't take *-nai*, because that would change the meaning:
