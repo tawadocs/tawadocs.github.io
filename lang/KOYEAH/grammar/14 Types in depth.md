@@ -53,6 +53,22 @@
 	* *Wumei omg kitaivamatashyai ue* :: `3.SG.INAN.NAT.NHUM EXP.NVOL like-FUT.PFV.PROG-TR.POT.ROM.V.MID COP.POL`
 		* ~"It so just happens to be the case that it will have been accidentally made likeable"
 			* *wumei* (it) refers to a natural, inanimate, non-human thing, such as a random rock or irrelevant dust
+* As a noun, you use *tasugi* or an appropriate radical:
+	* *Iukorratasugi* :: 'unsoundability' / 'incorrectability'
+		* e.g., *myomg no ga aumg iukorratasugioe no?*
+			* 'Is it possible that something is wrong?'
+			* 'Could something be wrong?'
+	* or use these:
+		* *Ipappu*
+			* *Ipappu, myomg no ga iukirra no?*
+				* 'Maybe, something is wrong'
+				* 'Is something wrong (uncertain)?'
+					* more about doubt, uncertainty, or the speaker's belief
+		* *Shirerranai*
+			* *Myomg no ga iukirra, shirerranai no?*
+				* lit. 'Something is wrong, (we) cannot know'
+				* ~'Maybe, is something wrong?'
+				* ~'Something might be wrong'
 
 ### 14.1.2 Experiencer particle
 * Koyeah Tawa has two particles that are not commonly used:
