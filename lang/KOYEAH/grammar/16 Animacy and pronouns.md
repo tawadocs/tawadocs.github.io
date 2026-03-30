@@ -112,3 +112,6 @@
 * ... would be assuming the intent of the mountain
 * The mountain does not know she's keeping you alive, God just made her beauty in that way
 	* the mountain gives water to fulfil her true nature, to exist as she is, and does so without seeking approval or human appreciation
+* For the lesser sacred or significant, such as man-made creations (e.g., the internet), you may use *ni* or less intent-focused particles (*ga*):
+	* *Yada, genrwankuta ni fofu su ji!* :: well, the internet told me!
+		* or *genrwankuta ga fofu su ji*
