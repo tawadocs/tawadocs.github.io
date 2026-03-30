@@ -50,6 +50,15 @@
 * Here's the answer:
 	* former sentence uses *eanai*, since **you** are going
 	* second one uses *ea*, since it takes an object and you're doing it
+* Same for *anana*:
+	* *Anana* (to meet)
+	* *Su a anana saoe* :: I actively meet her
+	* *Su o anananai saoe* :: I ran into her / accidentally met her
+		* total accident
+	* *Su o anana saoe* :: I was met by her / accidentally actively ran into her
+	* *Su a anananai saoe* :: I actively ran into her / actively 'accidentally' ran into her
+		* maybe you made it look like an accident, when it was what you wanted?
+* It's better to just use *amg* or *omg* instead of these complex combinations
 
 ## 11.3 Reflexives
 * So, let's look at:
