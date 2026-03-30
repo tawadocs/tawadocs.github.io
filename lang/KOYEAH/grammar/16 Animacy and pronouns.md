@@ -87,3 +87,16 @@
 * *gu* is used for literal roots:
 	* *degumg* :: to get (literally, as in 'receive')
 		* often a sexual euphemism: *reodegumg* ((I) will physically/literally get (you))
+
+## 16.5 Third person pronoun
+* Tawa does not have a generic 'it'
+* *wumei* refers to inanimate things like 'rocks,' often to express annoyance (it hit me (that rock)!) or simple insignificance without being insulting or derogatory
+* *wu* refers to artificial human-made things
+* *sa* refers to female humans but also nature around us, but it also refers to inanimate but significant things like beautiful mountains
+* So, you don't say:
+	* 'it is raining,'
+* you say:
+	* 'rain happens' / 'raining (is)'
+* You also use demonstratives since there is no dummy pronoun:
+	* *Ryo ni ii ue* (~this is good)
+		* somewhat like saying ~"it's good"

@@ -199,6 +199,27 @@
 				* *kiwinq aiko! jiennai wan-zūn-kīn-awīn...* :: `continue-REVS IMP.POL LOC-VBZ-MID one-two.N-seven.N-one.hundred.thousand.N`
 					* ~"Wait! (I'm) putting (the number) 1-2-7-100,000 (in)..."
 
+### 12.5.1 Unmarked modification
+* Especially after Tanji (including both Native Tanji and Kanji relexifications), numbers can function similarly to the English borrowed affixes like **mono**, **bi/di**, etc.:
+	* *pan* (bread) + *zu* (two) :: *panzu* (sandwich)
+	* *panwu*, similarly, would be a clubhouse sandwich
+* Ashi Tawa prefixing for numbers is no longer used, so:
+	* *Nyanguzu* :: `ROM.F-SRC.LEX-two`
+		* lit. "bi-gendered romance"
+			* *nyangu* refers to romantic gender (sexual attraction)
+			* *zu* means 'two'
+			* together, this means 'two romantic genders' or 'bisexual'
+	* is used instead of older constructions
+	* You could also stack Tanji:
+		* *Manyangu* :: `three.drops.of.water-ROM.F-SRC.LEX`
+			* lit. "three drops of water romantic gender"
+			* ~"Fluid sexuality"
+				* it can refer to pansexuality or sexualities that aren't consistent / rigid
+* **Note:**
+	* sexuality terms in Tawa are modern approximations
+		* you'd use them in modern discourse if required, otherwise you usually never would
+	* in Tawish culture, sexuality is not recognised as a social construct (i.e., a gay man simply *is*, and he is not put into a 'label' known as a gay)
+
 ## 12.6 Irregular number
 * The most irregular number is one
 * It has two forms:
