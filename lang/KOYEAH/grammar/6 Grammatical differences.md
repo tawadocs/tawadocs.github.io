@@ -16,6 +16,8 @@
 	* *sta* is written as *suta* (e.g., **nandasuta**) and pronounced `/su̥ta/`
 	* *ól* is simply *o* now (pronounced `/ɔ/`)
 	* *stanyi* (*sutanyi*) is a formal, grammaticalised degree, indicating the "most" of a "least" (e.g., *kitasutanyi* - faintest glimmer of like) (in Ashi Tawa, it wasn't formalised, but was still buildable)
+	* *nyi* drops the *n* when appearing after consonants, like in:
+		* *kanojo* + *nyi* :: *kanojyi*
 * *tas* is written and pronounced *tasu* `/tasu̥/`
 * romantic-platonic distinction is preserved but:
 	* it's not commonly used, if at all
