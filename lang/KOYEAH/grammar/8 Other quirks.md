@@ -240,3 +240,12 @@
 		* ~"I have and always will love you forever"
 * Note that *ni* would usually be used to set the temporal context as the topic
 	* *ni* is often omitted because 'time clauses' can behave like their own topic, if fronted
+
+## 8.13 Romance
+* Speakers speak relative to their gender (e.g., female x male (masculine attraction), male x female (feminine attraction))
+* So, a woman would say:
+	* *kitanyegi*
+* To mean 'relationship,' where *nye* (`ROM.M` - masculine romantic) is used
+* But a man would say:
+	* *kitanyagi*
+* Where *nya* (`ROM.F` - feminine romantic) is used
