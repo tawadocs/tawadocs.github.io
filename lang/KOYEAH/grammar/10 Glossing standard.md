@@ -42,6 +42,7 @@
 | bo       | **AGST**                      |
 | mei      | **AN**                        |
 | rei      | **INAN**                      |
+| hamasu   | **ANTIPROD.V.AGT**            |
 * Others stay the same, as described
 * *ng* is a dummy if it marks *no* as nominaliser
 * Note:
@@ -80,4 +81,18 @@
 	* *pamyaoe* :: the writing
 	* *fofōe* :: speech / speaking
 	* *riwakaoe* :: thought / thinking
+	* *kamōe* :: an 'eat' (meal, food)
 * But *haterōe* or *rawaoe* would not imply 'running path' or 'dream,' since *oe* is a noun suffix, not patientive
+* Notes:
+	* *masumg* is an older variant
+	* *tei* for 'the thing that is [verb]'d'
+		* e.g., *pamya* is write, then *pamyatei* is manuscript (the thing that is written)
+		* if *jitei* is used, it would mean 'the location that is located' (which is fine, but preferably, one would use *jioe* over *jitei*)
+	* *miri* as a prefix for
+	* *oe* for simple nouns
+		* if *ji* is a locative then *jioe* would be location/position/place
+* Here is a better example:
+	* *pen* refers to a pen
+	* *pentei* would be paper (the thing that is penned)
+	* *penmiri* would be ink (the medium of penning)
+		* *mirii pen* would just mean 'average/medium pen'

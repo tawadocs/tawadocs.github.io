@@ -27,7 +27,7 @@
 | **Suffix** | naga     | `nəga` | `PST.HAB`      | *used to*                                                  |
 | **Suffix** | saru     | `saɺu` | `PRF.STAT`     | *(will) have been / (would) have been / has (always) been* |
 | **Suffix** | reta     | `ɺeta` | `RESL`         | *completed with a lasting result / have (done)*            |
-| **Suffix** | fure     | `ɸuɺe` | `FUT.RESL`     | *to be completed with a lasting result / will have (done)* |
+| **Suffix** | fura     | `ɸuɺa` | `FUT.RESL`     | *to be completed with a lasting result / will have (done)* |
 | **Suffix** | rasu     | `ɺasu` | `PRST`         | *remains*                                                  |
 | **Suffix** | nata     | `nəta` | `FUT.CONT`     | *will keep*                                                |
 | **Suffix** | shibu    | `ɕibu` | `DUR.PRSV`     | *have kept*                                                |
@@ -85,12 +85,12 @@
 			* ~"(I'm) sorry, (because I) ate her food"
 	* you can use *retóí* or *retoi/retamg* (in Koyeah Tawa) (positive connotation) for a 'thankfully' effect
 		* *retamg* is used for a simple 'thankfully ended up' effect, whereas *retoi* is used for a 'even though I regret it, I did it for a positive reason / it ended up being positive' nuance
-* *fure* (~to be done)
+* *fura* (~to be done)
 	* a future accomplishment
-		* *sowufure* -> `shine.V.PLAT-FUT.RESL`
+		* *sowufura* -> `shine.V.PLAT-FUT.RESL`
 			* ~"Will (finally) have shined (and stay shining)"
 	* a lasting result
-		* *fiyuifure* -> `remove-FUT.RESL`
+		* *fiyuifura* -> `remove-FUT.RESL`
 			* ~"(It) will be removed with a lasting result"
 * *rasu* (~remains)
 	* to simply remain in a state (**-rasen** for the (explicit) nominalised form)

@@ -27,18 +27,18 @@
 
 These are usually prefixes. They allow you to describe any physical or metaphorical movement.
 
-|   |   |   |
-|---|---|---|
-|Prefix|Vector Meaning|Example Thought|
-|Intro-|Inward / Into|Mental: "Insight" / Physical: "Enter"|
-|Exo-|Outward / Out of|Mental: "Express" / Physical: "Exit"|
-|Super-|Above / Higher|Mental: "Superior" / Physical: "Over"|
-|Sub-|Below / Lower|Mental: "Subconscious" / Physical: "Under"|
-|Trans-|Across / Through|Mental: "Translate" / Physical: "Transit"|
-|Para-|Beside / Near|Mental: "Parallel" / Physical: "Adjacent"|
-|Pro-|Forward / Future|Mental: "Progress" / Physical: "Push"|
-|Retro-|Backward / Past|Mental: "Retrospective" / Physical: "Pull"|
-|Circum-|Around / Circular|Mental: "Circumstance" / Physical: "Orbit"|
+|         |                   |                                            |
+| ------- | ----------------- | ------------------------------------------ |
+| Prefix  | Vector Meaning    | Example Thought                            |
+| Intro-  | Inward / Into     | Mental: "Insight" / Physical: "Enter"      |
+| Exo-    | Outward / Out of  | Mental: "Express" / Physical: "Exit"       |
+| Super-  | Above / Higher    | Mental: "Superior" / Physical: "Over"      |
+| Sub-    | Below / Lower     | Mental: "Subconscious" / Physical: "Under" |
+| Trans-  | Across / Through  | Mental: "Translate" / Physical: "Transit"  |
+| Para-   | Beside / Near     | Mental: "Parallel" / Physical: "Adjacent"  |
+| Pro-    | Forward / Future  | Mental: "Progress" / Physical: "Push"      |
+| Retro-  | Backward / Past   | Mental: "Retrospective" / Physical: "Pull" |
+| Circum- | Around / Circular | Mental: "Circumstance" / Physical: "Orbit" |
 
 ---
 

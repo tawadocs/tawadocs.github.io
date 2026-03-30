@@ -80,3 +80,10 @@
 * *sa* is also used for other natural creations which are vital directly to or in supporting life:
 	* water, dirt, and other resources
 * Use *wunmei* for the possessive variant
+
+## 16.4 Figurativeness
+* *ku* is used for figurative roots:
+	* *dekumg* :: to get (figuratively)
+* *gu* is used for literal roots:
+	* *degumg* :: to get (literally, as in 'receive')
+		* often a sexual euphemism: *reodegumg* ((I) will physically/literally get (you))

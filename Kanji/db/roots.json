@@ -698,7 +698,8 @@
     "Alias": "uta",
     "Usage": "replaces the final vowel of the radical with -u, so rwanka + uta -> rwankuta. If the radical is a small V(N)/CV unit like ka, then it's used as a circumfix (u-tau -> ukatau).",
     "Definitions": [
-      "mouth"
+      "mouth",
+      "communication"
     ],
     "Readings": {
       "Romaji": "kuchi",
@@ -710,7 +711,7 @@
     "Radical": "パン",
     "Strokes": 0,
     "Alias": "pan",
-    "Usage": "A native Tanji. It is used in all bread-related roots: jireipan (flat-bread (refers to naan)), napisamipan (long-fish-bread (refers to croissants)), etc.",
+    "Usage": "A native Tanji. It is used in all bread-related roots: jireipan (flat-bread (refers to naan)), napisamipan (long-fish-bread (refers to croissants)), etc. Numbers added as suffix denote number (e.g., panzu (sandwich / two breads), pansu (slice / one bread), panwu (clubhouse sandwich), etc.)",
     "Definitions": [
       "bread"
     ],
@@ -735,6 +736,319 @@
     "Readings": {
       "Romaji": "mu",
       "Japanese": "む"
+    }
+  },
+  {
+    "ID": "1774822249404",
+    "Radical": "士",
+    "Strokes": 3,
+    "Alias": "geo",
+    "Usage": "Turns a root into a profession of someone / their life. Kamu = eat, kamumasu = eater (e.g., gourmet), but Kamugeo is a professional food critic. Similar to how maooru means defence and maofaru means law-defence. So maofageru would mean lawyer. It can be explicitly professional with dae- (madaefageru) but context often does the work.",
+    "Definitions": [
+      "profession",
+      "professional"
+    ],
+    "Readings": {
+      "Romaji": "samurai",
+      "Japanese": "さむらい"
+    }
+  },
+  {
+    "ID": "1774823219693",
+    "Radical": "器",
+    "Strokes": 15,
+    "Alias": "ing",
+    "Usage": "im- before bilabials, in- before velars. Refers to the canonical object used for something; e.g., ingshiremai (textbook), impamya (writing apparatus), inkamu (utensils), ingchihai (deglutition muscles), ingikamebang (kitchenware)",
+    "Definitions": [
+      "utensil",
+      "vessel",
+      "receptacle",
+      "implement",
+      "instrument",
+      "ability",
+      "container",
+      "tool",
+      "set"
+    ],
+    "Readings": {
+      "Romaji": "utsuwa",
+      "Japanese": "うつわ"
+    }
+  },
+  {
+    "ID": "1774824232749",
+    "Radical": "室",
+    "Strokes": 9,
+    "Alias": "eba",
+    "Usage": "the canonical place where something happens; e.g., rawaeba (bedroom), ikamebang (kitchen).",
+    "Definitions": [
+      "room",
+      "apartment",
+      "chamber",
+      "greenhouse",
+      "cellar"
+    ],
+    "Readings": {
+      "Romaji": "muro",
+      "Japanese": "むろ"
+    }
+  },
+  {
+    "ID": "1774824535962",
+    "Radical": "作",
+    "Strokes": 7,
+    "Alias": "i-ng",
+    "Usage": "A circumfix. It attaches like: i(root)ng; e.g., ikamung (cook), iasang (build a house), idaming (make easy). o-roots take -eba before i-ng, but normal roots don't: iasangeba (construction site for a home).",
+    "Definitions": [
+      "make",
+      "production",
+      "prepare",
+      "build"
+    ],
+    "Readings": {
+      "Romaji": "tsukuru",
+      "Japanese": "つくる"
+    }
+  },
+  {
+    "ID": "1774824762217",
+    "Radical": "群",
+    "Strokes": 13,
+    "Alias": "use",
+    "Usage": "A prefix that indicates a group of; e.g., usengoshi (flock of birds), usehon (group of people), etc.",
+    "Definitions": [
+      "flock",
+      "group",
+      "crowd",
+      "herd",
+      "swarm",
+      "cluster"
+    ],
+    "Readings": {
+      "Romaji": "mureru",
+      "Japanese": "むれる"
+    }
+  },
+  {
+    "ID": "1774825800653",
+    "Radical": "入・出",
+    "Strokes": 0,
+    "Alias": "je / de",
+    "Usage": "Suffix for entering or into; e.g., riwakangosunje (into my mind / introduction to me), asaje (into the house), asagaje (within the house's walls / intramural). With verbs: shahadajeru (put into battle; embattle), asajeru (put into a home), motojeru (put into a position of strength / empower), manijeru (put into a position of wealth); jijeru (insert). Other types: bakarejei (esoteric; attributive). Naranarejei = narana (mysterious) + re (inner) + je (into) + i (attributive) = insider mystic / esoteric. The 'de' form is used for out of and is an irregular reversive of je: motode (remove from power), naranaredei (exoteric), manideru (to impoverish / make poor), etc. The fact that deru is used for put out of is completely a coincidence (I chose deru before learning 出る).",
+    "Definitions": [
+      "into",
+      "put into",
+      "out of",
+      "put out of"
+    ],
+    "Readings": {
+      "Romaji": "hairu・deru",
+      "Japanese": "はいる・でる"
+    }
+  },
+  {
+    "ID": "1774827092911",
+    "Radical": "上",
+    "Strokes": 3,
+    "Alias": "ujo",
+    "Usage": "Means above or over. Is a prefix; e.g., ujasa (roof / above the house), ujosora (space / transcending the sky), ujoriwakango (incomprehensible / above the brain), ujohon (übermensch, transcending humans), ujohonina (megalomaniac), ujomoto (above strength / transcending strength). Ujomoto is extremely strong, if you want to say 'excess of strength,' you might say omoto or if you wanted to say 'superstrength,' you might say momoto or motonyi. Ujoku and ujogu are the figurative and literal forms respectively.",
+    "Definitions": [
+      "above",
+      "over",
+      "transcend"
+    ],
+    "Readings": {
+      "Romaji": "ue",
+      "Japanese": "うえ"
+    }
+  },
+  {
+    "ID": "1774827973842",
+    "Radical": "下",
+    "Strokes": 3,
+    "Alias": "uno",
+    "Usage": "Prefix indicating inferiority; e.g., unkuriwakango (subconscious - figurative lower brain). Unku is used for figurative roots and ungu is used for literal roots; e.g., ungumakurenga (below amygdaloid nucleus).",
+    "Definitions": [
+      "below",
+      "inferior",
+      "lower"
+    ],
+    "Readings": {
+      "Romaji": "shita",
+      "Japanese": "した"
+    }
+  },
+  {
+    "ID": "1774828093617",
+    "Radical": "症",
+    "Strokes": 10,
+    "Alias": "ina",
+    "Usage": "A suffix, like -sis in English, denoting illness; e.g., angrawaina (insomnia), ujohonina (meglomania), etc.",
+    "Definitions": [
+      "symptoms",
+      "illness"
+    ],
+    "Readings": {
+      "Romaji": "shou",
+      "Japanese": "ショウ"
+    }
+  },
+  {
+    "ID": "1774870598996",
+    "Radical": "並・対",
+    "Strokes": 0,
+    "Alias": "me / pe",
+    "Usage": "refers to something besides or near something else; e.g., menapi (parallel), mejioe (adjacent), measa (besides the house), mehon (human-adjacent), meuns (aligned with life). A planet that could harbour life would be meunshi. You can use -ku/-gu to disambiguate literalness but context often does the work. The opposite would be pe (irregular reversive). Peuns (not aligned with life), pehon (not adjacent to humans), pehonhwo (immoral / not aligned with humanity).",
+    "Definitions": [
+      "row",
+      "and",
+      "besides",
+      "as well as",
+      "line up",
+      "rank with",
+      "rival",
+      "equal"
+    ],
+    "Readings": {
+      "Romaji": "nami・aite",
+      "Japanese": "なみ・あいて"
+    }
+  },
+  {
+    "ID": "1774871469432",
+    "Radical": "進",
+    "Strokes": 11,
+    "Alias": "ko",
+    "Usage": "Prefix for 'for' or favour; e.g., kohongi (pro-humanity), koumatachi (pro-communism), kangmanigi (pro-postmoney / pro-moneylessness), etc. ko + ang forms kang (pro-X-less).",
+    "Definitions": [
+      "in favour of",
+      "for"
+    ],
+    "Readings": {
+      "Romaji": "susumu",
+      "Japanese": "すすむ"
+    }
+  },
+  {
+    "ID": "1774872251589",
+    "Radical": "性",
+    "Strokes": 0,
+    "Alias": "gi",
+    "Usage": "Used for the concept or idea of something as a suffix; e.g., hongi (humanity), hakugi (reality), unsogi (vitality, life itself). -wi is used for theories or -ologies and -kuwi for intangible extensions of those; e.g., riwakankuwi (psychology), riwakangwi (neuroscience), gayawi (physics), gayakuwi (metaphysics), honwi (anthropology), naiwawi (theory of happiness). For a subjective philosophy, -wi with the proper possessive/genitive is used: unshwisun (my view on life / life philosophy), zhamuwisan (her view on god), Maika no makurewi (Mica's view on inner sobs / trials). -tachi for -isms: hontachi (humanism), umatachi (communitarianism; e.g., communism).",
+    "Definitions": [
+      "nature",
+      "quality",
+      "gender"
+    ],
+    "Readings": {
+      "Romaji": "saga",
+      "Japanese": "さが"
+    }
+  },
+  {
+    "ID": "1774872577562",
+    "Radical": "退",
+    "Strokes": 9,
+    "Alias": "oce",
+    "Usage": "like anti- or retro-; e.g., ocetawa (regression), oceangmanigi (anti-moneylessess), oceumatachi (anti-communism), ocehongi (anti-humanity), ocehontachi (anti-humanism), etc.",
+    "Definitions": [
+      "retreat",
+      "withdraw",
+      "retire",
+      "resign",
+      "repel",
+      "expel",
+      "reject"
+    ],
+    "Readings": {
+      "Romaji": "shirizoku",
+      "Japanese": "しりぞく"
+    }
+  },
+  {
+    "ID": "1774873125962",
+    "Radical": "周",
+    "Strokes": 8,
+    "Alias": "bau",
+    "Usage": "A prefix indicating orbit or aroundness. bau- is used for simple orbit or aroundness whereas bam- is used for path or trajectory. Examples with bau-: baubaka (circular orbit), bauitagi (orbiting the idea), bauhon (revolving around humans), bauikamebangtachi (ideology revolving around kitchens), bauhongitachi (ideology revolving around humanity). With -bam: bambaka (circumference), bambaubaka (circumference / trajectory of a circular orbit), bamrwanakden (the train's trajectory), bamkitaginya (the trajectory of this love/relationship / where a relationship is headed)",
+    "Definitions": [
+      "circumference",
+      "circuit",
+      "lap",
+      "around",
+      "circular",
+      "orbit",
+      "revolving around",
+      "trajectory",
+      "path"
+    ],
+    "Readings": {
+      "Romaji": "mawari",
+      "Japanese": "まわり"
+    }
+  },
+  {
+    "ID": "1774873864034",
+    "Radical": "通",
+    "Strokes": 0,
+    "Alias": "gen",
+    "Usage": "A prefix, like trans-, inter-, or intra-. Usually refers to 'between one or more;' e.g., genhakashi (interfamilial), genhon (interpersonal), genasa (through homes / between homes), genuns (between lives; e.g., a drug dealer). zon is the limited form; e.g., zonhakashi (within the family), zonasa (within the house), zonuns (within life), zonhon (within people), though -je is recommended instead of zon-: hakashije, unsoje, honje, etc. Zon- is restrictive (emphasis on exclusivity) and -je is about the intoness. For an introduction, you'd use riwakangosunje (into my mind), since it's non-exclusive. For private thoughts, you'd use zonriwakangosun (within my mind / private to my mind). The zom- form is used before bilabials.",
+    "Definitions": [
+      "through",
+      "between",
+      "across"
+    ],
+    "Readings": {
+      "Romaji": "tooru",
+      "Japanese": "とおる"
+    }
+  },
+  {
+    "ID": "1774874594051",
+    "Radical": "自",
+    "Strokes": 6,
+    "Alias": "nsu",
+    "Usage": "refers to the self-; e.g., emononsu (selfie / self-picture), mensujamu (self-alignment with The God / conscience), mensuhon, pensu (self-unalignment / cognitive dissonance), mensu (self-alignment / congruence / cognitive congruence),etc.",
+    "Definitions": [
+      "oneself",
+      "self"
+    ],
+    "Readings": {
+      "Romaji": "mizukara",
+      "Japanese": "みずから"
+    }
+  },
+  {
+    "ID": "1774875597207",
+    "Radical": "前",
+    "Strokes": 9,
+    "Alias": "ije",
+    "Usage": "",
+    "Definitions": [
+      "A prefix functioning as 'before;' e.g.",
+      "ijeangmanigi (pre-moneylessness)",
+      "ijeseko (before 6 days; i.e.",
+      "before the weekend)",
+      "etc."
+    ],
+    "Readings": {
+      "Romaji": "mae",
+      "Japanese": "まえ"
+    }
+  },
+  {
+    "ID": "1774875764884",
+    "Radical": "後",
+    "Strokes": 9,
+    "Alias": "echi",
+    "Usage": "used like post- in English; e.g., echiangmanigi (post-moneylessness), echiseko (after 6 days; i.e., the weekends). To say 'after the weekends,' you'd use zhinyi (after), like 'zhinyi echiseko.'",
+    "Definitions": [
+      "later",
+      "after"
+    ],
+    "Readings": {
+      "Romaji": "nochi",
+      "Japanese": "のち"
     }
   }
 ]
