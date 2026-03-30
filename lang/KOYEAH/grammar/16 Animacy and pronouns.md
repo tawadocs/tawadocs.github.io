@@ -9,6 +9,18 @@
 			* but since *kari* is also a transitive, active verb and animate noun, it must be used
 			* saying *hakashi a* would refer to something your family (including siblings and even cousins depending on interpretation or context) decided to do
 
+### 16.1.1 Natural constructions
+* If you said:
+	* *Irimen kama ji* :: working on the moon
+* ... it would sound very weird and off
+* If you're an astronomer working on the moon (English way of phrasing it), your job isn't 'the moon'
+* *irime* (job/work) is a human-centric word, about human jobs, like a desk job or being a waitress
+* The moon is not a job nor a chore
+	* rather, the moon is beauty that is studied, as the moon is the reason for the stability and complexity of life we are lucky enough to experience
+	* studying the moon is just one way of connecting with nature
+* For this, you use a neutral word like 'paya' (study):
+	* *Payaen kamaoe* :: studying the moon
+
 ## 16.2 Pronoun preference
 * *wu* is the only inanimate pronoun in Koyeah Tawa
 	* it isn't nice to say *chiwun* if you don't know someone's gender
