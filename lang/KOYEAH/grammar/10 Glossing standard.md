@@ -43,6 +43,7 @@
 | mei      | **AN**                        |
 | rei      | **INAN**                      |
 | hamasu   | **ANTIPROD.V.AGT**            |
+| enai     | **GER.MID**                   |
 * Others stay the same, as described
 * *ng* is a dummy if it marks *no* as nominaliser
 * Note:
@@ -58,6 +59,7 @@
 * Interjections are **INTJ** now
 * Pronouns' proper glosses are reflected in **16:16.3**
 * The *en* particle is **GER** (gerund) now
+	* when *-nai* appears after *-en*, *enai* is formed
 * *nyu* is an irregular particle, as it drops the *-u* in place of the next affix's vowel (if it begins with a vowel):
 	* *nyen* :: `ROM.V.GER`
 	* *nyoi* :: `ROM.V.MEL`
