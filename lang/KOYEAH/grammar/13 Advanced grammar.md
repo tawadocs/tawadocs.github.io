@@ -495,3 +495,18 @@
 * But outside of those settings, it would likely come off as incredibly immature, unprofessional, and crass
 	* between friends, a young woman could, but it would depend on level of closeness and social dynamic
 * A man (not a child) referring to himself by name would almost always carry a specific ('cringe') vibe
+
+## 13.15 Dangling clauses
+* A dangling clause is a clause without any explicit connection or verb, like:
+	* *Su a, kamtei ga iewaoii ikamebang ji* :: `1.SG A food-PAT NOM AUG-appease-ATTR kitchen LOC`
+* Literally, it reads:
+	* ~"I, pizza is yummier in kitchen"
+* But it actually means:
+	* ~"I made the pizza more appeasing / yummier in the kitchen"
+* This is because:
+	* *su a* sets *su* (me) as the actor (so something is happening)
+	* *kamtei ga* makes *iewaoii* the attributive/state of the food (assumed to be a pizza for our case)
+	* and *ikamebang ji* is irrelevant, just describes where (in the kitchen)
+* Together:
+	* *su a* (I) did the action *kamtei ga iewaoii* (pizza is yummier)
+* It may be hard to grok initially, but practice makes perfect
