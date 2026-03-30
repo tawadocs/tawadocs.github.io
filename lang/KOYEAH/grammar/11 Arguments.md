@@ -16,7 +16,7 @@
 		* ~"I'm doing something that makes me happy"
 
 ## 11.2 Verbs
-* *-nai* simply kills the direct object:
+* *-nai* simply kills the direct object (not always):
 	* *A rawanai* :: `A sleep-MID`
 		* ~"I am actively sleeping / I sleep"
 			* *a rawa* can be used in casual chatter
