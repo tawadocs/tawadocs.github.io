@@ -28,8 +28,8 @@
 | sutanyi  | **MAX.DIM-AUG.SUP**           |
 | cha      | **PLT.F**                     |
 | che      | **PLT.M**                     |
-| nya      | **ROM.F**                     |
-| nye      | **ROM.M**                     |
+| nya      | **ROM.FEM**                   |
+| nye      | **ROM.MASC**                  |
 | oi       | **MEL**                       |
 | ta       | **PEJ**                       |
 | (r)u     | **PLT.V**                     |
