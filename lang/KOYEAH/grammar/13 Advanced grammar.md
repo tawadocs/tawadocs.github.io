@@ -241,6 +241,11 @@
 	* *Myomg no atora* :: a few / some apples
 * Casually:
 	* *myi* and its variants are used
+* As an augmentative:
+	* *Nuko ni tawa funai ya, iemyi we iemyi* :: `heart TOP progress ACT-MID ASSERT AUG-MANY.ATTR ADD AUG-MANY.ATTR`
+		* ~"The heart evolves (you know?), more and more"
+	* *myimg hateru* :: run a little
+	* *iemyimg hateru* :: run less
 
 ### 13.8.2 **Any** and **little**
 * **Pattern for any**
