@@ -197,3 +197,36 @@
 			* if you said *makui nuko*, it would be like saying 'hearts that cry / teary hearts'
 			* it would not express a concrete action 'sobbing / wailing,' which *makuen* does
 * Note that you can't say *Wani Amu* or *Amuiku,* since *amu* **is** a pronoun
+
+## 16.8 On **oto**
+* *oto* combines with roots to yield 'question' words:
+	* *otohon* :: who
+	* *ototan* :: why
+	* *otoji* :: where
+		* sometimes *otodan* (from where / what source) may be used
+	* *otowanō* :: when
+	* *otoun* :: how
+* For example:
+	* *Otohon a fu ryōe no?* :: who did this
+	* *Ototan ue no?* :: why is that? / why?
+	* *Ototan yaranai no?* :: why (did you) come?
+	* *Otoun yaranai no?* :: how (did you) come?
+	* *Chi ni otoji ue no?* :: where is the water?
+	* *Fofen otōe no?* :: (you) are saying what?
+	* *Ototan zu a kamen no?* :: why are you eating?
+* But it is also used as a general filler or interjection of sorts:
+	* *Otoun...?* :: how come? / I don't understand
+	* *Oto...?* :: huh? / what?
+	* *Oto!!* :: that makes no sense / I'm confused
+	* *Oto ya* :: I'm confused, you know
+	* *Oto ana* :: (Sorry), I don't understand
+	* *Oto.* :: I guess / I think / maybe
+* Examples:
+	* *Wanōte eanaite makebasun, oto...* :: `time-INF MOV-MID-INF room-1SG.POSS INTERJ`
+		* ~"Time to go to my room, I guess"
+		* ~"It's about time I head to my room, I guess"
+	* *Be, reoeanaite makeba, oto...* :: `PROX IPFV-MOV-MID-INF room INTERJ`
+		* ~"I'll soon go to my room, (oh well)"
+	* *Oto...? Ryo ga imahwangi uerra no?* :: `INTERJ DEM.MED NOM MAKE-ill-MAKE-ATTR COP.POL-NEG Q`
+		* lit. "What? This ill-making-y is not?"
+		* ~"Huh...? Doesn't that make you ill?"
