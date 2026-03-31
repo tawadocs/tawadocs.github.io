@@ -26,10 +26,10 @@
 | suta     | **MAX.DIM**                   |
 | nyi      | **AUG.SUP**                   |
 | sutanyi  | **MAX.DIM-AUG.SUP**           |
-| cha      | **PLT.F**                     |
-| che      | **PLT.M**                     |
-| nya      | **ROM.FEM**                   |
-| nye      | **ROM.MASC**                  |
+| cha      | **NROM.F**                    |
+| che      | **NROM.M**                    |
+| nya      | **ROM.F**                     |
+| nye      | **ROM.M**                     |
 | oi       | **MEL**                       |
 | ta       | **PEJ**                       |
 | (r)u     | **PLT.V**                     |
@@ -37,7 +37,7 @@
 | masu     | **AGT**                       |
 | masumg   | **AGT-G.REVS**                |
 | qe       | **AFF**                       |
-| ng       | **FIL / PRT / SFP.DECL**      |
+| ng       | **FIL / DUM / SFP.DECL**      |
 | po       | **BESIDE**                    |
 | bo       | **AGST**                      |
 | mei      | **AN**                        |
