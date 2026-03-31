@@ -62,21 +62,7 @@
 				* she is continuously 'being good'
 
 ### 13.1.2 Anaphoric negation
-* *einq ni nqi* :: `ANAPH-REVS TOP REVS-ATTR`
-	* this is like saying, "as for whatever I just said before, (but) the opposite"
-	* or "as for whatever is most relevant most pertaining to this conversation, this is the opposite contrast"
-* Example:
-	* *nigo ni kita, ei ni nqi* :: `cat TOP like ANAPH TOP REVS-ATTR`
-		* ~"I like cats, but not dogs"
-	* *kita zu, ei ni nqi* :: `like 2SG ANAPH TOP REVS-ATTR`
-		* ~"(I) like you, but I dislike myself"
-* You can also use it in constructions like:
-	* *Wan teteson ga iinq i, einq ni ieiibu* :: `one hand-3SG.M.POSS NOM good-REVS COP ANAPH-REVS TOP AUG-good-PROP`
-		* lit. "One hand of his is bad, the opposite of what I just said, as for it, kind of better"
-		* ~"One of his hands is bad but the other one is a little bit better"
-* Remember, *einq* reverses the whole *wan teteson ga iinq i*, so it becomes:
-	* the other hand of his is good
-* but when we restate *ni ieiibu*, it changes the state from *iinq i* to *ieiibu* (a little bit / kind of better)
+* Please see **17 Anaphoric Reference**
 
 ### 13.1.3 Copular predicates
 * The copula can carry predicates
