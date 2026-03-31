@@ -127,3 +127,20 @@
 * For the lesser sacred or significant, such as man-made creations (e.g., the internet), you may use *ni* or less intent-focused particles (*ga*):
 	* *Yada, genrwankuta ni fofu su ji!* :: well, the internet told me!
 		* or *genrwankuta ga fofu su ji*
+* Even for *wumeibu* objects, like rocks, you can assume intent, since they are not significant
+* For a mountain, though? **Never**
+* You also shouldn't say:
+	* *Sa ni naiwai ue* :: she is happy
+* You say:
+	* *Sa a naiwa inai* :: she is being happy
+* Here's the difference:
+	* *inai* is like 'exists / being'
+	* so *naiwa inai* is like saying 'happiness exists'
+	* framing her as an actor *sa a* creates a **dangling clause**
+		* see **13:13.15** for more information on what a dangling clause in Tawa is
+	* this is like saying: 'she's acting like she's happy,' or 'she looks like she's being happy'
+* If you said that 'she is happy,' you'd sound like a doctor assessing his patient:
+	* *So ga iuki zhi byo*
+		* ~he is now sane
+* Or like someone who's judging or objectifying someone
+* Or worse, 'studying,' maybe even 'stalking' them
