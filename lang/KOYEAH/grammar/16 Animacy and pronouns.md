@@ -221,6 +221,7 @@
 	* *Oto ya* :: I'm confused, you know
 	* *Oto ana* :: (Sorry), I don't understand
 	* *Oto.* :: I guess / I think / maybe
+	* *Otoooo* :: what?? / why?? / come on!
 * Examples:
 	* *Wanōte eanaite makebasun, oto...* :: `time-INF MOV-MID-INF room-1SG.POSS INTERJ`
 		* ~"Time to go to my room, I guess"
