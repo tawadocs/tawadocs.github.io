@@ -228,6 +228,10 @@
 		* ~"It's about time I head to my room, I guess"
 	* *Be, reoeanaite makeba, oto...* :: `PROX IPFV-MOV-MID-INF room INTERJ`
 		* ~"I'll soon go to my room, (oh well)"
+			* better to use *bebu* (soon-ish / around imminently)
+			* *bebu eanaite makeba, oto...*
+				* sounds more natural
+				* it's like saying 'it is about time I head to my room, I guess'
 	* *Oto...? Ryo ga imahwangi uerra no?* :: `INTERJ DEM.MED NOM MAKE-ill-MAKE-ATTR COP.POL-NEG Q`
 		* lit. "What? This ill-making-y is not?"
 		* ~"Huh...? Doesn't that make you ill?"
