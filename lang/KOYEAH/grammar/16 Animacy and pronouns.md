@@ -52,6 +52,7 @@
 | *na*    | **animate**                     | **1.PL.AN**            |
 | *wu*    | **inanimate**                   | **3.SG.INAN**          |
 | *wumei* | **natural non-human inanimate** | **3.SG.INAN.NAT.NHUM** |
+| *amu*   | -                               | **ULT.SG.DEF**         |
 * Which pronoun would be used depending on type:
 	* **artificial inanimate**
 		* *wu* is used
@@ -175,3 +176,23 @@
 		* 'she saved me!'
 	* it can be cringe and sound like you're overpersonifying like in English
 		* in Tawa, this can be called 'supersignifying'
+
+## 16.7 The God pronoun
+* To reference God, the *amu* (`ULT.SG.DEF`) pronoun is used
+* It can never be applied to human categories, so:
+	* *amu a/o/ni/ga...*
+* ... cannot be used
+* If you want to say 'God is One,' you say:
+	* *Wan no o Amu* :: `one NMZ U ULT.SG.DEF`
+		* ~"Oneness experiences God / God is One"
+* In standard grammar, this wouldn't work or would be entirely rephrased
+* But for God (*amu*, *jamu*), the grammar changes a lot
+* You may also say:
+	* *Wani Jamu...* :: `one-ATTR one.god`
+		* ~"The One God..."
+* ... like in this sentence:
+	* *Na o makueni nuko, Wani Jamu momg* :: `1.PL U cry-GER-ATTR heart one-ATTR one.god SEQ-G.REVS`
+		* ~"We have crying hearts because of The One and Only God"
+			* note: *makueni* makes it so that the gerundive *makuen* (crying) modifies *nuko* (heart)
+			* if you said *makui nuko*, it would be like saying 'hearts that cry / teary hearts'
+			* it would not express a concrete action 'sobbing / wailing,' which *makuen* does
