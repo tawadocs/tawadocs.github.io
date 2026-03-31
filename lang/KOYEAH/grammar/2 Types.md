@@ -57,6 +57,14 @@
 		* "As for the tool, (it) little money"
 			* this could be understood, but it's preferable to say:
 				* *twana ni lili mani i*
+* Often, *i + nu* is used for manner:
+	* *Hakinu* :: in a truthful way / truthfully
+* *nu* alone:
+	* *Hakonu* :: truly / true / real
+* So:
+	* *hakinu demg* :: truthfully give (something)
+	* *hakonu demg* :: true giving (of something) / really / truly give (something)
+	* *haki demg* :: real giving of something / true giving of something
 
 ### 2.1.3 Property particle
 * *bu* denotes a property
