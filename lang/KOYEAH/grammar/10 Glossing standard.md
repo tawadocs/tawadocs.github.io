@@ -26,8 +26,8 @@
 | suta     | **MAX.DIM**                   |
 | nyi      | **AUG.SUP**                   |
 | sutanyi  | **MAX.DIM-AUG.SUP**           |
-| cha      | **NROM.F**                    |
-| che      | **NROM.M**                    |
+| cha      | **PLAT.F**                    |
+| che      | **PLAT.M**                    |
 | nya      | **ROM.F**                     |
 | nye      | **ROM.M**                     |
 | oi       | **MEL**                       |

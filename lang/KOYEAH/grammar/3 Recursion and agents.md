@@ -16,7 +16,7 @@
             - but _paratashimg_ means 'intolerable' and is stronger, even though it does not require a degree
                 - this is fine because 'intolerable' already naturally implies that it is something you cannot let go
 - But **X ga/a/o Y ni Z** is used if **X ga Y** is the topic or theme:
-    - _hashiru a hahaen haruma ieji ni eǵi_ :: `child A entertain-VBZ hole AUG-LOC TOP okay-REVS-ATTR`
+    - _hashiru a hahaen haruma ieji ni enqi_ :: `child A entertain-VBZ hole AUG-LOC TOP okay-REVS-ATTR`
         - ~"The children playing near the hole is anything but OK"
 
 ## 3.2 Recursion
@@ -64,3 +64,33 @@
             - this is what you might say afterwards if you imagined it:
                 - _mo mo eirra_ :: `but ANAPH-NEG`
                     - '... but it wasn't'
+
+## 3.5 NSKT 3.4
+* In NSKT 3.4, *kou* is simply used for embedding
+* Though written *kou*, it is pronounced /'ko/ and not /'ko.u/
+* Examples:
+	* *Su a riwaka kou sa a riwaka kou mama ga ii, su a toriwakanai* :: `1.SG A think QUOT2 3.SG.F A think QUOT2 nature NOM good 1.SG A PFV-think-MID`
+		* lit. "I think that she thinks that nature is good, I thought"
+		* ~"I think that she thinks that I thought nature is good"
+* Simple embedding shouldn't take *kou*:
+	* *So a shirenai, su wa shirenai* :: `3.SG.M A know-MID 1.SG also know-MID`
+		* lit. "He knows, I also know"
+		* ~"I also know that he knows"
+* So, in **NSKT 3.4**:
+	* *kou* fully replaces *me*
+	* in simple clauses, the last verb can take the whole clause as an argument:
+		* *ngoshi ni kamu atora ga nandanai tsu dan, unsunai*
+			* lit. as for the bird, eat the apple fall from tree, lives
+	* *kou* is not like the English 'that:'
+		* *hon kou kitate yume*
+			* lit. person, 'likes to read'
+			* makes no sense, sounds like you're ascribing him a title but with weird grammar
+		* *kitate yume (nongno) hon*
+			* lit. the likes-to-read person
+			* ~"Person that likes to read"
+* Also, try to split sentences as much as possible
+* So, for sentences like:
+	* the cat that ate the dog fled the thief's house that said to me that the cat fled
+* You should split them whenever possible and avoid:
+	* *Nigo a kamu nigonq ni hateru dakamasu no asa dan ga fofu su ji kou nigo a hateru*
+		* lit. "as for: cat eat dog, run thief's house from speak to me that cat run"
