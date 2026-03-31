@@ -9,6 +9,10 @@
 	* 'whatever was just said'
 * So:
 	* *Kopa we tein no ohira ga buronzhi* :: the alloy of copper and tin is bronze
+		* note: *ohira* is the default classifier for mixture, which includes, but is not limited to:
+			* cocktails
+			* smoothies
+			* alloys
 	* *Kitarra eioe* :: (I) dislike whatever I just said
 * Without reading what I wrote below, try to guess what it means
 * Here's what it means:
