@@ -38,6 +38,13 @@
 		* ~"Piercing words"
 			* usually, you'd just say ~*kizute no do no kana*, but this is fine for demonstrative purposes
 * Word for stay is *eamg*, though
+* *nai* fuses with other affixes:
+	* *nai* + *rasu* :: *narasu*
+		* *rasai* is the affectionate form, though
+	* *nai* + *tasu* :: *natasu*
+		* *tasai* would be affectionate
+	* *tasu* + *mg* + *nai* :: *natasumg*
+		* *tasumgai* would be more affectionate
 
 ## 8.4 Sentence order
 * Koyeah Tawa has a strong tendency towards SOV in marked or complex constructions
