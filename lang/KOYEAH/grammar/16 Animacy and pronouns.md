@@ -144,3 +144,25 @@
 		* ~he is now sane
 * Or like someone who's judging or objectifying someone
 * Or worse, 'studying,' maybe even 'stalking' them
+
+### 16.6.1 Significance hierarchy
+* Your house would be *wumei* to you, but probably *wu* to someone else
+* But a mountain would be universally *sa*
+* But chemicals like propofol or atropine are *wumei*, even if some of them (e.g., propofol) are purely synthetic
+* This is why:
+	* the synthesis of **propofol** was always possible, since it was written by God
+	* one just 'discovers' it
+	* so, chemical syntheses and reactions are never artificial (that would be very degrading and highly arrogant)
+	* since it was not for man to 'create' a synthesis, it was just for man to 'discover' it
+* So:
+	* a **robot** is *wu* but may be *wumei* to his creator (he thinks it is significant)
+	* **propofol** will be *wumei* to everyone
+	* so will **atropine**
+	* but **atropa belladonna** will likely be *sa* because of her beauty and significance
+* This is how artificiality is classified:
+	* a house was always buildable, but there was no Law from God on how to build one
+	* a victorian-style window is completely man-made
+	* the paint and floor plans are also man-made
+* But what about plastics?
+	* the plastic molecule remains *wumei*
+	* but when it is used in inventions like the bottle, it becomes *wu* again, because the molecule's significance becomes secondary to the man-made creation
