@@ -4,6 +4,7 @@
 | **me**   | `/me/`  | REL   |
 | **eu**   | `/eu/`  | COMP  |
 | **mas**  | `/mas/` | AGNR  |
+| **kou**  | `/ko/`  | QUOT2 |
 ## 3.2 Nesting
 - Nesting is often just handled by the **X ni Y ga Z** structure:
     - _hateri ngoshi ni kamu mafi atora ga unsunai_ :: `fast.ATTR bird TOP eat.V red.ATTR apple NOM live.V-MID`
@@ -94,3 +95,12 @@
 * You should split them whenever possible and avoid:
 	* *Nigo a kamu nigonq ni hateru dakamasu no asa dan ga fofu su ji kou nigo a hateru*
 		* lit. "as for: cat eat dog, run thief's house from speak to me that cat run"
+
+### 3.5.1 Dangling with *kou*
+* Since *kou* is a quotational particle, it doesn't need a helper verb sometimes:
+	* *kou 'yaranaite byo!' funai* :: `QUOT2 come-MID-INF DEM.PROX ACT-MID`
+		* lit. "'Come here' happened"
+		* ~"'Come here' was said"
+		* ~"I heard someone saying, 'Come here'"
+* Depending on context, it can convey a full statement:
+	* "The staff said, 'Come here!'"
