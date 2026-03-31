@@ -188,11 +188,12 @@
 * In standard grammar, this wouldn't work or would be entirely rephrased
 * But for God (*amu*, *jamu*), the grammar changes a lot
 * You may also say:
-	* *Wani Jamu...* :: `one-ATTR one.god`
+	* *Wani Jamu(iku)...* :: `one-ATTR one.god-(HON)`
 		* ~"The One God..."
 * ... like in this sentence:
-	* *Na o makueni nuko, Wani Jamu momg* :: `1.PL U cry-GER-ATTR heart one-ATTR one.god SEQ-G.REVS`
+	* *Na o makueni nuko, Wani Jamuiku momg* :: `1.PL U cry-GER-ATTR heart one-ATTR one.god-HON SEQ-G.REVS`
 		* ~"We have crying hearts because of The One and Only God"
 			* note: *makueni* makes it so that the gerundive *makuen* (crying) modifies *nuko* (heart)
 			* if you said *makui nuko*, it would be like saying 'hearts that cry / teary hearts'
 			* it would not express a concrete action 'sobbing / wailing,' which *makuen* does
+* Note that you can't say *Wani Amu* or *Amuiku,* since *amu* **is** a pronoun
