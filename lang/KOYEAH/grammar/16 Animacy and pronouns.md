@@ -166,3 +166,12 @@
 * But what about plastics?
 	* the plastic molecule remains *wumei*
 	* but when it is used in inventions like the bottle, it becomes *wu* again, because the molecule's significance becomes secondary to the man-made creation
+* And what about phones?
+	* is a phone essential, like a home? no
+	* is it significant to you? not inherently to you, but it might be significant to your life
+		* conclusion: it is categorically, immutably **wu**
+* And if you use *wumei* for phone:
+	* it's like referring to CPR as 'she' in English
+		* 'she saved me!'
+	* it can be cringe and sound like you're overpersonifying like in English
+		* in Tawa, this can be called 'supersignifying'
