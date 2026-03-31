@@ -131,6 +131,18 @@
 		* *teqekashibu* -> `recount<EMO>-CONT.PRSV`
 			* lit. "(I) have continued to remember"
 			* ~"I have kept it in my heart / I have maintained this memory"
+* **NOTE**
+	* in NSKT, *shibu* is *shibo* / *she*
+		* in the connector form:
+			* *sheru* (verb)
+			* *shibyu* (romantic verb)
+			* *shemanai*
+			* *shetasu*
+			* *shemasu*
+			* *shehamasu*
+			* *shehatasu*
+		* with *nai*:
+			* *shibai*
 
 ## 8.3 Mood
 ### 8.3.1 Particle table
