@@ -1,9 +1,14 @@
-## 1.1 Sentences
+## 1.1 Basics
 * Sentence structure is SVO
 * Modifiers go before the noun
 	* *meiya (soft) ngoshi (bird)* -> soft bird
 * Topic-comment structure
 * Context-first and pro-drop
+* Only nasals should cluster, so:
+	* *kamo* + *tei* :: *kantei*
+		* *m* turns into the default *n*
+	* *kamo* + *nyu* :: *kamnyu*
+* This rule is not always followed, but it is a good general rule
 
 ## 1.2 The nine core particles
 | Particle | IPA       | Gloss   |
