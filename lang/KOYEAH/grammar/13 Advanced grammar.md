@@ -531,3 +531,43 @@
 			* *Jon ni tofofunsu so ji *
 				* lit. "John self-spoke to him"
 				* *-nsu* on *tofofu* refers back to John's 'self'
+
+## 13.17 On **ya**
+* *ya* is an assertive marker
+* It is loosely translated as 'make no mistake,' but this is often not the best translation
+* It is often used for drawing attention:
+	* *Yaranai ya!* :: `come-MID ASSERT`
+		* ~"Oh, come!"
+		* ~"Come, come!"
+		* ~"Come here!"
+		* ~"Yeah, come!"
+* or for other sorts of invokings:
+	* *Sorama ya!* :: `rain ASSERT`
+		* ~"O rain!"
+		* ~"Rain, come!"
+	* *Zhamu ya!* :: `deity ASSERT`
+		* ~"Dang it!"
+		* ~"Oh, God!"
+		* ~"God help me!"
+			* **never** use it with *Jamu* like this, for it is a slur-level taboo
+* But it doesn't replace the vocative *ta*:
+	* *Onokoi ya!* :: `friend ASSERT`
+		* ~"Yes, friend!"
+		* ~"Indeed, friend!"
+		* ~"Friend!"
+			* you can't 'assert' the word friend
+			* in the other examples, you weren't literally 'calling' someone, you were just drawing attention
+			* so this would draw attention to the word 'friend,' not your friend
+			* you would say:
+				* *ta onokoi!* :: `VOC friend`
+					* ~"Hey, friend! / friend, come!"
+* Depending on tone, it can, of course, mean something along the lines of 'make no mistake:'
+	* *Haterurra asasun ieji ya.* :: `run.PLAT.V-NEG house-1SG.POSS AUG-LOC ASSERT`
+		* ~"I'm not joking: do not run near my house"
+		* ~"You must not run around my house, do you understand?"
+		* ~"Make no mistake, running near my house is prohibited"
+* Especially with *ng*:
+	* *kamen byo un ni futashimg ue ya ng* :: `eat.GER DEM.PROX INSTR TOP ACT-POT.ATTR-G.REVS COP.POL ASSERT SFP.DECL`
+		* ~"To eat here is strictly banned"
+		* ~"It is prohibited to eat here"
+		* ~"Make no mistake, eating here is strictly banned (and doing so will result in consequences)"
