@@ -1,5 +1,5 @@
 ## 1.1 Sentences
-* Sentence structure is SVO-SOV
+* Sentence structure is SVO
 * Modifiers go before the noun
 	* *meiya (soft) ngoshi (bird)* -> soft bird
 * Modifiers **can** go after the noun:
@@ -98,12 +98,22 @@
 	* *jananq no hon* :: `heaven-ANT GEN person`
 		* lit. "A person of hell"
 		* ~"Dweller of hellfire"
-* some more sentences focusing on noun linking:
+* Some more sentences focusing on noun linking:
 	* *desga no asa* :: `opposite-side GEN house`
 		* "House to the opposite side"
 	* *asawun ni asanan no desga ue no?* :: `house-3SG.POSS TOP house-1PL.POSS GEN opposite-side COP.POL Q`
 		* lit. "As for their home, our home's opposite ((it) is)?"
 		* ~"Is their house opposite to our home?"
+* It also lets postpositions function as subjects:
+	* *mga da no mgo* :: `x ALL GEN y`
+		* ~"X towards Y"
+		* it's like saying 'the X-towards kind of Y'
+	* e.g.,
+		* *zu da no kitanyasun...* :: `2SG ALL GEN like-ROM.N-1SG.POSS`
+			* ~"My love for you..."
+				* incomplete sentence, but works for demonstrative purposes
+				* lit. "The you-towards kind of my love"
+				* or like saying, 'you have my love,' since '*zu da no*' is possessing *kitanyasun*
 
 ### 1.4.1 Little note
 * When *no* is forced to appear at the end of a sentence but you aren't asking a question, then tone decides if you're using *no* for marking a noun or asking a question

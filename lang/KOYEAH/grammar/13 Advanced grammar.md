@@ -451,13 +451,13 @@
 
 ### 13.13.1 Oaths or swears
 * General swears or oaths are done with the generic deity word *zhamu*:
-	* *Tete llaru zhamu, reofunai!* :: `hand ALL-PLT.V god IPFV-ACT-MID`
+	* *Tete daru zhamu, reofunai!* :: `hand ALL-PLT.V god IPFV-ACT-MID`
 		* ~"Hand to God (it) will happen!"
 		* ~"Hand to God I'll do it!"
 			* **never** use the romantic form (e.g., *llanyu* (`ALL-ROM.V`)) involving *zhamu*
 			* it would come off as crass, since then it would imply you're praying to some sort of deity
 			* saying this is also a promise, so if you didn't do whatever you said you would, it would be the equivalent of breaking a promise and probably someone's trust
-			* note that *llaru/llanyu* are the verb forms of the allative postposition
+			* note that *daru/danyu* are the verb forms of the allative postposition
 * Use *Jamu* (The God) for serious, religious oaths:
 	* *Teteara daellāranyai Jamuiku ji, reofunai ng* :: `hand-POL FORM-ALL-POL-ROM.V.MID one.god-HON LOC IPFV-ACT-MID SFP.DECL`
 		* ~"My right hand to God that I will do it / it will happen"
