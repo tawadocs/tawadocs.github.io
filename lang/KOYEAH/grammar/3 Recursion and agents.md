@@ -66,6 +66,9 @@
             - this is what you might say afterwards if you imagined it:
                 - _mo mo eirra_ :: `but ANAPH-NEG`
                     - '... but it wasn't'
+- In NSKT (latest), you would use it with *wou* or *kou*:
+	- *asa ni lilii mani i, woeu tonirunai* :: `house TOP little-ATTR money COP QUOT3.COMP PFV-see.PLAT.V-MID`
+- With *kou*, the clause would only come after (but *kou*/*wou* aren't interchangeable!)
 
 ## 3.5 NSKT 3.4
 * In NSKT 3.4, *wou* is simply used for embedding

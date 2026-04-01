@@ -216,6 +216,32 @@
     ]
   },
   {
+    "word": "yoe",
+    "id": "excl-1",
+    "definitions": [
+      {
+        "text": "good god",
+        "frequency": 100
+      },
+      {
+        "text": "jesus",
+        "frequency": 100
+      },
+      {
+        "text": "good grief",
+        "frequency": 100
+      },
+      {
+        "text": "jeez",
+        "frequency": 100
+      },
+      {
+        "text": "dang",
+        "frequency": 100
+      }
+    ]
+  },
+  {
     "word": "zhamu",
     "id": "sewi, jan sewi",
     "definitions": [
