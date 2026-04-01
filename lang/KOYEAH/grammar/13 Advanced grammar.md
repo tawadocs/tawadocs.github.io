@@ -236,7 +236,7 @@
 	* *watada niren saoe ga (myi) yadoi ue* :: `just see.GER 3SG.F-N NOM (MANY.ATTR) well.N-MEL COP.POL`
 		* ~"Just watching her is (much) remarkable"
 			* *myi yadoi* would explicitly say 'is enough / beautiful enough (to not want more)'
-			* it is usually omitted since context communicates it
+			* it is usually omitted since context communicates it or *ieyadoi/ieyadoeta* is used
 			* you'd use *yadoeta* if it was negative
 
 ### 13.8.2 **Any** and **little**
