@@ -19,6 +19,18 @@
 		* "Did (you) eat?"
 * The *hya/hyo* distinction has been replaced with just *no?*
 
+### 5.1.1 Irrealis
+* Irreal aspects:
+	* *teoi*
+	* *rēoi*
+	* *ereoi*
+	* *ireoi*
+* Examples:
+	* *Rēoieanai* :: `IPFV.IRR-MOV-MID`
+		* ~"I would have gone"
+	* *Teoieanai* :: `PFV.IRR-MOV-MID`
+		* ~"I would have had gone"
+
 ## 5.2 Stacking aspect
 * Simple aspects (prefixes) can be stacked with complex aspect (suffixes):
 	* *Ryo ni watada reofutashinata* :: `DEM.MED TOP only IPFV-ACT-POT.ATTR-FUT.CONT`

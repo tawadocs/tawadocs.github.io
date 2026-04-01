@@ -1,10 +1,11 @@
 ## 3.1 Particle table
-| Particle | IPA     | Gloss |
-| -------- | ------- | ----- |
-| **me**   | `/me/`  | REL   |
-| **eu**   | `/eu/`  | COMP  |
-| **mas**  | `/mas/` | AGNR  |
-| **kou**  | `/ko/`  | QUOT2 |
+| Particle | IPA         | Gloss |
+| -------- | ----------- | ----- |
+| **me**   | `/me/`      | REL   |
+| **eu**   | `/eu/`      | COMP  |
+| **mas**  | `/mas/`     | AGNR  |
+| **kou**  | `/ko/`      | QUOT2 |
+| **wou**  | `/wo(u,ʊ)/` | QUOT3 |
 ## 3.2 Nesting
 - Nesting is often just handled by the **X ni Y ga Z** structure:
     - _hateri ngoshi ni kamu mafi atora ga unsunai_ :: `fast.ATTR bird TOP eat.V red.ATTR apple NOM live.V-MID`
@@ -67,40 +68,71 @@
                     - '... but it wasn't'
 
 ## 3.5 NSKT 3.4
-* In NSKT 3.4, *kou* is simply used for embedding
-* Though written *kou*, it is pronounced /'ko/ and not /'ko.u/
+* In NSKT 3.4, *wou* is simply used for embedding
 * Examples:
-	* *Su a riwaka kou sa a riwaka kou mama ga ii, su a toriwakanai* :: `1.SG A think QUOT2 3.SG.F A think QUOT2 nature NOM good 1.SG A PFV-think-MID`
+	* *Mama ga ii wou su a riwaka wou sa a riwaka, su a toriwakanai*
+		* `nature NOM good QUOT3 1SG A think QUOT3 3SG.F A think 1SG A PFV-think-MID`
 		* lit. "I think that she thinks that nature is good, I thought"
 		* ~"I think that she thinks that I thought nature is good"
-* Simple embedding shouldn't take *kou*:
+* Simple embedding **can** sometimes omit *wou*:
 	* *So a shirenai, su wa shirenai* :: `3.SG.M A know-MID 1.SG also know-MID`
 		* lit. "He knows, I also know"
 		* ~"I also know that he knows"
 * So, in **NSKT 3.4**:
-	* *kou* fully replaces *me*
+	* *wou* fully replaces *me*
 	* in simple clauses, the last verb can take the whole clause as an argument:
 		* *ngoshi ni kamu atora ga nandanai tsu dan, unsunai*
 			* lit. as for the bird, eat the apple fall from tree, lives
-	* *kou* is not like the English 'that:'
-		* *hon kou kitate yume*
-			* lit. person, 'likes to read'
+	* *wou* is not like the English 'that:'
+		* *kitate yume wou hon*
+			* lit. 'likes to read' person
 			* makes no sense, sounds like you're ascribing him a title but with weird grammar
-		* *kitate yume (nongno) hon*
-			* lit. the likes-to-read person
-			* ~"Person that likes to read"
-* Also, try to split sentences as much as possible
-* So, for sentences like:
-	* the cat that ate the dog fled the thief's house that said to me that the cat fled
-* You should split them whenever possible and avoid:
-	* *Nigo a kamu nigonq ni hateru dakamasu no asa dan ga fofu su ji kou nigo a hateru*
-		* lit. "as for: cat eat dog, run thief's house from speak to me that cat run"
+				* if that **is** his title, you'd use *woui*
+					* *kitate yume woi hon*
+						* "the person that likes to read"
+						* "he's the guy that 'likes to read'"
 
-### 3.5.1 Dangling with *kou*
-* Since *kou* is a quotational particle, it doesn't need a helper verb sometimes:
+### 3.5.1 *kou* marker
+* *kou* is like *wou* but is used in specific circumstances
+* So, for direct orders, stern warnings, and announcements, you will use *kou*:
+	* *Napi ga fofu kou 'RRA KAMEN BYO JI'* :: `line NOM speak.PLAT.V QUOT2 NEG eat.GER DEM.PROX LOC`
+		* ~"The text reads, 'DO NOT EAT HERE / NO EATING HERE'"
+* This also includes clausal dangling:
 	* *kou 'yaranaite byo!' funai* :: `QUOT2 come-MID-INF DEM.PROX ACT-MID`
 		* lit. "'Come here' happened"
 		* ~"'Come here' was said"
 		* ~"I heard someone saying, 'Come here'"
-* Depending on context, it can convey a full statement:
-	* "The staff said, 'Come here!'"
+	* Depending on context, it can convey a full statement:
+		* "The staff said, 'Come here!'"
+* If you did this with *wou*:
+	* *'yaranaite byo!' wou funai* :: `come-MID-INF DEM.PROX QUOT3 ACT-MID`
+		* ~"Happened 'come here'"
+			* you're attributing the phrase to *funai*
+			* so it literally reads as if someone said:
+				* 'come here,' as its own instance, actualised
+				* weirdly literary and formal
+				* don't use it
+
+### 3.5.2 Splitting
+* Try to split sentences as much as possible
+* So, for sentences like:
+	* the cat that ate the dog fled the thief's house that said to me that the cat fled
+* You should split them whenever possible and avoid:
+	* *nigo ga kamu nigoǵ ni hateru dakamasu no asa dan wou, nigo ga fofu su ji*
+		* `cat NOM eat.PLAT.V cat-REVS TOP run.PLAT.V steal-AGT GEN house ABL QUOT3 cat NOM eat.PLAT.V 2SG LOC`
+		* lit. 'The cat ate the dog (topic): run from the thief's house, the cat told me'
+			* ambiguity!
+			* *ga* here introduces **two cats**
+			* so there's a cat telling you about a cat that ate a dog and ran from a thief's house
+			* you can use a demonstrative or topic to avoid introducing a new cat, but why do all that?
+* So, just say:
+	* *Tokamu nigoǵ we hateru dakamasu no asa dan wou nigo a fofu* :: `PFV-eat.PLAT.V cat-REVS ADD run.PLAT.V steal-AGT GEN house ABL QUOT3 cat A speak.PLAT.V`
+		* ~"'Ate a dog and ran from the thief's house,' the cat told me"
+* And don't repeat pronouns:
+	* *Sa ni ii hon wou tofofu* :: `3SG.F TOP good person QUOT3 PFV-speak.PLAT.V`
+		* lit. "As for her, '(she) is a good person', said"
+		* ~"She said she is a good person"
+		* this is fine
+	* *Sa ni ii hon wou sa a tofofu*
+		* this is not fine
+		* it becomes worse to parse
