@@ -654,5 +654,23 @@
         "frequency": 100
       }
     ]
+  },
+  {
+    "word": "mama",
+    "id": "ma, kasi ale, ale",
+    "definitions": [
+      {
+        "text": "mother nature",
+        "frequency": 100
+      },
+      {
+        "text": "nature",
+        "frequency": 100
+      },
+      {
+        "text": "exalted flow",
+        "frequency": 100
+      }
+    ]
   }
 ]
