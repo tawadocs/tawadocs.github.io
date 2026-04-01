@@ -139,3 +139,22 @@
 	* *Sa ni ii hon wou sa a tofofu*
 		* this is not fine
 		* it becomes worse to parse
+
+### 3.5.3 Literal quotation
+* *wou* has a neat ability to turn anything into a quote
+* Take 'haha,' meaning **funny / entertaining**:
+	* *Ryo ni tohaha ue!*
+		* ~"That was funny!"
+		* ~"This was entertaining!"
+* How do you say 'that laugh made me laugh too?'
+* You use *wou*:
+	* *Haha wou a, su wa haharu!*
+		* ~"The 'haha' made me laugh"
+			* here, you're literally talking about a 'haha' or laugh
+			* in Tawa, 'haha' is also used as a onomatopoeia
+			* but you use *wou* to distinguish it from the root 'haha'
+			* *haha wou...* refers to the laughing itself or a quality of 'haha' (maybe the person giggled weirdly!)
+* It's also used in explanations:
+	* *Rra rra, ngggg, 'mimi' wou imo 'karicha' wou mo mo ielilii daeoe*
+		* `NEG NEG FIL mimi QUOT3 SIM create-PLAT.F QUOT3 but AUG-little-ATTR FORM-N`
+		* ~"No, no, uhhhh, 'mommy' is like 'mother,' but it's less formal"
