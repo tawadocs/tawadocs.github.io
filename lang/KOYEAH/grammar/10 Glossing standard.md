@@ -44,6 +44,7 @@
 | rei      | **INAN**                      |
 | hamasu   | **ANTIPROD.V.AGT**            |
 | enai     | **GER.MID**                   |
+| yo       | **Q2**                        |
 * Others stay the same, as described
 * *ng* is a dummy if it marks *no* as nominaliser
 * Note:

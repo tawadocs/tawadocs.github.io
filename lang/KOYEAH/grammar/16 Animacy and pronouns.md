@@ -209,7 +209,24 @@
 * For example:
 	* *Otohon a fu ryōe no?* :: who did this
 	* *Ototan ue no?* :: why is that? / why?
+		* a softer form is *otoun ue yo?* ("could it be that way?")
+		* for example:
+			* *So a iuki, otoun ue yo?*
+				* ~"He's seems sound/fine. (Do you) think that it could be that way?"
+					* but more properly, it's like asking:
+						* ~"he seems sound/fine, is that right?"
+						* it **almost always** hints at explanation, just more softly
+						* so the person would say 'yeah, I think he is, because...'
 	* *Ototan yaranai no?* :: why (did you) come?
+		* topic here was omitted (*ototan ni*)
+		* you almost always would omit the topic
+		* including the topic can sound rude, condescending, or even authoritative, especially if you're talking to a friend
+		* to your boss, saying *ototan yaranai no?* would be very rude, so you'd say:
+			* *Rri ue no?* :: `AFFIRM COP.POL Q`
+				* ~"(Is) it true?"
+				* ~"Really?"
+		* but *rri ue no?* is like saying 'what is it? / what's up? / why are you here' in a very respectful way
+		* it doesn't literally mean 'is it affirmed?'
 	* *Otoun yaranai no?* :: how (did you) come?
 	* *Chi ni otoji ue no?* :: where is the water?
 	* *Fofen otōe no?* :: (you) are saying what?
@@ -235,3 +252,36 @@
 	* *Oto...? Ryo ga imahwangi uerra no?* :: `INTERJ DEM.MED NOM MAKE-ill-MAKE-ATTR COP.POL-NEG Q`
 		* lit. "What? This ill-making-y is not?"
 		* ~"Huh...? Doesn't that make you ill?"
+* With the *yo* interrogative (often used for turning something nominalised with *no* into a question), it acts as a softener:
+	* *Oto yo?* :: `INTERJ Q2`
+		* ~"You know?"
+		* ~"Could it be?"
+		* ~"Do you think?"
+		* ~"Huh, really?"
+* With *ng* and depending on tone (e.g., intonation), it can function like this:
+	* flat tone / sentence-ending tone
+		* *Oto ng* :: `INTERJ SFP.DECL`
+			* ~"Huh. Weird."
+			* ~"Oh well."
+			* ~"Anyway."
+	* interrogative tone
+		* *Oto ng*
+			* ~"(Oh), is that so?"
+			* ~"Really? (Weird)"
+			* ~"Should I do it?"
+			* ~"Is it okay?"
+			* ~"Is this fine?"
+			* ~"Are you sure"
+	* stern tone
+		* *Oto ng*
+			* ~"What the Hell!"
+			* ~"Huh? What!"
+			* ~"Seriously, what?"
+			* ~"No way (in Hell)!"
+			* ~"Are you serious?!"
+	* confused tone / hiatus tone
+		* *Oto ng*
+			* ~"Oh, um..."
+			* ~"Umm?"
+			* ~"Oh...?"
+			* ~"Huh? Umm..."
