@@ -232,6 +232,12 @@
 		* ~"The heart evolves (you know?), more and more"
 	* *myimg hateru* :: run a little
 	* *iemyimg hateru* :: run less
+* Don't use it to mean 'enough,' *yadoi* or *yadoeta*:
+	* *watada niren saoe ga (myi) yadoi ue* :: `just see.GER 3SG.F-N NOM (MANY.ATTR) well.N-MEL COP.POL`
+		* ~"Just watching her is (much) remarkable"
+			* *myi yadoi* would explicitly say 'is enough / beautiful enough (to not want more)'
+			* it is usually omitted since context communicates it
+			* you'd use *yadoeta* if it was negative
 
 ### 13.8.2 **Any** and **little**
 * **Pattern for any**
