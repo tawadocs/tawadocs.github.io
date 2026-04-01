@@ -508,3 +508,20 @@
 * Together:
 	* *su a* (I) did the action *kamtei ga iewaoii* (pizza is yummier)
 * It may be hard to grok initially, but practice makes perfect
+
+## 13.16 Ambiguity
+* Let's handle:
+	* John told him about him
+		* about him and him (the same him)
+			* *Jon ni tofofu so ji ita*
+				* "John spoke to him (about him)"
+					* the him is the same person
+					* so John talked about X to X (maybe stuff he's heard)
+		* about him to another him
+			* *Jon ni tofofu so ji so no ng ita*
+				* lit. "John spoke to him about him"
+				* except, *so no ng ita* specifically refers to a different, entire person, about which the conversation is
+		* about John (himself) to him (not John)
+			* *Jon ni tofofunsu so ji *
+				* lit. "John self-spoke to him"
+				* *-nsu* on *tofofu* refers back to John's 'self'
