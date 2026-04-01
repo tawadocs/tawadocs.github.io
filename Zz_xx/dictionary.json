@@ -672,5 +672,15 @@
         "frequency": 100
       }
     ]
+  },
+  {
+    "word": "nsu",
+    "id": "self-1",
+    "definitions": [
+      {
+        "text": "self",
+        "frequency": 100
+      }
+    ]
   }
 ]
