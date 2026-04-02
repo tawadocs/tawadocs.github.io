@@ -1049,5 +1049,26 @@
       "Romaji": "nochi",
       "Japanese": "のち"
     }
+  },
+  {
+    "ID": "1775164020283",
+    "Radical": "人工",
+    "Strokes": 5,
+    "Alias": "ete",
+    "Usage": "ete comes from the ending of tahete (electronic). It is however a lexicalised native Tanji, referring to the lack of soul. It is used in the ete- form if the root starts with a consonant. With vowels, it uses the et- form. Roots starting with u/i vowels take ete-, so ete+ii = eteii, ete+iuko=eteiuko, ete+ukajo=eteukajo, ete+uma=eteuma, etc. For roots starting with t- or d-, the consonant in e(t) is geminated or replaced with d- if the root begins with d-. So, ete + dami = ededami, ete + tete = ettete. Depending on dialect, ededami may be pronounced as either /'e.d.da.mi/, /'e.dɛ̥.da.mi/, or /'e.dɛ.da.mi/. The standard is /'e.d(ɛ̥).da.mi/",
+    "Definitions": [
+      "artificial",
+      "man-made",
+      "constructed",
+      "unnatural",
+      "fake",
+      "deceptive",
+      "designed",
+      "soulless"
+    ],
+    "Readings": {
+      "Romaji": "jinkō",
+      "Japanese": "じんこお"
+    }
   }
 ]
