@@ -172,6 +172,14 @@
 	- *namekurrate makusutanai, fuka!* :: `mistake.V-NEG-INF cry-DIM.SUP-MID REQ`
 		- ~"Don't make a mistake and then cry (about it), please!"
 
+### 1.5.1 NSKT **3.4**
+* In NSKT 3.4, you use the attributive form with *-te* for complements:
+	* *Anishite* :: required to (do X)
+	* *Nashite* :: able to (do X)
+* Examples:
+	* *Nashite kamu* :: (I) can eat
+	* *So a anishite hateru!* :: He needs to run!
+
 ## 1.6 Polarity
 * *ra* and *ri* are both used to negate and affirm, respectively:
 	* *Yararanai* = did not come
