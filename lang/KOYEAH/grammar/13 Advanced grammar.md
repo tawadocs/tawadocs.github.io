@@ -215,6 +215,8 @@
 	* **DET-thing**
 * So if you said *subeki ng*, it would mean:
 	* **everything**
+* If you want to say 'rest of...' you'd actually use:
+	* *arenki* (the others / rest of)
 
 ### 13.8.1 **Many** and **some**
 * **Pattern**

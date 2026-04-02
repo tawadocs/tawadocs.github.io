@@ -10,6 +10,24 @@
     ]
   },
   {
+    "word": "arenko",
+    "id": "rest-1",
+    "definitions": [
+      {
+        "text": "rest of",
+        "frequency": 100
+      },
+      {
+        "text": "others",
+        "frequency": 100
+      },
+      {
+        "text": "different",
+        "frequency": 100
+      }
+    ]
+  },
+  {
     "word": "bopu",
     "id": "mama telo",
     "definitions": [
