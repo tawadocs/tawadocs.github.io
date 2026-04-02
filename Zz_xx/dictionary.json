@@ -682,5 +682,165 @@
         "frequency": 100
       }
     ]
+  },
+  {
+    "word": "hoserebo",
+    "id": "rust-1",
+    "definitions": [
+      {
+        "text": "rust",
+        "frequency": 100
+      },
+      {
+        "text": "iron oxide",
+        "frequency": 100
+      },
+      {
+        "text": "metallic flakes",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "rwankageo",
+    "id": "tech-1",
+    "definitions": [
+      {
+        "text": "engineer",
+        "frequency": 100
+      },
+      {
+        "text": "technician",
+        "frequency": 100
+      },
+      {
+        "text": "mechanic",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "ibaubakang",
+    "id": "gear-1",
+    "definitions": [
+      {
+        "text": "wheel",
+        "frequency": 100
+      },
+      {
+        "text": "gear",
+        "frequency": 100
+      },
+      {
+        "text": "spinner",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "ikamebang",
+    "id": "food-root-1",
+    "definitions": [
+      {
+        "text": "kitchen",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "insuebang",
+    "id": "school-1",
+    "definitions": [
+      {
+        "text": "school",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "rwankahon",
+    "id": "robot-1",
+    "definitions": [
+      {
+        "text": "robot",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "ingireteng",
+    "id": "ac-1",
+    "definitions": [
+      {
+        "text": "air conditioner",
+        "frequency": 100
+      },
+      {
+        "text": "cooler",
+        "frequency": 100
+      },
+      {
+        "text": "heater",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "inghin",
+    "id": "window-1",
+    "definitions": [
+      {
+        "text": "light receptacle",
+        "frequency": 100
+      },
+      {
+        "text": "vessel for light",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "ihing",
+    "id": "flash-1",
+    "definitions": [
+      {
+        "text": "to make light",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "payaeba",
+    "id": "cr-1",
+    "definitions": [
+      {
+        "text": "classroom",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "monore",
+    "id": "component-1",
+    "definitions": [
+      {
+        "text": "component",
+        "frequency": 100
+      },
+      {
+        "text": "interior",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "inggeneba",
+    "id": "door-1",
+    "definitions": [
+      {
+        "text": "door",
+        "frequency": 100
+      }
+    ]
   }
 ]

@@ -94,6 +94,28 @@
     ]
   },
   {
+    "word": "kusu",
+    "id": "curse-1",
+    "definitions": [
+      {
+        "text": "pussy",
+        "frequency": 100
+      },
+      {
+        "text": "cunt",
+        "frequency": 100
+      },
+      {
+        "text": "fuck",
+        "frequency": 100
+      },
+      {
+        "text": "bitch",
+        "frequency": 100
+      }
+    ]
+  },
+  {
     "word": "maraca",
     "id": "unpa e mi, musi e sijelo mi",
     "definitions": [
@@ -133,6 +155,16 @@
     "definitions": [
       {
         "text": "mother",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "muzumu",
+    "id": "museum.loan-1",
+    "definitions": [
+      {
+        "text": "museum",
         "frequency": 100
       }
     ]
