@@ -571,3 +571,21 @@
 		* ~"To eat here is strictly banned"
 		* ~"It is prohibited to eat here"
 		* ~"Make no mistake, eating here is strictly banned (and doing so will result in consequences)"
+
+## 13.18 Comparisons
+* The 'original' way of handling comparisons was with *mo*:
+	* *(ie)X mo (ie)Y*
+	* e.g.,
+		* *ieii mo ryo* :: better than this
+		* *ii mo ieryo* :: worse than this / more of this than good
+* Whilst this is allowed, NSKT recommends:
+	* `X ni (ie)Y (ga (ie)Z)`
+	* e.g.,
+		* *ryo ni atora ga ieii ue* :: the apple is better than this
+		* *ryo ni ieatora ga ii ue* :: the apple is worse than this
+* The simplest one is:
+	* *ryo ni ieii mo atora ue* :: this is better than the apple
+	* *ryo ni ieiiṋ mo atora ue* :: this is worse than the apple
+* But *ieiiṋ* is unusual in Tawish grammar and also unintentionally rude
+* You can just use normal negation:
+	* *ryo ni ieiirra mo atora ue* :: this is not better than the apple
