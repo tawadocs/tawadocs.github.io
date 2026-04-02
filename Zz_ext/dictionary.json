@@ -94,6 +94,16 @@
     ]
   },
   {
+    "word": "keko",
+    "id": "cake-1",
+    "definitions": [
+      {
+        "text": "cake",
+        "frequency": 100
+      }
+    ]
+  },
+  {
     "word": "kusu",
     "id": "curse-1",
     "definitions": [
