@@ -55,6 +55,11 @@
 		* "way later / much later / much after"
 	* *ólonhźi* -> `DEFIC-TEMP`
 		* "way before / much before"
+* In NSKT:
+	* *Byolyo* can be used to mean 'sometimes / here and there'
+	* e.g.,
+		* *byolyo naiwai, byolyo naiwaṋi*
+			* 'sometimes, (we are) happy, and sometimes (we are) sad'
 
 ## 14.2 Dynamic relationals
 | Relational | IPA  | Function                                     | Gloss |
