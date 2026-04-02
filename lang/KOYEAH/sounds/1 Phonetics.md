@@ -19,6 +19,10 @@
 			* `/m͡ŋa~m͡ga~məga/`
 		* the `/u̥/` is omitted if something comes after *mg* in the velar pronunciation
 * The vowel system is basically the same as Ashi Tawa
+* Labio-velar/dental-isation rules remain the same:
+	* e.g., *rw* :: *ɺʷ*
+		* **ʷ**
+			* for labiovelarisation
 
 ## 1.2 Vowel inventory
 |               | Front  | Near-front | Central | Near-back | Back   |
