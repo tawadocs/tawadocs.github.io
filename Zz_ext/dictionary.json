@@ -144,6 +144,20 @@
     ]
   },
   {
+    "word": "kwosu",
+    "id": "cross-1",
+    "definitions": [
+      {
+        "text": "cross",
+        "frequency": 100
+      },
+      {
+        "text": "Christian cross",
+        "frequency": 100
+      }
+    ]
+  },
+  {
     "word": "maraca",
     "id": "unpa e mi, musi e sijelo mi",
     "definitions": [
