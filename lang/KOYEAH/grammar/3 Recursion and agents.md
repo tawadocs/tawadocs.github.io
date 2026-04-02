@@ -127,6 +127,12 @@
 	* *mo wou* :: that with
 		* *hon mo wou kamu* :: the person that I ate with
 		* *makeba mo wou jirei ue* :: the room with which the table is
+* Use the comparatives like *imnyi* for equation or *woui* for attribution:
+	* *Kitate yume woui hon* :: `like-INF read QUOT3-ATTR person`
+		* ~"The 'likes to read' person"
+			* it can be used sarcastically, like 'oh yeah, this is **totally** the one who likes to read'
+	* *Hon imnyi wou fui fihon* :: `person SIM.AUG.SUP QUOT3 ACT-ATTR beast`
+		* ~"The person that is, in reality, a beast / animal"
 * Note that *nai* turns into *na-* before *te* and usually is added as *-ai* after complex aspect:
 	* *Ukajenakai*
 		* **ukajo** (hunt)
@@ -137,6 +143,8 @@
 				* but it is pronounced as /'ɛn.na.ku/
 			* **enaku** + **nai** :: **enakai**
 				* pronounced /'ɛn.na.ka.i/
+	* with *naku* + *nai* + *te*, it'd turn into *nakate*
+		* ~`PST.PROG.MID.INF`
 
 ## 3.7 Other uses of **shi**
 * *shi* often sets an 'if-topic:'
