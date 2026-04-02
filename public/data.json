@@ -81,12 +81,21 @@
     "description": "Instead of (...), an often absurd sentence is made, the most common one being 'hiroga o bakaiǵ' (the world is flat). It's like saying, 'I could be thinking that the world is flat, but X is strictly forbidden.' For example, 'su ni hiroga o bakaiǵ, hashiru ni hahaen sōe ieji ga errasaru inai' (I could think that the world is flat, but the children playing near him will never be okay)."
   },
   {
-    "phrase": "amgchi / amgkantei, ngopo o nukunai",
+    "phrase": "Amgchi / amgkantei, ngopo o nukunai",
     "ipa": "am͡ŋt͡ɕi / am͡ŋkantei ŋopo ʔo nukunai",
     "gloss": "FULL-water / FULL-food.PROD intestine U heart.PLAT.V-MID",
     "literal": "My gut feels full of water / water",
     "english": "I'm quenched / satiated",
     "notes": "A polite phrase to reject drinks or food.",
     "description": "Instead of direct rejection, it is better to use this. In terms of illness, you would use 'ochi a, ngopo o aishinai!' (the bloating is really hurting my gut!), but there are a million ways to communicate that. Do note that amgkantei is not used for genuine pain or illness, unless it was the food that made you ill (e.g., in cases of food poisoning). Bloating is the universal Tawish metaphor for stomachaches."
+  },
+  {
+    "phrase": "Ujute unai",
+    "ipa": "ud͡ʑute ʔunai",
+    "gloss": "SUPR.PLAT.V-INF SUBESS.MID",
+    "literal": "Rising above only to be put back down",
+    "english": "The ups and downs of life",
+    "notes": "Powerful metaphor for conceptualising life.",
+    "description": "In English, we would say, 'sometimes, life is good, sometimes it isn't.' In Tawa, you say, 'ujute unai.' It is used similarly to other languages' forms of expressing 'life has its ups and downs.'"
   }
 ]
