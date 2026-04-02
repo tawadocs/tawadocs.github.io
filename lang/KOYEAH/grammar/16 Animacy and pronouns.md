@@ -285,3 +285,21 @@
 			* ~"Umm?"
 			* ~"Oh...?"
 			* ~"Huh? Umm..."
+
+## 16.9 Animacy and artificialness
+* **rei** (INAN) and **mei** (AN) are used the same as they are in Ashi Tawa
+* But, in Koyeah Tawa, there is a third one called **et(e)** (`ARTF`) which refers to unnatural or artificial inventions:
+	* *Etegana* :: constructed language
+	* *Etainawa* :: fake smile
+	* *Etenki* :: fake friend
+	* *Etase* :: artificial joy
+* It differs from *rwanka-* (electric/electronic) in that it marks something as innately constructed, made, created, fake, or unnatural:
+	* *Rwankahon* :: cyborg
+		* there still is humanity
+	* *Etehon* :: robot / artificial intelligence
+		* it is devoid of soul
+* Same for 'electric' languages vs. constructed languages:
+	* *Rwankagana* :: electric language
+		* could refer to the slang or register used on the internet vs. in real life
+	* *Etegana* :: constructed language
+		* it was made intentionally
