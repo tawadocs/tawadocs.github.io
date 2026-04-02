@@ -1,33 +1,27 @@
 - **-je (into / entering):** **`ILL`** (Illative – movement into). For the verbal "put into" use, you can use **`CAUS.ILL`** (Causative + Illative).
     
-- **-de (out of / from):** **`ELAT`** (Elative – movement out of).
+- **-de (out of / from):** **`ELA`** (Elative – movement out of).
     
 - **bakarejei (esoteric / attributive):** **`ATTR.ILL`** (Attributive Illative).
 
 - **ang- / an- / am- (privative):** **`PRIV`** (Privative – "lacking").
     
-- **amg- (fullness):** **`COMPL`** (Completive) or simply **`FULL`**.
+- **amg- (fullness):** **`FULL`**.
 
 
 - **-geo (professional):** **`PROF`** (Professional).
-    
-- **-masu (agentive):** **`AGT`** (Agentive – one who does).
-    
-- **dae- (explicit professional):** **`FORM.PROF`** (Formal Professional).
 
-- **ing- / imp- / in- (canonical object):** **`INST.CAN`** (Canonical Instrument) or **`UTL`** (Utensil).
+- **ing- / im- / in- (canonical object):** **`INSTR2`**
     
-- **-ba (canonical place):** **`LOC.CAN`** (Canonical Locative) or simply **`PLACE`**.
-    
+- **-eba (canonical place):** **`LOC2`**
+
 - **i...ng (circumfix - creation/action):** **`FACT`** (Factitive – to make something into X).
-    
-- **-eba (site of action):** **`PURP.LOC`** (Purposive Locative).
 
 - **use- (group of):** **`COLL`** (Collective).
     
 - **u- / ujo- (above/transcending):** **`SUPR`** (Superessive – "on top of") or **`SURP`** (Surpassive).
     
-- **unku- / ungu- (inferiority/below):** **`SUB`** (Subessive – "under").
+- **/ uno- (inferiority/below):** **`SUB`** (Subessive – "under").
 
 - **-ina (illness/sis):** **`NOSO`** (Pathological).
     
@@ -44,9 +38,10 @@
 - **-kuwi (intangible extension):** **`META`** (Metaphysical/Extension).
     
 - **-tachi (ism):** **`IDEO`** (Ideological).
-**oce- (anti/retro):** **`ANTI`** (Antonymic/Opposing).
 
-- **bau- (orbit/around):** **`CIRC`** (Circumfessive – "around").
+- **oce- (anti/retro):** **`ANTI`** (Antonymic/Opposing).
+
+- **bau- (orbit/around):** **`ARND`** (Circumfessive – "around").
     
 - **bam- (trajectory/path):** **`PATH`** or **`TRAJ`** (Trajectory).
     
@@ -54,16 +49,7 @@
     
 - **zon- / zom- (intra/restrictive):** **`INTRA`** (Intra-prefix) or **`RESTR`** (Restrictive).
 - **mensu- / pensu-:** **`REFL`** (Reflexive).
-    
-- **ansu (acting self):** **`SELF.AGT`** (Agentive Self).
-    
-- **onsu (experiencing self):** **`SELF.EXP`** (Experiencer Self).
-    
-- **ninsu (main self):** **`SELF.FOC`** (Focused Self).
-    
-- **omgsu (subjugated self):** **`SELF.PASS`** (Passive Self).
-    
-- **hosu (oneness/soul):** **`ESSEN`** (Essential Self).
+
 - **echi- (post-):** **`POST`** (Post-prefix).
     
 - **ije- (pre-):** **`PRE`** (Pre-prefix).
