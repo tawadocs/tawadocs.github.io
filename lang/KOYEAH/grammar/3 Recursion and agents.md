@@ -111,6 +111,8 @@
 		* `room LOC QUOT3 LOC-INAN COP.POL QUOT3 PFV-hunt.GER.MID.PST.PROG DEM.MED one ABL INSTR QUOT3 down-MID.INF eat.PLAT.V cake-N TOP PFV-appease-ATTR COP.POL`
 		* lit. "The room in which a table is, (I) had been finding from the first, downed to eat (in that) a cake, as for (the cake), was delicious"
 		* ~"The cake that I sat down and had in the room with the table that I was looking for was delicious"
+			* note that *ryo wan dan* is used to mean 'originally / from the first time'
+			* it literally means 'from the first,' but is used to mean 'originally' or 'from the start'
 * It's better to memorise some basic forms:
 	* *ji wou* :: in which
 		* *hon ji wou kurugi ue* :: the person in which darkness is
