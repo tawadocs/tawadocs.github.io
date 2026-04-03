@@ -112,6 +112,24 @@
 		* even here, *jamuiku ga* is not preferable
 		* see **13.12**
 
+### 13.1.4 Double subjects
+* In Tawa, we use *X a/o/ni/ga Y a/o/ga X* instead of the rarely used 'X is Y' (or with have/possessives) for these constructions
+* Examples:
+	* *Tomoe ni gaya ga ritari* :: `fox TOP body NOM soft.ATTR`
+		* lit. "As for foxes, (their) body is soft"
+		* ~"Foxes have soft bodies"
+	* *So no ga kari o osaranate Jamuiku* :: `3SG.M NMZ NOM father U call-MID.INF one.god-HON`
+		* lit. "It is he who's father was called to God"
+		* ~"His father was called to God (i.e., passed away)"
+		* but, it is better to say:
+			* *Karison o osaranate Jamuiku* :: `father-1SG.M.POSS U call-MID.INF one.god-HON`
+			* ~"His father was called to God"
+			* pronominal possessors are used over *pronoun a/o/ni/ga X...* (exception to the general rule)
+	* *Maika ni hana ga napii* :: `mica TOP nose NOM thread-ATTR`
+		* lit. "As for Mica, (his/her) nose is a line/threaded"
+		* ~"Mica's nose is long" (i.e., he is a liar)
+			* when you describe something as *napii*, it means that it has line qualities; e.g., length
+
 ## 13.2 Clausal actors
 * A whole predicate can be an 'actor:'
 	* *kanatashimg makure a fofu hakuhwōe* :: `word-POT.ATTR-G.REVS emotion A speak.V real-essence-N`
