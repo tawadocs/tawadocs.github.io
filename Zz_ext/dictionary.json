@@ -192,6 +192,28 @@
     ]
   },
   {
+    "word": "mazetoven",
+    "id": "congrats-1",
+    "definitions": [
+      {
+        "text": "congratulations",
+        "frequency": 100
+      },
+      {
+        "text": "good luck",
+        "frequency": 100
+      },
+      {
+        "text": "well done",
+        "frequency": 100
+      },
+      {
+        "text": "beautifully executed",
+        "frequency": 100
+      }
+    ]
+  },
+  {
     "word": "mimi",
     "id": "mama, mama meli",
     "definitions": [
