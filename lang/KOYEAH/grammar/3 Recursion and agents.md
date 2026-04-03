@@ -87,6 +87,7 @@
 	* *mo* is the old-fashioned and more 'formal/respectful' particle used for quoting direct speech
 		* but it actually can't be used for 'non-speech' quotes
 		* so you can't say *haha mo a...*
+		* it is used when *kou* might wrongly hint at 'loudness' instead of formality or announcement tone only
 	* *wou* is the newer, simpler particle that handles everything from speech nominalisation to quotations
 	* *wou* does not have degree, so you'd be forced to use *mosuta/mosutanyi* if you wanted to specify accuracy
 

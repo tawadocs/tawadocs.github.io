@@ -591,3 +591,22 @@
 * But *ieiiṋ* is unusual in Tawish grammar and also unintentionally rude
 * You can just use normal negation:
 	* *ryo ni ieiirra mo atora ue* :: this is not better than the apple
+
+## 13.19 Conditionals
+* **3 Recursion and agents** explains it pretty well
+	* *Yumerra ryo ribuoe, oto ga hakōete anghakōe odzu reoshirenarratashi ya*
+		* `read-NEG DEM.MED book-N WH NOM real-N-INF PRIV-real-N WH.2SG IPFV-know-MID.NEG-POT.ATTR ASSERT`
+		* lit. "Not read this book, what is true to without truth? you doubt, it will be unknowable, indeed"
+		* ~"Really, if you don't actually read this book, then you won't be able to distinguish reality from fiction, (you know!)"
+			* *odzu* is a doubt marker and can connect the previous phrase to the verb that follows
+			* *anghakōe odzu reoshirenarratashi* alone means 'a lie that you will doubt, it won't be knowable to you'
+				* *odzu* alone can't mark a question without *no/yo*
+				* if you said *anghakōe odzu yo(?) reoshirenarratashi*...
+					* it would mean 'do you wonder if that doesn't truly reflect reality? I won't be able to know'
+					* or something along those lines, depending on context
+					* a question mark would be inserted for cleaner separation
+			* though Tawa always places modifiers before nouns or uses the a copular after to for a stative-modifier, in the case of *i* modifiers, a copular is often omitted, especially when talking to a friend
+* For irreal conditionals, the *then* takes irrealis:
+	* *Yumerra ryo ribuoe, shirenarrareteoi iuki hakōe* :: `read-NEG DEM.MED book-N.ACC know-MID.NEG-RESL.IRR sound-ATTR real-N`
+		* lit. "Did not read this book, would not have ended up knowing the sound realness"
+		* ~"If I had not read this book, then I would not have regrettably ended up learning the truth"
