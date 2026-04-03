@@ -221,3 +221,24 @@
 	* *suta* (little) + *nyi* (most) = most of a least (*sutanyi*)
 * And you can reduplicate them too:
 	* *suta* :: *susuta* (least)
+
+## 14.5 *nai* irregularity
+* *nai* is one of the most (if not the most) irregular particles in Tawa
+* Its form changes a lot:
+	* *Shirenarra* :: casual/direct
+	* *Shirerranai* :: polite
+* It goes before affixes but after the verb and loses the *-i* in casual constructions:
+	* *Kitanarra*
+	* *Eanarra*
+* But goes after affixes with the *-i* intact for politeness:
+	* *Kitarranai*
+	* *Earranai*
+* It does this with aspect too, but can lose the *n* as well:
+	* *Urukunasaru*
+		* direct, casual
+	* *Urukusarai*
+		* polite, affectionate
+	* *Urukunaganai*
+		* if the vowel is *a*, the *n* remains
+	* *Urukunainaga*
+		* if the affix begins with *na-*, the *na-* in *nai* remains
