@@ -225,8 +225,8 @@
 ## 14.5 *nai* irregularity
 * *nai* is one of the most (if not the most) irregular particles in Tawa
 * Its form changes a lot:
-	* *Shirenarra* :: casual/direct
-	* *Shirerranai* :: polite
+	* *Shirenarra* :: polite
+	* *Shirerranai* :: casual/direct
 * It goes before affixes but after the verb and loses the *-i* in casual constructions:
 	* *Kitanarra*
 	* *Eanarra*
@@ -235,9 +235,9 @@
 	* *Earranai*
 * It does this with aspect too, but can lose the *n* as well:
 	* *Urukunasaru*
-		* direct, casual
+		* polite
 	* *Urukusarai*
-		* polite, affectionate
+		* direct, casual; can be affectionate/intimate (context)
 	* *Urukunaganai*
 		* if the vowel is *a*, the *n* remains
 	* *Urukunainaga*
