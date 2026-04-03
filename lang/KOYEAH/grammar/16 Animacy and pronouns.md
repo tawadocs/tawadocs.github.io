@@ -206,6 +206,7 @@
 		* sometimes *otodan* (from where / what source) may be used
 	* *otowanō* :: when
 	* *otoun* :: how
+	* *otōe* :: what (casual/modern form of *fuyu*)
 * For example:
 	* *Otohon a fu ryōe no?* :: who did this
 	* *Ototan ue no?* :: why is that? / why?

@@ -143,6 +143,10 @@
 			* *shehatasu*
 		* with *nai*:
 			* *shibai*
+* With *o-roots*, the *r-forms* turn into *-w*:
+	* example: *ukajo* + *reta* + *en*
+		* *ukajo* + *reta* :: *ukajweta*
+		* + *en* :: *ukajweten*
 
 ## 8.3 Mood
 ### 8.3.1 Particle table

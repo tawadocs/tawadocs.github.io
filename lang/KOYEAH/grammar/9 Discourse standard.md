@@ -94,17 +94,6 @@ These markers interact differently depending on the complexity of the sentence.
 		* ~'I have the faintest, most minimal inkling that this is what he said'
 		* ~'If I'm being forced to say that this is what he said, it's by the thinnest margin possible'
 * In any case, you'd often use plain word order or **demonstratives** unless you're writing a story or quoting someone
-* Examples:
-	* *toriwaka mo, nggggggg, shirerranai* :: `PFV-think QUOT FIL know-NEG-MID`
-		* ~"I thought exactly... like, uhhh, (never mind), I don't know"
-	* *sa a fofu mo 'su a kitanq zuoe'* :: `3SG.F A speak.V QUOT 1SG A like-ANT 2SG-ACC`
-		* lit. "She says, 'I hate you'"
-		* ~"She said that she hates me"
-	* *nirunai mosuta so* :: `see.V-MID QUOT-MAX.DIM 3SG.M`
-		* ~"I'm almost certain I saw him"
-		* ~"Pretty sure that I saw him (though I may misremember a little)"
-	* *nirunai mosutanyi so* :: `see.V-MID QUOT-MAX.DIM-AUG.SUP 3SG.M`
-		* ~"I have the faintest glimpse that I thought that I saw him"
 * Rule of thumb:
 	* *mo* for any regular quote: a saying of some philosopher or character dialogues
 	* the other degrees of *mo* for more control over exactness or absoluteness
@@ -134,8 +123,10 @@ These markers interact differently depending on the complexity of the sentence.
 		* ~"To her house, I will go (e.g., but not his)"
 * *X un ni Y*
 	* At X / by X (contrast)
-	* *byo ni kamenrra un* :: `DEM.PROX TOP eat.VBZ-NEG INSTR`
-		* ~"I am not eating here (e.g., but I'll eat a home)"
+	* *byo un ni kamenrra* :: `DEM.PROX INSTR TOP eat.VBZ-NEG`
+		* ~"I am not eating here (e.g., but I'll eat at home)"
+	* *pokii asa un ni kamen* :: `big-ATTR house INSTR TOP eat.GER`
+		* ~"I'll be eating at the big house (but maybe not the small one)"
 * *X mo ni Y*
 	* With X (relationship), Y (contrast)
 	* *so mo ni fofurra* :: `3SG.M COM TOP speak.V-NEG`
