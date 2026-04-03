@@ -117,3 +117,22 @@
 	* *To ko, niru ryo ribu ribunewo un woui harinai* :: `PFV day see.PLAT.V DEM.MED book book-store INSTR QUOT3-ATTR buy-MID`
 		* lit. "**'(Was) day, see this book bookstore at'** buy"
 		* ~"I bought the book that I saw at the bookstore yesterday"
+
+## 3.5 Simple nesting
+* You can often drop particles for simple nesting, like:
+	* *Yaranate byo aiko, fofu so ji, fuka* :: `come-MID.INF DEM.PROX IMP.FORM speak.PLAT.V 3SG.M LOC REQ`
+		* ~"Tell him to come here, fuka"
+			* *aiko* isn't omitted because you're telling someone to give someone a command
+			* *fuka* in the end makes it a request
+			* alternatively, you could say:
+				* *yaranate byo kou fofu so ji, fuka* :: `come-MID.INF DEM.PROX QUOT2 speak.PLAT.V 3SG.M LOC REQ`
+				* no need for *aiko* because *kou* already handles that
+* So a lot of simple sentences don't require marking:
+	* *Gariban, toriwakanai* :: `weird PFV-think-MID`
+		* ~"Weird, I thought"
+	* *Fuensan, shirenai* :: `ACT-GER-3SG.F.POSS know-MID`
+		* ~"I know (all about) her deeds/doings"
+* Usually, the verb is in the *-nai* form but not necessarily:
+	* *Baka zu a fofu, fofunai* :: `dumb 2SG A speak.PLAT.V speak.PLAT.V-MID`
+		* ~"I heard you say 'dumb'"
+		* naturally, particles may be added to disambiguate
