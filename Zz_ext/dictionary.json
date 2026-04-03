@@ -268,6 +268,60 @@
     ]
   },
   {
+    "word": "tomoe",
+    "id": "fox-1",
+    "definitions": [
+      {
+        "text": "fox",
+        "frequency": 100
+      },
+      {
+        "text": "clever",
+        "frequency": 100
+      },
+      {
+        "text": "intelligent",
+        "frequency": 100
+      },
+      {
+        "text": "wisdom",
+        "frequency": 100
+      },
+      {
+        "text": "deceit",
+        "frequency": 100
+      },
+      {
+        "text": "long life",
+        "frequency": 100
+      },
+      {
+        "text": "handsome",
+        "frequency": 100
+      },
+      {
+        "text": "trustworthy",
+        "frequency": 100
+      },
+      {
+        "text": "reliable",
+        "frequency": 100
+      },
+      {
+        "text": "façade",
+        "frequency": 100
+      },
+      {
+        "text": "silently",
+        "frequency": 100
+      },
+      {
+        "text": "stealthily",
+        "frequency": 100
+      }
+    ]
+  },
+  {
     "word": "yige",
     "id": "mijomi",
     "definitions": [
@@ -311,6 +365,20 @@
       },
       {
         "text": "dang",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "yookai",
+    "id": "spirit-1",
+    "definitions": [
+      {
+        "text": "spirit",
+        "frequency": 100
+      },
+      {
+        "text": "essential being",
         "frequency": 100
       }
     ]

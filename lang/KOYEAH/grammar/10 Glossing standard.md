@@ -12,7 +12,7 @@
 | rra      | **NEG**                       |
 | rri      | **AFF**                       |
 | no       | **GEN** / **NMZ** / **Q**     |
-| oe       | **N**                         |
+| oe       | **N.ACC**                     |
 | do       | **PER**                       |
 | nu       | **MOD**                       |
 | bu       | **PROP**                      |
