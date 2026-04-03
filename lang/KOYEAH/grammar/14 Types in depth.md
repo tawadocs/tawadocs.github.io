@@ -242,3 +242,80 @@
 		* if the vowel is *a*, the *n* remains
 	* *Urukunainaga*
 		* if the affix begins with *na-*, the *na-* in *nai* remains
+
+## 14.6 Modifiers
+* Primarily, *i* (attributive) and *nu* (modifier) are used for a general modifier category
+* There is no distinction of adverbs and adjectives at the base level
+* Tawa strongly prefers that adverbs be either implied or described with postpositions, particles, or tone:
+	* *Koibwui hateru* :: `bored-ATTR run.PLATONIC.V`
+		* ~"I ran boredly / in a bored way"
+	* *Koibwunate hateru* :: `bored-MID.INF run.PLATONIC.V`
+		* ~"I was bored and was running"
+		* ~"Bored, I ran"
+* But, an explicit adverb particle *-inu*/*nu* exists
+* Root that don't end in *i*, they take *nu*, and roots that do simply take *inu*
+	* by the way, look at that sentence in Tawa:
+		* **kiwiṋrra i′oe un woui kanangu ji ni daka nu′oe, kiwiṋ no ji ni inu′oe**
+		* `continue-REVS-NEG i-N.ACC INSTR QUOT3-ATTR word-SRC.LEX LOC TOP steal nu-N.ACC continue-REVS NMZ LOC TOP inu-N.ACC`
+		* lit. "Not stop 'i' with like roots in (as for them), steal nu, stop one in (as for them) inu"
+		* ~"Roots that don't end with 'i' take 'nu,' the ones that do end (take) 'inu"
+			* *′oe* added to mark direct objects and the words as nouns
+			* *wou* would not be used because it would feel too overloaded
+			* plus, with *′oe*, you can easily add one verb at the start and then omit the verb but mark its objects
+			* *ji ni* and *ni* would both be fine, but *ji ni* marks a locative boundary
+				* it's like saying 'specifically, (at least / contrast) inside the roots...'
+				* we use another *ji ni* which is the contrast
+* Do note that natural modifiers ending in *i* just take another *i*, not a *nu*:
+	* *dami* :: easy
+	* *damii* :: easy (modifier)
+* But a word like *komuni* (control / own) would:
+	* *komuni asa* :: controlling house? an owner's home?
+	* *komuninu asa* :: the master house / the governing house
+* With gerunds:
+	* *komunieni asa* :: the house that controls / the controlling house
+* Example:
+	* *ukajeni asa* :: the hunting house / house used for hunting
+	* *toukajunanu asa* :: a found home / home that was hunted
+		* since *toukajunai* (be hunted/found) is not a strong modifier, we use *-nu* (*toukajunanu*)
+		* note that *nai* drops the *i* in agglutination
+* Let's look at some places where *inu* might be required and might not be:
+	* *Tomoi hateru* :: `fox.ATTR run.PLATONIC.V`
+		* since *tomoi* precedes a verb *hateru*, it is clear that *tomoi* is an adverb, and therefore *-inu* is not needed
+		* ~"To run like a fox (e.g., steathily)"
+	* *Tomoi damii hateru* :: `fox.ATTR easy-ATTR run.PLATONIC.V`
+		* not parseable
+		* it has to be reordered or *tomoi* has to take *tomoinu*
+		* reordering is preferable:
+			* *damii tomoi hateru* :: `easy-ATTR fox.ATTR run.PLATONIC.V`
+				* ~"To easily run like a fox"
+			* here, the head-directionality is consistent:
+				* *damii* describes *tomoi* which describes an explicit verb (*hateru*)
+* About unmarked verbs:
+	* *damii daka* :: `easy-ATTR steal`
+		* ~"An easy steal" (noun)
+	* *damite daka* :: `easy-INF steal`
+		* ~"Easy to steal (something)"
+	* *daminu daka* :: `easy-ATTR-MOD steal`
+		* ~"To easily steal"
+* But you'd still mark the verb over the adverb:
+	* *damii dakaru* :: `easy-ATTR steal-PLATONIC.V`
+
+### 14.6.1 Why does **inu** exist
+* It's an archaic form that survived
+* It is often a repair strategy
+	* if you begin with adjectives and get lost in the stack, a simple *inu* fixes the mess
+	* or, if you really get confused and don't know how to handle a thought, especially when talking to someone quickly, just use an *inu*
+* It is used in poetry, especially in terms of rhymes, melody, or structure
+* It is also used in technical manuals or formal settings to kill ambiguity, like in oaths or sermons where misinterpretation can be dangerous
+
+## 14.7 Difference of **mai** and **i-ng**
+* *i-ng*, the native Tanji radical circumfix, literally means 'to prepare / make'
+* But it is different from **mai**
+* Take a look at this example:
+	* *shiremai* :: to teach (lit. 'make know')
+	* *ishireng* :: to prepare knowledge
+* And now this example:
+	* *ikamung* :: cook (to make edible / to make (for) eating)
+	* *kamumai* :: feed (to make eat)
+* **mai** is a grammatical causative, and **i-ng** is more of a 'semantic' causative
+* **i-ng** refers to preparation, creation, or transformation (grammatically a factitive)
