@@ -610,3 +610,11 @@
 	* *Yumerra ryo ribuoe, shirenarrareteoi iuki hakōe* :: `read-NEG DEM.MED book-N.ACC know-MID.NEG-RESL.IRR sound-ATTR real-N`
 		* lit. "Did not read this book, would not have ended up knowing the sound realness"
 		* ~"If I had not read this book, then I would not have regrettably ended up learning the truth"
+* Note that *mai* can appear as *ma-*:
+	* *Shiremarra...* :: did not learn / (to) not learn
+	* *Shirerramai* :: same thing but more casual / direct (can be rude in contexts like speaking to your elders (e.g., family, bosses) or respected people (e.g., teachers))
+* **Don't confuse:**
+	* *Shireretai* :: ended up regrettably knowing / learning (casual)
+	* *Shirenareta* :: ended up regrettably knowing (formal/polite)
+	* *Shiremareta* :: ended up regrettably teaching (formal)
+	* *Shireretamai* :: ended up regrettably teaching (casual/direct)
