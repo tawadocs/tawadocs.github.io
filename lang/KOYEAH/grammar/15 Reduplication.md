@@ -83,3 +83,43 @@
 		* ~"Like swiftly and stuff"
 	* *haterui daterui* :: `run.V-ATTR RED:PEJ.V-ATTR`
 		* ~"Like fast and shit"
+
+## 15.6 Whole-root reduplication
+* Whole-root reduplication softens and thins words (reducing intensity, not increasing it!)
+* For infinitive words (e.g., *honte* (for a person / to personify)), doubling them makes it 'intermittent:'
+	* *Wanōte wanō* :: hour to hour / time to time / sometimes
+	* *Honte hon* :: some people / people here and there
+	* *Kiteite kitei* :: some things here, some things there
+* For question words, it asks for lists:
+	* *Otōe otōe* :: what items / list of things
+	* *Otoji otoji* :: which different places
+	* *Otowanō otowanō* :: at which times
+	* *Ochi ochi* :: which (kinds of) things
+* With adjectives, it intensifies them, but this is very 'cute' (feminine) and not formal:
+	* *Damii damii* :: really easy
+	* *Retei retei* :: really cold
+	* *Nashitai nashitai* :: piping hot
+* Doubling locations means 'every single one:'
+	* *Asa asa* :: house to house / every house
+	* *Gai gai* :: side to side / every side
+* Doubling regular roots makes them exclusive:
+	* *Onokoi onokoi* :: only friends / restricted to friends
+	* *Chi chi* :: nothing but water / all water
+	* *Fofu fofu* :: nothing but (to) speak / blabber
+		* e.g., *fofo fofo, riwakangorra* (all talk (but) no brain - speaking to sound smart when one really is dumb)
+* Rule of thumb:
+	* **is it a question?** then it means '(what) all?'
+		* *ochi ochi yo?* :: which (kinds of) things?
+	* **is it a description?** then it means 'extra'
+		* *waoii waoii kantei* :: the food is so delicious
+	* **is it a location?** then it means 'everywhere'
+		* *asa asa* :: every house
+	* **is it an infinitive?** then it means 'bits and pieces'
+		* *asate asa* :: some homes here, some there
+		* *wanōte wanō* :: time to time
+		* *honte hon* :: person to person / some people here, some there
+	* **is it anything else?** then it means 'nothing but'
+		* *onokoi onokoi* :: only (limited to) friends
+		* *chi chi* :: nothing but water
+		* *chiṋ chiṋ* :: everything but water
+			* when negated or reversed roots are used, it shifts to **everything but**!
