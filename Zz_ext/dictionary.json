@@ -94,6 +94,20 @@
     ]
   },
   {
+    "word": "gingu",
+    "id": "gender-1",
+    "definitions": [
+      {
+        "text": "gender",
+        "frequency": 100
+      },
+      {
+        "text": "sex",
+        "frequency": 100
+      }
+    ]
+  },
+  {
     "word": "hyongu",
     "id": "seme",
     "definitions": [
