@@ -161,6 +161,16 @@
 	* *Kedeshinarratenai* :: `shame.ATTR-MID.NEG-INF-MID`
 		* ~"Don't feel ashamed to get help"
 		* since *kedesu* is now *kedeso* (still sounds the same, since the last vowel is devoiced)
+		* the romantic form would be *kedeshu*, from *kedes-* + *yu*
+		* since *sy* is *sh*, it becomes *shu* (*s+yu*)
+		* in some forms or depending on dialect, it may be *shu*
+		* such forms are always pronounced with the **y** /j/ preserved:
+			* ~**kedɛɕju**
+			* some dialects or speakers may say **kedɛɕu**, but this is not the pronunciation used in NSKT
+		* it follows for stuff like *oto* + *nya* :: *ocha*:
+			* ~**ot͡ɕjai**
+		* in variant spellings, you'd see stuff like *ochya*, *kedeshyu*, and *kitatashyu*, which is fine
+		* these spellings are becoming increasingly common, even though NSKT prefers *ocha/kedeshu/kitatashu*, etc.
 
 ### 11.2.1 Valency-sensitivity transitivity marking exception
 * Marking **transitivity in valency-sensitive verbs** is skipped

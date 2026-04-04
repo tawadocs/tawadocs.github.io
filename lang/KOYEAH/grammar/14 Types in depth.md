@@ -45,10 +45,15 @@
 			* no direct object
 		* ~"She was killable (maybe now she isn't)"
 			* less accurate in terms of translation
-	* *Zu ga kitanagatashyai ue* :: `2.SG.AN NOM like-PST.HAB-POT.ROM.V.MID COP.POL`
+	* *Zu ga kitanagatashai ue* :: `2.SG.AN NOM like-PST.HAB-POT.ROM.V.MID COP.POL`
 		* ~"You used to be loveable"
-			* *tashyai* is used for *tasu* + *nyu* + *nai*
-			* otherwise, *tashyu* is used for *tasu* + *nyu* (`POT.ROM.V`), since *tasu* alone is (`POT.PLT.V`)
+			* *tashai* is used for *tasu* + *nyu* + *nai*
+			* otherwise, *tashu* is used for *tasu* + *nyu* (`POT.ROM.V`), since *tasu* alone is (`POT.PLT.V`)
+			* note that *tashai* is pronounced like 'tashyai'
+				* `/'ta.ɕja.i/`
+				* the full-stops denote morae, not 'breaking up' of the vowels
+				* so you'd hear it like **taɕjai**
+				* some dialects or speakers may still pronounce it **taɕai**, but this is not the pronunciation used in NSKT
 * Here's one crazy sentence:
 	* *Wumei omg kitaivamatashyai ue* :: `3.SG.INAN.NAT.NHUM EXP.NVOL like-FUT.PFV.PROG-TR.POT.ROM.V.MID COP.POL`
 		* ~"It so just happens to be the case that it will have been accidentally made likeable"
