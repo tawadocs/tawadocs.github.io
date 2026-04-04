@@ -182,3 +182,18 @@
 				* ~"(Is it) something?"
 					* though it just means 'some what is?' or 'is it something?' literally, in Tawa, this is like the English 'what's up'
 					* remember that this version is soft (friends and family) and intimate if used with a romantic partner (context disambiguates everything in the end!)
+* The simple question words just go at the start or at the appropriate place:
+	* *Kamu otoji-un yo?* :: where will we be eating?
+	* *Eanate otoji yo?* :: where will we be going?
+	* *Haterute otoji yo?* :: where will we be running to?
+		* note that the infinitive form (*-te*) is used instead of *ji* for questions like this
+		* so, *hateru otoji-ji yo?* is less preferable over *haterute otoji yo?*
+		* this rule usually only applies to *otoji*, not other question particles
+	* *Ochi no ue yo?* :: which (one/thing) is it?
+	* *Nemu otōe yo?* :: what should I choose?
+	* *Otowanō, eanai* :: when are we going?
+		* *wanō* (and *wanō*-words) and other time words like *ko* don't require *zhi*
+	* *Ototan ryo ga iuki nemuoe ue yo?* :: why is this the (most) sound choice?
+	* *Ototan ue yo?* :: why is it? / (why) is that (so)?
+	* *Ototante nemu genryōe no yo?* :: how do I choose between these things? / by what way do I choose through these things
+		* can sound formal
