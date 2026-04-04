@@ -180,6 +180,19 @@
 	* adding *-rra* negates the whole word
 	* so, *kedeshitenarra* means 'do not feel ashamed (to seek help),' for example
 	* if you see it on a self-help website, maybe a hotline, your brain is almost always smart enough to do the maths
+* You often use the *tashitenai* form for other implied stative-attributives:
+	* *Kikitatashitenai ue* :: `INTENS~like-POT.ATTR-INF-MID COP.POL`
+		* ~"This is why I'm so loveable"
+		* after you helped a woman to water, your saying this would convey 'and, that is why I'm a ladies man / that is why the ladies love me'
+* You may use it with direct verbs, though modifiers are preferred (as *itenai*/*itenarra* or *tashitenai*/*tashitenarra*):
+	* *Kikitanatenai* :: `INTENS~like-MID.INF-MID`
+		* ~"(I am) so loved (to...)"
+		* same meaning, just a little more direct and a little less 'poetic'
+		* it has less flair than *kikitatashitenai (ue)*
+		* you'd usually want flair if you were trying to act all 'tough' or 'cool'
+* And, according to *nai*'s rules:
+	* *iterranai* is less polite and more casual (than *itenarra*)
+	* and the same follows for *tashitenairra* (more casual) (than *tashitenarra*)
 
 ### 11.2.1 Valency-sensitivity transitivity marking exception
 * Marking **transitivity in valency-sensitive verbs** is skipped
