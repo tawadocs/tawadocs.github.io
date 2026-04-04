@@ -135,19 +135,20 @@
 ## 1.5 Infinitive
 - The infinitive _te_ marks infinitives
 - It's uses are listed here:
-    - **purpose** (intentional infinitive)
+    - **purpose (verb + te)** (intentional infinitive)
         - _fuyu wante paya no?_ -> `what one-INF study Q`
             - "Which one to study?"
         - _eate kamu_ -> `MOV-INF eat.V`
             - "Go to eat"
-    - **complement of modal / auxiliary verbs**
+    - **complement of modal / auxiliary verbs (-ite)**
         - _nasute paya_ -> `ability.V-INF study`
             - "Can study"
         - _anisute paya_ -> `requirement.V-INF study`
             - "Must study"
         - _subute paya_ -> `desire.V-INF study`
             - "Want to study"
-    - **complement of perception / causative verbs**
+	    - NOTE: use attributive + *i* for this (*subite*, *anishite*, etc.)
+    - **complement of perception / causative verbs (verb + te)**
         - _kitate nirute so o korunai_ -> `like-INF see.V-INF 3SG.M U die.V-IV`
             - "(I would) like to see him (be) killed / die"
         - _rute hashirusun kamu_ -> `CAUS.V-INF child-1SG.POSS eat.V`
@@ -159,13 +160,14 @@
             - "This is for studying"
         - _ryo ni iite paya i_ -> `DEM.MED TOP good-INF study COP`
             - "This is good to study"
-    - **description**
-        - _ushikitsute paya ita ei_ -> `fun-INF study PRTV ANAPH`
+    - **description (-ite)**
+        - _ushikitsuite paya ita ei_ -> `fun-ATTR-INF study PRTV ANAPH`
             - "(It is) fun to study about this"
-        - _damite kamu_ -> `easy-INF eat.V`
+        - _damiite kamu_ -> `easy-ATTR-INF eat.V`
             - "Easy to eat"
         - _iite fu_ -> `good-INF ACT`
             - "Good to do"
+            - since *ii* is an innate attributive (irregular), it doesn't take *-ite*
 - Take a look at these examples:
 	- *rawanqnaite chihai kofi we eanaite payaen no asa* :: `sleep-REVS-MID-INF water-ANTIPROD.V coffee ADD MOV-MID-INF study-VBZ GEN house`
 		- ~"I woke up and drank coffee and then went to school"

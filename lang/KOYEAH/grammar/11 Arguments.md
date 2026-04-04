@@ -157,6 +157,10 @@
 		* ~"Don't feel ashamed (to get help / to do this)"
 	* *Eanaitenai* :: `MOV-MID-INF-MID`
 		* ~"Going out (to eat / do something)"
+* **NOTE:** in the latest NSKT iteration, we say:
+	* *Kedeshinarratenai* :: `shame.ATTR-MID.NEG-INF-MID`
+		* ~"Don't feel ashamed to get help"
+		* since *kedesu* is now *kedeso* (still sounds the same, since the last vowel is devoiced)
 
 ### 11.2.1 Valency-sensitivity transitivity marking exception
 * Marking **transitivity in valency-sensitive verbs** is skipped
