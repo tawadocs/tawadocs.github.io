@@ -1,51 +1,52 @@
 ## 10.1 Glossing table
-| Particle | Gloss                         |
-| -------- | ----------------------------- |
-| ni       | **TOP**                       |
-| a        | **A**                         |
-| o        | **U**                         |
-| nai      | **MID**                       |
-| nq       | **REVS**                      |
-| nh / n   | **G.REVS**                    |
-| te       | **INF**                       |
-| yo       | **Q2**                        |
-| rra      | **NEG**                       |
-| rri      | **AFF**                       |
-| no       | **GEN** / **NMZ** / **Q**     |
-| oe       | **N.ACC**                     |
-| do       | **PER**                       |
-| nu       | **MOD**                       |
-| bu       | **PROP**                      |
-| (r)u     | **V**                         |
-| mo       | **CMPR** for comparative role |
-| en       | **GER**                       |
-| ake      | **IMP.DIR**                   |
-| aiko     | **IMP.POL**                   |
-| aa       | **CONC**                      |
-| ani      | **PROV-CIRC.PRIV**            |
-| suta     | **MAX.DIM**                   |
-| nyi      | **AUG.SUP**                   |
-| sutanyi  | **MAX.DIM-AUG.SUP**           |
-| cha      | **PLATONIC.F**                |
-| che      | **PLATONIC.M**                |
-| nya      | **ROMANTIC.F**                |
-| nye      | **ROMANTIC.M**                |
-| oi       | **MEL**                       |
-| ta       | **PEJ**                       |
-| (r)u     | **PLATONIC.V**                |
-| nyu      | **ROMANTIC.V**                |
-| masu     | **AGT**                       |
-| masumg   | **AGT-G.REVS**                |
-| qe       | **AFF**                       |
-| ng       | **FIL / DUM / SFP.DECL**      |
-| po       | **BESIDE**                    |
-| bo       | **AGST**                      |
-| mei      | **AN**                        |
-| rei      | **INAN**                      |
-| hamasu   | **ANTIPROD.V.AGT**            |
-| enai     | **GER.MID**                   |
-| yo       | **Q.POL**                     |
-| tei      | **N.PAT**                     |
+| Particle | Gloss                                   |
+| -------- | --------------------------------------- |
+| ni       | **TOP**                                 |
+| a        | **A**                                   |
+| o        | **U**                                   |
+| nai      | **MID**                                 |
+| nq       | **REVS**                                |
+| nh / n   | **G.REVS**                              |
+| te       | **INF**                                 |
+| yo       | **Q2**                                  |
+| rra      | **NEG**                                 |
+| rri      | **AFF**                                 |
+| no       | **GEN** / **NMZ** / **Q**               |
+| oe       | **N.ACC**                               |
+| do       | **PER**                                 |
+| nu       | **MOD**                                 |
+| bu       | **PROP**                                |
+| (r)u     | **V**                                   |
+| mo       | **CMPR** for comparative role           |
+| en       | **GER**                                 |
+| ake      | **IMP.DIR**                             |
+| aiko     | **IMP.POL**                             |
+| aa       | **CONC**                                |
+| ani      | **PROV-CIRC.PRIV**                      |
+| suta     | **MAX.DIM**                             |
+| nyi      | **AUG.SUP**                             |
+| sutanyi  | **MAX.DIM-AUG.SUP**                     |
+| cha      | **PLATONIC.F**                          |
+| che      | **PLATONIC.M**                          |
+| nya      | **ROMANTIC.F**                          |
+| nye      | **ROMANTIC.M**                          |
+| oi       | **MEL**                                 |
+| ta       | **PEJ**                                 |
+| (r)u     | **PLATONIC.V**                          |
+| nyu      | **ROMANTIC.V**                          |
+| masu     | **AGT**                                 |
+| masumg   | **AGT-G.REVS**                          |
+| qe       | **AFF**                                 |
+| ng       | **FIL / DUM / SFP.DECL**                |
+| po       | **BESIDE**                              |
+| bo       | **AGST**                                |
+| mei      | **AN**                                  |
+| rei      | **INAN**                                |
+| hamasu   | **ANTIPROD.V.AGT**                      |
+| enai     | **GER.MID**                             |
+| yo       | **Q.POL**                               |
+| tei      | **N.PAT**                               |
+| mai      | **TR** (but use **TR.CAUS** as default) |
 * Others stay the same, as described
 * *yo* is now **Q.POL** and not **Q2** (old label!)
 * *ng* is a dummy if it marks *no* as nominaliser
