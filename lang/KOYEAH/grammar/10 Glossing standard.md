@@ -44,8 +44,10 @@
 | rei      | **INAN**                      |
 | hamasu   | **ANTIPROD.V.AGT**            |
 | enai     | **GER.MID**                   |
-| yo       | **Q2**                        |
+| yo       | **Q.POL**                     |
+| tei      | **N.PAT**                     |
 * Others stay the same, as described
+* *yo* is now **Q.POL** and not **Q2** (old label!)
 * *ng* is a dummy if it marks *no* as nominaliser
 * Note:
 	* *aa* also asserts what comes after it as something the two speakers are clear on

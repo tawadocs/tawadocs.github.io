@@ -5,6 +5,24 @@
 * Casually, it is dropped in favour of a rising intonation:
 	* *Ryo i* :: it is this
 		* *Ryo?* :: this?
+* *yo* is just a more polite and sometimes more intimate particle (depending on context)
+* *no* can be casual and informal, especially in non-polar questions or questions that use any *oto(-)* particle
+* Still, you'd use *yo* for softness, politeness, and intimacy (depending on context)
+	* so if you're talking to an elder or a boss or a stranger, *yo* is the one you need
+* For friends or non-strangers, *no* can be fine, but it depends on context
+* For nominalised questions, *no yo* is used (and it can't be harshened)
+* If you want a harsh nominalised question, end it with *ng (e)*
+	* it creates a 'huh? / you think so? / yeah? / come on! / try me! / bite me!' tone
+	* there is a tone on it too
+	* with the *e* (as *ng e?*), it makes it more condescending, like saying 'bring it on, (OK?)!' but approximating it to 'bring it on' is bad
+	* you'd never use it with a friend challenging you to a duel in, say, a game, because it would be rude and harsh
+	* you'd say: *ake ete yaranai, lilii nigo ana!*
+		* ~"(It is) okay to come, little cat, (you know?)"
+		* ~"Why? Are you afraid? Bring it on!"
+	* or even: *ake yaranai ana!*
+		* ~"Come (then)!"
+		* ~"Come!"
+		* but it captures the 'bring it on / bite me' nuance
 
 ## 18.2 **Wh-** interrogatives
 | English | Tawa                    |
@@ -87,3 +105,80 @@
 
 ## 18.3 Extended uses
 * See **16:16.8** until the end of **16.8**; it covers all the uses of *oto* and nuances
+
+## 18.4 Asking different types of questions
+* Method
+	* *Otounte eanarra yo?* :: `WH-INSTR-INF MOV-MID.NEG Q2`
+		* ~"How do I get there?"
+* State/opinion
+	* *Kanteisan ni otoun ue yo?* :: `food.N.PAT-3SG.F.POSS TOP WH-INSTR COP.POL Q2`
+		* ~"How was her food?"
+		* a very polite construction
+* Quantity
+	* Price: *Otomani ue yo?* :: `WH-money COP.POL Q2`
+		* ~"How much is it?"
+		* ~"What's the price"
+	* Number: *Otomyo subi ue yo?* :: `WH-MANY desire.ATTR COP.POL Q2`
+		* lit. "How much is desired (as for you)?"
+		* ~"How much do you want?"
+		* ~"How many do you want?"
+	* Specific time: *otowanō-ji ue yo?* :: `WH-time-LOC COP.POL Q2`
+		* ~"What hour/minute is it?"
+		* tip:
+			* *otosejou* for hours (lit. 'which sixty')
+			* *otomi* for minutes (lit. 'which fifth')
+			* *otosu* for seconds (lit. 'which first')
+			* for maximum specificity, add *-ji*:
+				* e.g., *otosejou-ji i no?!* (exactly which hour is it?)
+				* here, the *no* paired with the direct *i* copular adds more of a 'tell me!' or 'what do you think, huh?' tone
+				* if a mother caught her son awake, this would be something she'd say
+	* General time: *otowanō ue yo?* :: `WH-time COP.POL Q2`
+		* ~"What hour is it?"
+		* tip:
+			* specific time uses *otowanō-ji*
+			* general time simply uses *otowanō*
+			* spelt with a hyphen because these have been lexicalised that way, even though they are postpositional phrases
+* Identification
+	* What kind: *Kita otobu kanteioe yo?* :: `like WH-PROP food.N.PAT-N.ACC Q2`
+		* ~"What kind of food do you prefer?"
+	* What happened / was done: *Otofunai yo?* :: `WH-ACT-MID Q2`
+		* lit. "What was done?"
+		* you'd say it to a friend who was sad
+	* What did (someone) do: *Otofu yo?* :: `WH-ACT Q2`
+		* lit. "What happened / what did (one) do?"
+		* if your friend told you that someone ate raw chicken for challenge, you'd exclaim:
+			* *otofu no?!*
+		* meaning, 'what the hell (he really did that)?!'
+	* What is (it): *Ryo no ni otōe ue yo?* :: `DEM.MED NMZ TOP WH-N.ACC COP.POL Q2`
+		* ~"What is this (thing)?"
+* Meanings, definitions, etc.
+	* How to (do X): *'Chiken' ni otounte fofu Tawa un yo?* :: `chicken TOP WH-INSTR-INF speak.PLATONIC.V tawa INSTR Q2`
+		* ~"How do (I) say chicken in Tawa?"
+	* What does it mean: *Omoko wou ni otounte shirenai yo?* :: `chicken QUOT3 TOP WH-INSTR-INF know-MID Q2`
+		* lit. "As for 'omoko,' how to understand (it)?"
+		* ~"What does 'omoko' mean?"
+		* this is a highly polite construction
+		* casually, you'd say:
+			* *omoko wou ni haki otōe no?*
+			* lit. "As for 'omoko,' its really what?"
+			* ~"What is 'omoko' in reality"
+				* you could soften it and/or make it polite with the appropriate particles
+* Here is an example of something you'd hear in conversation:
+	* *Yoiirekai ue yo?* :: `spirit<good-inner> COP.POL Q2`
+		* lit. 'The good inner spirit is?'
+		* ~"How are you?"
+		* ~"Are you in good spirits?"
+			* it would be very sarcastic to someone obviously sad
+			* when you don't want to assume state and want to be respectful, you would be indirect:
+				* *Riwakaen otōe yo?* :: `think-GER WH-N.ACC Q2`
+				* ~"What are you thinking about?"
+			* though, the more preferable one would be:
+				* *Ng no ue yo?* :: `DUM NMZ COP.POL Q2`
+				* lit. "A thing is?"
+				* ~"Is a thing there? / what's going on?"
+			* or, with people you're closer to (not strangers):
+				* *Otōe-otōe ue yo?* :: `DUM NMZ COP.POL Q2`
+				* lit. "What-what is?"
+				* ~"(Is it) something?"
+					* though it just means 'some what is?' or 'is it something?' literally, in Tawa, this is like the English 'what's up'
+					* remember that this version is soft (friends and family) and intimate if used with a romantic partner (context disambiguates everything in the end!)
