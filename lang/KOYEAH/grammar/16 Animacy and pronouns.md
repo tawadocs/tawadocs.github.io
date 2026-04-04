@@ -304,3 +304,31 @@
 		* could refer to the slang or register used on the internet vs. in real life
 	* *Etegana* :: constructed language
 		* it was made intentionally
+
+## 16.10 Nominal forms
+* These forms are the ones you'll hear in 90% of conversation:
+	* *sano* :: `3SG.F.POL`
+	* *sono* :: `3SG.M.AN.POL`
+	* *zuno* :: `2SG.AN.POL`
+	* *zano* :: `2PL.AN.POL`
+	* *nano* :: `1PL.AN.POL`
+* For *amu* and *wumei*, there is no polite form
+* The *wuno* form (`3SG.INAN.POL`) is often sarcastically used; you'd just say *wu* for most things
+* For *su*:
+	* *su* with friends is fine and it is quite masculine or 'tough'
+	* *suno* is used with respected people, like family, elders, bosses, etc.
+* There are no polite possessor suffixes
+* When you don't use the polite form, you essentially distance yourself from the referent
+* It's a middle-ground between the vulgar *-rei* forms, like *sorei*, and the polite forms like *sono*
+* So, it's more common for a speaker to say:
+	* *Sa a esaceru ngopōe* :: `3SG.F A twist-PLATONIC.V intestine-N.ACC`
+		* lit. "She twisted the intestines"
+		* ~"She gutted me"
+* ... because there's nothing 'polite' about that
+* You can't also use *sano* to be sarcastic, because it would be unable to convey the heartbreak or betrayal
+* *Sano a esaceru ngopōe* would be saying 'she gutted me, politely,' but it instantly becomes less serious and actually more jarring (due to *esace*, an extreme word)
+* But polite forms likely won't be used in things such as manuals, grammar explanations, technical documents, law, etc. (since they are meant to be detached)
+* With friends, impolite forms **could be** okay but it would depend on the friendship and how the people are comfortable with impoliteness or curses
+* In Tawa, it is generally uncomfortable to be very impolite with friends
+	* so, it's fine to use casual/direct particles, but it isn't usually fine to use impolite pronouns like *sa* (directly)
+* With loved ones, including romantic partners, you would never use direct forms
