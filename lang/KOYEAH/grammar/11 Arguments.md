@@ -193,6 +193,10 @@
 * And, according to *nai*'s rules:
 	* *iterranai* is less polite and more casual (than *itenarra*)
 	* and the same follows for *tashitenairra* (more casual) (than *tashitenarra*)
+* Also, remember that:
+	* *Kedesu* refers to general embarrassing, singling out, or shaming
+	* *Kedeshu* refers to betraying or backstabbing, because it has intimacy baked in
+		* for a friend backstabbing you, you'd use *kekedesu*
 
 ### 11.2.1 Valency-sensitivity transitivity marking exception
 * Marking **transitivity in valency-sensitive verbs** is skipped
