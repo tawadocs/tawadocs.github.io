@@ -118,6 +118,10 @@
 			* *ngoe ga soramanai*
 		* actually just means 'it is the things that are rained'
 		* doesn't make a lot of sense for most contexts
+* *no* is used for abstract nominalisation, but for tangible or 'literal' nominalisation, one would prefer *nogi*:
+	* *ushikitsui nogi* :: a fun tool/thing/object
+		* sounds weird
+	* *ushikitsui no (ng)* :: a fun thing (idea/event)
 
 #### 2.1.3.1 Negation
 * *rraoe* means 'non/not'
