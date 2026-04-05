@@ -646,3 +646,16 @@
 			* the word know (*shire*) is used over a literal translation for 'measure,' because we are 'knowing' or 'learning' properties here (i.e., measuring them)
 				* it isn't about using a ruler or clock, it's about the information physically available to the universe
 				* in quantum mechanics, the position is determined (**known**), not 'read' by poking at it with some tool
+
+## 13.20 Topic extension
+* In Tawa, such is possible:
+	* *hon ni nigoṋ ga tokachi nigōe* :: `person TOP cat-REVS NOM PFV-bite cat-N.ACC`
+		* ~"As for the man, the cat bites the dog"
+		* ~"The man saw the cat bite the dog"
+* It can be perfectly fine
+* If you wanted a low-context alternative:
+	* *Nigoṋ ga tokachi nigōe wou hon a tonirunai* :: `cat-REVS NOM PFV-bite cat-N.ACC QUOT3 person A PFV-see.PLATONIC.V-MID`
+		* ~"The man saw the dog bit the cat"
+		* *-tonirunai* is used because *niru* points back to *wou* (in the *nirunai*) form
+			* of course, this is not absolute, as some valency-sensitive verbs, like *fofu*, don't take the middle voice
+			* in casual speech, you might even see *-nai* fully be omitted (so *hon a toniru*), which is also fine
