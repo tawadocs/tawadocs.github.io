@@ -202,10 +202,15 @@
 * Let's say you broke a vase:
 	* *Kedesatenai* :: (I) was ashamed (to face them / say sorry)
 * But if you say:
-	* *Kedesatenate oto, ya*
+	* *Kedesaitenate oto, ya*
 		* I was ashamed to say sorry and I'm just really confused / I don't know what to do, (you know)?
 	* *-tenai* seals *kedesai* (be singled out) with the implied or relevant purposive (to say sorry)
 	* *-te* adds an additive or new purposive *oto, ya* (for (that), I don't know what to do / I'm bewildered)
+	* note that *kedesunatenate* would likely be more common, especially in terms of softness or cuteness/femininity
+	* *kedesai* is less common than *kedesunai* and is an informal contraction
+	* note that *-nai* attaches as *-ai* strictly if *-n* is omitted:
+		* *kedesu* + *nai* :: informal *kedesai*
+		* *kedesai* + *tenate* :: *kedesaitenate*
 
 ### 11.2.1 Valency-sensitivity transitivity marking exception
 * Marking **transitivity in valency-sensitive verbs** is skipped
