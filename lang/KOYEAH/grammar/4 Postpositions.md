@@ -1,14 +1,19 @@
 ## 4.1 Core adposition system
-| Case    | Core usage                                                                                                                  |
-| ------- | --------------------------------------------------------------------------------------------------------------------------- |
-| **ji**  | indirect object; location of existence; destination or final arrival point; time; goal of a movement; passive or causative  |
-| **un**  | instrument or means; location of action; material or composition; cause or reason; limit                                    |
-| **do**  | traversal or route of motion; point of detachment                                                                           |
-| **da**  | heading (towards); progression                                                                                              |
-| **dan** | temporospatial starting point or origin; source of material; source of information / giving                                 |
-| **mo**  | comitative; quotation or boundary of thought or sound; comparison; temporal (and spatial) sequentiality; contrasting linker |
-| **we**  | additive (and)                                                                                                              |
+| Case     | Core usage                                                                                                                  |
+| -------- | --------------------------------------------------------------------------------------------------------------------------- |
+| **ji**   | indirect object; location of existence; destination or final arrival point; time; goal of a movement; passive or causative  |
+| **un**   | instrument or means; location of action; material or composition; cause or reason; limit                                    |
+| **do**   | traversal or route of motion; point of detachment                                                                           |
+| **da**   | heading (towards); progression                                                                                              |
+| **dan**  | temporospatial starting point or origin; source of material; source of information / giving                                 |
+| **daki** | until (time)                                                                                                                |
+| **mo**   | comitative; quotation or boundary of thought or sound; comparison; temporal (and spatial) sequentiality; contrasting linker |
+| **we**   | additive (and)                                                                                                              |
 - In Koyeah Tawa, many cases have turned into postpositions
+- *daki* is used for until
+	- *reo ko daki irime inai* :: `IPFV day UNTIL work COP-MID`
+		- lit. "Tomorrow until, work exists"
+		- ~"Until tomorrow, I have to keep on working"
 - They function virtually the same:
     - **do**
         - traversal or route of _motion_

@@ -1,4 +1,4 @@
-- **-je (into / entering):** **`ILL`** (Illative – movement into). For the verbal "put into" use, you can use **`CAUS.ILL`** (Causative + Illative).
+	- **-je (into / entering):** **`ILL`** (Illative – movement into). For the verbal "put into" use, you can use **`CAUS.ILL`** (Causative + Illative).
     
 - **-de (out of / from):** **`ELA`** (Elative – movement out of).
     
