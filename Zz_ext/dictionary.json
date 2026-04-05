@@ -280,6 +280,28 @@
     ]
   },
   {
+    "word": "seka",
+    "id": "filler-11",
+    "definitions": [
+      {
+        "text": "that way",
+        "frequency": 100
+      },
+      {
+        "text": "so",
+        "frequency": 100
+      },
+      {
+        "text": "that",
+        "frequency": 100
+      },
+      {
+        "text": "true",
+        "frequency": 100
+      }
+    ]
+  },
+  {
     "word": "sorama",
     "id": "sewi telo",
     "definitions": [
