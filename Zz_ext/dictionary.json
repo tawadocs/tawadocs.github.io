@@ -10,6 +10,28 @@
     ]
   },
   {
+    "word": "anee",
+    "id": "filler-20",
+    "definitions": [
+      {
+        "text": "okay",
+        "frequency": 100
+      },
+      {
+        "text": "you know",
+        "frequency": 100
+      },
+      {
+        "text": "isn't it",
+        "frequency": 100
+      },
+      {
+        "text": "am I right",
+        "frequency": 100
+      }
+    ]
+  },
+  {
     "word": "arenko",
     "id": "rest-1",
     "definitions": [
