@@ -47,6 +47,9 @@
 | yo       | **Q.POL**                               |
 | tei      | **N.PAT**                               |
 | mai      | **TR** (but use **TR.CAUS** as default) |
+| myu      | **INTIM.V**                             |
+| mya      | **INTIM.F**                             |
+| mye      | **INTIM.M**                             |
 * Others stay the same, as described
 * *yo* is now **Q.POL** and not **Q2** (old label!)
 * *ng* is a dummy if it marks *no* as nominaliser

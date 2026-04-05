@@ -239,3 +239,24 @@
 			* ~"to make easy"
 		* but now, *-mai* and the transitiviser family (`TR`/`TR.CAUS`) handles this
 		* this is very archaic and might be used in poetry
+
+## 2.5 Platonic, romantic, intimate
+* *myu/mya/mye* are intimate markers and *ru/cha/che* are platonic markers
+* *nyu/nya/nye* are romantic markers
+* For loaded verbs like *himae* or *esace*, *-ru* is used in its archaic meaning of 'naked / vulnerable'
+* For verbs like *kedesu* (shame), you split on *ru* and *myu*:
+	* *Kedeshu* :: intimately shame
+	* *Kedeshwu* :: romantically shame
+	* *Kedesu* :: to shame or embarrass
+* In **NSKT 3.5**, *-(n)yu* takes the *-yu* form and *-(m)yu* takes the *-wu* form
+* So, *koro* + *myu* is *korwu*, whereas *koro* + *nyu* is *koryu*
+* And *hon* + *nya* is *honnya* and *hon* + *mya* is *honmya*
+* For infixes:
+	* *yōkai* + *mya* :: *yomyakai*
+	* etc.
+* It applies to ′o-roots or those roots that behave like them
+* For vowels, the whole consonantal form would be used
+* In between affixes, though:
+	* *Yomyanakai* :: here, *-na* is used for *nai* because *mya* ends in a vowel
+	* *Yotashukai* :: romantic *tasu* + *(n)yu*
+	* *Yotashwukai* :: intimate *tasu* + *(m/(w))yu*
