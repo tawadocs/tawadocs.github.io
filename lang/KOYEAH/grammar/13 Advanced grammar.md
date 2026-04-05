@@ -461,20 +461,20 @@
 	* `profanity [reason]`
 * So, English-like constructions, such as 'damn me,' don't exist
 * If you want to express 'damn me! everything's gone to shit,' you'd say:
-	* *yawa a dakata subeki ngoe, n!* :: `demon A steal-PEJ total.ATTR DUM-N EXCL.VULG`
+	* *yawa a dakata subeki ngoe, n!* :: `demon A steal-PEJ total.ATTR DUM-N EXPL.VULG`
 		* ~"The demon stole everything!"
 			* *n* is an expletive or profane interjection
 			* if *n* is used without a profanity or expletive, it isn't vulgar and just expresses anger or frustration:
-				* *Nnn, baka!* :: `EXCL\EMPH fool`
+				* *Nnn, baka!* :: `EXPL\EMPH fool`
 					* "AAAAAA, you idiot!"
 * Rule:
 	* if *n* is in a vulgar or profane sentence, it intensifies vulgarity or expression (not anger, unless it is lengthened)
-		* `EXCL.VULG`
-		* `EXCL.VULG\EMPH` (**if lengthened**)
+		* `EXPL.VULG`
+		* `EXPL.VULG\EMPH` (**if lengthened**)
 	* otherwise, *n* marks anger:
-		* `EXCL` (ugh, whatever, blah blah blah, shit)
+		* `EXPL` (ugh, whatever, blah blah blah, shit)
 			* if someone says 'can you get the water?' and you say '*n*,' it's like conveying 'whatever dude / shut up man (i'll do it)'
-		* `EXCL\EMPH` (anger)
+		* `EXPL\EMPH` (anger)
 			* saying *nnnn!* to 'can you get water?' is like saying 'shut up / leave me alone / go away!' but still implies that you'll begrudgingly do it (since *n* is not a no/yes)
 
 ### 13.13.1 Oaths or swears
