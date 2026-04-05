@@ -137,3 +137,23 @@
 	* *Baka zu a fofu, fofunai* :: `dumb 2SG A speak.PLAT.V speak.PLAT.V-MID`
 		* ~"I heard you say 'dumb'"
 		* naturally, particles may be added to disambiguate
+
+## 3.6 Topic-prominence
+* In natural Tawa, you would always say:
+	* *Ribu jirei ji no ni funamai aiko* :: `book LOC-INAN LOC NMZ TOP ACT-MID.TR.CAUS FORM.IMP`
+		* lit. "Make the 'book, goal table' happen"
+		* ~"Put the book on the table"
+* This is a type of **clausal dangling**
+* You give:
+	* the goal (**table**, jirei)
+	* the object (**book**, ribu)
+	* what you want (**make it happen**, funamai)
+	* tone (**polite/formal**, aiko)
+* The topic is just *ribu, jirei ji no*
+* In Tawa, postpositions can't just go after a noun, unlike English, where one can say:
+	* 'My love for you is a lot'
+* In Tawa, you'd be forced to say:
+	* *Zuno da no kitanya* :: `2SG.AN.POL ALL GEN like-ROMANTIC.F`
+		* ~"Towards you (is) my love"
+		* note that *-nya/-nye* depends on gender
+		* we assume a male is saying this (so they'd use *nya* for attraction (because the male would be attracted to a female))

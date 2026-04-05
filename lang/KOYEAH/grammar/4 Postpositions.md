@@ -222,3 +222,8 @@
 * ... and note that:
 	* *wa* can replace *a* and *ni* naturally, and it can also topicalise clauses
 	* *mo* is a postposition and can't do this - and because the language highly prefers SVO (unless it's formal or complex/technical writing), using *mo* actually makes the phrase harder to parse (unless reordered in SOV, which is redundant already) and more redundant
+
+## 4.5 NSKT 3.5
+* In NSKT 3.5, we use *han* instead of the old *dan*
+* So:
+	* *Canata han* means 'from Canada'
