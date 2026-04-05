@@ -330,3 +330,14 @@
 	* *kamumai* :: feed (to make eat)
 * **mai** is a grammatical causative, and **i-ng** is more of a 'semantic' causative
 * **i-ng** refers to preparation, creation, or transformation (grammatically a factitive)
+
+## 14.8 Potentiality
+* *-tasu* adds potential
+* So:
+	* *Kiuku* :: fly (verb)
+	* *Kiukutasu* :: potential of flying / can fly
+	* *Kiukai* :: to fly (normal form used for self-states)
+	* *Kiukutasai* :: can be flied / flyable
+	* *Kiukumai* :: to make (something/someone) fly
+	* *Kiukunamai* :: (made/forced) to be flied
+	* *Kiukumatasai* :: can be made to be flied
