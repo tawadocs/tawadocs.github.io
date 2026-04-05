@@ -23,6 +23,14 @@
 		* ~"Come (then)!"
 		* ~"Come!"
 		* but it captures the 'bring it on / bite me' nuance
+* Note that you can ask a question about a topic like this:
+	* *Sano ni no/yo?* :: who is she?
+		* *yo?* would make it more polite and soft, whereas *no?* would be casual
+		* also, due to the genderlectical differences, males cannot just say *sano ni?*, even though dropping question particles is a common occurrence in Tawa
+			* this is because *ni* is also a feminine sentence-final particle and softener
+			* men using it could be cringe and even derogatory
+		* a female could say *sano ni?* though
+		* this difference is covered in Ashi Tawa's grammar
 
 ## 18.2 **Wh-** interrogatives
 | English | Tawa                    |
