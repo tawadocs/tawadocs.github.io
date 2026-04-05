@@ -312,6 +312,7 @@
 	* *zuno* :: `2SG.AN.POL`
 	* *zano* :: `2PL.AN.POL`
 	* *nano* :: `1PL.AN.POL`
+	* they are also pronounced without the lax/peripheral vowels, and /u/, /o/, /a/ normally, unlike the possessives
 * For *amu* and *wumei*, there is no polite form
 * The *wuno* form (`3SG.INAN.POL`) is often sarcastically used; you'd just say *wu* for most things
 * For *su*:
@@ -332,3 +333,14 @@
 * In Tawa, it is generally uncomfortable to be very impolite with friends
 	* so, it's fine to use casual/direct particles, but it isn't usually fine to use impolite pronouns like *sa* (directly)
 * With loved ones, including romantic partners, you would never use direct forms
+
+### 16.10.1 Nuance
+* If you say:
+	* *Suno a shirenai wou zuno a shirenai wou su a shirenai*
+	* `1SG.POL A know-MID QUOT3 2SG.POL A know-MID QUOT3 1SG A know-MID`
+	* ~"I (polite) know- this, you (polite) know- this, I know"
+* Then it actually carries this nuance:
+	* ~"You think I'm so oblivious and clueless and polite, but, no, I know that you know that I know"
+* This is because *suno a shirenai wou* is the 'knowing' of *zuno* (you)
+* When used this way, it makes it feel like that *zuno* believes that me (as *suno*) is very polite or oblivious, depending on context
+* When you establish yourself as *su* later (tough/masculine), it carries that tone
