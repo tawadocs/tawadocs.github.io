@@ -263,3 +263,9 @@
 * *mya/mye* also take the *(m/(w))(y(a/e))* format:
 	* *Kanojo* + *nya* :: *kanojya*
 	* *Kanojo* + *mya* :: *kanojwa*
+* Intimacy markers have a special ability to labiovelarise broadly:
+	* *Kedeswu* :: explicit intimate verb
+	* *Kedeswai* :: intimate root; the fact that it is a verb is carried by *-(n)ai*
+		* if you wanted more explicitness: *kedeswunai*
+* This also follows for romantic markers and usually only happens with the middle voice affix because of how irregular it is:
+	* *Ribu* + *nya* + *nai* :: *ribunyai*
