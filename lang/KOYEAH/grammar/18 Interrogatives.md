@@ -103,6 +103,30 @@
 		* ~"Do you seriously believe apples are red?"
 * Which isn't very playful after all!
 
+#### 18.2.5.1 Pronominal questions
+* Use the format:
+	* `oto + Q.pron + postp.`
+* ... for directing a question with doubt
+* For example:
+	* *Eanai odzu-ji yo?* :: `MOV-MID WH.2SG-LOC Q.POL`
+		* lit. "Being gone you in?"
+		* ~"Aren't you wondering where we're headed?"
+		* ~"Do you want to guess where we're going?"
+		* ~"I bet you don't know where we're going!"
+			* depending on tone, particles, etc., that base statement yields a lot
+	* *Eanai otona-ji yo?*
+		* ~"Where do we want to go?"
+		* ~"Where do we think that we will be going"
+	* *Eanai otsu-ji yo?*
+		* ~"I wonder where I'm going..."
+	* *Eanai odza-ji yo?*
+		* ~"Do all of you doubt where we are going?"
+* With *no*, it would be harshened:
+	* *Eanai odza-ji no?!*
+		* ~"Do all of you even know where we are going?"
+		* ~"Do you all have any idea where we are headed?"
+			* something a teacher might say to kids goofing around during a trip to a factory
+
 ## 18.3 Extended uses
 * See **16:16.8** until the end of **16.8**; it covers all the uses of *oto* and nuances
 
