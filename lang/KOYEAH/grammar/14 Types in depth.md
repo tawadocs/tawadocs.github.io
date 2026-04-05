@@ -141,6 +141,11 @@
 			* `ABESS-TR`
 * You'd use the middle voice form (`MID.TR`) for something like this:
 	* *Kamunamai* :: to be fed X
+* You can also turn any noun into a verb of your choice:
+	* 'I went to the house' :: *toasanadai* `PFV-house-MID.ALL.TR`
+		* here, *-nadai* makes *asa* a middle voice verb, meaning '(I am) heading to the house'
+		* *to-* simply marks this as perfective
+		* together, it means 'I (had) headed to the house'
 * In Tawa, 'hateru' cannot be used for 'run over;' instead, you use:
 	* *Soraṋjeru* :: to put into the ground
 	* e.g.,
@@ -152,6 +157,7 @@
 	* *kamumai* :: feed
 	* *korumai* :: execute / make die
 * The postpositional forms aren't necessary to be memorised, you'd often never use them
+* Someone saying *toasanadai* casually was likely trying to be cool or overly poetic and archaic
 
 ## 14.3 Degree on each type
 ### 14.3.1 Verbs

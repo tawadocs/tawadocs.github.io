@@ -175,3 +175,67 @@
 		* `/kuɺui ce̥tɛ̥su̥i ŋoɕi̥/`
 			* also pronounced **/kuɺui kedɛsui ŋoɕi/**
 			* depends on dialect
+
+## 2.4 The gerund
+* The gerund *-en* has a few functions
+* **Active verbs**
+	* *hatereni hon* :: the running person / person who was running
+	* *hateri hon* :: the fast person
+* **Nominal verbs**
+	* *hateren ni ii ue* :: running is good
+		* you're attributing **good** to the act of running
+		* you're treating 'running' as an active state, such as an ongoing act
+	* *hateru no ni ii ue* :: to run is good / running is good
+		* you're attributing **good** to run
+		* this is more personal and can be used for hobbies
+* **Hobbies**
+	* *kamem pitsa ga ushikitsuwisun* :: `eat.GER pizza NOM fun-view-1SG.POSS`
+		* lit. "Eating pizza is my fun view"
+		* ~"Eating pizza is my only idea of fun" (in tone)
+			* here, *kamem pitsa* feels like an active state or ongoing act
+	* *kamu pitsa no ga ushikitsuwisun* :: `eat.PLATONIC.V pizza NMZ NOM fun-view-1SG.POSS`
+		* lit. "The act of eating pizza is my view of fun"
+		* ~"To eat pizza (as a thing (that happens)), it is my idea of fun"
+			* here, *kamu pitsa no* feels more like a hobby or regular occurrence
+			* you'd say it if you eat pizza often
+* **Active states**
+	* *kamen* :: `eat.GER`
+		* this can mean 'I was/am actively (doing) eating'
+* **Possession**
+	* *fuensan* :: `ACT-GER-3SG.F.POSS`
+		* ~"Her deeds / doings"
+* **When do I use it?**
+	* **nominalisation**
+		* *-en* shouldn't be used for simple verb nominalisation, even though it is a gerund
+		* use *no* for that, as it is way better
+		* *hateru no* :: act of running
+		* *hateren* :: old form, less personal
+	* **possession**
+		* here, *-en* would almost always be required
+		* so you'd always say *fuensan* (her deeds) or *fofenzun* (your speaking), because *no* is incompatible with verbs
+	* **active verbs**
+		* *-en* is used here too
+		* so, a man who is running is a *hatereni hon*
+			* an active attributive
+			* if you said *hateri hon*, it would mean 'fast person'
+	* **ongoing active**
+		* it describes something ongoing, so if you were 'finding a table' previously, you would use *-en*:
+			* *toukajenakū jirei* :: (I) had been finding a table (when/until...)
+		* you would never use *no*
+		* using *-eru* would have a different nuance:
+			* *toerūkajū jirei* :: I was trying to find a table / I had been continuously finding a table / my finding a table was ongoing
+				* no 'interruption' implied
+				* if you said *erūkajakū*, it would conflict because now you have overloaded *ukajo* with:
+					* continuous aspect
+						* continuing to find
+					* past tense
+						* did it in the past
+					* progressive aspect
+						* am doing it
+				* a nightmare and a half to parse!
+	* **Takan-esque verbalisation (archaic)**
+		* *dami* (easy) + *en* :: *damien*
+			* lit. to do the act that is to do easy
+			* ~"to make easy"
+		* but now, *-mai* and the transitiviser family (`TR`/`TR.CAUS`) handles this
+		* this is very archaic and might be used in poetry
