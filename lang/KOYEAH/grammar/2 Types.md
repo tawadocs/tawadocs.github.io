@@ -302,3 +302,13 @@
 		* *lilichōsun* :: my lily (platonic, maybe between friends)
 * Or just drop the whole marker:
 	* *lilisun* :: my lily (context tells you what)
+* In a real situation, if you want to say 'this is my gift,' the marker can matter:
+	* *Ryo ni kohasun ue* :: this is my gift
+		* underspecified, can sound boring
+	* *Ryo ni kohachōsun ue* :: this is my gift
+		* platonic makes it a little personal and adds flair
+	* *Ryo ni kohanyōsun ue* :: this is my gift
+		* romantic obviously changes the theme
+	* *Ryo ni kohamyōsun ue* :: this is my gift
+		* intimate, close bonds
+		* a parent to a child, sibling to sibling, etc.
