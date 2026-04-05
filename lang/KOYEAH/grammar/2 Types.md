@@ -295,3 +295,10 @@
 	* **inanimate** :: **masculine forms are used**
 	* **animate** :: **feminine forms are used**
 * Someone using the feminine form for their job might think of their job as 'their' wife or everything their life has lead to (a living, breathing creature)
+* If you're unsure about which particle to use, you use the *o-forms*:
+	* *myō-nyō-chō*
+		* *lilimyōsun* :: my lily (intimate, but not romantic)
+		* *lilinyōsun* :: my lily (romantic, significant other)
+		* *lilichōsun* :: my lily (platonic, maybe between friends)
+* Or just drop the whole marker:
+	* *lilisun* :: my lily (context tells you what)
