@@ -197,6 +197,15 @@
 	* *Kedesu* refers to general embarrassing, singling out, or shaming
 	* *Kedeshu* refers to betraying or backstabbing, because it has intimacy baked in
 		* for a friend backstabbing you, you'd use *kekedesu*
+* A rarer form is *-natenate* or *-tenate*
+* It is used to connect the previous verb taking an implied purposive with a new purposive
+* Let's say you broke a vase:
+	* *Kedesatenai* :: (I) was ashamed (to face them / say sorry)
+* But if you say:
+	* *Kedesatenate oto, ya*
+		* I was ashamed to say sorry and I'm just really confused / I don't know what to do, (you know)?
+	* *-tenai* seals *kedesai* (be singled out) with the implied or relevant purposive (to say sorry)
+	* *-te* adds an additive or new purposive *oto, ya* (for (that), I don't know what to do / I'm bewildered)
 
 ### 11.2.1 Valency-sensitivity transitivity marking exception
 * Marking **transitivity in valency-sensitive verbs** is skipped
