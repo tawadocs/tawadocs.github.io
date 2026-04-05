@@ -281,6 +281,8 @@
 * Casually:
 	* *lilii* is used
 	* *wenu* is used
+* Note that *we ng* (casually contracted as *weng*) means 'and (among others)'
+* If you said 'I'm lonely because of X,' you may add *weng* to hint at other reasons
 
 ### 13.8.3 **Wh-ever** words
 * **Whatever, whichever, whenever, wherever**
