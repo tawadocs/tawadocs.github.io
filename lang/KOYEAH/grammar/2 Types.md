@@ -109,6 +109,15 @@
 	* due to the strict **SVO** order, it is normally understood that the last noun will be the object of whatever verb coming before it
 	* so this is fine:
 		* *sa koha su ji ii koha*
+* Note that *ngoe* is used as a dummy for 'thing' or 'object'
+* For example:
+	* *Kanatashi ngoe* :: `word-POT.ATTR DUM-N.ACC`
+		* ~"Wordable (things)"
+		* here, *ngoe* would refer to whatever 'things' one is talking about
+		* it isn't a dummy pronoun, so saying:
+			* *ngoe ga soramanai*
+		* actually just means 'it is the things that are rained'
+		* doesn't make a lot of sense for most contexts
 
 #### 2.1.3.1 Negation
 * *rraoe* means 'non/not'

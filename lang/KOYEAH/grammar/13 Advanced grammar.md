@@ -636,3 +636,13 @@
 	* *Shirenareta* :: ended up regrettably knowing (formal/polite)
 	* *Shiremareta* :: ended up regrettably teaching (formal)
 	* *Shireretamai* :: ended up regrettably teaching (casual/direct)
+* Tawa does have a word for *if* (**shi**) but you'll see it in scientific texts, sermons, oaths, but not a family dinner:
+	* *shi iejijiinu shire ryo wan butei, mo arenki butei ni yara angarenebuoe* :: `COND AUG-INTENS~LOC-ATTR-MOD know DEM.MED one PROP-N.PAT SEQ different.ATTR PROP-N.PAT TOP become PRIV-different-PROP-N.ACC`
+		* lit. "If more exactly know this one property, then different property (as for it) become a type of indifference"
+		* ~"The more accurately one property is measured, the less accurately the other property can be known"
+			* *angarenebuoe* means 'indistinct' or 'unclear'
+			* in Tawa, we use *yara...* (becomes...) to connect it with the statement properly
+			* *iejijinu* literally can be translated as 'more exactly nearly'
+			* the word know (*shire*) is used over a literal translation for 'measure,' because we are 'knowing' or 'learning' properties here (i.e., measuring them)
+				* it isn't about using a ruler or clock, it's about the information physically available to the universe
+				* in quantum mechanics, the position is determined (**known**), not 'read' by poking at it with some tool

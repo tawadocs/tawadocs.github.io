@@ -68,3 +68,36 @@
 						* *ochi a, ngopo o aishinai, wou yoe!*
 							* ~"The bloating is really hurting my intestines!"
 							* *wou yoe!* is what adds the expression of unexpected pain
+
+## 17.3 NSKT rules
+* *ei* means '[that] proposition'
+* *eirra* just means '(as for X) [that] proposition is not true (negated)'
+	* *Su a kikita nigōe* :: I like cats
+	* *Eirra* :: I don't
+		* though *su ni eirra* (as for me, [that] proposition is negated) is the full form, you often drop what is understood from context
+		* if you wanted to say 'I don't think that you do,' you would say:
+			* *zu ni eirra, riwakanai* :: to me, it seems that you (actually) don't
+			* remember that it creates an 'actually' nuance when you negate what was affirmed
+* *eirri* means '(as for X) [that] proposition is true (affirmed)'
+* *eimg* means 'the opposite of [that] proposition'
+	* we use *eimg* for opposites over the old *eiṋ/einq* form
+	* *sano ni korumashi ue yo?* :: is she a murderer?
+	* *watada eimg ni nasu haki ue* :: only the opposite of [that] proposition is allowed to be true
+		* not as serious as it sounds
+		* it's like saying, 'ha! no way'
+		* though you'd spice it up with the proper tones, particles, interjections, etc.
+* *ei* is different from the dummy noun *ngoe*:
+	* *ii ngoe* :: a good (thing / matter)
+	* e.g.,
+		* *kita sanōe* :: I like her
+		* *ii ngoe* :: that's a good thing
+* Often, you use **zero anaphora** and rely on context, because Tawa is pro-drop
+* So:
+	* *sano ni korumashi ue yo?* :: is she a murderer?
+	* *subeko no wanō hakiṋ ue* :: that could never be true
+		* lit. "For all of time, irreality is"
+		* ~"That could never be true"
+	* *wa kikita nigōe yo?* :: do you love cats as well?
+		* lit. 'also love cats?'
+	* *wa!* :: I do too!
+		* lit. 'also'
