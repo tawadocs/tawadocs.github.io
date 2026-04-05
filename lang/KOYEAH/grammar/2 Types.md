@@ -269,3 +269,29 @@
 		* if you wanted more explicitness: *kedeswunai*
 * This also follows for romantic markers and usually only happens with the middle voice affix because of how irregular it is:
 	* *Ribu* + *nya* + *nai* :: *ribunyai*
+
+### 2.5.1 Nuance
+* Intimate markers can be used for family, even very close or deep bonds like friends
+* Romance markers are used for explicit romance or sexual relationships
+* Platonic markers are just the base
+* Here's how the sentence 'I gave my heart' can change based on this:
+	* *Toanyumg nukōesun*
+		* `PFV-HAVE.ROMANTIC.V-G.REVS heart-N.ACC-1SG.POSS`
+		* ~"I gave her my heart (romantic)"
+	* *Toaumg nukōesun*
+		* `PFV-HAVE.PLATONIC.V-G.REVS heart-N.ACC-1SG.POSS`
+		* ~"I gave my heart"
+			* because it's platonic, it could mean a literal transplant or something else
+	* *Toamyumg nukōesun*
+		* `PFV-HAVE.INTIM.V-G.REVS heart-N.ACC-1SG.POSS
+		* ~"I gave it my all / my heart (all my strength/power, to a commitment, friendship, work, career, etc.)"
+* For something of yours, you'd use a consistent gendered romantic particle depending on the referent:
+	* *Nukyesun* (my heart, romantic masculine) :: a male lover
+	* *Nukyasun* (my heart, romantic feminine) :: a female lover
+	* *Nukwasun* (my heart, intimate feminine) :: nature, deep commitments, friendships
+	* *Nukwesun* (my heart, intimate masculine) :: jobs, careers
+* If you said *kitanyesun* to your female partner, she'd be very confused, because *kitanyesun* means that your love is direct at some male
+* It goes back to animacy, but for platonic-intimate-romantic particles, animacy boils down into:
+	* **inanimate** :: **masculine forms are used**
+	* **animate** :: **feminine forms are used**
+* Someone using the feminine form for their job might think of their job as 'their' wife or everything their life has lead to (a living, breathing creature)
