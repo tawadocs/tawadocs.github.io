@@ -260,3 +260,6 @@
 	* *Yomyanakai* :: here, *-na* is used for *nai* because *mya* ends in a vowel
 	* *Yotashukai* :: romantic *tasu* + *(n)yu*
 	* *Yotashwukai* :: intimate *tasu* + *(m/(w))yu*
+* *mya/mye* also take the *(m/(w))(y(a/e))* format:
+	* *Kanojo* + *nya* :: *kanojya*
+	* *Kanojo* + *mya* :: *kanojwa*
