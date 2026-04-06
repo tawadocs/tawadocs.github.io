@@ -254,8 +254,8 @@
 * *nyu/nya/nye* are romantic markers
 * For loaded verbs like *himae* or *esace*, *-ru* is used in its archaic meaning of 'naked / vulnerable'
 * For verbs like *kedesu* (shame), you split on *ru* and *myu*:
-	* *Kedeshu* :: intimately shame
-	* *Kedeshwu* :: romantically shame
+	* *Kedeshu* :: romantically shame
+	* *Kedeshwu* :: intimately shame
 	* *Kedesu* :: to shame or embarrass
 * In **NSKT 3.5**, *-(n)yu* takes the *-yu* form and *-(m)yu* takes the *-wu* form
 * So, *koro* + *myu* is *korwu*, whereas *koro* + *nyu* is *koryu*

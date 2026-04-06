@@ -195,8 +195,8 @@
 	* and the same follows for *tashitenairra* (more casual) (than *tashitenarra*)
 * Also, remember that:
 	* *Kedesu* refers to general embarrassing, singling out, or shaming
-	* *Kedeshu* refers to betraying or backstabbing, because it has intimacy baked in
-		* for a friend backstabbing you, you'd use *kekedesu*
+	* *Kedeshu* refers to betraying or backstabbing, because it has romance baked in, but it's more general, as in shaming in terms of romance (i.e., it includes fetish/kink shaming)
+		* for a friend backstabbing you, you'd use the intimate *kedeshwu*
 * A rarer form is *-natenate* or *-tenate*
 * It is used to connect the previous verb taking an implied purposive with a new purposive
 * Let's say you broke a vase:
