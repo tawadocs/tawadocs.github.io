@@ -45,6 +45,28 @@
 				* when it combines with verbs, it takes the *uoi* form (V.IRR)
 				* the noun form *oei* is also available
 * modal system is the same, but instead of **ũ**, the infinitive *te* is used (e.g., *subute* :: want to (...))
+* The demonstrative **lyo** stays the same, but the most common and most used form now is:
+	* *-iou* :: /ioʊ~iou/
+	* it has these forms:
+		* *iou* :: `DEM.DIST.AN`
+			* nature
+			* birds, mountains, water, natural resources, moon, etc.
+		* *shiou* :: `DEM.DIST.INAN`
+			* human-made / artificial objects
+			* plastic bottles, useless skyscrapers
+		* *niou* :: `DEM.DIST.INAN.NHUN`
+			* non-human, inanimate nature
+			* rocks, random dust, etc.
+		* *hiou* :: `DEM.DIST`
+			* grammatical words, like *oto* (what) or unclear terms
+	* examples:
+		* *hiou ochita?* :: what about that?
+			* *ochita* is an informal contraction of *oto* (what) + *ita* (partitive)
+			* with *ochi* + *ita*, there would be a break
+		* *niou taka* :: that rock
+		* *shiou tete* :: that hand (e.g., sculpture, mould, artificial)
+		* *iou ngoshi* :: that bird
+		* *iou hon* :: that person
 
 ## 6.2 Questions
 * In Koyeah Tawa, *yo* (`Q.ALT`) is another question particle used when *no* nominalises a thing and that nominalisation is marked a question:
