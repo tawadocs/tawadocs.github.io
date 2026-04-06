@@ -50,6 +50,6 @@
 - **zon- / zom- (intra/restrictive):** **`INTRA`** (Intra-prefix) or **`RESTR`** (Restrictive).
 - **mensu- / pensu-:** **`REFL`** (Reflexive).
 
-- **echi- (post-):** **`POST`** (Post-prefix).
+- **echi- (post-):** **`AFTER`** (Post-prefix).
     
-- **ije- (pre-):** **`PRE`** (Pre-prefix).
+- **ije- (pre-):** **`BEFORE`** (Pre-prefix).
