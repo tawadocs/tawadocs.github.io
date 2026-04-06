@@ -122,6 +122,11 @@
 	* *ushikitsui nogi* :: a fun tool/thing/object
 		* sounds weird
 	* *ushikitsui no (ng)* :: a fun thing (idea/event)
+* *ou* is an archaic particle used to mark complicated direct objects:
+	* *Nampangueni daenapi ou michinu jijerutashi ue*
+	* `number-SRC.LEX-GER-ATTR FORM-line ACC2 tight.ATTR-MOD LOC-ILL.CAUS-POT.ATTR COP.POL`
+	* lit. "Measuring tube, tightly put-into-able is"
+	* ~"It is possible to tightly fix (something) into a measuring tube"
 
 #### 2.1.3.1 Negation
 * *rraoe* means 'non/not'
