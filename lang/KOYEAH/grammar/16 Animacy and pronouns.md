@@ -344,3 +344,22 @@
 * This is because *suno a shirenai wou* is the 'knowing' of *zuno* (you)
 * When used this way, it makes it feel like that *zuno* believes that me (as *suno*) is very polite or oblivious, depending on context
 * When you establish yourself as *su* later (tough/masculine), it carries that tone
+
+### 16.10.2 With first personal plural
+* Take:
+	* *Na ni toieiieoite watada kamu!* :: `1PL.AN TOP PFV-AUG-good-IRR-INF only eat.V`
+		* ~"It would have been better if we had just eaten!"
+* Here, we use *na ni* over *nano ni* (where *nano* is `1PL.AN.POL`)
+* This is because *na* includes:
+	* **1SG.AN** (me/speaker)
+	* **2SG.AN** (you/listener)
+	* maybe unspecified others
+* When the speakers are a part of each others' space, like together in a room, *na* without the polite form is fine to use
+* It includes everyone as a part of a 'shared' space
+* But with strangers, it would likely be uncomfortable
+* Note that if you said:
+	* *zu ni...*
+* ... then it is likely that it may have come off as angry and dismissive (like you were seriously angry/mad at the person)
+* You would be required to use *zuno ni*, depending on the comfort or boundaries of the person, because some friends may be more comfortable with impolite pronouns like *zu*
+	* generally, in Tawa, we always prefer polite pronouns above impolite pronouns
+	* even though using casual forms and all of that is fine with friends, pronouns are a special case
