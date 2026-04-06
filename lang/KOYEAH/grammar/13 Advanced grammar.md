@@ -29,7 +29,11 @@
 	* *Zu a fofu no ni, arene i, toshire* :: `2SG A speak.V NMZ TOP different COP PFV-learn`
 		* lit. "You said (as a thing), different is, learnt"
 		* ~"I realised that what you said is different"
-		* ~"I've learnt that what you said was different"
+		* ~"I've learnt that what you said was different
+* Ashi Tawa's backshift *hi* is not a bound morpheme and is usually written with a hyphen or freeform
+* In the case of *seka* (so/that way), *hi* makes the previous clause a 'reason:'
+	* *Damiite ieinashitang seka hi..*
+		* ~"So that it is easier to heat it up..."
 
 ### 13.1.1 Experience or judgement
 * Compare:
