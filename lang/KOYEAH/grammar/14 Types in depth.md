@@ -26,6 +26,12 @@
 * Otherwise, the *-tasu* form is fine:
 	* *Sa ga kitatasu i* :: she is likeable
 	* or *sa ga kitatashi* if omitting copular
+		* it's closer to 'maybe I like her' / 'I can like her,' and actually carries a playful tone
+		* you'd see it in the *sano ga kitatashi...* form if someone was talking about a crush
+		* otherwise, it is natural to say:
+			* *sano ga kitai*
+			* with the attributive it just means, 'I like her,' but it is less direct (preferable)
+			* if you said *kita sanōe*, then it would be a little more direct
 * As a verb, the bare *tasu* form is also used, but it's often transitive as *matasu*:
 	* *Fumatasu* :: `ACT-TR.POT.PLT.V`
 		* ~"To make X doable"
