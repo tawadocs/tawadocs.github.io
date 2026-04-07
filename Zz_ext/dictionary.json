@@ -290,6 +290,24 @@
     ]
   },
   {
+    "word": "oie",
+    "id": "intj-23",
+    "definitions": [
+      {
+        "text": "wow",
+        "frequency": 100
+      },
+      {
+        "text": "no way",
+        "frequency": 100
+      },
+      {
+        "text": "dang",
+        "frequency": 100
+      }
+    ]
+  },
+  {
     "word": "seka",
     "id": "filler-11",
     "definitions": [
