@@ -363,3 +363,17 @@
 * You would be required to use *zuno ni*, depending on the comfort or boundaries of the person, because some friends may be more comfortable with impolite pronouns like *zu*
 	* generally, in Tawa, we always prefer polite pronouns above impolite pronouns
 	* even though using casual forms and all of that is fine with friends, pronouns are a special case
+
+## 16.11 Usage
+* Pronouns are very frequently omitted
+* For example, directly saying *zuno* or *zu* can be quite rude or too direct, so it is better avoided
+* People are either referred to by their titles, names, roles, or the reference is dropped and understood from context
+* For example:
+	* *Maikaiku ni riwaka yo?* :: `mica-HON TOP think Q.POL`
+		* lit. "What does Mica think?"
+		* ~"What do you think?"
+* So, don't be direct and don't single out
+* In contexts of relationships, distance, or close friends, it can be fine
+	* so if you know nothing about someone, you can say *sano ni yo?* (who is she?)
+	* in instructions or manuals, *zu/zuno* is fine
+	* between partners or friends, it can be fine
