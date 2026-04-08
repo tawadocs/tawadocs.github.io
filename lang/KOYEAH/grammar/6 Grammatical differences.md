@@ -57,8 +57,9 @@
 		* *niou* :: `DEM.DIST.INAN.NHUN`
 			* non-human, inanimate nature
 			* rocks, random dust, etc.
-		* *hiou* :: `DEM.DIST`
+		* *hiou* :: `DEM.DIST.ABST`
 			* grammatical words, like *oto* (what) or unclear terms
+			* abstract referencing like 'that is (...)'
 	* examples:
 		* *hiou ochita?* :: what about that?
 			* *ochita* is an informal contraction of *oto* (what) + *ita* (partitive)

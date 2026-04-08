@@ -101,3 +101,31 @@
 		* lit. 'also love cats?'
 	* *wa!* :: I do too!
 		* lit. 'also'
+
+## 17.4 Other than *ei*
+* *ei* is no longer as common as it used to be
+* Now, negation of verbs is preferred:
+	* *Eaenai yo?* :: `MOV-GER.MID Q.POL`
+		* "Are you going?"
+	* *Eanarra* :: `MOV-MID.NEG`
+		* "I'm not going"
+* The literal *rra* (no) is not used apart from this, you'd use other words or be indirect
+* For example, if someone says:
+	* *Ko, subite reoyaranate asasun yo?* :: `day desire.ATTR-INF IPFV-come-MID.INF house-1SG.AN.POSS Q.POL`
+		* ~"Would you like to come to my house tomorrow?"
+* ... you reply with either:
+	* *Ko yo? Lilii...* :: `day Q.POL little-ATTR`
+		* lit. "Tomorrow? A bit..."
+		* ~"Tomorrow? That will be a little hard..."
+			* polite refusal, more casual
+* or:
+	* *Ko yo? Ielilii dami ue...* :: `day Q.POL AUG-little-ATTR easy COP.POL`
+		* ~"Tomorrow? Tomorrow might be hard (lit. 'less easy') for me to manage"
+			* more complete
+			* both imply that a later time would be better, but this one makes it more explicit
+* If you wanted to fully refuse the invitation:
+	* *Wanojisun ga aoerra ue* :: `circumstance-1SG.AN.POSS NOM favour-NEG`
+		* lit. "My circumstances are not favourable"
+	* *Hiou ni iedamiṋ, sekareta ue* :: `DEM.DIST.ABST TOP AUG-easy-REVS so-RESL COP.POL`
+		* lit. "As for that, harder so it will end up is"
+		* ~"That might unfortunately be hard for me to manage"

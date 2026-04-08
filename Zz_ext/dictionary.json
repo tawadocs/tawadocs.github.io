@@ -32,6 +32,24 @@
     ]
   },
   {
+    "word": "aoe",
+    "id": "favour-1",
+    "definitions": [
+      {
+        "text": "favourable",
+        "frequency": 100
+      },
+      {
+        "text": "favour",
+        "frequency": 100
+      },
+      {
+        "text": "prefer",
+        "frequency": 100
+      }
+    ]
+  },
+  {
     "word": "arenko",
     "id": "rest-1",
     "definitions": [
@@ -386,6 +404,24 @@
     ]
   },
   {
+    "word": "tengu",
+    "id": "bro-2",
+    "definitions": [
+      {
+        "text": "buddy",
+        "frequency": 100
+      },
+      {
+        "text": "friend",
+        "frequency": 100
+      },
+      {
+        "text": "little one",
+        "frequency": 100
+      }
+    ]
+  },
+  {
     "word": "tomoe",
     "id": "fox-1",
     "definitions": [
@@ -435,6 +471,50 @@
       },
       {
         "text": "stealthily",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "uuwa",
+    "id": "hard-3",
+    "definitions": [
+      {
+        "text": "hard",
+        "frequency": 100
+      },
+      {
+        "text": "difficult",
+        "frequency": 100
+      },
+      {
+        "text": "challenging",
+        "frequency": 100
+      },
+      {
+        "text": "not easy",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "wanojioe",
+    "id": "situation-1, circumstance-1",
+    "definitions": [
+      {
+        "text": "circumstance",
+        "frequency": 100
+      },
+      {
+        "text": "timing",
+        "frequency": 100
+      },
+      {
+        "text": "situation",
+        "frequency": 100
+      },
+      {
+        "text": "schedule",
         "frequency": 100
       }
     ]
