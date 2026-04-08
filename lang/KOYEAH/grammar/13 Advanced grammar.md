@@ -134,6 +134,21 @@
 		* ~"Mica's nose is long" (i.e., he is a liar)
 			* when you describe something as *napii*, it means that it has line qualities; e.g., length
 
+### 13.1.5 **ga** and **ni** comparison
+* Let's look at 'I like you'
+* In Tawa, just saying:
+	* *kitai ue* :: `like-ATTR COP.POL`
+* ... is enough
+* Still, we will compare:
+	* *zuno ga kitai ue* :: `2SG.AN.POL NOM like-ATTR COP.POL`
+		* ~"It is you whom I like"
+		* since *ga* marks focus
+	* *zuno ni kitai ue* :: `2SG.AN.POL TOP like-ATTR COP.POL`
+		* it can have many meanings
+		* if you were talking about your classmates, it could mean:
+			* ~"I like you (but not my other classmates)"
+* Note: *zuno* can feel distant or even formal, so it is better to either say *kitai ue* or their name
+
 ## 13.2 Clausal actors
 * A whole predicate can be an 'actor:'
 	* *kanatashimg makure a fofu hakuhwōe* :: `word-POT.ATTR-G.REVS emotion A speak.V real-essence-N`
