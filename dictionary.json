@@ -680,7 +680,7 @@
     ]
   },
   {
-    "word": "azaya",
+    "word": "azaia",
     "id": "tawa sike",
     "definitions": [
       {
@@ -1704,7 +1704,7 @@
     ]
   },
   {
-    "word": "fiyui",
+    "word": "fiyuo",
     "id": "weka",
     "definitions": [
       {
@@ -2870,6 +2870,56 @@
     ]
   },
   {
+    "word": "hiako",
+    "id": "len",
+    "definitions": [
+      {
+        "text": "clothing",
+        "frequency": 100
+      },
+      {
+        "text": "cloth",
+        "frequency": 100
+      },
+      {
+        "text": "clothes",
+        "frequency": 100
+      },
+      {
+        "text": "fabric",
+        "frequency": 100
+      },
+      {
+        "text": "outfit",
+        "frequency": 100
+      },
+      {
+        "text": "privacy",
+        "frequency": 100
+      },
+      {
+        "text": "cover",
+        "frequency": 100
+      },
+      {
+        "text": "dress",
+        "frequency": 100
+      },
+      {
+        "text": "jacket",
+        "frequency": 100
+      },
+      {
+        "text": "wear",
+        "frequency": 100
+      },
+      {
+        "text": "shirt",
+        "frequency": 100
+      }
+    ]
+  },
+  {
     "word": "hibikoo",
     "id": "nasin lawa",
     "definitions": [
@@ -3175,56 +3225,6 @@
       },
       {
         "text": "stop (from)",
-        "frequency": 100
-      }
-    ]
-  },
-  {
-    "word": "hyako",
-    "id": "len",
-    "definitions": [
-      {
-        "text": "clothing",
-        "frequency": 100
-      },
-      {
-        "text": "cloth",
-        "frequency": 100
-      },
-      {
-        "text": "clothes",
-        "frequency": 100
-      },
-      {
-        "text": "fabric",
-        "frequency": 100
-      },
-      {
-        "text": "outfit",
-        "frequency": 100
-      },
-      {
-        "text": "privacy",
-        "frequency": 100
-      },
-      {
-        "text": "cover",
-        "frequency": 100
-      },
-      {
-        "text": "dress",
-        "frequency": 100
-      },
-      {
-        "text": "jacket",
-        "frequency": 100
-      },
-      {
-        "text": "wear",
-        "frequency": 100
-      },
-      {
-        "text": "shirt",
         "frequency": 100
       }
     ]
@@ -5902,6 +5902,128 @@
     ]
   },
   {
+    "word": "miako",
+    "id": "palisa",
+    "definitions": [
+      {
+        "text": "stick",
+        "frequency": 100
+      },
+      {
+        "text": "rod",
+        "frequency": 100
+      },
+      {
+        "text": "stake",
+        "frequency": 100
+      },
+      {
+        "text": "pole",
+        "frequency": 100
+      },
+      {
+        "text": "branch",
+        "frequency": 100
+      },
+      {
+        "text": "staff",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "miho",
+    "id": "kasi",
+    "definitions": [
+      {
+        "text": "plant",
+        "frequency": 100
+      },
+      {
+        "text": "bush",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "mio",
+    "id": "mute",
+    "definitions": [
+      {
+        "text": "plenty",
+        "frequency": 100
+      },
+      {
+        "text": "many",
+        "frequency": 100
+      },
+      {
+        "text": "much",
+        "frequency": 100
+      },
+      {
+        "text": "multiple",
+        "frequency": 100
+      },
+      {
+        "text": "very",
+        "frequency": 100
+      },
+      {
+        "text": "lots",
+        "frequency": 100
+      },
+      {
+        "text": "several",
+        "frequency": 100
+      },
+      {
+        "text": "numerous",
+        "frequency": 100
+      },
+      {
+        "text": "various",
+        "frequency": 100
+      },
+      {
+        "text": "most",
+        "frequency": 100
+      },
+      {
+        "text": "quantity",
+        "frequency": 100
+      },
+      {
+        "text": "twenty",
+        "frequency": 100
+      },
+      {
+        "text": "fifty",
+        "frequency": 100
+      },
+      {
+        "text": "thousand",
+        "frequency": 100
+      },
+      {
+        "text": "nine",
+        "frequency": 100
+      },
+      {
+        "text": "majority",
+        "frequency": 100
+      },
+      {
+        "text": "incredibly",
+        "frequency": 100
+      },
+      {
+        "text": "million",
+        "frequency": 100
+      }
+    ]
+  },
+  {
     "word": "miri",
     "id": "meso",
     "definitions": [
@@ -5987,20 +6109,6 @@
       },
       {
         "text": "cock-a-doodle-doo",
-        "frequency": 100
-      }
-    ]
-  },
-  {
-    "word": "miyo",
-    "id": "kasi",
-    "definitions": [
-      {
-        "text": "plant",
-        "frequency": 100
-      },
-      {
-        "text": "bush",
         "frequency": 100
       }
     ]
@@ -6235,114 +6343,6 @@
       },
       {
         "text": "violet",
-        "frequency": 100
-      }
-    ]
-  },
-  {
-    "word": "myako",
-    "id": "palisa",
-    "definitions": [
-      {
-        "text": "stick",
-        "frequency": 100
-      },
-      {
-        "text": "rod",
-        "frequency": 100
-      },
-      {
-        "text": "stake",
-        "frequency": 100
-      },
-      {
-        "text": "pole",
-        "frequency": 100
-      },
-      {
-        "text": "branch",
-        "frequency": 100
-      },
-      {
-        "text": "staff",
-        "frequency": 100
-      }
-    ]
-  },
-  {
-    "word": "myo",
-    "id": "mute",
-    "definitions": [
-      {
-        "text": "plenty",
-        "frequency": 100
-      },
-      {
-        "text": "many",
-        "frequency": 100
-      },
-      {
-        "text": "much",
-        "frequency": 100
-      },
-      {
-        "text": "multiple",
-        "frequency": 100
-      },
-      {
-        "text": "very",
-        "frequency": 100
-      },
-      {
-        "text": "lots",
-        "frequency": 100
-      },
-      {
-        "text": "several",
-        "frequency": 100
-      },
-      {
-        "text": "numerous",
-        "frequency": 100
-      },
-      {
-        "text": "various",
-        "frequency": 100
-      },
-      {
-        "text": "most",
-        "frequency": 100
-      },
-      {
-        "text": "quantity",
-        "frequency": 100
-      },
-      {
-        "text": "twenty",
-        "frequency": 100
-      },
-      {
-        "text": "fifty",
-        "frequency": 100
-      },
-      {
-        "text": "thousand",
-        "frequency": 100
-      },
-      {
-        "text": "nine",
-        "frequency": 100
-      },
-      {
-        "text": "majority",
-        "frequency": 100
-      },
-      {
-        "text": "incredibly",
-        "frequency": 100
-      },
-      {
-        "text": "million",
         "frequency": 100
       }
     ]
@@ -7500,7 +7500,37 @@
     ]
   },
   {
-    "word": "pamya",
+    "word": "paia",
+    "id": "paya",
+    "definitions": [
+      {
+        "text": "study",
+        "frequency": 100
+      },
+      {
+        "text": "paper",
+        "frequency": 100
+      },
+      {
+        "text": "exam",
+        "frequency": 100
+      },
+      {
+        "text": "test",
+        "frequency": 100
+      },
+      {
+        "text": "parchment",
+        "frequency": 100
+      },
+      {
+        "text": "sheet",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "pamia",
     "id": "pamya",
     "definitions": [
       {
@@ -7617,36 +7647,6 @@
       },
       {
         "text": "twin",
-        "frequency": 100
-      }
-    ]
-  },
-  {
-    "word": "paya",
-    "id": "paya",
-    "definitions": [
-      {
-        "text": "study",
-        "frequency": 100
-      },
-      {
-        "text": "paper",
-        "frequency": 100
-      },
-      {
-        "text": "exam",
-        "frequency": 100
-      },
-      {
-        "text": "test",
-        "frequency": 100
-      },
-      {
-        "text": "parchment",
-        "frequency": 100
-      },
-      {
-        "text": "sheet",
         "frequency": 100
       }
     ]

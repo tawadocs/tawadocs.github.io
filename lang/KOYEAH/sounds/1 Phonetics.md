@@ -25,11 +25,29 @@
 			* for labiovelarisation
 
 ## 1.2 Vowel inventory
-|               | Front  | Near-front | Central | Near-back | Back   |
-| ------------- | ------ | ---------- | ------- | --------- | ------ |
-| **High**      | i (ĩ) |            |         |           | u (ũ) |
-| **Near-high** |        | ɪ          |         | ʊ         |        |
-| **Mid**       | e (ẽ) |            | ə       |           | o (õ) |
-| **Low-mid**   |        | ɛ          |         | ʌ         |        |
-| **Near-low**  | æ      |            |         |           | ɔ      |
-| **Low**       |        |            | a (ã)  |           |        |
+|               | Front | Near-front | Central | Near-back | Back |
+| ------------- | ----- | ---------- | ------- | --------- | ---- |
+| **High**      | i ĩ  |            |         |           | u ũ |
+| **Near-high** |       | ɪ          |         | ʊ         |      |
+| **Mid**       | e ẽ  |            | ə       |           | o õ |
+| **Low-mid**   |       | ɛ          |         |           |      |
+| **Near-low**  | æ     |            |         |           | ɔ    |
+| **Low**       |       |            | a ã    |           |      |
+* The nasalised **ã** /ã/ is actually pronounced differentl when functioning as the modern semantic reverser:
+	* *Kamu* :: eat
+	* *Kamuã* :: vomit
+	* *Hataka* :: front
+	* *Hatakaã* :: back
+	* *Asa* :: house
+	* *Asaã* :: the opposite of a house
+* When appearing like this, it is pronounced:
+	* **`/ãõ̯/`**
+		* which is the only diphthong in the Tawa language
+* So, *kamuã* or *asaã* would be pronounced:
+	* **`/'ka.mu.ãõ̯/`** (only **three** morae)
+	* **`/'[ʔ]a.sa.ãõ̯/`** (also **three** morae)
+		* note: the glottal stop here is not contrastive
+		* it's usually inserted if the previous word or its suffix ends in a vowel
+* Tawa is a moraically timed language, so /ã/ and /õ/ are one beat each
+* So, *ãõ* would be two morae `/'ã.õ/`
+* But in the case of the inverser, written as *ã*, it is only one mora because it is a diphthong that counts as one vowel

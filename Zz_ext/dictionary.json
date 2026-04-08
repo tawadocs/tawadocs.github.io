@@ -158,7 +158,7 @@
     ]
   },
   {
-    "word": "hyongu",
+    "word": "hiongu",
     "id": "seme",
     "definitions": [
       {
@@ -345,6 +345,16 @@
       },
       {
         "text": "dang",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "oucao",
+    "id": "behind-03",
+    "definitions": [
+      {
+        "text": "behind",
         "frequency": 100
       }
     ]

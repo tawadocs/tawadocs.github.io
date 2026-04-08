@@ -11,6 +11,7 @@
 	* it takes the form *-nq* /əɴ/ when it appears before another nasal
 	* so *hon* + *-nq* is *honnq* /hɔnəɴ/
 	* this follows for other affixes like *-ngu*
+	* as the semantic inverser, *nq* is now simply *ã*, pronounced as **`/ãõ̯/`**, the only Tawish diphthong
 * *w* `/ʋ/` and *v* `/w/` are simply `/w~ʋ/`
 * *ni* is simply `/ni/` for there is no palatal allophony anymore
 * mono- and direduplication as well as degree remains, but:
