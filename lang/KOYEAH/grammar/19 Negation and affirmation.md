@@ -163,4 +163,4 @@
 	* *Subite eanatenai yo?* (do you want to go out?)
 	* *Rie yo?*
 		* more literally, 'do you want me to?'
-		* but pragmatically, 'do you want to go out?'
+		* but pragmatically, '(no), do **YOU** want to go out?'
