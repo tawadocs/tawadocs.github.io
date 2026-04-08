@@ -47,6 +47,11 @@
 				* so *oie aia!* is equally as valid and natural, but it would be more like:
 					* 'damn, yes!' or 'wow! yeah!'
 				* don't think too much about it, though
+* Only *mo* functions like a head-initial particle sometimes, but this is because it has multiple roles:
+	* *Reoniru mo oia anee?* :: `IPFV-see.V SEQ POL.AFFIRM CONF`
+		* lit. "Will watch then yes isn't it?"
+		* ~"But you'll still be watching with me right?"
+		* ~"You'll still watch with me right?"
 
 ## 0.3 Quoting
 * When quoting something, note that the meaning slightly differs regarding usage of middle voice:
