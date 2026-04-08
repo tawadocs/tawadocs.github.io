@@ -377,3 +377,27 @@
 	* so if you know nothing about someone, you can say *sano ni yo?* (who is she?)
 	* in instructions or manuals, *zu/zuno* is fine
 	* between partners or friends, it can be fine
+* You can also use vocatives, or drop them if you want to be more soft and polite:
+	* *(ta), subu yo?* :: `(VOC) desire.V Q.POL`
+	* *(ta) Maikaiku, subu yo?* :: `(VOC) mica-HON desire.V Q.POL`
+		* ~"(Hey), do you want this?"
+		* ~"(Yo), Mica, would you like this?"
+		* ~"What do you want?"
+			* context decides how it is parsed
+
+### 16.11.1 Literal meanings
+* *sa*, *na*, *so*, *za*, amongst others have literal meanings:
+	* *sa* means 'lady/mistress/queen' (*saoe*)
+	* *na* means 'group' (*naoe*)
+	* *so* means 'lord/king/mister' (*sōe*)
+	* *za* means 'your group' (*zaoe*)
+	* *zu* means 'the deuce' (*zuoe*)
+		* you may ocassionally see *-tei* forms
+* The polite forms literally mean
+	* *sano* :: of the lady / the lady's
+	* *nano* :: the group's
+* ... and so on
+* Out of these, *zu/zuno/za/zano* are the most direct and potentially impolite to use, depending on circumstances
+* In songs or media, you'll see them used often, but not in direct conversation, because it can feel like singling someone out, which is best avoided
+* If you said *zu a...* to a friend, it would be like calling him:
+	* 'the other guy'
