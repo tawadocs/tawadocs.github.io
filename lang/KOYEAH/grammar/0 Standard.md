@@ -52,6 +52,9 @@
 		* lit. "Will watch then yes isn't it?"
 		* ~"But you'll still be watching with me right?"
 		* ~"You'll still watch with me right?"
+* *Aa/ani* and other particles are also head-final now:
+	* *Iaoe ni pokii ue aa, iepokii ue!* :: `above-N.ACC TOP big-ATTR COP.POL CONC AUG-big-ATTR COP.POL`
+		* ~"Even though the top is big, I'm bigger"
 
 ## 0.3 Quoting
 * When quoting something, note that the meaning slightly differs regarding usage of middle voice:
