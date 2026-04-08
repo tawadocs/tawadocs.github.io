@@ -157,3 +157,18 @@
 		* ~"Towards you (is) my love"
 		* note that *-nya/-nye* depends on gender
 		* we assume a male is saying this (so they'd use *nya* for attraction (because the male would be attracted to a female))
+
+## 3.7 Nominal reference
+* If you were asking for pillows and there were multiple pillows, such as:
+	* body pillows
+	* cushions
+	* headrest pillows
+* ... how would you ask for, say, the last kind of pillow?
+* In Tawa, it is natural to say:
+	* *riwakangōe ji jien woui no ng* :: `think-SRC.WHOLE-N.ACC LOC ILL.CAUS-GER QUOT3-ATTR NMZ DUM`
+		* lit. "'Head in putting' thing"
+		* ~"The one meant for going under your head"
+	* or, more conversationally:
+		* *riwakangōe ye no* :: `think-SRC.WHOLE-N.ACC BEN NMZ`
+		* lit. "For the benefit of your head (one/thing)"
+		* ~"The one for your head"
