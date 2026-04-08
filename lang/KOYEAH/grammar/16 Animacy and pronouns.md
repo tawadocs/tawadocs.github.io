@@ -411,13 +411,21 @@
 			* context decides how it is parsed
 
 ### 16.11.1 Literal meanings
-* *sa*, *na*, *so*, *za*, amongst others have literal meanings:
+* *su*, *sa*, *na*, *so*, *za*, amongst others have literal meanings:
+	* *su* means 'ace / one' (*suoe*)
 	* *sa* means 'lady/mistress/queen' (*saoe*)
 	* *na* means 'group' (*naoe*)
 	* *so* means 'lord/king/mister' (*sōe*)
 	* *za* means 'your group' (*zaoe*)
 	* *zu* means 'the deuce' (*zuoe*)
 		* you may ocassionally see *-tei* forms
+		* and yes, the pronouns can be used in card games:
+			* *suoe* :: ace
+			* *zuoe* :: deuce / 2
+			* *saoe* :: queen
+			* *sōe* :: king
+		* the **Jack** card just uses:
+			* *jakku* or, less commonly, *jisuoe*
 * The polite forms literally mean
 	* *sano* :: of the lady / the lady's
 	* *nano* :: the group's
