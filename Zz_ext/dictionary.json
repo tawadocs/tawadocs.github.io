@@ -210,6 +210,36 @@
     ]
   },
   {
+    "word": "kiuo",
+    "id": "slangfiller-1",
+    "definitions": [
+      {
+        "text": "type",
+        "frequency": 100
+      },
+      {
+        "text": "shit",
+        "frequency": 100
+      },
+      {
+        "text": "like",
+        "frequency": 100
+      },
+      {
+        "text": "kinda",
+        "frequency": 100
+      },
+      {
+        "text": "thing",
+        "frequency": 100
+      },
+      {
+        "text": "stuff",
+        "frequency": 100
+      }
+    ]
+  },
+  {
     "word": "kusu",
     "id": "curse-1",
     "definitions": [
