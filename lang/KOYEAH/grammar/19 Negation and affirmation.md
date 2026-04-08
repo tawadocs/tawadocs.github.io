@@ -89,23 +89,23 @@
 					* it can tend romantic
 	* or a number of other ways
 * Or by using these affirmation particles:
-	* *Rri*
+	* *Rri* (AFFIRM)
 		* casual, can be rude
-	* *Ae*
+	* *Ae* (FORM.AFFIRM)
 		* very formal and respectful
-	* *Mun*
+	* *Mun* (POT.AFFIRM)
 		* 'it is possible' / 'I am able' / 'I should be able'
 		* also formal
-	* *Aia*
+	* *Aia* (INTIM.AFFIRM)
 		* more romantic or intimate
 		* can be rude or immature (must never be used outside intimate/romantic/playful/teasing settings)
-	* *Rie*
+	* *Rie* (AFFIRM2)
 		* 'I understand' / 'I see' / 'I get it'
 		* very polite
-	* *Oia*
+	* *Oia* (POL.AFFIRM)
 		* 'fine' / 'I guess so' / 'sure' / 'why not'
 		* very polite general affirmative
-	* *E*
+	* *E* (okay)
 		* 'okay'
 		* usually can't directly be used for a type of affirmation, unless you say:
 			* *E ue* (it is okay)

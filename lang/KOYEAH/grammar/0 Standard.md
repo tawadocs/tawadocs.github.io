@@ -33,6 +33,20 @@
 	* *Tonaiwai wa ue* :: `PFV-happy-ATTR also COP.POL`
 		* ~"Even happy is (something)"
 		* *wa* doesn't work like that, because it usually replaces a marker like **ni**
+* *momg* is also head-final
+* You can also simply use:
+	* `[REASON] momg [RESULT]`
+		* *sono momg kamu*
+			* ~"I had to eat because of him"
+* ... or:
+	* `[DESCRIPTION] we momg [CONNECTION]`
+		* *Aia oie! We momg reoieii ue!* :: `INTIM.AFFIRM EMPH | ADD SEQ-G.REVS IPFV-AUG-good COP.POL`
+			* ~"Damn straight! And that's why we'll be better ((off) now)!"
+				* emphatics like *oie!* usually come after the thing they are emphasising
+				* but it depends on context and speaker
+				* so *oie aia!* is equally as valid and natural, but it would be more like:
+					* 'damn, yes!' or 'wow! yeah!'
+				* don't think too much about it, though
 
 ## 0.3 Quoting
 * When quoting something, note that the meaning slightly differs regarding usage of middle voice:
