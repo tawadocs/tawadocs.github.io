@@ -176,6 +176,20 @@
     ]
   },
   {
+    "word": "ia",
+    "id": "above-3",
+    "definitions": [
+      {
+        "text": "above",
+        "frequency": 100
+      },
+      {
+        "text": "on top of",
+        "frequency": 100
+      }
+    ]
+  },
+  {
     "word": "keko",
     "id": "cake-1",
     "definitions": [
