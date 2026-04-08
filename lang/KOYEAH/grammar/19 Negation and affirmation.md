@@ -153,3 +153,14 @@
 			* ~"I understand"
 			* "Ahh"
 	* or to someone teaching some topic
+* As a question, these would obviously have similar logic:
+	* *Rie yo?* :: (well), do you want me to? / should I?
+	* ... and so on
+* For example:
+	* *Sanōe momg tokamu*
+	* *Rie yo?*
+		* should I understand why?
+	* *Subite eanatenai yo?* (do you want to go out?)
+	* *Rie yo?*
+		* more literally, 'do you want me to?'
+		* but pragmatically, 'do you want to go out?'
