@@ -25,7 +25,7 @@
 		* ~"I simultaneously ran and ate"
 		* ~"I was running and eating at the same time"
 * For 'I was crying, but I was also happy,' you use structures like this:
-	* *To, makuen ni wa naiwai ue* :: `PFV cry-GER TOP also PFV-happy-ATTR COP.POL`
+	* *To, makuen ni wa naiwai ue* :: `PFV cry-GER TOP also happy-ATTR COP.POL`
 		* lit. "Was: crying to (as for it) also happy is"
 		* lit. "As for crying, my being in that state also was happy"
 		* ~"I was crying, but I was also happy"
