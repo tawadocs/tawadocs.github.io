@@ -227,8 +227,10 @@
 * *oto* combines with roots to yield 'question' words:
 	* *otohon* :: who
 	* *ototan* :: why
+		* a causal contraction of this is *ottan*
 	* *otoji* :: where
 		* sometimes *otodan* (from where / what source) may be used
+			* now, it would be *otohan* (*dan* is no longer used)
 	* *otowanō* :: when
 	* *otoun* :: how
 	* *otōe* :: what (casual/modern form of *fuyu*)
