@@ -164,3 +164,12 @@
 	* *Rie yo?*
 		* more literally, 'do you want me to?'
 		* but pragmatically, '(no), do **YOU** want to go out?'
+
+## 19.3 Questions
+* You can use the negation in interrogatives
+* There's many ways to do it, but a common softener template is:
+	* *nee anee yo?* :: `NEG.N CONF Q.POL`
+		* lit. "No, could it be?"
+* Here's a full sentence:
+	* *Chi ga subi ue! Ieiieoite au nee anee yo?* :: `water NOM desire.ATTR COP.POL | AUG-good-IRR-INF HAVE.V NEG.N CONF Q.POL`
+		* ~"I want water! Don't you think that we should get it?"
