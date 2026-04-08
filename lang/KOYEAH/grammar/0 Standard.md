@@ -33,3 +33,18 @@
 	* *Tonaiwai wa ue* :: `PFV-happy-ATTR also COP.POL`
 		* ~"Even happy is (something)"
 		* *wa* doesn't work like that, because it usually replaces a marker like **ni**
+
+## 0.3 Quoting
+* When quoting something, note that the meaning slightly differs regarding usage of middle voice:
+	* *X wou toriwaka* :: (someone) thinks 'X'
+	* *X wou toriwakanai* :: 'X' is thought (by someone)
+* So:
+	* *Sono o wa ieii ue sekareta wou riwaka*
+		* He also thinks that it would have sadly ended up being better
+	* *Sono o wa ieii ue sekareta wou riwakanai*
+		* That he thinks that it would have sadly ended up being better is thought
+* Both are **not natural**
+* You would say:
+	* *Ieii ue sekareta wou sono o wa riwaka*
+		* That it would have ended up being better was thought by him
+			* like saying 'the thought ... occurred to him'
