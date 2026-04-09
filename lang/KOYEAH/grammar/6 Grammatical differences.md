@@ -47,7 +47,7 @@
 				* when it combines with verbs, it takes the *uoi* form (V.IRR)
 				* the noun form *oei* is also available
 * modal system is the same, but instead of **ũ**, the infinitive *te* is used (e.g., *subute* :: want to (...))
-* The demonstrative **lyo** stays the same, but the most common and most used form now is:
+* The demonstrative **lyo** no longer exists, there is only:
 	* *-iou* :: /ioʊ~iou/
 	* it has these forms:
 		* *iou* :: `DEM.DIST.AN`
@@ -70,6 +70,9 @@
 		* *shiou tete* :: that hand (e.g., sculpture, mould, artificial)
 		* *iou ngoshi* :: that bird
 		* *iou hon* :: that person
+* The other demonstratives are pronounced differently:
+	* *byo* :: **/bio/**
+	* *rio* :: **/ɺio/**
 
 ## 6.2 Questions
 * In Koyeah Tawa, *yo* (`Q.ALT`) is another question particle used when *no* nominalises a thing and that nominalisation is marked a question:
