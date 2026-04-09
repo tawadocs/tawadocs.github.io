@@ -8,11 +8,10 @@
 * *r* and *rr* `/ɺ ɾ/` are simply pronounced `/ɺ~ɾ~r/`
 * *nh* is pronounced `/n̥͡n/`, but *mg* `/m͡ŋ~m͡g/` replaced *nh*'s role
 * *nq* `/ɴ/` is pronounced `/ɴ~q~ɢ/`
-	* it takes the form *-nq* /əɴ/ when it appears before another nasal
-	* so *hon* + *-nq* is *honnq* /hɔnəɴ/
-	* this follows for other affixes like *-ngu*
-	* as the semantic inverser, *nq* is now simply *ã*, pronounced as **`/ãõ̯/`**, the only Tawish diphthong
-* *w* `/ʋ/` and *v* `/w/` are simply `/w~ʋ/`
+	* see **2-4** in the phonology section!
+* *v* `/ʋ/` and *w* `/w/` remain distinctive, though:
+	* *v* has another variant: `/v/`
+	* the fricative variant is extremely rare and only appears in contexts like specific dialects or beginner approximations
 * *ni* is simply `/ni/` for there is no palatal allophony anymore
 * mono- and direduplication as well as degree remains, but:
 	* *sta* is written as *suta* (e.g., **nandasuta**) and pronounced `/su̥ta/`

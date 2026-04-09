@@ -23,6 +23,8 @@
 	* e.g., *rw* :: *ɺʷ*
 		* **ʷ**
 			* for labiovelarisation
+		* **ᶹ**
+			* for labiodentalisation
 
 ## 1.2 Vowel inventory
 |               | Front | Near-front | Central | Near-back | Back |
