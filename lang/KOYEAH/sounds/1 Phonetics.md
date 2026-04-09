@@ -1,15 +1,15 @@
 ## 1.1 Consonant inventory
-|                    | Plosive | Nasal          | Fricative | Affricate | Tap/flap | Approximant |
-| ------------------ | ------- | -------------- | --------- | --------- | -------- | ----------- |
-| **Bilabial**       | b p     | m m̥͡m m͡ŋ~m͡g | ɸ         |           |          |             |
-| **Dentialveolar**  | t tʰ d  |                |           | t͡s d͡z   |          | l           |
-| **Alveolar**       |         | n              | s z       |           | ɺ ɾ~r    |             |
-| **Alveolopalatal** |         | nʲ             | ɕ ʑ       | t͡ɕ d͡ʑ   |          |             |
-| **Palatal**        | cʰ      |                |           | c͡ç       |          | j           |
-| **Velar**          | k g     | ŋ              |           |           |          |             |
-| **Labiovelar**     |         |                |           |           |          | w~ʋ         |
-| **Uvular**         |         | `ɴ~q~ɢ`        |           |           |          |             |
-| **Glottal**        | ʔ       |                | h         |           |          |             |
+|                    | Plosive | Nasal  | Fricative | Affricate | Tap/flap | Approximant |
+| ------------------ | ------- | ------ | --------- | --------- | -------- | ----------- |
+| **Bilabial**       | b p     | m m̥͡m | ɸ         |           |          |             |
+| **Dentialveolar**  | t tʰ d  |        |           | t͡s d͡z   |          | l           |
+| **Alveolar**       |         | n      | s z       |           | ɺ ɾ      |             |
+| **Alveolopalatal** |         | nʲ     | ɕ ʑ       | t͡ɕ d͡ʑ   |          |             |
+| **Palatal**        | cʰ      |        |           | c͡ç       |          | j           |
+| **Velar**          | k g     | ŋ      |           |           |          |             |
+| **Labiovelar**     |         | m͡ŋ    |           |           |          | w~ʋ         |
+| **Uvular**         |         | ɴ      |           |           |          |             |
+| **Glottal**        | ʔ       |        | h         |           |          |             |
 * Note the differences from Ashi Tawa (see full differences in **6 Grammatical Differences** in *KOYEAH grammar* documentation)
 * And other than that, there's voiceless vowels and a few other quirks
 * *hy* is always pronounced /ç͡j/ or just /çj/ for simplicity
@@ -33,21 +33,5 @@
 | **Low-mid**   |       | ɛ          |         |           |      |
 | **Near-low**  | æ     |            |         |           | ɔ    |
 | **Low**       |       |            | a ã    |           |      |
-* The nasalised **ã** /ã/ is actually pronounced differentl when functioning as the modern semantic reverser:
-	* *Kamu* :: eat
-	* *Kamuã* :: vomit
-	* *Hataka* :: front
-	* *Hatakaã* :: back
-	* *Asa* :: house
-	* *Asaã* :: the opposite of a house
-* When appearing like this, it is pronounced:
-	* **`/ãõ̯/`**
-		* which is the only diphthong in the Tawa language
-* So, *kamuã* or *asaã* would be pronounced:
-	* **`/'ka.mu.ãõ̯/`** (only **three** morae)
-	* **`/'[ʔ]a.sa.ãõ̯/`** (also **three** morae)
-		* note: the glottal stop here is not contrastive
-		* it's usually inserted if the previous word or its suffix ends in a vowel
-* Tawa is a moraically timed language, so /ã/ and /õ/ are one beat each
-* So, *ãõ* would be two morae `/'ã.õ/`
-* But in the case of the inverser, written as *ã*, it is only one mora because it is a diphthong that counts as one vowel
+* The nasalised **ã** /ã/ and **h** /h/ are actually pronounced differently when functioning as the modern semantic reverser
+* Read **4:4.1.1** (**4 Irregularities**)
