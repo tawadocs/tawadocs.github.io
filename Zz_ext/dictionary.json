@@ -380,6 +380,28 @@
     ]
   },
   {
+    "word": "okie",
+    "id": "interj-3, okay",
+    "definitions": [
+      {
+        "text": "in any case",
+        "frequency": 100
+      },
+      {
+        "text": "I believe",
+        "frequency": 100
+      },
+      {
+        "text": "anyway",
+        "frequency": 100
+      },
+      {
+        "text": "doesn't matter",
+        "frequency": 100
+      }
+    ]
+  },
+  {
     "word": "oucao",
     "id": "behind-03",
     "definitions": [
