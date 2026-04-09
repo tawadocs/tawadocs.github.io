@@ -49,3 +49,18 @@
 ### 4.1.2 The Tawish diphthong
 * All of this also explains why Tawa only has one, singular diphthong
 * The diphthong comes from the uvular nasal itself, as the nasal was vocalised
+
+## 4.2 Depalatalisation
+* Almost all palatalised consonants have turned into:
+	* **C** + **i**
+	* e.g.,
+		* *mya* is actually pronounced `/mia/`
+		* *myia* is different, pronounced `/mʲia/`
+* Even *hy* sequences are just *hi* now:
+	* *hyako* (clothes), now spelt *hiako*
+* So, a palatalised consonant like *ky* is always pronounced like *ki*
+* Keep these patterns in mind:
+	* usually, the *y* is replaced with a simple *i* in most words now
+		* it is the older words like *myo* which have survived this
+	* a consonant plus *yi* sequence always results in palatalisation, not a double *i* vowel
+		* *m* + *yi* :: *myi* `/mʲi/`

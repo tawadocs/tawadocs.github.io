@@ -24,8 +24,6 @@
 | aa       | **CONC**                                |
 | ani      | **PROV-CIRC.PRIV**                      |
 | suta     | **MAX.DIM**                             |
-| nyi      | **AUG.SUP**                             |
-| sutanyi  | **MAX.DIM-AUG.SUP**                     |
 | cha      | **F**                                   |
 | che      | **M**                                   |
 | nya      | **ROMANTIC.F**                          |
@@ -47,7 +45,7 @@
 | yo       | **Q.POL**                               |
 | tei      | **N.PAT**                               |
 | mai      | **TR** (but use **TR.CAUS** as default) |
-| myu      | **INTIM.V**                             |
+| myum     | **INTIM.V**                             |
 | mya      | **INTIM.F**                             |
 | mye      | **INTIM.M**                             |
 * Others stay the same, as described

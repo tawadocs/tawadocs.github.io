@@ -434,6 +434,24 @@
     ]
   },
   {
+    "word": "safuko",
+    "id": "gradual-2",
+    "definitions": [
+      {
+        "text": "gradually",
+        "frequency": 100
+      },
+      {
+        "text": "slowly",
+        "frequency": 100
+      },
+      {
+        "text": "by the minute/hour",
+        "frequency": 100
+      }
+    ]
+  },
+  {
     "word": "seka",
     "id": "filler-11",
     "definitions": [
@@ -601,6 +619,32 @@
       },
       {
         "text": "not easy",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "uzumo",
+    "id": "sev1-2",
+    "definitions": [
+      {
+        "text": "severely",
+        "frequency": 100
+      },
+      {
+        "text": "extremely",
+        "frequency": 100
+      },
+      {
+        "text": "too much",
+        "frequency": 100
+      },
+      {
+        "text": "far too much",
+        "frequency": 100
+      },
+      {
+        "text": "highly",
         "frequency": 100
       }
     ]
