@@ -211,7 +211,7 @@
 		* ~"If you keep on eating, you'll keep on getting fatter"
 * Or, here's one without *hiou / euma*:
 	* *Wam butei ou jijiinu tonampanguu zhi arenki no o angarenebuyarae* :: `one.ORD PROP-N.PAT ACC2 INTENS~LOC-ATTR-MOD PFV-number-SRC.LEX\V TEMP other.ATTR NMZ U PRIV-different-PROP-become.MID.POL`
-		* lit. "One property exactly was measured when (it was), the other one indistinctifies"
-		* ~"When you measure one property accurately, the other property becomes less accurate to measure"
+		* lit. "The first property exactly was measured when (it was), the other one indistinctifies"
+		* ~"When you measure the first property accurately, the second property becomes less accurate to measure"
 			* note: *tonampanguru* should be the proper verb form, but *tonampanguu* is fine as a shorthand
 			* *-yarae* is formed from *yaro* (to become) + *-(n)ae* (polite middle voice)
