@@ -201,3 +201,17 @@
 * Or use modifiers like gradually:
 	* *Ieii ou safuki yara* :: `AUG-good ACC2 gradual-ATTR become`
 		* ~"It gets better and better"
+
+## 20.10 Certain structures
+* Some structures, like the 'the more X, the more Y,' may or may not use degree, or they may use it in a weird way, even though one might believe otherwise:
+	* *Hiouinu kamu, reopokii ue* :: `DEM.DIST.ABST-ATTR-MOD eat.V IPFV-big-ATTR COP.POL`
+		* lit. "That-ly eat, will big is"
+		* ~"If you eat in that way, you'll become fatter"
+	* *Hiou euma da kamen reopokii ue* :: `DEM.DIST.ABST extent ALL eat.GER IPFV-big-ATTR COP.POL`
+		* ~"If you keep on eating, you'll keep on getting fatter"
+* Or, here's one without *hiou / euma*:
+	* *Wam butei ou jijiinu tonampanguu zhi arenki no o angarenebuyarae* :: `one.ORD PROP-N.PAT ACC2 INTENS~LOC-ATTR-MOD PFV-number-SRC.LEX\V TEMP other.ATTR NMZ U PRIV-different-PROP-become.MID.POL`
+		* lit. "One property exactly was measured when (it was), the other one indistinctifies"
+		* ~"When you measure one property accurately, the other property becomes less accurate to measure"
+			* note: *tonampanguru* should be the proper verb form, but *tonampanguu* is fine as a shorthand
+			* *-yarae* is formed from *yaro* (to become) + *-(n)ae* (polite middle voice)

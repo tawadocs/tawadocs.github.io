@@ -120,3 +120,12 @@
 	* *shibu*
 	* *iva*
 	* *rewa*
+* For ′o-root affixes, it can conjugate:
+	* *Angarenebuyaro* + *nae* :: *angarenebuyarae*
+	* if it was *mae/hae*, they'd simply go after
+		* *Angarenebuyarumae*
+		* *Angarenebuyaruhae*
+	* this is because *angarenebu* is one whole cluster, and inserting *mae* at, say, before *bu* (as *angarenemaebu*) would change the scope
+	* before *yaru* is fine:
+		* *angarenebumaeyaru*
+	* but it is considered less standard/formal, and may even be weird (in terms of politeness)

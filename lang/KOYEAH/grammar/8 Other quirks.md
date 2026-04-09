@@ -175,16 +175,19 @@
 				* *wesan*, then, means 'her additivity'
 
 ### 8.8.1 Stacking
-* Formally, you'd always use something like:
-	* *unsen byo no do ji* :: `live.VBZ DEM.PROX GEN PER LOC`
-		* ~"Living in (and through) the present"
-* ... but in casual speech, you can just drop the **no**:
-	* *unsen byo jido* :: `live.VBZ DEM.PROX LOC-PER`
-		* ~"Living in and through the present"
-			* the stacking order isn't super fixed or strict
-* Note that in the two examples, the proximal demonstrative *byo* was used in its temporal meaning ('now' / 'present' / 'current time'):
-	* *yaranai byo ji zhi byo, fuka* :: `come-MID DEM.PROX LOC TEMP DEM.PROX REQ`
-		* ~"come here now, please"
+* **NOTE**: a lot of the rules here are outdated
+* These patterns still exist and are used, but don't confuse them with:
+	* *no ji...* etc.
+* Examples:
+	* *Sano han no koha* :: a gift from her
+	* *Asa ji no hon* :: the person is at the house
+* etc.
+* And note that stacking does exist:
+	* *undo* :: through and until
+		* *euma undo kamen* :: eating through and until the extent
+* ... but it usually is never used:
+	* *euma da kamen* :: eating that is reaching the extent
+* ... both are nearly identical
 
 ## 8.9 Repair
 * Because *-ppu* and *-hi* still exist in Koyeah Tawa, even if they are less commonly used, conversational repair is very easy:

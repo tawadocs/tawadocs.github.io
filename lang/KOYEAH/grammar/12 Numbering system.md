@@ -241,6 +241,8 @@
 	* **ordinals**
 		* *wan* is used (e.g., **ryo wan**)
 			* *ryo wan nigo* (the first cat)
+		* but, it is usually used **without** a demonstrative, unlike any other number:
+			* *wan nigo* (the first cat)
 
 ## 12.7 Shorthand number compounds
 * Instead of complex number compounds, such as *sawi-nica'sega nimga-sejini* (696,969), you can:
