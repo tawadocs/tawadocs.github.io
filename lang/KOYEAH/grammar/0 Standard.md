@@ -77,3 +77,46 @@
 	* *Taranae* :: be spilt (polite)
 * It does not conjugate like *-nai*, so *nae* + *gu* is:
 	* *Taranaegu* :: be literally spilt (polite)
+* The difference between:
+	* *Dakanareta*
+	* *Dakaretanai*
+	* *Dakaretanae*
+	* *Dakanaereta*
+* is that:
+	* *dakanareta* is polite
+	* *dakaretanai* is casual and less polite
+	* *dakaretanae* is forbidden
+	* *dakanaereta* is humble and polite
+* *-nae* always goes directly after the verb
+* So, always:
+	* *dakanae(...)*
+* Remember that if there are no other affixes, you say *dakanae*
+* There is no difference between *-nae-* and *-na-*, but *-nae-* is always favoured if:
+	* semantic flavour particles are used
+		* this includes but is not limited to:
+			* **ta**
+			* **oi**
+			* **ku**
+			* **gu**
+	* you must end a verb with the middle voice
+	* you cannot leave room for ambiguity
+		* e.g., formal sermons, oaths, speeches, arguments
+* so:
+	* *Dakanaeta*, *dakanaeoi*
+	* *Dakanaegu*, *dakanaeku*
+	* *Taranae*
+* Same rule for *hai* (**hae**) and *mai* (**mae**):
+	* *Dakamaeta*, *dakamaeoi*, etc.
+* In terms of poetry, literature, or emotionally-charged speech, this rule is often broken:
+	* *Dakanata*, *dakanaoi*, etc.
+* So the reflective tenses/aspects actually take *na-*, which **only includes**:
+	* *naga*
+		* e.g., **-nanaga**
+	* *saru*
+	* *reta*
+		* a common one: **-nareta**
+	* *fura*
+	* *rasu*
+	* *shibu*
+	* *iva*
+	* *rewa*
