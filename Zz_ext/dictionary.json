@@ -200,6 +200,28 @@
     ]
   },
   {
+    "word": "juka",
+    "id": "percentage-thing-1",
+    "definitions": [
+      {
+        "text": "percent",
+        "frequency": 100
+      },
+      {
+        "text": "'cent",
+        "frequency": 100
+      },
+      {
+        "text": "percentile",
+        "frequency": 100
+      },
+      {
+        "text": "percentage",
+        "frequency": 100
+      }
+    ]
+  },
+  {
     "word": "keko",
     "id": "cake-1",
     "definitions": [
