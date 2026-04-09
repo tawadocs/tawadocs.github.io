@@ -70,3 +70,10 @@
 	* *Ieii ue sekareta wou sono o wa riwaka*
 		* That it would have ended up being better was thought by him
 			* like saying 'the thought ... occurred to him'
+
+## 0.4 *-nae* form
+* *nae* is the polite middle voice
+* So:
+	* *Taranae* :: be spilt (polite)
+* It does not conjugate like *-nai*, so *nae* + *gu* is:
+	* *Taranaegu* :: be literally spilt (polite)
