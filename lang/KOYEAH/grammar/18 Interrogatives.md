@@ -44,6 +44,41 @@
 | How     | **otoun**               |
 * These are formed with *oto*
 * *oto no* is often casually contracted as *otono*
+* Others also have casual contractions:
+	* *otoun* :: *ochun*
+		* like in:
+			* **ochunte fofu...**
+				* 'I mean...'
+				* 'How to say...'
+			* **sano ji ryōe ou ochunte fofu no...?**
+				* 'How should I say this to her?'
+				* 'Why should I be expected to be saying this to her?'
+			* **ochuntenai**
+				* 'How do I (do this)'
+				* 'How the hell do you want me to (do it)?'
+			* **ochuntenae**
+				* 'How should I put it'
+				* 'How do I (do it)'
+* ... and so on
+* *Ochun* is just a highly commonly used one
+* *Otohon*, *otowanō*, and *otoji* don't have contractions
+* *Ochun* is often used like this:
+	* *Ochuntenae,*
+		* I mean...
+		* How should I put it?
+			* it can act as a filler or softener (especially with *-nae*)
+			* it would be used in situations like:
+				* 'I mean, seriously, who even does that?'
+				* 'How do I put it politely... get out'
+			* etc.
+	* *Ochuntenai*
+		* What do I say...
+			* this one harshens the tone, actually, and is not a softener
+			* combined with politeness, it can be condescending or even sardonic/sarcastic/mocking
+			* it's used in contexts like:
+				* 'What the hell do I tell you?'
+				* 'How do you even want me to do this?'
+			* good for frustration and whatnot
 
 ### 18.2.1 Polar
 * Statement + no?
