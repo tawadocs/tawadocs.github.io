@@ -79,6 +79,13 @@
 				* 'What the hell do I tell you?'
 				* 'How do you even want me to do this?'
 			* good for frustration and whatnot
+* There are some irregular contractions too, such as:
+	* *Ochada* (used by men)
+		* ~"Well... / I guess..."
+			* e.g., "I guess those people eat a lot, huh?"
+	* *Ochiada* (used by women)
+* It is formed from *oto* (what) + *yada* (well), with the formal form being:
+	* *Oto, yada* (sounds robotic, usually never used)
 
 ### 18.2.1 Polar
 * Statement + no?
