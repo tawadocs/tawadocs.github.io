@@ -4,6 +4,10 @@
 		* yes, that is a click!
 		* in some Tawish dialects, *mg* is actually a bilabial click (prominent) coarticulated with the velar nasal
 		* in NSKT, it is simply `/m͡ŋ/`
+		* note that the click is **actually** pronounced:
+			* `/ᵐʘ͡ŋ/`
+			* it starts with an *m-hum* but immediately switches to a coarticulated bilabial click with velar release
+			* so, for a split second, you may hear a *m-*
 	* *N* :: `/ɴ~ɢ~q/`
 		* it is written as: *hg*, *h*, or *nq*
 		* it is pronounced `/ãõ̯/` if written as *nq*
