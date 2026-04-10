@@ -56,6 +56,30 @@
 	* *Iaoe ni pokii ue aa, iepokii ue!* :: `above-N.ACC TOP big-ATTR COP.POL CONC AUG-big-ATTR COP.POL`
 		* ~"Even though the top is big, I'm bigger"
 
+### 0.2.1 Mood
+* This also means that mood particles are also head-final now:
+	* *ipa*(X) goes after, normal form is *ipa hi* or contracted as *ipa-hi*:
+		* *kamu ipa-hi* 
+			* ~"I think I will eat"
+			* ~"I believe I will eat"
+		* *zuno a tokamu ipaniro hi*
+			* ~"It seems to me that they have finished eating"
+			* ~"I see that they have eaten"
+		* *suno ga iih i wou sano a ipariwaka*
+			* ~"She deduced that I was bad"
+			* ~"She rationally came to the conclusion that I was bad"
+	* *ipa-* particles can be verbs, like in the last example:
+		* *sano a ipariwaka* :: she deduces
+* Same for *are*:
+	* *su a ii asa ou toau are*
+		* ~"I wish that I had a good home"
+	* *su a sami ou tokamu wou so are*
+		* ~"He wished that I had eaten the fish"
+* And same for *ana* (often used in explanations or soft tone (emotion)):
+	* *mo, iou baka a kanteisun ou tokamu, ana*
+		* ~"Then, those idiots had already eaten my food"
+* ... and so on
+
 ## 0.3 Quoting
 * When quoting something, note that the meaning slightly differs regarding usage of middle voice:
 	* *X wou toriwaka* :: (someone) thinks 'X'
