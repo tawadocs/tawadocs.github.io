@@ -72,6 +72,13 @@
 * The other demonstratives are pronounced differently:
 	* *byo* :: **/bio/**
 	* *rio* :: **/ɺio/**
+* A similar difference is now seen in the nominalisers:
+	* *no* :: general/intangible
+		* *he tofofu no* :: the thing that was just said
+		* *he tokamu no* :: the thing that was just eaten
+			* refers to information metaphorically, like 'eating up' what one sees (often negative; e.g., 'consuming propaganda')
+	* *zono* :: tangible
+		* *he tokamu zono* :: the thing that was just eaten (literal food)
 
 ## 6.2 Questions
 * In Koyeah Tawa, *yo* (`Q.ALT`) is another question particle used when *no* nominalises a thing and that nominalisation is marked a question:
