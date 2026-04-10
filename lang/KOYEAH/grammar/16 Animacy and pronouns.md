@@ -96,10 +96,18 @@
 
 ## 16.4 Figurativeness
 * *ku* is used for figurative roots:
-	* *dekumg* :: to get (figuratively)
+	* *deku* :: to get (figuratively)
 * *gu* is used for literal roots:
-	* *degumg* :: to get (literally, as in 'receive')
+	* *degu* :: to get (literally, as in 'receive')
 		* often a sexual euphemism: *reodegumg* ((I) will physically/literally get (you))
+* Note: *de* covers both receive/give:
+	* *atora ou de* :: to receive/get an apple
+* It is context that would further disambiguate
+* You'd use *demg* if you really wanted to explicitly say that you 'got' it, instead of it being 'given' to you
+* Or you'd use particles:
+	* *a atora ou tode* :: (actor) got the apple
+		* ~"I got an apple"
+		* because *a* marks an actor (e.g., 'I/me')
 
 ## 16.5 Third person pronoun
 * Tawa does not have a generic 'it'
