@@ -1,12 +1,13 @@
 ## 2.1 Particle table
-| Type      | Particle | IPA        | Gloss |
-| --------- | -------- | ---------- | ----- |
-| **n.**    | **oe**   | `/oe/`     | NM    |
-| **v.**    | **(r)u** | `/(ɺ~ɾ)u/` | V     |
-| **prop.** | **bu**   | `/bu/`     | PROP  |
-| **mod**   | **nu**   | `/nu/`     | MOD   |
-| **mod2**  | **i**    | `/i/`      | ATTR  |
-| **cop.**  | **i**    | `/i/`      | COP   |
+| Type      | Particle  | IPA    | Gloss |
+| --------- | --------- | ------ | ----- |
+| **n.**    | **oe**    | `/oe/` | NM    |
+| **v.**    | **(r)u**  | `/ɺu/` | V     |
+| **v.**    | **(rh)u** | `/ɾu/` | V2    |
+| **prop.** | **bu**    | `/bu/` | PROP  |
+| **mod**   | **nu**    | `/nu/` | MOD   |
+| **mod2**  | **i**     | `/i/`  | ATTR  |
+| **cop.**  | **i**     | `/i/`  | COP   |
 
 ### 2.1.1 Verbs
 * Words ending in *-o* end in *-u* when they are in their verbal form:
@@ -321,3 +322,40 @@
 	* *Ryo ni kohamyōsun ue* :: this is my gift
 		* intimate, close bonds
 		* a parent to a child, sibling to sibling, etc.
+
+## 2.6 *-rhu*
+* *-rhu* is the archaic verbal particle
+* It signifies 'nakedness / vulnerability'
+* You use it over the 'romantic' marker in deep words, like:
+	* *Mātaserhu* :: to love (someone)
+		* extremely serious
+		* very direct and loaded
+* If you said:
+	* *Mātasenyu* :: to love (someone)
+* ... it would sound:
+	* weird and jarring
+	* might even be rude
+* This is because words about the soul, bonding, and inner heart take *-rhu* over the overt romantic marker
+* You would, however, maybe say:
+	* *Kitanyu*
+* ... which would imply a romantic affection / interest; e.g.,
+	* *Sa ou kitanyu*
+		* ~"I am romantically interested in her"
+	* or the better form:
+		* *Sa ga kitanyai*
+* If you said:
+	* *mātasenyu*
+* ... it sounds like:
+	* romantically, you are aligned with me
+* ... or whatever
+* Too cheesy and weird
+* *rhu/myu* are the same particle:
+	* *Kedeshwu*
+	* *Kedesurhu*
+* ... should theoretically both mean the same thing
+* But why is *myu* used over *rhu* there?
+* It's because you use *myu* for all general terms with an intimate/vulnerable connotation:
+	* *Dakamyu* :: steal (intimate)
+* But as soon as it becomes about love and deep bonds:
+	* *nukōe ou dakarhu* :: to steal a heart
+* ... you use *-rhu*
