@@ -94,6 +94,24 @@
     ]
   },
   {
+    "word": "ddo",
+    "id": "intj-2, so-1",
+    "definitions": [
+      {
+        "text": "so",
+        "frequency": 100
+      },
+      {
+        "text": "well",
+        "frequency": 100
+      },
+      {
+        "text": "you know",
+        "frequency": 100
+      }
+    ]
+  },
+  {
     "word": "epiku",
     "id": "epiku",
     "definitions": [
