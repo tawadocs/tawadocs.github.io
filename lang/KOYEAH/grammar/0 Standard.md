@@ -278,3 +278,14 @@
 				* note: *ii-ii* is the reduplicated intensive of *ii*
 				* it is less 'grand' than using *uoii* (the best of the best / most good) or the playful/intimate *ioii*
 				* a reduplicative fits best here for intensity
+
+## 0.6 Structures
+* Use structures like:
+	* *MGŌE wou imo ohira ga MGEOE han no ielilii e*
+		* means:
+			* mixtures of "X" are less preferable/okay than "Y"
+* Example:
+	* *bakaimbu wou imo ohira ga bakainubu han no ielilii e*
+		* ~"Clusters like 'bakaimbu' are less preferable, unlike 'bakainubu"
+			* this is a little Tawish rule in Tawa
+			* you always write *bakainubu* (smoothly/circularishly)
