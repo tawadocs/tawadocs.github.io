@@ -5,7 +5,7 @@
 | **un**   | instrument or means; location of action; material or composition; cause or reason; limit                                    |
 | **do**   | traversal or route of motion; point of detachment                                                                           |
 | **da**   | heading (towards); progression                                                                                              |
-| **dan**  | temporospatial starting point or origin; source of material; source of information / giving                                 |
+| **han**  | temporospatial starting point or origin; source of material; source of information / giving                                 |
 | **daki** | until (time)                                                                                                                |
 | **mo**   | comitative; quotation or boundary of thought or sound; comparison; temporal (and spatial) sequentiality; contrasting linker |
 | **we**   | additive (and)                                                                                                              |

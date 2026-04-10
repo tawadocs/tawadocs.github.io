@@ -281,7 +281,7 @@
 
 ## 0.6 Structures
 * Use structures like:
-	* *MGŌE wou imo ohira ga MGEOE han no ielilii e*
+	* *Mgaoe wou imo ohira ga Mgioe han no ielilii e*
 		* means:
 			* mixtures of "X" are less preferable/okay than "Y"
 * Example:
@@ -289,3 +289,39 @@
 		* ~"Clusters like 'bakaimbu' are less preferable, unlike 'bakainubu"
 			* this is a little Tawish rule in Tawa
 			* you always write *bakainubu* (smoothly/circularishly)
+* But, you can also say:
+	* *... Mgioe han ielilii e ue*
+		* ... are less better from Y
+	* *... Mgioe mo ielilii e*
+		* ... less better than Y
+* Using *han* is the standard for men and often shows respect
+* Using *mo* does not carry the weight if used specifically by men
+	* women may use *mo* a lot for comparisons
+* Men generally use *han* and women generally use *mo*
+	* but both genders use *han* when they must be polite or want to show respect
+* And using *han no* (Y of from X) is the 'most' formal (scientific paragraphs, technical manuals, etc.)
+* Secondly, *han* is better used for abstract ideas and concepts, whereas *mo* is better used for tangible comparisons
+* For example:
+	* *sono mo ieii* :: better than him
+		* can be measured or is tangible
+		* maybe the person is a doctor whereas 'he' is a con artist
+	* *sono han no ieii* :: better than him
+		* more abstract
+		* could be about preference, love, etc.
+* And thirdly, you never say *X no han*, you always say *X no dan*:
+	* *Hon no dan*
+		* lit. "As for the person's origin, (it) is what?"
+		* ~"Where is the person coming from?"
+		* ~"Where is the person starting out from?"
+		* ~"What level is the person at?"
+		* etc.
+* *han/dan* are actually the same ablative, but:
+	* *han* the now-used postpositional form
+	* *dan* (`ABL2`) the archaic form, but it is commonly used in different word-types (*han* isn't)
+		* *dani* :: originates from (X)
+		* *danu* :: to source (X)
+		* *danoe* :: starting point / temporospatial origin
+		* *dantei* :: the thing sourced / what is needed to be sourced
+		* etc.
+	* *handan* is the intensive (exactly from / precisely originates), which is highly irregular!
+		* logically, it must be *hahan*, maybe *dadan*, but no, it is *handan*
