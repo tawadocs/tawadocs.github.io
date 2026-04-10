@@ -80,6 +80,22 @@
 		* ~"Then, those idiots had already eaten my food"
 * ... and so on
 
+### 0.2.2 Variance
+* Only **some** head-final follow a pattern where they take the irregular *-(t)e* infinitive ending and become head-initial:
+	* *yoete* :: marks following clause with surprise
+	* *yoe* :: standard head-final (marks preceding clause)
+* Here are more examples:
+	* *ddo* :: a filler interruptive (so, uh, wait, hold up, one second)
+	* *ddoe* :: a filler connective (so, and)
+* But the *ddoh* form (with the uvular nasal) makes it head-final:
+	* *... ddoh* modifies the preceding clause
+* Except... don't we usually use the archaic *hi* (backshift) from Ashi Tawa?
+* Yes, we do, but like I said, head-direction variance is already an irregular feature, so whenever head-direction changes, it usually isn't regular
+* **Most of the time**, you'll see *-(t)e* for head-initials and *hi* for head-finals
+	* or you'd see *-hi* as the hyphenated contraction
+		* e.g., *seka-hi*
+* So keep it in mind as a very general rule
+
 ## 0.3 Quoting
 * When quoting something, note that the meaning slightly differs regarding usage of middle voice:
 	* *X wou toriwaka* :: (someone) thinks 'X'
