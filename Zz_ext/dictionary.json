@@ -140,6 +140,16 @@
     ]
   },
   {
+    "word": "fupa",
+    "id": "number-2",
+    "definitions": [
+      {
+        "text": "number",
+        "frequency": 100
+      }
+    ]
+  },
+  {
     "word": "gafu",
     "id": "homemeal-1",
     "definitions": [
@@ -743,6 +753,24 @@
       },
       {
         "text": "dang",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "yooi",
+    "id": "much-1, degree-2",
+    "definitions": [
+      {
+        "text": "much",
+        "frequency": 100
+      },
+      {
+        "text": "more",
+        "frequency": 100
+      },
+      {
+        "text": "a lot",
         "frequency": 100
       }
     ]

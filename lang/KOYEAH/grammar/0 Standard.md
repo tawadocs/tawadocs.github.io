@@ -180,13 +180,15 @@
 
 ## 0.5 *yada* and *mo*
 * *mo* has these forms in normal NSKT now:
-	* *moe* :: head-initial sequential
+	* *moe* :: sequential
 		* this is used as the connecting form
 		* some speakers prefer *we mo* (casually contracted as *we-mo*) for the '(and) then' sequential
 	* *mohi* :: head-final sequential
 	* *momg* :: cause-and-effect conjunction (only head-final)
 	* *mo mo* :: contrasting conjunction (head-final)
-	* *mo* :: comitative, comparative, quotational, sequential
+	* *mo* :: comitative, quotational
+	* *mou* :: comparative
+		* now, you would always use *mou* for comparisons
 * *yada* has these forms:
 	* *yadai* :: well, good, fine, very, quite
 		* with bare nouns or things that don't typically take degree:
@@ -325,3 +327,15 @@
 		* etc.
 	* *handan* is the intensive (exactly from / precisely originates), which is highly irregular!
 		* logically, it must be *hahan*, maybe *dadan*, but no, it is *handan*
+
+## 0.7 Conversational Tawa
+* Conversational Tawa is very different:
+	* *asasan no unsoi wanō mou ya, asason un honamun no fupa ga ōii ue* :: `house-3SG.F.POSS GEN life-ATTR time CMPR ASSERT house-3SG.AN.POSS INSTR person-ULT.SG.DEF.POSS GEN number NOM more-ATTR COP.POL`
+		* lit. "Her house's life time (compared to it), (make no mistake), his house at God's people number is more"
+		* ~"More people died at his house than they ever did throughout the history of her home"
+			* what the heck happened?
+			* *-amun* should mean 'God's,' as it is a possessive form of *Amu* (God pronoun)
+			* but no, actually, in spoken Tawa, *-amun* is the standard polite way to refer to something that is no longer / is dead
+			* it means something like '(returned back) to God'
+* Tawa always prefers broken down structures and doesn't like using *ie-* a lot
+* Instead, you use comparatives like these, where *ōi* or similar particles are used
