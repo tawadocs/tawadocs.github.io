@@ -79,6 +79,14 @@
 	* *mo, iou baka a kanteisun ou tokamu, ana*
 		* ~"Then, those idiots had already eaten my food"
 * ... and so on
+* It also means the similatives are head-final too (unless using the *-(t)e* variant):
+	* *sono imo sano* :: she is like him
+	* *sano insuta suno* :: I am barely like her
+* Archaically:
+	* *sono inte sano* :: he is like her
+	* *sano insutte suno* :: she is barely like me
+	* *sono iminte sano* :: he is absolutely nothing like her
+* **Using the *-(t)e* variants feels extremely awkward, odd, and unnatural!**
 
 ### 0.2.2 Variance
 * Only **some** head-final follow a pattern where they take the irregular *-(t)e* infinitive ending and become head-initial:
@@ -169,3 +177,104 @@
 	* before *yaru* is fine:
 		* *angarenebumaeyaru*
 	* but it is considered less standard/formal, and may even be weird (in terms of politeness)
+
+## 0.5 *yada* and *mo*
+* *mo* has these forms in normal NSKT now:
+	* *moe* :: head-initial sequential
+		* this is used as the connecting form
+		* some speakers prefer *we mo* (casually contracted as *we-mo*) for the '(and) then' sequential
+	* *mohi* :: head-final sequential
+	* *momg* :: cause-and-effect conjunction (only head-final)
+	* *mo mo* :: contrasting conjunction (head-final)
+	* *mo* :: comitative, comparative, quotational, sequential
+* *yada* has these forms:
+	* *yadai* :: well, good, fine, very, quite
+		* with bare nouns or things that don't typically take degree:
+			* *yadai asa* :: remarkable house / quite the house
+		* with other modifiers:
+			* *yadai ii* :: quite good, very good
+	* *yadainu* :: pretty
+		* with things that don't typically take degree:
+			* *yadainu kamu* :: quite the eating / to eat a lot
+		* with other modifiers:
+			* *yadainu hateri kamu* :: pretty fast eating
+	* *yadoi* :: noteworthy
+		* just explicitly meliorative
+		* e.g., compare:
+			* *niou ni yadoi ue*
+				* "that (non-human, natural) is quite remarkable"
+			* *niou ni yadai ue*
+				* "that (non-human, natural) is noteworthy"
+		* they're basically the same, but you'd use *yadoi* if there is is no room for ambiguity
+	* *yadoeta* :: enough, no more, unnecessary
+		* explicitly pejorative, but this doesn't make it negative, per se
+		* it is also an adverb/adjective
+		* compare:
+			* *watada sano ni yadoeta ue*
+				* "she is enough"
+				* "it would be unnecessary to have more than her"
+					* this tends romantic (sentimentally)
+					* but in a weird scenario where you're telling a friend 'you don't need anyone else, she's enough,' then, yes, this would obviously be negative (more is unnecessary!)
+			* *yadoeta tokamu*
+				* "(you) have eaten enough"
+					* this is more like a 'scolding' tone
+					* you'd use the '*ake ... ng*' pattern for a stern assertion:
+						* *ake yadoeta tokamu ng*
+						* "that's it - you have eaten enough"
+					* or you'd use *ya*:
+						* *ta! yadoeta tokamu ya*
+							* "(hey!) you have eaten enough"
+					* though *ya* is also a softener, with tone, it can harshen a sentence
+					* it is better to use *ya* plus tone over *n* (an expletive) for harshening, because *n* can be more 'scolding' than stern, maybe even playful
+					* though *n* is an expletive, if you said *n! yadoeta kamen ya*, it would be like saying:
+						* 'ughh just stop eating already'
+						* 'oh my god why are you still eating'
+							* gerundive *kamen* used to state ongoing active action
+					* it might carry an implication of 'leave some for me' depending on the context
+* The sequential *moe* (connecting form) can combine with *yada*, otherwise, especially in NSKT, you just use *we mo* (or the *we-mo* contraction):
+	* *we-mo, sano o aishiretāe* :: `ADD-SEQ 3SG.F U hurt-RESL.MID.POL`
+		* ~"Then she still unfortunately ended up hurting herself"
+		* ~"Yet, she still accidentally hurt hurt herself"
+			* *aishiretāe* is a modern form
+			* formally or 'most correctly,' you'd use:
+				* *aishinaereta* :: most formal and polite
+				* *aishinareta* :: polite but less formal
+	* *moe yada, ngoe ga ushikitsutasae are!* :: `SEQ.INF well DUM-N.ACC NOM fun-POT\V OPT`
+		* ~"Well, then I hope that you have fun!"
+			* *ushikitsutasuu* is the informal form of *ushikitsutasuru*
+			* *tasu* is the potential verb '(can)'
+			* as a verb, *ushikitsu* means 'to enjoy X' (else, it usually means 'fun')
+			* *ushikitsutasuu* would mean 'to enjoy something'
+			* but, here, we'll assume the other person is going to an event
+			* to represent the event, we can use the simple *ngoe* dummy noun (though NSKT prefers other constructions or rephrasing)
+			* *ngoe ga* puts the focus on *ngoe* (it is the thing that...)
+			* and adding *ushikitsutasae* makes it so that *ngoe* is the thing that is enjoyable
+			* it literally means 'the thing that can be enjoyed'
+			* to sound lighter, though, you would say:
+				* *we-mo, ngoe ga ushikitsutashi are!* :: `ADD-SEQ DUM-N.ACC NOM fun-POT.ATTR OPT`
+					* ~"And so I hope you have fun!"
+					* ~"(Yet) I hope you have fun!"
+			* this would be the natural, conversational variant that a friend might use
+			* *ngoe ga ushikitsutasae* is more formal, less playful/lighthearted
+				* literally: 'the thing that can be enjoyed'
+			* *ngoe ga ushikitsutashi* is lighthearted and fits the vibe well
+				* literally: 'the thing is enjoyable (by something)'
+* When to use *yada* and *mo*:
+	* if it's about sequence:
+		* use *we-mo*:
+			* *we-mo, reokamu* :: and then, we will eat
+	* if it's acting as a filler or for suggestions:
+		* use *yada*:
+			* *yada, reokamu (yo?)* :: well... we can eat?
+			* *yada, otōe yo?* :: so... what?
+			* *yada, suno ni shirenane* :: well, it isn't known; at least not by me
+	* if you want to imply persistence:
+		* use *moe yada* (or the playful *yadamo* contraction)
+			* *moe yada, ryo chi ga ii ue* :: and yet, this drink is still good
+			* *yadamo, ushikitsutashi are!* :: I hope it's fun!
+				* lit. 'and yet, I (still) hope that it's fun'
+		* you can use it like this:
+			* *sono ga ii-ii ue, yadamo kitaãi i* :: he is really great / the best, yet he is still hated
+				* note: *ii-ii* is the reduplicated intensive of *ii*
+				* it is less 'grand' than using *uoii* (the best of the best / most good) or the playful/intimate *ioii*
+				* a reduplicative fits best here for intensity
