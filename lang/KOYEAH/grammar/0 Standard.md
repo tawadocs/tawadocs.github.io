@@ -337,6 +337,7 @@
 			* *-amun* should mean 'God's,' as it is a possessive form of *Amu* (God pronoun)
 			* but no, actually, in spoken Tawa, *-amun* is the standard polite way to refer to something that is no longer / is dead
 			* it means something like '(returned back) to God'
+			* in complex cases, we use *amu no ...* to mark whatever comes after (e.g., a chain like 'the men of steel') as having been returned back to God
 * Tawa always prefers broken down structures and doesn't like using *ie-* a lot
 * Instead, you use comparatives like these, where *ōi* or similar particles are used
 
