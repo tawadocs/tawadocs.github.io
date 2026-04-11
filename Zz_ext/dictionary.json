@@ -94,6 +94,20 @@
     ]
   },
   {
+    "word": "chu",
+    "id": "kiss-2, sound-29",
+    "definitions": [
+      {
+        "text": "kiss",
+        "frequency": 100
+      },
+      {
+        "text": "onomatopoeia",
+        "frequency": 100
+      }
+    ]
+  },
+  {
     "word": "ddo",
     "id": "intj-2, so-1",
     "definitions": [
@@ -397,6 +411,20 @@
       },
       {
         "text": "beautifully executed",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "mgwa",
+    "id": "kiss-1, thing-2",
+    "definitions": [
+      {
+        "text": "kiss",
+        "frequency": 100
+      },
+      {
+        "text": "to kiss",
         "frequency": 100
       }
     ]
