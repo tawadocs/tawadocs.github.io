@@ -468,8 +468,7 @@
 * The desiderative in the latest standard is **tarai / tarae / darae / darai / arae**
 * Examples:
 	* *niruarae*
-		* means 'to miss'
-		* literally, it would mean 'to emotionally long to see'
+		* means 'to want to see'
 	* *kamuarae*
 		* 'to want to eat'
 	* *aiarae*
@@ -500,3 +499,10 @@
 		* you never say *kamudarae* for 'want to eat'
 	* *~tarae / tarai*
 		* for women
+* Rule of thumb:
+	* use *arae* for a general want
+	* use *arai* if you want an expletive or highly informal/casual/direct tone
+	* use *darae/tarae* (depending on your gender) for a deep emotional longing
+		* e.g., *niru(t/d)arae* = to miss
+		* but *niruarae* = to want to see (someone)
+	* use *darae/tarai* (depending on gender) for a deep emotional longing in specifically vulnerably, intimate, or close/direct contexts
