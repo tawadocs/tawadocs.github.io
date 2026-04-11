@@ -373,3 +373,52 @@
 * Formally, you'd keep *-(n)ae*, and not omit the last **e**, but, otherwise, in speech, it is normal to expect forms like:
 	* *tasane* (`POT.MID.NEG.POL`)
 * ... and so on
+
+## 0.9 Modifier nouns
+* *-ioe / nuoe / inuoe* is used for 'modifier' nouns:
+	* *Ujohonina* :: megalomania
+	* *Ujohoninanuoe* :: megalomanic (thing)
+* So instead of saying:
+	* *Ujohoninanu hon*
+		* 'megalomaniac person' (a megalomaniac)
+* ... you say:
+	* *Ujohoninanuoe*
+		* 'megalomaniac (thing)'
+* Also, *ujohonina* prefers *-nu* because it isn't a strong modifier
+	* many compounds that contain these derivational may not be strong modifiers
+	* but, since *ujohonina* doesn't end in an *i*, saying *ujohoninai* is also fine and completely understandable
+	* the difference is only of standard; otherwise, both are interchangeable
+* Note that you'd say:
+	* *ujohoninamasu* (a megalomaniac (person))
+* ... not *ujohoninanuoe/ujohoninaioe*
+* Other examples:
+	* *atoraioe* :: an apple (thing)
+		* **note:** since *atora* is also a euphemism for 'boob' (as seen in an idiom), this phrase might be dangerous to use in the inappropriate context
+	* *pokiioe* :: a big (thing)
+* In sentences:
+	* *gaidaioe ga uuwai ue, anee* :: `open-ATTR-N.ACC NOM hard-ATTR COP.POL CONF`
+		* lit. "Opening (thing) is hard, (right)"
+		* ~"The opener is always hard, isn't it?"
+			* e.g., the starting of a series, the first exam, and so on
+			* you can't translate 'opener' as *gaidamasu*, though:
+				* *gaidamasu ga uuwai ue...*
+					* lit. "The opener is hard"
+					* ~"The opener (e.g., a key) is hard"
+					* it would be confusing
+			* you also can't use a gerundive:
+				* *gaidaen ga uuwai...*
+					* lit. "The opening is hard"
+					* ~"Opening (something) is hard"
+					* ~"It is/was hard to open"
+			* and you can't use the bare root either:
+				* *gaida ga uuwai...*
+					* lit. "The open is hard"
+					* ~"The open (a field, to open, etc.) is hard"
+			* and don't try to nominalise it:
+				* *gaidai zono ga uuwai...*
+					* lit. "The opened (tangible thing) is hard"
+					* could refer to the shell of a walnut after you cracked it open
+				* *gaidai no ga uuwai...*
+					* lit. "The opened (thing) is hard"
+					* ~"The opened one is hard"
+					* can refer to a person that was 'opened' (i.e., awakened to some truth, emotionally exposed, broken open by an experience (pain, love, etc.), having seen something unseeable) and how he has become 'harder;' i.e., tougher, less soft, less naïve
