@@ -465,27 +465,38 @@
 * Note that *-oe/-tei* can be dropped in colloquial speech if they appear directly before the *ou* (accusative) marker
 
 ## 0.10 Desiderative
-* The desiderative in the latest standard is **tarai / tahae**
-* The *tahae* form is much more polite and therefore more commonly used (even with friends, as *tarai* can be too direct/intimate)
+* The desiderative in the latest standard is **tarai / tarae / darae / darai / arae**
 * Examples:
-	* *nirutahae*
+	* *niruarae*
 		* means 'to miss'
 		* literally, it would mean 'to emotionally long to see'
-	* *kamutahae*
-		* 'to emotionally long to eat'
-		* might be a bit over the top
-	* *aitahae*
-		* 'to emotionally long to help (someone)'
-	* *ainawatahae*
-		* 'to emotionally long to smile'
+	* *kamuarae*
+		* 'to want to eat'
+	* *aiarae*
+		* 'to want to help (someone)'
+	* *ainawaarae*
+		* 'to want to smile'
 * The negated form of this desiderative is:
 	* *hane* / *hadai*
 		* the *hane* form is more polite than *hadai*
 		* *hadai* can be too direct
 * Note that *hane* is stronger than negating the verb, so compare:
-	* *Nirunetahae* :: negated desiderative verb
+	* *Nirunearae* :: negated desiderative verb
 		* 'to not miss'
 		* like in 'I don't miss them' (e.g., maybe you have moved on)
 	* *Niruhane* :: negated desiderative
 		* 'to not miss'
 		* but it means 'I don't emotionally long to see them / I don't want to see them (ever again) / I don't even like them,' etc.
+* Difference:
+	* *~arae / ~arai*
+		* most cases
+		* it just means 'to want to do something'
+		* e.g., *kamuarae* (I want to eat)
+		* *~arai* is the casual form, but it can be rude/fighting, so it is usually never used
+	* *~darae / darai*
+		* men will use it (masculine genderlect)
+		* *darae* is the polite form, whereas *darai* is the highly intimate/close form
+		* *darae/darai* both are used for deep emotional longing
+		* you never say *kamudarae* for 'want to eat'
+	* *~tarae / tarai*
+		* for women
