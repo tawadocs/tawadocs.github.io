@@ -339,3 +339,22 @@
 			* it means something like '(returned back) to God'
 * Tawa always prefers broken down structures and doesn't like using *ie-* a lot
 * Instead, you use comparatives like these, where *ōi* or similar particles are used
+
+### 0.7.1 Literal translations
+* Avoid literal translations
+* For example, if you were to say 'I never said that one was right,' you might say:
+	* *sute gai ga iuki wou tofofu no ni uenane* :: `one-INF side NOM sound.ATTR QUOT3 PFV-speak.V NMZ.ABST TOP COP.POL-MID\POL.NEG.POL`
+		* lit. "One side is sound, that said (as a thing), not exists"
+		* ~"I never said that one side was right"
+		* in Tawa, you often don't need to emphasise the 'never' part, it's implied in structures like *X wou tofofu no ni uenane*
+		* a speaker might still add other particles, such as the assertive *ya*, depending on context, tone, etc.
+* If you were to say:
+	* *sute gai ga iuki wou we no wanō do tofofune* :: `one-INF side NOM sound.ATTR QUOT3 ADD GEN time PER PFV-speak.V-NEG.POL`
+		* lit. "One side is sound, that (I) anytime through didn't say"
+		* ~"I never said (at any time as far as I know) that one of them was right"
+* ... it might sound too 'formal' or overly emphatic
+* In a debate, you wouldn't really say:
+	* 'Throughout the time I've been alive, I never said that,'
+* ... unless the exaggeration was intentional or you were being playful/non-serious intentionally
+* It may even hurt your position
+* So, translating to Tawa from English can be messy
