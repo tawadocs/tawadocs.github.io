@@ -506,3 +506,5 @@
 		* e.g., *niru(t/d)arae* = to miss
 		* but *niruarae* = to want to see (someone)
 	* use *darae/tarai* (depending on gender) for a deep emotional longing in specifically vulnerably, intimate, or close/direct contexts
+* Note that, even though both are spelt *(t/d)a**r**a(e/i)*, the **r** is pronounced as:
+	* `/ɾ/`
