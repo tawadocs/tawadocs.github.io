@@ -479,8 +479,8 @@
 	* *ainawatarae*
 		* 'to emotionally long to smile'
 * The negated form of this desiderative is:
-	* *hane* / *hatai*
-		* the *hane* form is more polite than *hatai*
+	* *hane* / *hadai*
+		* the *hane* form is more polite than *hadai*
 * Note that *hane* is stronger than negating the verb, so compare:
 	* *Nirunetarae* :: negated desiderative verb
 		* 'to not miss'
