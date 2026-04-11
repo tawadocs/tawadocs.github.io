@@ -340,6 +340,35 @@
 			* in complex cases, we use *amu no ...* to mark whatever comes after (e.g., a chain like 'the men of steel') as having been returned back to God
 * Tawa always prefers broken down structures and doesn't like using *ie-* a lot
 * Instead, you use comparatives like these, where *ōi* or similar particles are used
+* Here is another example of how a conversational sentence may differ; compare the two:
+	* **grammatically perfect:**
+		* *we no hon ji sekai reodemgaereta* :: `ADD GEN person LOC so-ATTR IPFV-REC-G.REVS.MID.POL-RESL`
+			* lit. "By any person, (it) might be taken"
+			* ~"Someone might end up getting (it, and that would be bad)"
+	* **conversational:**
+		* *wenu-hon a, o reodemgwetāe sekaihi* :: `ADD-MOD-person A U IPFV-REC-G.REVS.RESL.MID.POL so-ATTR-BACK`
+			* lit. "Anyone (actor), it will end up being taken, so it is that way"
+			* ~"Someone could get it"
+* Both mean:
+	* "I hope someone doesn't take (it) / someone might end up taking it (and that would be bad)"
+	* lit. "By someone, will get (it), so (it is possible)"
+* ... but differ a lot in tone
+* Alternatively, you may use a negative optative:
+	* *wenu-hon a reodemgwetāe ou fu nnare* :: `ADD-MOD-person A IPFV-REC-G.REVS.RESL.MID.POL ACC2 ACT NEG.POL.OPT`
+		* lit. "Someone do will end up taking, not hope"
+		* ~"I hope that someone doesn't end up taking (it)"
+* Note that:
+	* *reodemgwetāe ou fu* is like saying 'to make (will end up being taken) happen'
+	* it could be considered a sort of dangling clause
+	* *nnare* is an irregular contraction of *nee are*
+		* you usually can't negate mood by slapping *-ne* to the end
+		* so, you use *nee X*; e.g., *nee aiko* (don't (do)!), *nee are* (don't hope...), *nee ipahi* (probably not / believe not) etc.
+		* only one mood can be negated with *-ne*:
+			* *nirutarai*
+				* to miss
+			* *niruhane*
+				* to not emotionally long to see
+				* not miss
 
 ### 0.7.1 Literal translations
 * Avoid literal translations
@@ -434,3 +463,28 @@
 	* *Shiou asasutabu ou niru yo?*
 		* ~"Do you see that slum house?"
 * Note that *-oe/-tei* can be dropped in colloquial speech if they appear directly before the *ou* (accusative) marker
+
+## 0.10 Desiderative
+* The desiderative in the latest standard is **tara(i/e)**
+* The *e* ending is polite, the *i* ending is not
+* Examples:
+	* *nirutarae*
+		* means 'to miss'
+		* literally, it would mean 'to emotionally long to see'
+	* *kamutarae*
+		* 'to emotionally long to eat'
+		* might be a bit over the top
+	* *aitarae*
+		* 'to emotionally long to help (someone)'
+	* *ainawatarae*
+		* 'to emotionally long to smile'
+* The negated form of this desiderative is:
+	* *hane* / *hatai*
+		* the *hane* form is more polite than *hatai*
+* Note that *hane* is stronger than negating the verb, so compare:
+	* *Nirunetarae* :: negated desiderative verb
+		* 'to not miss'
+		* like in 'I don't miss them' (e.g., maybe you have moved on)
+	* *Niruhane* :: negated desiderative
+		* 'to not miss'
+		* but it means 'I don't emotionally long to see them / I don't want to see them (ever again) / I don't even like them,' etc.
