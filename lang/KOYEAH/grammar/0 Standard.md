@@ -508,3 +508,5 @@
 	* use *darae/tarai* (depending on gender) for a deep emotional longing in specifically vulnerably, intimate, or close/direct contexts
 * Note that, even though both are spelt *(t/d)a**r**a(e/i)*, the **r** is pronounced as:
 	* `/ɾ/`
+* They **never** follow regular patterns, so *niro* + *arae* would yield *niroarae* (though that combo is weird, as it can mean 'to want an eye')
+	* for 'wanting X,' you may say *nirōearae*, but you can also use the verb *subu*, like in *nirōe ou subu* ((I) want an eye)
