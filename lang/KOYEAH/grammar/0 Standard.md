@@ -358,3 +358,18 @@
 * ... unless the exaggeration was intentional or you were being playful/non-serious intentionally
 * It may even hurt your position
 * So, translating to Tawa from English can be messy
+
+## 0.8 Colloquial forms
+* Usually, *-nae* doesn't attach perfectly, especially in speech:
+	* *Tasu* + *nae* :: *Tasae*
+	* *Tasae* + *ne* (negation) :: *tasane* (not able to (be done))
+* Or in:
+	* *Kedeso* + *nae* :: *Kedesae*
+	* *Kedesae* + *masu* :: *Kedesamasu*
+* Or here:
+	* *Baka* + *nae* :: *Bakanae*
+	* *Bakanae* + *tasu* :: *Bakatasae*
+* etc.
+* Formally, you'd keep *-(n)ae*, and not omit the last **e**, but, otherwise, in speech, it is normal to expect forms like:
+	* *tasane* (`POT.MID.NEG.POL`)
+* ... and so on
