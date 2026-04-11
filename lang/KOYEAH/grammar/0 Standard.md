@@ -465,24 +465,25 @@
 * Note that *-oe/-tei* can be dropped in colloquial speech if they appear directly before the *ou* (accusative) marker
 
 ## 0.10 Desiderative
-* The desiderative in the latest standard is **tara(i/e)**
-* The *e* ending is polite, the *i* ending is not
+* The desiderative in the latest standard is **tarai / tahae**
+* The *tahae* form is much more polite and therefore more commonly used (even with friends, as *tarai* can be too direct/intimate)
 * Examples:
-	* *nirutarae*
+	* *nirutahae*
 		* means 'to miss'
 		* literally, it would mean 'to emotionally long to see'
-	* *kamutarae*
+	* *kamutahae*
 		* 'to emotionally long to eat'
 		* might be a bit over the top
-	* *aitarae*
+	* *aitahae*
 		* 'to emotionally long to help (someone)'
-	* *ainawatarae*
+	* *ainawatahae*
 		* 'to emotionally long to smile'
 * The negated form of this desiderative is:
 	* *hane* / *hadai*
 		* the *hane* form is more polite than *hadai*
+		* *hadai* can be too direct
 * Note that *hane* is stronger than negating the verb, so compare:
-	* *Nirunetarae* :: negated desiderative verb
+	* *Nirunetahae* :: negated desiderative verb
 		* 'to not miss'
 		* like in 'I don't miss them' (e.g., maybe you have moved on)
 	* *Niruhane* :: negated desiderative
