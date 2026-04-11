@@ -422,3 +422,14 @@
 					* lit. "The opened (thing) is hard"
 					* ~"The opened one is hard"
 					* can refer to a person that was 'opened' (i.e., awakened to some truth, emotionally exposed, broken open by an experience (pain, love, etc.), having seen something unseeable) and how he has become 'harder;' i.e., tougher, less soft, less naïve
+* It follows for *-bu* too:
+	* *Asasutabu* :: slum houseish (...)
+	* *Asasutabuoe* :: a slum house (thing)
+* Example:
+	* *Shiou asasutabuoe ou niru yo?* :: `DEM.DIST.INAN house-DIM.PEJ-N.ACC ACC2 see.V Q.POL`
+		* ~"Do you see that slum house?"
+		* ~"Do you see that slum house-looking thing?"
+* But because *-bu* is unlike other modifiers, you can, especially in colloquial speech, drop the *-oe/-tei*:
+	* *Shiou asasutabu ou niru yo?*
+		* ~"Do you see that slum house?"
+* Note that *-oe/-tei* can be dropped in colloquial speech if they appear directly before the *ou* (accusative) marker
