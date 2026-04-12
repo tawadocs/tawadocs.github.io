@@ -164,6 +164,24 @@
     ]
   },
   {
+    "word": "fachipa",
+    "id": "hide-1, conceal-1",
+    "definitions": [
+      {
+        "text": "hide",
+        "frequency": 100
+      },
+      {
+        "text": "to hide",
+        "frequency": 100
+      },
+      {
+        "text": "conceal",
+        "frequency": 100
+      }
+    ]
+  },
+  {
     "word": "fupa",
     "id": "number-2",
     "definitions": [
