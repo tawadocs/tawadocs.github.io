@@ -625,4 +625,4 @@
 		* and that becomes a natural causative!
 * Note that this sentence is actually playful!
 	* because we are using polite forms and there is no sense of harshness, distance, or genuinely angry tone, this is actually quite playful
-	* so, if a friend split a drink, this may be your 'villainous monologue'
+	* so, if a friend spilt a drink, this may be your 'villainous monologue'
