@@ -510,3 +510,40 @@
 	* `/ɾ/`
 * They **never** follow regular patterns, so *niro* + *arae* would yield *niroarae* (though that combo is weird, as it can mean 'to want an eye')
 	* for 'wanting X,' you may say *nirōearae*, but you can also use the verb *subu*, like in *nirōe ou subu* ((I) want an eye)
+
+## 0.11 Usage of some particles
+* Some English structures don't have direct translations:
+	* 'those are very deep for "just some shower thoughts"'
+		* *watada fofensu-pofensu uoinshi, oiē, ōii ihingen* :: `only speak.GER.SELF-ECHO SUP.POL-SIM.COND damn\INF very-ATTR FACT-bright-FACT-GER`
+		* lit. "Only self-speaking and self-speaking same as if, damn, a lot light making"
+		* lit. "If same as only self-speaking and stuff, damn, a lot enlightening (it is)"
+		* ~"If it's just a 'monologue or whatever,' then, damn, that's pretty eye-opening for a monologue"
+* Notes:
+	* *uoinshi* is the casual form of *uoimo shi* (grammar structure)
+	* *uoimo (...) shi* is used when you want to say 'X at/for Y' comparative
+	* examples:
+		* *ashiãioe uoimo sono shi, ōii ii ue* :: `new-REVS-ATTR-N.ACC SUP.POL-SIM 3SG.M.AN.POL COND very-ATTR good COP.POL`
+			* lit. "Old same as he if a lot good is"
+			* ~"He seems pretty good for an old guy"
+				* note that *uoinshi* is not used if we are making a direct comparison
+				* in the other sentence, we take *watada fofensu-pofensu* (just some shower thoughts / just a random inner monologue) as our only comparison
+				* so, saying *uoinshi* (casual contraction) after that seals the clause as:
+					* 'if we consider these as ordinary thoughts...'
+				* then, adding *oie, ōii ihingen* is our comment
+				* and yes, this is an example of *ni* omission
+
+### 0.11.1 **ni** omission
+* Note that the 'most correct' form the first sentence looks like this:
+	* *Watada fofennsu-pofennsu uoimo shi ni oiete ōii ihingen* :: `only speak.GER-SELF-ECHO SUP.POL-SIM COND TOP damn-INF very-ATTR FACT-bright-FACT-GER`
+		* ~"For any other monologue, that's surprisingly deep"
+* ... but almost nobody would say this
+* *uoimo shi ni oiete* alone is too redundant and, in spoken Tawa, turns into:
+	* *uoinshi oiē*
+	* and even if you accidentally forget the doubled vowel, it is still generally understood as a marker of surprise
+* These casual contractions are very important if you don't want to sound like a robot
+* Note that because *shi* implies a conditional 'wrap,' a topic particle is also generally avoided to create unnecessary embedding:
+	* **bad** *haki shi ni oie ue* :: `true.ATTR COND TOP surprising COP.POL`
+		* lit. "As for if it was true..."
+	* **good** *haki shi oie (ue)* :: `true.ATTR COND surprising (COP.POL)`
+		* lit. "Assuming/if it was true..."
+		* you can add the copular if you want politeness
