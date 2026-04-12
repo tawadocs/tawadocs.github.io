@@ -62,14 +62,18 @@
 		* *kamu ipa-hi* 
 			* ~"I think I will eat"
 			* ~"I believe I will eat"
-		* *zuno a tokamu ipaniro hi*
+		* *zuno a tokamu wou ipaniro*
 			* ~"It seems to me that they have finished eating"
 			* ~"I see that they have eaten"
-		* *suno ga iih i wou sano a ipariwaka*
+		* *suno ga iih i wou sano ipariwaka*
 			* ~"She deduced that I was bad"
 			* ~"She rationally came to the conclusion that I was bad"
 	* *ipa-* particles can be verbs, like in the last example:
-		* *sano a ipariwaka* :: she deduces
+		* *sano ipariwaka* :: she deduces
+* The *ipa* epistemic **does** take the role of *a/o/ni/ga* in sentences:
+	* *X suno ipaniro* :: with my eyes, X is
+	* *X suno ipariwaka* :: with my rational faculty, X is
+	* etc.
 * Same for *are*:
 	* *su a ii asa ou toau are*
 		* ~"I wish that I had a good home"
