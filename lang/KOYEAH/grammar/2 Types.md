@@ -160,6 +160,8 @@
 	* *gadenigooenq* :: `disgusting-cat-N-REVS`
 		* ~"commendable dog"
 * In the first example, *-nq* was antonymising the word that was directly before it; however, in the other example, due to the presence of *-oe*, the whole compound *gadenigo* was antonymised as one unit
+* Note that in the new standard, it is better to use *fi* to link full compounds:
+	* *gade fi nigoã*
 
 ## 2.3 Natural and unnatural modifiers
 * Remember these rules for the two markers:
