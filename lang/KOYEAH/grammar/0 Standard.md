@@ -133,7 +133,10 @@
 * is that:
 	* *dakanareta* is polite
 	* *dakaretanai* is casual and less polite
-	* *dakaretanae* is forbidden
+	* *dakaretanae* is not grammatical
+		* as in the grammar doesn't allow it
+		* a speaker would perfectly understand you, though, but he'd be confused
+		* it's like saying 'Sam the apples ate;' after a while, they might get you, but it would sound off
 	* *dakanaereta* is humble and polite
 * *-nae* always goes directly after the verb
 * So, always:
