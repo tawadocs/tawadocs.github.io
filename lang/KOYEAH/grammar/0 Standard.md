@@ -602,3 +602,27 @@
 				* note that we prefer the postpositions either as attributives with a copular in constructions that require a noun postposition combination or as a *-nu* modifier; e.g.,
 					* *sono ga oai jimei han ue* :: `3SG.M.AN.POL NOM danger.ATTR LOC-AN ABL COP.POL`
 						* ~"He is from the dangerous parts (i.e., land)"
+
+## 0.13 Complex dangling
+* In the language, **everything** can be an actor, undergoer, subject (nominative), or the topic
+* That includes entire clauses or sentences
+* This one extremely complex sentence will illustrate both clausal dangling and discourse framing:
+	* *Sono a suno ou tomafuta no a sono o subeko no wanō do reorawāe!*
+	* `3SG.M.AN\POL A 1SG.AN\POL ACC2 PFV-red.V-PEJ NMZ\ABST A 3SG.M.AN\POL U all GEN time PER IPFV-sleep.MID.POL`
+	* lit. "He (because of him), I was reddened (thing), he (undergo) all of time through, will be slept"
+	* ~"I shall put him to sleep forever as his reckoning for arousing my anger"
+		* what the hell? how does that work?
+		* *sono a suno ou tomafuta no* is one block, meaning:
+			* he made me angry (lit. 'he made me red')
+				* we use *-ta* (pejorative) on *tomafu* to indicate anger, as *tomafu* could also mean blush!
+		* adding an *a* after the block puts it in the actor role, meaning:
+			* the fact that "he made me angry" is (doing something...)
+		* then, we add our final clause, which is *sono o subeko no wanō do reorawāe*, meaning:
+			* he, for all of time, will sleep
+		* together:
+			* the fact that he made me angry is doing...
+			* he, for all of time, will sleep
+		* and that becomes a natural causative!
+* Note that this sentence is actually playful!
+	* because we are using polite forms and there is no sense of harshness, distance, or genuinely angry tone, this is actually quite playful
+	* so, if a friend split a drink, this may be your 'villainous monologue'

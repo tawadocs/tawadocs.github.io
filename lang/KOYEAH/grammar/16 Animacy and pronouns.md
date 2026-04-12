@@ -342,12 +342,13 @@
 
 ## 16.10 Nominal forms
 * These forms are the ones you'll hear in 90% of conversation:
-	* *sano* :: `3SG.F.POL`
-	* *sono* :: `3SG.M.AN.POL`
-	* *zuno* :: `2SG.AN.POL`
-	* *zano* :: `2PL.AN.POL`
-	* *nano* :: `1PL.AN.POL`
+	* *sano* :: `3SG.F\POL`
+	* *sono* :: `3SG.M.AN\POL`
+	* *zuno* :: `2SG.AN\POL`
+	* *zano* :: `2PL.AN\POL`
+	* *nano* :: `1PL.AN\POL`
 	* they are also pronounced without the lax/peripheral vowels, and /u/, /o/, /a/ normally, unlike the possessives
+	* gloss with `\` because *no* is a sound change that carries politeness, instead of being a literal morpheme 
 * For *amu* and *wumei*, there is no polite form
 * The *wuno* form (`3SG.INAN.POL`) is often sarcastically used; you'd just say *wu* for most things
 * For *su*:
