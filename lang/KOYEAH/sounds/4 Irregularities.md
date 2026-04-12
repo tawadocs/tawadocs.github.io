@@ -49,6 +49,11 @@
 * Before any **h**-syllable, *ã* is used:
 	* *Hhuã* :: `/'ɴ.ɴu.'ãõ̯/~/'ɴ.ɴu.'ã.õ̯/`
 	* *Kohaã* :: `/'ko.ha.'ãõ̯/~/'ko.ha.'ã.õ̯/`
+* Between vowels or valid **h-syllables**, you use *ã*:
+	* *Aishiãioe*
+	* *Aishiãyaru*
+* But, for invalid syllables (plus bimoraic or greater, non-preceding-h-syllable, non-consonantal-final), you use *h*:
+	* *Aishihta*
 
 ### 4.1.2 The Tawish diphthong
 * All of this also explains why Tawa only has one, singular diphthong

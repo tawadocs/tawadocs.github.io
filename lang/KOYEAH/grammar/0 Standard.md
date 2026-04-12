@@ -283,7 +283,7 @@
 			* *yadamo, ushikitsutashi are!* :: I hope it's fun!
 				* lit. 'and yet, I (still) hope that it's fun'
 		* you can use it like this:
-			* *sono ga ii-ii ue, yadamo kitaãi i* :: he is really great / the best, yet he is still hated
+			* *sono ga ii-ii ue, yadamo kitah i* :: he is really great / the best, yet he is still hated
 				* note: *ii-ii* is the reduplicated intensive of *ii*
 				* it is less 'grand' than using *uoii* (the best of the best / most good) or the playful/intimate *ioii*
 				* a reduplicative fits best here for intensity
