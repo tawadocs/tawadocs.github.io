@@ -2,13 +2,16 @@
 * In NSKT 3.6, negation logic has changed slightly
 * These are the copular particles:
 	* *Uenane* :: polite middle voice negated copular
+		* *uenaene* is more humble / even more polite
 	* *Inane* :: casual middle voice negated copular
+		* *inaene* is sarcastic
 	* *Ine* :: polite negated copular
 		* *uene* is a highly polite and formal negated copular
 		* you'd see it in religious texts, holy oaths, sermons, but otherwise not
 		* in extremely formal contexts, like with a revered teacher, you may use *uene*
 		* we never use *uenenai*, that would be taboo-level vulgar
-	* *Irra* :: casual negated copular
+		* but we do use *uenae* for a simple middle voice
+	* *Irra* :: casual negated copular / can tend rude
 * The rude/fighting forms are:
 	* *Uerranai*
 	* *Irranai*

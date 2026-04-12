@@ -858,5 +858,19 @@
         "frequency": 100
       }
     ]
+  },
+  {
+    "word": "zoo",
+    "id": "inside-1",
+    "definitions": [
+      {
+        "text": "inside",
+        "frequency": 100
+      },
+      {
+        "text": "in",
+        "frequency": 100
+      }
+    ]
   }
 ]
