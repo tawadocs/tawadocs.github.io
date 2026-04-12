@@ -42,17 +42,17 @@
 * This is also why *wumei* is used for random, everyday, natural objects, like rocks, but *sa* is used for exalted or revered mountains
 
 ## 16.3 Pronoun system
-| Pronoun | Animacy                         | Gloss                  |
-| ------- | ------------------------------- | ---------------------- |
-| *su*    | **animate**                     | **1.SG.AN**            |
-| *sa*    | **unspecified**                 | **3.SG.F**             |
-| *so*    | **animate**                     | **3.SG.M.AN**          |
-| *zu*    | **animate**                     | **2.SG.AN**            |
-| *za*    | **animate**                     | **2.PL.AN**            |
-| *na*    | **animate**                     | **1.PL.AN**            |
-| *wu*    | **inanimate**                   | **3.SG.INAN**          |
-| *wumei* | **natural non-human inanimate** | **3.SG.INAN.NAT.NHUM** |
-| *amu*   | -                               | **ULT.SG.DEF**         |
+| Pronoun | Animacy                         | Gloss                 |
+| ------- | ------------------------------- | --------------------- |
+| *su*    | **animate**                     | **1SG.AN**            |
+| *sa*    | **unspecified**                 | **3SG.F**             |
+| *so*    | **animate**                     | **3SG.M.AN**          |
+| *zu*    | **animate**                     | **2SG.AN**            |
+| *za*    | **animate**                     | **2PL.AN**            |
+| *na*    | **animate**                     | **1PL.AN**            |
+| *wu*    | **inanimate**                   | **3SG.INAN**          |
+| *wumei* | **natural non-human inanimate** | **3SG.INAN.NAT.NHUM** |
+| *amu*   | -                               | **ULT.SG.DEF**        |
 * Which pronoun would be used depending on type:
 	* **artificial inanimate**
 		* *wu* is used

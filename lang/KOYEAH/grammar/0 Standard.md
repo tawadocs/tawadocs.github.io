@@ -547,3 +547,58 @@
 	* **good** *haki shi oie (ue)* :: `true.ATTR COND surprising (COP.POL)`
 		* lit. "Assuming/if it was true..."
 		* you can add the copular if you want politeness
+
+## 0.12 Middle voice shift
+* Now, *a/o* usually carry the load of affect:
+	* *sono o rawa* :: he sleeps
+* ... but due to older forms, you usually mark the middle voice:
+	* *sono o rawanae* :: he sleeps
+* Whilst it is fine to say the former, it can sound odd or even have an affect of making the listener wait for something
+* It's the same as saying:
+	* "I put to bed"
+		* whom did you put to bed?
+* ... versus:
+	* "Put to bed"
+		* sounds like a military order, but doesn't have the 'waiting' issue
+* Middle voice endings have changed for a few special verbs:
+	* *fofo* + *ae/ai* :: *fofae/fofai* (to hear)
+		* for full 'completeness,' you say *fofunae/fofunai*
+		* in slang or casual speech, you simply say *fofaru*
+* The middle voice hasn't lost it's role either, because it becomes essential if *a/o* aren't there to help you:
+	* *ng intasune ouiioe... tonukae* :: `DUM SIM.POT-NEG.POL SUP.POL-good-N.ACC PFV-heart.MID.POL`
+		* lit. "similar not able good... hearted"
+		* ~"I felt that... it wasn't good enough / as best as it could have been"
+			* a relatively complex construction
+			* it uses the advanced pattern *intasune*, meaning 'not able to be similar' / 'cannot be like'
+			* *ouiioe intasune* literally means '(it is) not able to be like the best'
+			* it is different from *intasumg ouiioe*, meaning 'it is unable to be like the best,' which carries a completely different tone
+			* another note:
+				* *tonukae* are is a contraction, but *intasune* is not
+				* this is because *i(n/m(o))* **can** take an affix, with the nasal changing to *n* if it is a consonant
+				* but *tonukae* omits the verb, so the most correct form is *tonukunae*
+			* you can use the *intasune* pattern for other things too:
+				* *intasune ouushikitsui* :: not as fun / not fun enough
+				* *intasune ouwaoii* :: not yummy enough
+			* it always takes a superlative or diminutive:
+				* *intasune iuwaoii* :: it was barely yummy / I could eat it if I absolutely had to
+				* *intasune iuushikitsui* :: it wasn't the worst, (but whatever)
+			* note that in complex, ambiguous, or long constructions, you will use the dummy marker:
+				* *ng intasune (degree(X))*
+			* this explicitly makes it so that the comparison becomes shut-off only to what what comes after
+			* it's like saying:
+				* X compared to (it)
+			* so, for example:
+				* *ng intasune ouwaoii*
+			* ... literally can mean
+				* 'the most yummy, it is not able to be similar to (it)'
+			* but, of course, since *ng* is merely a dummy particle, not a pronoun, it really doesn't work like **it** in English, but the comparison suffices
+			* sometimes, you may put the whole thing in irrealis as *intaseone* ((casual) contraction) or *intaseoine* (normal form):
+				* *intaseone... toiuiioe... sekai arenei wanō do ue* :: `SIM.POT.IRR.NEG.POL PFV-SUP.POL-good-N.ACC so-ATTR different-ATTR time PER COP.POL`
+					* lit. "was least goodness could not be similar maybe another time at"
+					* ~"It... wasn't the worst... (but), maybe another time (it could have been better)"
+				* it instantly makes it more emotional, reflective, and deep
+				* plus, the perlative in *wanō do* (through time / along time) gives it a surreal, abstract, and ethereal quality
+					* as if you were floating through the time of the universe itself
+				* note that we prefer the postpositions either as attributives with a copular in constructions that require a noun postposition combination or as a *-nu* modifier; e.g.,
+					* *sono ga oai jimei han ue* :: `3SG.M.AN.POL NOM danger.ATTR LOC-AN ABL COP.POL`
+						* ~"He is from the dangerous parts (i.e., land)"
