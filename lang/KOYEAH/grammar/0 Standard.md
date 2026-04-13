@@ -697,3 +697,17 @@
 * Note that this sentence is actually playful!
 	* because we are using polite forms and there is no sense of harshness, distance, or genuinely angry tone, this is actually quite playful
 	* so, if a friend spilt a drink, this may be your 'villainous monologue'
+
+## 0.14 Casual **-nge**
+* The casual **-(n)nge** ending is **sometimes**, especially in highly informal contexts, used for ordinals:
+	* *Wannge nigo* :: the first cat
+	* *Zunnge nigo* :: the second cat
+	* *Jounnge nigo* :: the tenth cat
+		* no, *jou* doesn't turn into the **ji-** form in this case
+		* non-*n*-ending numbers take *~nnge*, the ones that end in *n* take *~nge*
+		* pronunciation:
+			* *~nnge* :: `/ŋːe/` (two morae)
+				* in terms of morae: `/ŋ.ŋe/`
+			* *~nge* :: `/ŋe/` (one whole mora)
+* It isn't impolite or 'technically informal' per se, but it may seem very 'street Tawa' to some
+* So you can use it freely (no social issues), but you'll come across as using a lot of slang

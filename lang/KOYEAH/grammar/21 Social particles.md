@@ -72,3 +72,14 @@
 		* a nonstandard form is *izue*, which goes before, like *izue gai* (specifically the walls)
 			* but this form creates unnecessary nesting or recursion
 			* naturally, you'd never really use it!
+
+## 21.6 **pokō**
+* Though *pokō* is actually a nominaliser in the **~no pokō** structure, it is also a very common particle, functioning closely to English's 'like' slang
+* Examples:
+	* *wankō... buni mo nukōezun ou nashite reoreteru* :: `one-NMZ2 tea COM heart-N.ACC-2SG.AN.POSS ACC2 ability.ATTR-INF IPFV-cool-V`
+		* lit. "Any one (thing), tea with heart your can will cool"
+		* ~"Take it easy and have a cup of tea or something"
+		* ~"Clear your mind with, like, some tea"
+* **Note**:
+	* *wankō* is often the form you'll see, and it is a contraction
+	* the full form is *wam pokō*

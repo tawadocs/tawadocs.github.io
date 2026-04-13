@@ -239,10 +239,11 @@
 		* for exact quantities (with *-te*), *su* is used (*sute*)
 			* *sute nigo* (one cat)
 	* **ordinals**
-		* *wan* is used (e.g., **ryo wan**)
+		* *wange* or demonstrative pattern
+			* *wannge nigo* (the first cat)
 			* *ryo wan nigo* (the first cat)
-		* but, it is usually used **without** a demonstrative, unlike any other number:
-			* *wan nigo* (the first cat)
+		* *wan* alone would be used as a generaliser
+			* *wan nigo* (some cat, a cat, one cat, another cat)
 
 ## 12.7 Shorthand number compounds
 * Instead of complex number compounds, such as *sawi-nica'sega nimga-sejini* (696,969), you can:
