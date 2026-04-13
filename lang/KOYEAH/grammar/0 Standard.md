@@ -617,6 +617,56 @@
 					* *sono ga oai jimei han ue* :: `3SG.M.AN.POL NOM danger.ATTR LOC-AN ABL COP.POL`
 						* ~"He is from the dangerous parts (i.e., land)"
 
+### 0.12.1 Weird constructions
+* Tawa actually **can't** naturally express English passives, such as:
+	* 'He was hit by me'
+* That is why we have the Tawish voice and alignment system:
+	* *A, sono o aishinai*
+		* `A 3SG.M.AN.POL U hurt-MID`
+		* lit. "(actor), he be hurted"
+		* ~"I hurt him / he was made to be hurt due to me"
+* We also use juxtaposition, connectors like **momg** (because) or **seka-hi** (so that it is...), etc.
+* Now, let's look at another conversational Tawish sentence:
+	* *banō ni... dewandetasae* :: `now TOP ability.ATTR-INF fog-ELA\CAUS-POT.MID.POL`
+		* lit. "Now, (as for it), fog is put out of able"
+		* ~"For now, let's wash away that hazy/foggy feeling"
+			* **grammar points**:
+				* *dewan* is a word for fog / unclear mental state
+				* it can also refer to insanity, especially in the metaphorical sense (e.g., he's crazy for her)
+				* *~de* is a simple elative, meaning 'out of'
+				* when it takes *~tasae*, a polite middle voice potential, meaning 'it can be made to X,' it becomes an elative causative, meaning 'to put out of'
+				* *detasuru/detasuu* alone means 'able to put out of'
+				* the middle voice makes it more natural and soft
+				* for example:
+					* *manideru* :: to impoverish
+						* *sono o honsu ou manideru*
+						* "he accidentally impoverished himself"
+							* you could use the reflexive, but in modern Tawa, it's preferred to use the proper word for self
+					* *manidenae* :: to (be) impoverished
+						* *sono o manidenae*
+							* "he was accidentally impoverished by himself"
+					* *dewanderu* :: to wash away (a fog)
+						* *dewan ou todewanderu*
+							* "The fog was washed away"
+							* "The fog cleared up"
+						* *suno a sono ou todewanderu*
+							* "I helped clear his mind for him to feel better"
+					* *dewandenae* :: for one's fog to be washed away
+						* *suno a todewandenae*
+							* "My fog was washed away"
+				* in this case, it is volitional:
+					* *dewandetasuu* :: can be washed away
+					* *suno o dewandetasuu* :: I am able to be put out of the fog
+					* *suno o dewandetasae* :: natural construction with *-ae*, and much more 'suggestion-oriented' (like 'shall we?' / 'let's')
+				* you'd use *nashite* for an even softer form:
+					* *nashite dewandenae* :: (I/we) could help clear that fog
+* Note that *banō* is a casual contraction of *byo wanō* (now / the time here)
+* Here's another similar example:
+	* *Wenong... nukōezun ou reteru no ye areneioe ou nashite fu, nanee yo?* :: `ADD-GEN-DUM heart-N.ACC-2SG.AN.POSS ACC2 cool-V NMZ BEN different-ATTR.N.ACC ACC2 ability.ATTR-INF ACT NEG.POL.CONF Q.POL`
+		* ~"Let's talk about a different topic, anything, to cool down your heart, don't you think so?"
+			* *nanee* is a softer contraction of *nee anee* (which is polite but can be overly formal for such a sentence)
+			* note that *... no ye* turns the previous clause into a reason, like saying 'in order to...'
+
 ## 0.13 Complex dangling
 * In the language, **everything** can be an actor, undergoer, subject (nominative), or the topic
 * That includes entire clauses or sentences
