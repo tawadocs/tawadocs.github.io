@@ -74,6 +74,13 @@
 	* *X suno ipaniro* :: with my eyes, X is
 	* *X suno ipariwaka* :: with my rational faculty, X is
 	* etc.
+* It has pronominal forms:
+	* *ipasun* :: my epistemic stance
+	* *ipason* :: his epistemic stance
+	* e.g.,
+		* *ipasun han, watada ryo ga ii ue*
+		* ~"To me, this seems perfectly fine"
+			* you might use *ipasun han-hi*, which is the pattern used for bare postpositionals without any other link
 * Same for *are*:
 	* *su a ii asa ou toau are*
 		* ~"I wish that I had a good home"
