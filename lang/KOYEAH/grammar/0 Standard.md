@@ -334,6 +334,13 @@
 		* etc.
 	* *handan* is the intensive (exactly from / precisely originates), which is highly irregular!
 		* logically, it must be *hahan*, maybe *dadan*, but no, it is *handan*
+* Another form of *han* is the *handa* structure, used like:
+	* *Byo-hiou handa* :: `DEM.PROX-DEM.DIST.ABST ABL-ALL`
+		* lit. "Here-that, from-towards"
+		* ~"Whether here or whether there"
+* A more reasonably complex example:
+	* *Ryo hiroga-iou sora no ia handa* :: `DEM.MED world-DEM.DIST.ABST sky GEN above ABL-ALL`
+		* ~"Whether on this world or in the sky above"
 
 ## 0.7 Conversational Tawa
 * Conversational Tawa is very different:
