@@ -39,3 +39,36 @@
 			* this is deduction or rational logic
 			* however, with *izu*, it becomes absolute
 			* a detective might say it after months of work
+* Can be negated (**~izune**)
+	* *reoeanae, izune*
+		* ~"There is no way in Hell that I would go"
+			* almost has an 'are you stupid for thinking that?' implication
+	* *kamu, izune!*
+		* ~"No, I won't eat it!"
+		* ~"Stop, I won't eat!"
+	* *kitai izune*
+		* ~"Hah! You seriously thought that I might like you?"
+* Has pronominal forms (negation is just *ne* at the end):
+	* *ichusu*
+		* *reoushikitsuieoi ue... ichusune*
+			* ~"What the heck is wrong for me for even entertaining the notion that this would be even remotely fun"
+	* *ichusa*
+		* *reokamu ichusa*
+			* ~"Above all else, she said that she will eat"
+	* *ichuso*
+	* *ijuzu*
+		* *kitai ijuzune*
+			* ~"You seriously thought that I might even have an inkling of liking to you"
+				* this is, by far, one of the worst and most rude sentences in Tawa
+				* it's even worse than using *izune*, because *ijuzune* is a direct, final insult to the second person
+				* the sentence itself creates a sense of immense betrayal, starting with *kitai* (I like you) and ending with *ijuzune*
+	* *ijuza*
+	* *ijuna*
+	* *ijuwu*
+* Marks specificity and definiteness:
+	* *gai izuehi ga uuwai kitai ue*
+		* ~"It is challenging for me to get myself to like specifically the sides/walls"
+		* ~"It's hard to like specifically these walls"
+		* a nonstandard form is *izue*, which goes before, like *izue gai* (specifically the walls)
+			* but this form creates unnecessary nesting or recursion
+			* naturally, you'd never really use it!
