@@ -564,6 +564,24 @@
     ]
   },
   {
+    "word": "pokoo",
+    "id": "nominaliser-2, thing",
+    "definitions": [
+      {
+        "text": "thing",
+        "frequency": 100
+      },
+      {
+        "text": "item",
+        "frequency": 100
+      },
+      {
+        "text": "object",
+        "frequency": 100
+      }
+    ]
+  },
+  {
     "word": "safuko",
     "id": "gradual-2",
     "definitions": [
