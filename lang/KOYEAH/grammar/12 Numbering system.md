@@ -9,7 +9,7 @@
 | **mi**   | `mi`           | `5`       | five                 |
 | **se**   | `se`           | `6`       | six                  |
 | **ki**   | `ki~ci̥`       | `7`       | seven                |
-| **rre**  | `(ɾ,r)e`       | `8`       | eight                |
+| **rhe**  | `(ɾ,r)e`       | `8`       | eight                |
 | **ni**   | `(ɲ,n)i`       | `9`       | nine                 |
 | **jou**  | `d͡ʑoʊ`        | `10`      | ten                  |
 | **mga**  | `m͡ŋa`         | `100`     | one hundred          |
