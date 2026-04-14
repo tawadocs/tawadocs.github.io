@@ -514,6 +514,16 @@
     ]
   },
   {
+    "word": "nu' nu'",
+    "id": "noot-noot-1",
+    "definitions": [
+      {
+        "text": "noot noot",
+        "frequency": 100
+      }
+    ]
+  },
+  {
     "word": "oie",
     "id": "intj-23",
     "definitions": [
@@ -559,6 +569,16 @@
     "definitions": [
       {
         "text": "behind",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "pingu",
+    "id": "penguin-2",
+    "definitions": [
+      {
+        "text": "penguin",
         "frequency": 100
       }
     ]
