@@ -3,7 +3,7 @@
 | ------------------ | ------- | ------ | --------- | --------- | -------- | ----------- |
 | **Bilabial**       | b p     | m m̥͡m | ɸ         |           |          |             |
 | **Dentialveolar**  | t tʰ d  |        |           | t͡s d͡z   |          | l           |
-| **Alveolar**       |         | n      | s z       |           | ɺ ɾ      |             |
+| **Alveolar**       |         | n n̥͡n | s z       |           | ɺ ɾ      |             |
 | **Alveolopalatal** |         | nʲ     | ɕ ʑ       | t͡ɕ d͡ʑ   |          |             |
 | **Palatal**        | cʰ      |        |           | c͡ç       |          | j           |
 | **Velar**          | k g     | ŋ      |           |           |          |             |
