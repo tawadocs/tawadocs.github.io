@@ -711,3 +711,17 @@
 			* *~nge* :: `/ŋe/` (one whole mora)
 * It isn't impolite or 'technically informal' per se, but it may seem very 'street Tawa' to some
 * So you can use it freely (no social issues), but you'll come across as using a lot of slang
+
+## 0.15 Possessive irregular forms
+* 'X's'
+	* *Maika note ni yo?*
+		* masculine form
+		* women can say it too, depending on how 'rough' or formal they want to sound
+		* lit. "What about Mica's / Let's see Mica's..."
+	* *Maika note ni?*
+		* feminine form
+		* men **cannot** use it
+		* soft
+* Pronominals
+	* *Sonte ni yo?*
+	* *Sonte ni?*
