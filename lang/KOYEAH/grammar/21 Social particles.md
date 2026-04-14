@@ -83,3 +83,61 @@
 * **Note**:
 	* *wankō* is often the form you'll see, and it is a contraction
 	* the full form is *wam pokō*
+
+## 21.7 **oia**
+* *oia* is general affirmation and is very polite:
+	* 'I don't get why not'
+	* 'Yeah'
+	* 'Sure'
+	* 'That's fine by me'
+* Adding it after something affirms what precedes it:
+	* *Ushikitsu oia*
+		* ~"Yeah, that was pretty fun"
+	* *Yaranae oia*
+		* ~"Of course I'm coming"
+* But using it in the standalone form is fine too:
+	* *Oiān, oiān, kitai ue*
+		* ~"Yes, yes, I like it"
+		* note that *oiān* is more 'formal/composed'
+		* it's like 'indeed/precisely/absolutely/verily/truly'
+* See other relevant sheets for more information
+
+## 21.8 **pa**, **pang**
+* *pa* heavily specifies or identifies precision and accuracy
+* It, at its base, is simply a **delimitative frame**
+* Take this sentence:
+	* *Buni ga sawangōe mo ieii ue* :: `tea NOM sweet-SRC.WHOLE-N.ACC COM AUG-good COP.POL`
+		* ~"It is the tea that is better served with sugar"
+* And contrast it with:
+	* *Pa buni pa ga sawangōe mo ieii ue* :: `EMPH tea EMPH NOM sweet-SRC.WHOLE-N.ACC COM AUG-good COP.POL`
+		* ~"Nothing and nothing but tea is best with sugar"
+		* ~"It is only and only tea that is better with sugar"
+* We will now look at grammar points concerning both *pa* and *pang*
+* **Circumfix**
+	* *fupa ou pa nanpanguu pa* :: `number ACC2 LIM number-SRC.LEX\V LIM`
+		* ~"I did nothing other than measuring the number"
+		* ~"I measured the number (I didn't do anything else, though)"
+* **Final particle**
+	* *fupa ou nanpanguu, pa* :: `number ACC2 number-SRC.LEX\V EXCL`
+		* ~"I measured the number (believe me or don't...)"
+		* ~"I don't care what you think, but I really did measure the number"
+		* ~"Believe it or not, I actually measured the number"
+			* other particles or tone dictate interpretation
+			* so, for example:
+				* *fupa ou nanpanguretamgu pa!*
+			* is interpreted as:
+				* ~'believe me or not, but I finally measured the number, thank God!'
+* **Adverbial**
+	* *fupa ou pang nanpanguu* :: `number ACC2 precise.ATTR number-SRC.LEX\V`
+		* ~"I measured most precisely the number"
+* **Sentence-final** (*pang*)
+	* *fupa ou nanpanguu, pang* :: `number ACC2 number-SRC.LEX\V ASSERT2`
+		* ~"I swear, I really did measure the number"
+		* ~"I promise I measured it"
+		* you can use it to make promises too (imperfective):
+			* *reonanpanguu, pang*
+				* ~"I promise that I will measure it"
+			* or let context do the work
+* **Circumfix** (*pang*)
+	* *fupa ou pang nanpanguu pang* :: `number ACC2 precise.ATTR number-SRC.LEX\V ASSERT2`
+		* ~"I promise, I really did measure most precisely the number"
