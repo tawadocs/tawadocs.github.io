@@ -3,7 +3,7 @@
 * *óy*/*óí* and *t* are now *oi* `/ɔɪ/` and *ta* `/tḁ/`
 	* pronounced roughly the same but the devoiced vowels preserve (C)V(N) structure
 * *mh* `/m̥͡m/` is pronounced `/m̥͡m/`, no difference
-	* but *mha* the particle is now pronounced `/mʲa/` (still written *mha*, though)
+	* the *mha* particle remains the same in pronunciation
 * *q* `/c͡ç/` is pronounced `/ç~x/`, but `/c͡ç/` is also acceptable
 * *r* and *rr* `/ɺ ɾ/` are simply pronounced `/ɺ~ɾ~r/`
 * *nh* is pronounced `/n̥͡n/`, but *mg* `/m͡ŋ~m͡g/` replaced *nh*'s role
