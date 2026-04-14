@@ -1,4 +1,4 @@
-1## 16.1 Root preference
+## 16.1 Root preference
 * The root usually changes depending on animacy:
 	* *Nemurra payaennai boji hakashisun ye* :: `choice-NEG study-GER-MID AGST-LOC family-1SG.POSS BEN`
 		* ~"No choice but to study for my family"
