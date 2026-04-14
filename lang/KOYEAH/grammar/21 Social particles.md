@@ -1,5 +1,34 @@
 ## 21.1 **oto**
 * See **16:16.8**
+* In the grammar point *ottan no...* it offers a soft explanation:
+	* *Ottan no tokoibwunae*
+		* ~"Because I was tired"
+		* ~"As I was tired"
+		* ~"For I was tired"
+* Don't confuse it with the grammar point *X no tan han X*:
+	* *Subeko no hakhson no tan han, anishite kamuh* :: `all GEN true.REVS-3SG.M.AN.POSS GEN reason ABL require.ATTR-INF eat.V-REVS`
+		* ~"I needed to vomit after hearing all of his lies"
+		* ~"I had to vomit because of all of his lies"
+		* notes:
+			* *hakhson* is pronounced like this (in the standard accent of NSKT):
+				* `/'ha.kãõ̯.'sɔ.n/`
+			* *kamuh* follows the same logic:
+				* `/'ka.mu.'ãõ̯/`
+* Note that *X no tan han X* can't be used in constructions like:
+	* *Atora no tan han, sono o tonaiwai ue* :: `apple GEN reason ABL 3SG.M.AN.POL U PFV-happy-ATTR COP.POL`
+		* lit. "Apple's reason from, he was happy"
+		* ~"Due to the apple, he was happy"
+			* whilst this is fine and technically parseable, it is odd in terms of how natural it sounds
+			* *no tan han* implies a sequence rather than causation
+			* you would say:
+				* *atora momg sono o tonaiwai ue*
+					* he was happy because of the apple
+				* *atora a, sono o tonaiwai ue*
+					* the apple made him happy
+			* ... depending on flavour
+			* but here, it sounds odd and almost too 'robotic/formal'
+			* it's like saying:
+				* the apple is a reason, and he was happy
 
 ## 21.2 **ya**
 * Softener, harshener, and assertive
