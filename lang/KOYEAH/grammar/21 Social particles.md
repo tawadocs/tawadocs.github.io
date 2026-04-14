@@ -1,6 +1,6 @@
 ## 21.1 **oto**
 * See **16:16.8**
-* In the grammar point *ottan no...* it offers a soft explanation:
+* In the grammar point *ottan no...* offers a soft explanation:
 	* *Ottan no tokoibwunae*
 		* ~"Because I was tired"
 		* ~"As I was tired"
