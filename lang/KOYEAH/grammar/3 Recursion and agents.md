@@ -172,3 +172,33 @@
 		* *riwakangōe ye no* :: `think-SRC.WHOLE-N.ACC BEN NMZ`
 		* lit. "For the benefit of your head (one/thing)"
 		* ~"The one for your head"
+
+## 3.8 Subjunctives
+* Tawa doesn't have subjunctives in the English sense
+* It only has one irrealis particle *eoi*
+* You can use this to talk about something that **isn't real**:
+	* *Sano ga iieoi ue* :: `3SG.F.POL NOM good-IRR COP.POL`
+		* ~"If only she were good"
+	* *Sano ga iieoi shi byo zhi ōii ieii* :: `3SG.F.POL NOM good-IRR COND DEM.PROX TEMP more-ATTR AUG-good`
+		* ~"If only she were good, it would have been better today/now"
+* Let's look at some common examples:
+	* **If he had known your phone number yesterday, he would have called you**
+		* *To, sono ni rwankutazuni nampa ga shirenae shi, zuno ou osararetamgeoi*
+		* `PFV 3SG.M.AN.POL TOP phone-2SG.AN.POSS-ATTR number NOM know-MID.POL COND 2SG.AN.POL ACC2 call-RESL-G.REVS-IRR`
+			* lit. "Was: as for him, your phone number, is known, if, you would call"
+				* note that we use *osararetamgeoi* because *osararetamg* means 'thankfully/fortunately would have ended up calling...'
+				* however, placing *-eoi* (irrealis) on this makes it 'would have thankfully ended up calling;' i.e., it implies that he did not call, but would have if he knew
+	* **If places looked the same, people would have gotten bored**
+		* *Eoi, jioe o samai nirunae shi, hon ni koibwuyarae*
+		* `IRR LOC-N.ACC U same-ATTR see.V-MID.POL COND person TOP bored-INCH.MID.POL`
+			* lit. "(Irreal): place in the same way is seen, (if it is the case), as for the people, become bored"
+	* **If that bird is a penguin, then it can't fly**
+		* *Iou ngoshi ga pingu ue, kiukutasane*
+		* `DEM.DIST.AN bird NOM penguin COP.POL fly.V-POT.MID\POL-NEG.POL`
+			* lit. "That bird, penguin (it) is, (it) can fly not able"
+	* **If that bird were a penguin, then it couldn't have flown**
+		* *Iou ngoshi ga hakōe ji pingu ue, nashieoinete tokiuku*
+		* `DEM.DIST.AN bird NOM true-N.ACC LOC penguin COP.POL ability.ATTR-IRR-NEG.POL-INF PFV-fly.V`
+			* lit. "That bird, in reality, penguin (it is), could not flown"
+				* more naturally, you'd actually say 'how did it fly?' or 'how could it have flown?'
+				* these literal translations are just for beginner understanding; however, they are **not** considered natural Tawa
