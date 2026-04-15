@@ -1,15 +1,16 @@
 ## 1.1 Consonant inventory
-|                    | Plosive | Nasal  | Fricative | Affricate | Tap/flap | Approximant |
-| ------------------ | ------- | ------ | --------- | --------- | -------- | ----------- |
-| **Bilabial**       | b p     | m m̥͡m | ɸ         |           |          |             |
-| **Dentialveolar**  | t tʰ d  |        |           | t͡s d͡z   |          | l           |
-| **Alveolar**       |         | n n̥͡n | s z       |           | ɺ ɾ      |             |
-| **Alveolopalatal** |         | nʲ     | ɕ ʑ       | t͡ɕ d͡ʑ   |          |             |
-| **Palatal**        | cʰ      |        |           | c͡ç       |          | j           |
-| **Velar**          | k g     | ŋ      |           |           |          |             |
-| **Labiovelar**     |         | m͡ŋ    |           |           |          | w~ʋ         |
-| **Uvular**         |         | ɴ      |           |           |          |             |
-| **Glottal**        | ʔ       |        | h         |           |          |             |
+|                    | Plosive | Nasal      | Fricative | Affricate | Tap/flap | Approximant |
+| ------------------ | ------- | ---------- | --------- | --------- | -------- | ----------- |
+| **Bilabial**       | b p     | m m̥͡m m͡n | ɸ         |           |          |             |
+| **Dentialveolar**  | t d     |            |           | t͡s d͡z   |          |             |
+| **Alveolar**       |         | n n̥͡n     | s z       |           | ɺ ɾ      |             |
+| **Alveolopalatal** |         | nʲ         | ɕ ʑ       | t͡ɕ d͡ʑ   |          |             |
+| **Palatal**        | cʰ      | ɲ          |           |           |          | j           |
+| **Velar**          | k g     | ŋ          |           |           |          |             |
+| **Labiodental**    |         |            |           |           |          | ʋ           |
+| **Labiovelar**     |         | m͡ŋ        |           |           |          | w           |
+| **Uvular**         |         | ɴ          |           |           |          |             |
+| **Glottal**        | ʔ       |            | h         |           |          |             |
 * Note the differences from Ashi Tawa (see full differences in **6 Grammatical Differences** in *KOYEAH grammar* documentation)
 * And other than that, there's voiceless vowels and a few other quirks
 * *hy* is always pronounced /ç͡j/ or just /çj/ for simplicity
@@ -25,6 +26,15 @@
 			* for labiovelarisation
 		* **ᶹ**
 			* for labiodentalisation
+* Note that:
+	* *mn* **can** be realised as:
+		* `/m͡ɲ/`
+	* but this only happens before bilabial and velar consonants, so:
+		* *amnkita* is:
+			* `/'a.m͡ɲ.'ci̥.ta/`
+		* and *amnbaka* is:
+			* `/'a.m͡ɲ.'ba.ka/`
+	* some speakers may still pronounce it as `/m͡n/`, regardless of the fact
 
 ## 1.2 Vowel inventory
 |               | Front | Near-front | Central | Near-back | Back |
