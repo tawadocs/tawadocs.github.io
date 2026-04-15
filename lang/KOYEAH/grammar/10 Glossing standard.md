@@ -48,6 +48,8 @@
 | myum     | **INTIM.V**                             |
 | mya      | **INTIM.F**                             |
 | mye      | **INTIM.M**                             |
+| pokō    | **NMZ.ABST**                            |
+| zono     | **NMZ2**                                |
 * Others stay the same, as described
 * *yo* is now **Q.POL** and not **Q2** (old label!)
 * *ng* is a dummy if it marks *no* as nominaliser
