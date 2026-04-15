@@ -5,6 +5,9 @@
 ## 0.2 Head-directionality
 * It is strictly head-final
 * This means that *shi* and *zhi* go after the head too, even though in NSKT 3.5 and below, they did not
+	* note: *bihi* is often used as a contraction of the *byo zhi* grammar point
+	* e.g., *bihi, yaranate byo!* (come here, now!)
+	* it prefers to sit near the verb or go either at the very start or very end
 * So:
 	* *Soramaenai shi, reokamu* :: `rain-GER.MID COND IPFV-eat.V`
 		* ~"I will eat if it's going to rain / is raining"
