@@ -342,6 +342,22 @@
 		* ~"Where is the person starting out from?"
 		* ~"What level is the person at?"
 		* etc.
+* If you said *X no han*, then it would mean something else:
+	* *Hon no han* :: because of the person...
+* e.g.,
+	* *iemgii kongu han, reoyaranane* :: `AUG-G.REVS-good day-SRC.LEX ABL IPFV-come-MID.POL.NEG.POL`
+		* ~"Because the weather is worse than expected, I won't be coming"
+		* ~"My day wasn't as optimal as I had planned for it to be, so I'd prefer staying home"
+			* the nominaliser *no* is omitted in fast or casual speech
+			* especially if it isn't a clause
+			* but for clauses, you'd do:
+				* *kanteisun ga tokamae no han...* :: `food.N.PAT-1SG.AN.POSS NOM PFV-eat.MID.POL NMZ ABL`
+					* ~"Because it is my food that was eaten..."
+			* note that *(no) han* is much more serious/masculine than a simple *momg*
+			* if you said *iemgii kongu momg*, it would read like:
+				* ~"Because the day is less optimal..."
+				* ~"My day hasn't been the best, so..."
+			* *(no) han* is more 'objective' or 'less emotional'
 * *han/dan* are actually the same ablative, but:
 	* *han* the now-used postpositional form
 	* *dan* (`ABL2`) the archaic form, but it is commonly used in different word-types (*han* isn't)
