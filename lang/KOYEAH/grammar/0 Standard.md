@@ -300,14 +300,22 @@
 
 ## 0.6 Structures
 * Use structures like:
-	* *Mgaoe wou imo ohira ga Mgioe han no ielilii e*
+	* *Mgaoe wou imo ohira shi ni, Mgioe ga ielilii e ue*
 		* means:
-			* mixtures of "X" are less preferable/okay than "Y"
-* Example:
-	* *bakaimbu wou imo ohira ga bakainubu han no ielilii e*
-		* ~"Clusters like 'bakaimbu' are less preferable, unlike 'bakainubu"
+			* lit. "as for milk like 'X,' if we are talking about that, it is 'Y' that is less okay"
+			* ~"mixtures of "X" are less preferable/okay than "Y""
+* A conversational example:
+	* *'bakaimbu' wou imo no ng, 'bakainubu' han no iemge ue*
+		* ~"Clusters like 'bakaimbu' are less preferable, unlike 'bakainubu'"
 			* this is a little Tawish rule in Tawa
 			* you always write *bakainubu* (smoothly/circularishly)
+			* literally, this translates as:
+				* ~"'bakaimbu'-like things, 'bakainubu' from (is) less okay"
+			* but it drops:
+				* *shi ni* (formal 'if this is what we are talking about...' anchor; a topic-conditional)
+				* *ielilii e ue* (a more verbose way of saying 'less okay')
+					* *iemg* scales something down, and it is an informal form of *ielilii*
+					* so *iemge* means 'less okay-er' if interpreted literally
 * But, you can also say:
 	* *... Mgioe han ielilii e ue*
 		* ... are less better from Y
@@ -349,7 +357,7 @@
 		* lit. "Here-that, from-towards"
 		* ~"Whether here or whether there"
 * A more reasonably complex example:
-	* *Ryo hiroga-iou sora no ia handa* :: `DEM.MED world-DEM.DIST.ABST sky GEN above ABL-ALL`
+	* *Ryo hiroga, iou sora no ia, handa* :: `DEM.MED world DEM.DIST.ABST sky GEN above ABL-ALL`
 		* ~"Whether on this world or in the sky above"
 
 ## 0.7 Conversational Tawa
