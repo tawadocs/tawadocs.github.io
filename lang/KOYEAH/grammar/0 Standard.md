@@ -335,6 +335,28 @@
 	* *sono han no ieii* :: better than him
 		* more abstract
 		* could be about preference, love, etc.
+* In conversation (by a female):
+	* *mahwatoe mo uuwa nuku, ya* :: `illness-PEJ.N.ACC CMPR hard heart.V ASSERT`
+		* ~"(To him), it is harder than getting through a terrible illness"
+			* this has a drama-like tone due to *-toe* on *mahwa*
+			* it's like saying 'a shitty illness' (**mahwatoe**), as it makes it pejorative
+			* *mahwa* (illness) is already pejorative, so specifying it adds that 'lazy/tired/resigned/frustrated' flavour
+			* adding *nuku, ya* in the end is the 'it is felt / he feels' part
+			* more strictly, it should have been *... wou nuku, ya*; however, in speech, small particles like these **can** be dropped
+			* a context where you might say this:
+				* a parrot fights with another parrot
+				* you would say:
+					* *mahwatoe mo uuwa nuku, ya!*
+				* meaning:
+					* the parrot really despises her!
+				* it is quite idiomatic
+				* it is also good to note that this construction would be used **by a female**
+				* a man would prefer *... han uuwa nuku, ya*
+				* but note that with *han*, this could also mean:
+					* ~"It is harder due to illness"
+					* ~"The difficulty comes from a shitty illness"
+				* so he may use *shi ni* or explicit structures (if ambiguous)
+				* but since Tawa is so contextual, it doesn't matter most of the time, because interpretation changes depending on it
 * And thirdly, you never say *X no han*, you always say *X no dan*:
 	* *Hon no dan*
 		* lit. "As for the person's origin, (it) is what?"
@@ -741,14 +763,19 @@
 
 ## 0.15 Possessive irregular forms
 * 'X's'
-	* *Maika note ni yo?*
+	* *Maika nonae ni yo?*
 		* masculine form
 		* women can say it too, depending on how 'rough' or formal they want to sound
 		* lit. "What about Mica's / Let's see Mica's..."
-	* *Maika note ni?*
+	* *Maika nonae ni?*
 		* feminine form
 		* men **cannot** use it
 		* soft
 * Pronominals
-	* *Sonte ni yo?*
-	* *Sonte ni?*
+	* *Sonten ni yo?*
+	* *Sonten ni?*
+		* use *sonnai* if you want to be direct/rough
+		* the *-nai* form pronominals would also be used in fighting or blaming contexts
+* Depending on casualness, tone, you might use *-nai*, which can be rude:
+	* *Maika nonai ni no?*
+		* note that *nonai ... yo?* would be more saracastic, whereas *nonai... no?* is more rough/direct
