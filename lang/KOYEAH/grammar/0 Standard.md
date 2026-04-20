@@ -357,6 +357,27 @@
 					* ~"The difficulty comes from a shitty illness"
 				* so he may use *shi ni* or explicit structures (if ambiguous)
 				* but since Tawa is so contextual, it doesn't matter most of the time, because interpretation changes depending on it
+	* here is another example illustrating particle dropping:
+		* *Mātasenārae azaiare* :: `love-MID.POL-DES.POL toss-INE`
+			* lit. "Want to be loved in dragging"
+			* ~"I desperately want to be loved"
+				* it deconstructs into:
+					* **`[Desire to be loved] + [The state one is in]`**
+					* **`[Want to be loved] + [Currently in dragging]`**
+				* so we understand that:
+					* *mātasenārae* is the descriptor
+					* and that *azaiare* is the description
+					* so *mātasenārae*, non-grammatically, is functioning like a modifier, modifying *azaiare*, which is the state the person is currently in
+					* for clarity:
+						* *mātasenārae* is a verb, not a modifier
+						* strictly grammatically, this is a nominalised phrase, where *-re* on *azaia* functions like a postpositional affix
+						* but this distinction will confuse you, so don't think of it like this
+				* to parse it:
+					* *azaia* implies total loss of control, like going 'off the rails' violently
+					* it describes being helplessly overtaken by an omnipresent force that plays you like a mannequin, making you dance, or swinging you around as if the force were spinning a coat hangar on its digit
+					* so, when we envelop *mātasenārae* into it, it means that the action *mātasenārae* (want to be loved) is going 'off the rails' or 'running wild'
+					* together:
+						* ~"That (I) want to be loved, it is a feeling going wild (for me)"
 * And thirdly, you never say *X no han*, you always say *X no dan*:
 	* *Hon no dan*
 		* lit. "As for the person's origin, (it) is what?"

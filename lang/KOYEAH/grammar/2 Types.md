@@ -354,7 +354,7 @@
 * *rhu/myu* are the same particle:
 	* *Kedeshwu*
 	* *Kedesurhu*
-* ... should theoretically both mean the same thing
+* ... so, they should theoretically both mean the same thing
 * But why is *myu* used over *rhu* there?
 * It's because you use *myu* for all general terms with an intimate/vulnerable connotation:
 	* *Dakamyu* :: steal (intimate)
