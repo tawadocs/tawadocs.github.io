@@ -256,6 +256,20 @@
     ]
   },
   {
+    "word": "hua",
+    "id": "grandmother-1",
+    "definitions": [
+      {
+        "text": "grandmother",
+        "frequency": 100
+      },
+      {
+        "text": "deep comforting melancholic bond",
+        "frequency": 100
+      }
+    ]
+  },
+  {
     "word": "ia",
     "id": "above-3",
     "definitions": [
@@ -597,6 +611,24 @@
       },
       {
         "text": "object",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "word": "pua",
+    "id": "bond-2, family-1",
+    "definitions": [
+      {
+        "text": "a deep",
+        "frequency": 100
+      },
+      {
+        "text": "comforting",
+        "frequency": 100
+      },
+      {
+        "text": "melancholic family bond",
         "frequency": 100
       }
     ]
