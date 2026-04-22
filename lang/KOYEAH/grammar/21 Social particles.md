@@ -170,3 +170,13 @@
 * **Circumfix** (*pang*)
 	* *fupa ou pang nanpanguu pang* :: `number ACC2 precise.ATTR number-SRC.LEX\V ASSERT2`
 		* ~"I promise, I really did measure most precisely the number"
+
+## 21.9 *hasu*
+* *-hasu* denotes a 'person of'
+* It is a non-verbal form of *-masu*
+* Examples:
+	* *payamashasu* :: a student of knowledge
+		* *mashasu* = agentive noun + 'person of'
+	* *shireteihasu* :: a person of knowledge (e.g., 'scholar')
+		* in *-teihasu*, the *-tei-* component may be omitted
+		* keeping it makes it more formal
