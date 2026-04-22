@@ -398,6 +398,32 @@
 	* *Ryo hiroga, iou sora no ia, handa* :: `DEM.MED world DEM.DIST.ABST sky GEN above ABL-ALL`
 		* ~"Whether on this world or in the sky above"
 
+### 0.6.1 Dropping
+* Multiple particles can be fully omitted sometimes
+* Take this one, fairly common sentence:
+	* *asa otowanō?* :: `2SG.AN.POL home WH-time`
+		* lit. "Home when"
+		* ~"When will you come home?"
+* This omits:
+	* *ni* (essential discourse marker)
+	* *un* (time)
+	* a goal structure
+	* a verb
+	* a pronoun (though this isn't as crazy)
+* Technically, it should be:
+	* *zuno ni otowanō un yaranate asa* :: `2SG.AN.POL TOP WH-time INSTR come-MID.POL-INF house`
+		* lit. "As for you, when (at) come to house"
+		* ~"When will you be coming to the home?"
+* So, what happened?
+	* *asa* is a locative/goal word by default, because 'home' is a place
+		* *suno ni, asa otowanō yaranae yo?*
+			* ~"When should I come home?"
+			* ~"When do you want me to come home?"
+	* *otowanō* already signals that temporal information is needed ('what time')
+		* *otowanō reokamu*
+			* ~"When will we be eating?"
+	* intonation (*?*) marks it as a question, no *no/yo* necessary
+
 ## 0.7 Conversational Tawa
 * Conversational Tawa is very different:
 	* *asasan no unsoi wanō mou ya, asason un honamun no fupa ga ōii ue* :: `house-3SG.F.POSS GEN life-ATTR time CMPR ASSERT house-3SG.AN.POSS INSTR person-ULT.SG.DEF.POSS GEN number NOM more-ATTR COP.POL`
