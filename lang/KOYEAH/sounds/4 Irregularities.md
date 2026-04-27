@@ -70,6 +70,21 @@
 * So, a palatalised consonant like *ky* is always pronounced like *ki*
 * Keep these patterns in mind:
 	* usually, the *y* is replaced with a simple *i* in most words now
-		* it is the older words like *myo* which have survived this
 	* a consonant plus *yi* sequence always results in palatalisation, not a double *i* vowel
 		* *m* + *yi* :: *myi* `/mʲi/`
+
+### 4.2.1 Secondary articulations
+* Whilst the language may have lost proper patalisation other than *yi*, it has labiovelarisation and labiodentalisation, both of which are contrastive:
+	* *pva* is different from *pwa*
+* Fortunately, these contrasts are usually rare and other features (like affixes or context) distinguish the word immediately
+* Some words may be written with *-y* like *ryo*, *byo*, or *myo*; however, all of these are pronounced with an *i* (despite some older, now-obselete IPA transcriptions suggesting otherwise)
+* **Palatalisation** now can only occur on:
+	* *ng*, *mg*, *n*
+		* so *nya* is different from *nia*
+		* *mgia* is not the same as *mgya*
+		* and *ngie* is different from *ngye*
+* The language **does** contrast the palatal and alveolopalatal nasals, so:
+	* *nuko* :: `/nuko~ɲuko/` is different from *nyuko* `/nʲuko/`
+* You will still likely **not** see any of these 'palatal' sequences in normal Tawa
+	* loanwords, highly old or archaic words, roots, or affixes, may contain these, but they are still **exceptionally rare**
+	* even if they **are** present, the sequences would likely degenerate into *-i* vowel sequences, so a hypothetical word like *nyuko* would be pronounced `/niuko~ɲuko~ɲiuko/`
