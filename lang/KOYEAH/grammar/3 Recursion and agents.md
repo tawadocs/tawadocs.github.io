@@ -202,3 +202,20 @@
 			* lit. "That bird, in reality, penguin (it is), could not flown"
 				* more naturally, you'd actually say 'how did it fly?' or 'how could it have flown?'
 				* these literal translations are just for beginner understanding; however, they are **not** considered natural Tawa
+
+## 3.9 What if a verb comes first
+* You could call this 'pseudo-recursion'
+* It isn't really grammatical, at all:
+	* *Reoreteyarae. Riwaka, iite kamu*
+		* lit. "Will become cold. Think good to eat"
+		* ~"That it is good to eat, I think (this), as it is getting late (i.e., becoming cold)"
+			* you'd usually use *reoreteyarae* for 'getting late'
+			* if 'eating' was already mentioned, hinted at, or implied, you'd do:
+				* *reoreteyaratenae*
+* Note that you might use *hi* or *ng* instead:
+	* *iite kamu, riwaka hi*
+		* friendly, can be feminine/cute
+	* *iite kamu, riwaka ng*
+		* a little less feminine
+* But for simple phrases, the *... riwaka iite kamu* is preferred and completely fine
+* The *hi/ng* is also nonstandard and more slang-y
