@@ -772,6 +772,13 @@
 * Note that this sentence is actually playful!
 	* because we are using polite forms and there is no sense of harshness, distance, or genuinely angry tone, this is actually quite playful
 	* so, if a friend spilt a drink, this may be your 'villainous monologue'
+* You can also use these nominalised clauses as modifiers:
+	* *wan hon wa mātasetasane nnui maku seka hi, ya* :: `one person also love-POT.MID.POL.NEG.POL NMZ.MOD.ATTR cry so BACK ASSERT`
+		* ~"I can't even love a single person, I'm really suffering (crying)"
+* You can use:
+	* *nobu* :: approximate (kind of like (that) / ...-like)
+	* *nnui* :: casual/emotional form
+	* *noi* :: less used or rare, formal form
 
 ## 0.14 Casual **-nge**
 * The casual **-(n)nge** ending is **sometimes**, especially in highly informal contexts, used for ordinals:
