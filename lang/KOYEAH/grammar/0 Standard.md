@@ -812,3 +812,53 @@
 * Depending on casualness, tone, you might use *-nai*, which can be rude:
 	* *Maika nonai ni no?*
 		* note that *nonai ... yo?* would be more saracastic, whereas *nonai... no?* is more rough/direct
+
+## 0.16 Particle ghosts
+* 'Particle ghosts' are sentences with weird structures, like:
+	* *ribu ga ng!* or *ribu ga!* (if tone kills the trailing effect)
+* Effectively, this can mean a lot of things:
+	* ~'Study!'
+	* ~'No, (I meant) a book!'
+	* ~'It was the books all along!'
+	* ~'Specifically the books!'
+	* ~'Please, only the books (nothing else)!'
+* And, of course, you can do it with others:
+	* *kamen ni ng...*
+		* ~'Can we talk about eating instead?'
+		* ~'However, from the perspective of eating...'
+		* ~'If we take into consideration eating...'
+* Let's look at a small dialogue:
+	* *Kanojo ni?*
+		* ~"Who is she?"
+	* *Sono ni ng*
+		* ~"His girlfriend"
+	* *Seka ue no?*
+		* ~"Really? Is that so?"
+	* *Wou riwaka...*
+		* ~"It's what I think..."
+	* *Eu?*
+		* ~"Is it hearsay?"
+	* *Ipasun, ya*
+		* ~"(No), it is of my own accord (that I assert this)"
+* So, what the hell happened?
+	* *kanojo ni* literally means 'as for the partner...'
+		* **point:** this sentence tells you the gender of the speaker (they are likely a female), as they used the feminine genderlectical ending (*ni?*)
+	* *sono ni ng* literally means 'as for him / regarding him'
+		* *ng* is a dummy particle, killing the trailing effect
+		* it is often always mandatory with *ni* (topic)
+	* *seka ue no?*
+		* standard construction, no surprise here; it just means 'it is that way? (question)'
+	* *wou riwaka...*
+		* the quote *wou* attributes the topic or the conversational frame to *riwaka* (it is thought / I am thinking)
+		* you could say *ou riwaka* but that creates a trailing effect (generally, sentences or clauses are too clunky for a verb to take a simple direct object (they must be nominalised or 'prepared'))
+		* they'd be confused if you said that
+	* *eu?*
+		* *eu* alone is a particle of hearsay (denotes sarcasm if lengthened, like 'yeah they say he's totally...')
+		* it is a type of quotational particle, similar to *wou*, but it is used for 'indirect' speech or 'reported' speech
+		* *eu* isn't a literal 'reporting' marker, though, since you'd still use other particles, depending on context, like *wou*, for stuff like 'she told me to go away'
+			* adding an *eu* here would mean '(I heard / it was reported / I saw (that)): she told me to go away'
+		* here, *eu?* literally wraps the *wou riwaka* as hearsay, and then with intonation or a question particle, you are essentially asking:
+			* 'is what you are thinking hearsay?'
+	* *ipasun, ya*
+		* *ipasun* just means 'it is my own belief' or 'I think (it's true because I deduced it, saw it, etc.)'
+		* *ya* is an assertive or calls to attention (hey, don't confuse it, I don't want to start a rumour)
