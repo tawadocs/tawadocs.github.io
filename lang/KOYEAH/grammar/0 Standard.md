@@ -709,7 +709,7 @@
 		* ~"I hurt him / he was made to be hurt due to me"
 * We also use juxtaposition, connectors like **momg** (because) or **seka-hi** (so that it is...), etc.
 * Now, let's look at another conversational Tawish sentence:
-	* *banō ni... dewandetasae* :: `now TOP ability.ATTR-INF fog-ELA\CAUS-POT.MID.POL`
+	* *banō ni... dewandetasae* :: `now TOP fog-ELA\CAUS-POT.MID.POL`
 		* lit. "Now, (as for it), fog is put out of able"
 		* ~"For now, let's wash away that hazy/foggy feeling"
 			* **grammar points**:
