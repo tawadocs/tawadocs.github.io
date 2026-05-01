@@ -101,6 +101,19 @@
 		* a nonstandard form is *izue*, which goes before, like *izue gai* (specifically the walls)
 			* but this form creates unnecessary nesting or recursion
 			* naturally, you'd never really use it!
+* Sometimes, like when you want to sound pretentious or really call someone out, or when you're trying to sound emotional, you use these forms:
+	* *ichuchu* (1SG)
+	* *ichucha* (3SG female)
+	* *ichucho* (3SG male)
+	* *ijuju* (2SG)
+	* *ijuja* (2SG plural ('you all'))
+	* *inaja* (1PL)
+	* *inaju* (3SG)
+		* the usage of this one is a little nuanced
+		* but generally this would refer to a man-made object (*wu*)
+		* see the animacy of pronouns for more information
+* Example:
+	* *Kitai ijujan *
 
 ## 21.6 **pokō**
 * Though *pokō* is actually a nominaliser in the **~no pokō** structure, it is also a very common particle, functioning closely to English's 'like' slang
