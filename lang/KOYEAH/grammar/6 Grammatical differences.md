@@ -87,6 +87,7 @@
 			* refers to information metaphorically, like 'eating up' what one sees (often negative; e.g., 'consuming propaganda')
 	* *zono* :: tangible
 		* *he tokamu zono* :: the thing that was just eaten (literal food)
+* The relational particle *mha* is *ja* now
 
 ## 6.2 Questions
 * In Koyeah Tawa, *yo* (`Q.ALT`) is another question particle used when *no* nominalises a thing and that nominalisation is marked a question:
