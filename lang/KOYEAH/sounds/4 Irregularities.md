@@ -90,19 +90,10 @@
 	* even if they **are** present, the sequences would likely degenerate into *-i* vowel sequences, so a hypothetical word like *nyuko* would be pronounced `/niuko~ɲuko~ɲiuko/`
 
 ## 4.3 Inverser (new)
-* For *hi*, use *hgi*:
-	* *bakahgi*
-* For *ha/fu/he/ho*, use *hn-*:
-	* *hna*
-	* *hnu*
-	* *hne*
-	* *hno*
-		* *pahna*
-		* *ngupohno*
-* For vowel words or simple words:
-	* *nandah*
-	* *iih*
-	* *iah*
-	* *uuwah*
-	* *uuwahgi* (reversed attributive)
-	* *uuwahno* (reversed whole source)
+* Use *hg* for all uvular nasals:
+	* *hga*, *hgo*
+* Use *hn* for semantic inversion with valid h-syllables:
+	* *bakahni* (reversed attributive)
+* With clusters, use *yh*:
+	* *ngupyhngo* (reversed whole source)
+	
