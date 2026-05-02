@@ -94,6 +94,6 @@
 	* *hga*, *hgo*
 * Use *hn* for semantic inversion with valid h-syllables:
 	* *bakahni* (reversed attributive)
-* With clusters, use *yh*:
-	* *ngupyhngo* (reversed whole source)
+* With clusters, use *ay*:
+	* *ngupayngo* (reversed whole source)
 	
