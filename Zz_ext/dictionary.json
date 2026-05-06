@@ -634,6 +634,28 @@
     ]
   },
   {
+    "word": "rettsu",
+    "id": "lets-1",
+    "definitions": [
+      {
+        "text": "let us",
+        "frequency": 100
+      },
+      {
+        "text": "shall we",
+        "frequency": 100
+      },
+      {
+        "text": "why not",
+        "frequency": 100
+      },
+      {
+        "text": "sure",
+        "frequency": 100
+      }
+    ]
+  },
+  {
     "word": "safuko",
     "id": "gradual-2",
     "definitions": [
