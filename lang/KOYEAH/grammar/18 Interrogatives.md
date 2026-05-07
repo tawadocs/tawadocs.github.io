@@ -238,7 +238,7 @@
 			* ~"What is 'omoko' in reality"
 				* you could soften it and/or make it polite with the appropriate particles
 * Here is an example of something you'd hear in conversation:
-	* *Yoiirekai ue yo?* :: `spirit<good-inner> COP.POL Q2`
+	* *Yoiikaire ue yo?* :: `spirit<good>-inner COP.POL Q2`
 		* lit. 'The good inner spirit is?'
 		* ~"How are you?"
 		* ~"Are you in good spirits?"
@@ -271,3 +271,19 @@
 	* *Ototan ue yo?* :: why is it? / (why) is that (so)?
 	* *Ototante nemu genryōe no yo?* :: how do I choose between these things? / by what way do I choose through these things
 		* can sound formal
+
+## 18.5 Rule of thumb
+* In the Koia register, just place the question word near the verb or where the answer slot would be, or place it before if it takes a purposive or requires a chain:
+	* *Ottante nemu?* :: how do I choose
+	* *Obu kanteioe ga kitai yo?* :: what kind of food do you prefer?
+		* contraction of *otobu*
+	* *Ottante makuen?* :: why is it that you're crying?
+		* more about the reason (e.g., heartbreak)
+		* contraction of *ototante*
+	* *Ochun makuen?* :: how come are you crying?
+		* this one encodes the speaker's surprise (really? why are you crying?) and is generally softer
+		* contraction of *otoun*
+* The structure *〜ochun ... ottan (yo)*:
+	* *Ochun makuen ottan yo?* :: really, why are you crying?
+		* soft but also very 'intense,' like the speaker is begging them, 'tell me the real reason, it's okay'
+		* can be dramatic if overused
