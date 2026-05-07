@@ -49,3 +49,11 @@
 | **ira**   | blunt negated form, can be rude (*asa ira* - not a house)                                                                                                                                                                                                                                     |
 | **uera**  | sarcastic negated form, can be pretentious too (*asa uera* - yeah, sure, that totally **isn't** a house); use double negation for the opposite effect (*asa uerane* - yeah, sure, that totally **is** a house)                                                                                |
 | **chara** | fighting form (incredibly rude; vulgar too)                                                                                                                                                                                                                                                   |
+* The *to exist* forms of these take *-ka*:
+	* *jaaka* (does not exist)
+	* *jaika* (doesn't exist)
+	* *ueka* (isn't existing)
+* etc.
+* Example:
+	* *Kanojo wa Amerika ji jaaka?*
+		* ~"Isn't she also in America?"
