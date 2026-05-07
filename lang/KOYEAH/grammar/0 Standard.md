@@ -862,3 +862,17 @@
 	* *ipasun, ya*
 		* *ipasun* just means 'it is my own belief' or 'I think (it's true because I deduced it, saw it, etc.)'
 		* *ya* is an assertive or calls to attention (hey, don't confuse it, I don't want to start a rumour)
+
+## 0.17 Broad negation
+* Use the *〜none* or *no* + (appropriate negation) structure for a broad form of negation
+	* *Naiwa none* :: Without happiness / Not happy
+	* *Asa none* :: Lacking a house / no house
+* The *〜bu none* structure negates characteristics:
+	* *Asabu none* :: Not house-like
+* And use *〜i none* for attribute negation:
+	* *Asai none* :: Not a house
+* You can negative discourse particles with these too:
+	* *Ngoshi ga ne* :: It isn't a bird / Not the bird
+	* *Ngoshi ni ne* :: Not about the bird
+	* *Ngoshi a ne* :: The bird didn't do it
+* etc.
